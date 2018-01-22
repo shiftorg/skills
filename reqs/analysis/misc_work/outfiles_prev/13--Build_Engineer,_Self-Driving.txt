@@ -1,0 +1,65 @@
+Build Engineer, Self-Driving
+
+About Uber
+ 
+We’re changing the way people think about transportation. Not that long ago we were just an app to request premium black cars in a few metropolitan areas. Now we’re a part of the logistical fabric of more than 600 cities around the world. Whether it’s a ride, a sandwich, or a package, we use technology to give people what they want, when they want it.
+ 
+For the people who drive with Uber, our app represents a flexible new way to earn money. For cities, we help strengthen local economies, improve access to transportation, and make streets safer.
+ 
+And that’s just what we’re doing today. We’re thinking about the future, too. With teams working on autonomous trucking and self-driving cars, we’re in for the long haul. We’re reimagining how people and things move from one place to the next.
+About the Role
+ 
+None
+What You’ll Do
+ 
+What You’ll Need
+ 
+None
+ 
+None
+ 
+The build and release engineering team enables and materializes the work of all the other engineering disciplines, and thus you'll have the opportunity to make a significant impact across the organization.
+See our Candidate Privacy Statement
+At Uber we don’t just accept difference—we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Uber is proud to be an equal opportunity workplace. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status.
+
+
+ ############ START_LIST_CONTENTS ############ 
+
+1
+
+ ############ LIST_CONTENTS ############ 
+
+
+Dive into a large variety of systems including databases, network file systems, web applications, mobile apps, HPC clusters, and other distributed systems. In addition to a having a deep and diverse toolbox, you should have a strong intuition for 'knowing what you don't know' and an ability to learn quickly.
+Find and implement the best solutions to the complex technical problems of efficiently building and releasing software.
+2
+
+ ############ LIST_CONTENTS ############ 
+
+
+Be a capable build engineer, with prior experience delivering large software systems. Our software teams develop in C++ and Python for deployment into embedded, desktop, mobile and HPC cluster environments, and do their work on Linux, OS X, and Windows.
+Strong Unix systems knowledge, have experience with CMake, as well as familiarity with other build and continuous integration systems used in large software projects. Previous experience with cross-development is a plus.
+Desire to be the kind of engineer who knows and embraces industry best practices. You are excited to apply that knowledge to enable great things for the team as a whole.
+You should aspire to continuous improvement, applying the best techniques you know today, and striving to stay abreast of new and better techniques to apply tomorrow.
+You thrive on the belief that quality doesn't have to be compromised to achieve speed - you can have both at the same time.
+Approach your work with discipline and a passion for displacing chaos with order. Build and release engineers curate and deliver the work of many others, and serve as the conduit for that work to be applied out in the world. You understand that a build process isn't useful until it's measurable and repeatable, and you pride yourself on creating robust, documented solutions.
+3
+
+ ############ LIST_CONTENTS ############ 
+
+
+4
+
+ ############ LIST_CONTENTS ############ 
+
+
+5
+
+ ############ LIST_CONTENTS ############ 
+
+
+6
+
+ ############ LIST_CONTENTS ############ 
+
+

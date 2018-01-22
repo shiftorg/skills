@@ -1,0 +1,45 @@
+Uber 497--Quality-Data-Coordinator---Phoenix--Az---Uber---Uber.Txt
+
+
+
+
+
+the
+quality data coordinator
+role is responsible for data integrity and monitoring of qa process.  the role will require a heavy focus on data management and service desk tools, and will be responsible for providing qa stakeholders with the detail needed to make impactful business decisions.
+
+
+
+
+write and maintain queries, support service desk requests, audit data, and create data visualizations to keep the nerve center of our quality operations engine running smoothly at full speed
+develop structured reporting and dashboards to provide visibility of qa operations data to key stakeholders
+use data to drive areas of improvement in our weekly operations
+create and distribute reports to qa and coe leadership,  escalating issues to senior qa management as necessary
+
+
+
+
+
+bachelor's degree or college experience preferred
+minimum 1 years of work experience developing a premier understanding of databases, data relationships and data integrity
+exceptional excel / data management skills
+experience with google apps for business, including comprehensive knowledge of mail, calendar, drive, docs, and groups (including google admin)
+self-starter attitude and ability to exercise good judgment and resolve difficult problems without supervision
+strong attention to detail
+
+
+
+
+experience with sql or python
+experience presenting data visually and synthesizing data
+
+
+
+
+
+community operations is pioneering how uber manages rider and driver-partner support around the globe
+
+and we're looking for
+a quality data specialist
+(you!), to support the operations for our teams that review and audit the customer support interactions in the uber centers of excellence (coes). the quality assurance teams review support interactions to ensure uber agents are providing excellent support that is aligned with uber's support processes and high standards of communication.
+

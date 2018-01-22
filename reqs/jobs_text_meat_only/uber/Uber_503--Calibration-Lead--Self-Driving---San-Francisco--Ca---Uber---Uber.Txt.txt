@@ -1,0 +1,23 @@
+Uber 503--Calibration-Lead--Self-Driving---San-Francisco--Ca---Uber---Uber.Txt
+
+
+
+
+
+the onboard integration team is seeking a skilled team member to lead the calibration of new sensors onto our self-driving vehicles.
+
+own the design, implementation and extension of calibration software.
+bring up and calibrate new sensors including camera and laser for the autonomous vehicles.
+work collaboratively with a team of hw and sw sensor experts to refine and lock down calibration requirements for different sensors/algorithms.
+
+
+minimum 5+ years of hands on experience developing production quality software with python
+strong knowledge and experience with c++
+
+
+background in robotics or optics
+experience with systems that have multiple sensors
+expertise in developing, maintaining, testing and calibrating camera sensor
+
+
+at the advanced technologies group (atg), we are building technologies that will transform the way the world moves. our teams in pittsburgh, san francisco, phoenix, and toronto are dedicated to mapping, software and hardware development, vehicle safety, and operations for self-driving technology. our teams are passionate about developing a self-driving system that will one day move people and things around more safely, efficiently, and cost effectively.

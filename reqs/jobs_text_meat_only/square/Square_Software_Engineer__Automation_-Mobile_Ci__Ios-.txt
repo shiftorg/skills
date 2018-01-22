@@ -1,0 +1,32 @@
+Square Software Engineer, Automation (Mobile Ci, Ios)
+
+software engineer, automation (mobile ci, ios)
+we started with a simple idea—that everyone should be able to accept credit cards—and we've been rethinking buying and selling ever since.
+for sellers, we're creating one cohesive service to run your entire business, from a register in your pocket to analytics on your laptop. for buyers, we're making it faster to order from the businesses you love and more fun to pay your friends back.
+buying and selling sound like simple things—and they should be. somewhere along the way, they got complicated. we're working hard to make commerce easy for everyone.
+the mobile ci team at square operates several mission-critical systems that perform automated builds and tests for ios and android application developers. we aim for build and test jobs to happen quickly and precisely, allowing square's mobile teams to ship efficiently.
+on our team you'll aim to increase development velocity. we believe that reliable infrastructure and tooling has a tangible impact on overall software and hardware quality. you'll address tool needs from a foundation level on up by providing cpu and storage bandwidth to build & test workloads, writing more efficient and easier to use tooling, and designing internal web-pages and api integrations that allow developers to visualize and examine the results of the continuous integration process.
+you should feel at home working in and around a broad swath of technologies, and understanding the day-to-day frictions of development work in each. you love building new systems from the ground up as much as you love tweaking existing systems to achieve maximum performance. in this role you'll be working with square's mobile teams to develop unified solutions that allow developers to move faster and have greater confidence when they release software.
+communicate with various product engineering teams to determine tool needs and priorities.
+design, develop, and deploy scalable solutions that speed up development.
+contribute to monitoring, stability, and security of existing tools.
+participate in business-hours on-call rotation for issues with ci systems.
+provide mentorship and review support for engineering teams working with a wide array of technologies.
+communicate technical designs in writing and in person to multiple technical audiences.
+5+ years of software engineering experience.
+ba/bs degree or equivalent practical experience
+solid experience and skills with the linux/unix command line and tools.
+experience in one of: ios app development, or aws/cloud computing.
+even better:
+familiarity with modern vm infrastructure or internals of a modern virtualization or containerization technology.
+familiarity with the functions and methods of a modern embedded or mobile toolchain from dependency resolution to code signing.
+familiarity with a single modern ci scheduling system such as jenkins, teamcity, travis/circle ci.
+expertise in compilers, operating systems, or distributed systems.
+background or previous experience in datacenter ops, network operations, or virtual machine administration at any scale.
+familiarity with macos and apple development tools.
+technologies we use:
+configuration management: primarily chef, some ansible
+languages: ruby, python, and java.
+operating systems: macos, linux
+build tools: xcode, gradle, maven
+test tools: ios simulator, android virtual devices.

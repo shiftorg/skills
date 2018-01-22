@@ -1,0 +1,28 @@
+Salesforce 272--Senior-Security-Engineer.Txt
+
+
+
+
+trust is the #1 company value at salesforce.  our security team ensures the security of our product delivery and serves as subject matter experts for our infrastructure and network operations teams in today's rapidly evolving threat landscape.  we are a team of curious minds that specialize in security research, penetration testing, and innovative tool development.  we work in a large scale, multi-tenant environment that includes linux os, aws and other environments. your role will be to work with infrastructure and product security team members, utilizing your deep linux os, aws security, related automation software and web application security software skills to find vulnerabilities, and coach internal teams on remediation.  you will also help to ensure that related security policies and procedures are adhered to with the goal of keeping salesforce data secure. you'll work closely with the technology organization to evaluate the design and implementation and upgrades/modifications to our data centers and public cloud environments.  you will also help to educate infrastructure security software engineering teams on secure application development and emerging threats.   in addition, you will create new tools, conduct industry-leading research, and solve challenging technical problems on the forefront of linux os and application security. responsibilities
+
+enumerate vulnerabilities with linux os/tools, internally developed linux os automation tools, aws environments, apis as well as 3rd party vendor solutions provide security guidance and oversight to engineering and operational teams by participating in design reviews and threat modeling for linux os, aws and related web application security develop hardening guidelines and review security configurations related to linux/unix hosts, aws deployments and common web application frameworks provide security guidance and architectural review for infrastructure delivery with  both physical data centers and aws environments research new security technologies and perform cutting-edge research on new attacks
+
+
+b.s. / m.s. in computer science, electrical engineering or related work experience 5+ years of work experience in linux os security role work experience in a web application security role work experience with aws environments and associated security role relevant experience in at least 2 of these languages with reasonable proficiency: java, javascript/ node.js,, c, python, perl, ruby, go, java, php experience identifying and mitigating security vulnerabilities in web applications and operating systems experience working with redhat enterprise linux (rhel) or other unix/linux operating systems
+
+
+expertise in database security with oracle, mysql or postgesql network security penetration testing and vulnerability assessments expertise with virtualization and hypervisor security embedded device firmware analysis or reverse engineering experience background with automated configuration management and/or build management tools
+
+
+
+
+
+company overview:   these founding principles have taken our company to great heights, including being named one of forbes's "world's most innovative company” six years in a row and one of fortune's "100 best companies to work for” nine years in a row. we are the fastest growing of the top 10 enterprise software companies, and this level of growth equals incredible opportunities to grow a career at salesforce.    *li-y
+
+
+
+
+
+
+
+

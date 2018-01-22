@@ -1,0 +1,22 @@
+Square Engineering Manager, Server - Point Of Sale
+
+engineering manager, server - point of sale
+the square point of sale server team builds the software millions of sellers trust to run their businesses every day. we craft simple, elegant, and reliable product experiences to enable small businesses to make every sale. we work collaboratively to develop intuitive yet sophisticated product features built on highly-available services.
+this team's services are developed in close partnership with square's client application teams - this is a great role for a someone who wants to work in a very customer-centric server team.
+the team size may allow for hands-on development, though it's not necessarily expected.
+as an engineering manager on the square point of sale server team, you will:
+help set broad direction and vision, influence product strategy, and establish practices to efficiently and effectively address customer needs
+find the perfect balance between time to market and long-term sustainable software development
+lead and participate in critical technical, design, and product discussions with leaders across product teams
+own the success of your team's projects and deliver quantifiable results in a timely manner
+mentor engineers for their technical and career development
+hire great talent, coach and develop your team, cultivate pragmatic engineering decision-making, and leverage your technical expertise.
+5+ years of software development or equivalent experience
+1+ year of management or equivalent experience
+ba/bs degree or equivalent practical experience
+experience developing delightful web- or server-based products, preferably with ruby, java and mysql
+experience collaborating with designers, product managers, and other engineering leaders
+excellent software engineering aptitude and the ability to provide technical mentorship and guidance
+even better:
+current or recent hands-on coding expertise
+experience with fault-tolerant and eventually-consistent systems

@@ -1,0 +1,39 @@
+Salesforce 90--Senior-Technical-Writer-Platform-Services.Txt
+
+
+
+
+hi, we're the salesforce documentation and user assistance team (well, that's the name on our birth certificate and passport, but please call us the doc team).  please allow us to introduce ourselves.
+
+we're nerdily passionate about creating awesome docs of all sorts for our customers, from ui text to walkthroughs, from online help to trailhead modules, from release notes to developer guides, and from videos to implementation guides. based in san francisco, we're also spread around north america. shout out to brooklyn, rhode island, virginia, florida, seattle, portland, rural eastern oregon, fresno, san diego, and vancouver! we're serious about the stuff a doc team should be serious about—like developing a smart content strategy and constantly looking for new and better ways to get our users the info they need when and where they need it—and are equally serious about having fun. the highlight of our team's planning meeting last year? a genre-bending musical spectacular created by and starring folks from across the team. (look out, hamilton!) we enjoy long walks on the beach, a nice relaxing beverage at the end of a long day, and making the world a better place (for real: our team averaged over 30 volunteer hours per person last year).
+
+
+as a writer for our platform services technologies, you'll own, create, and maintain documentation for features related to one or more of the following technologies: user authentication, identity, encryption, single sign-on, and data/user integration. you'll author the ui text, videos, trailhead modules, and help content that are necessary for successful adoption.
+
+
+but enough about us. let's talk about you!
+
+
+our ideal team member:
+
+has experience making challenging, complex ideas, concepts, and tasks understandable and appealing to diverse audiences. maybe that means you have past experience as a technical or marketing writer, or maybe it means you come from the world of teaching, curriculum development, scientific journalism, or some other realm. because you're applying for a position documenting our security technologies, you really enjoy the thought of documenting stuff that can get pretty technical and conceptual. has a creative side that is just dying to be expressed. we are looking to push the envelope on authoring engaging and inspiring text that gives our users moments of delight without irritating them. your creative writing degree finally will come in handy. knows that being a documentation star involves way more than just putting pen to paper (or, fingers to keyboard). it also involves digging into the stuff you're writing about so you understand not just how it works, but why it matters to the people using it; serving as the voice of our users when collaborating with scrum teams; figuring out the best way to get customers the info they need when and where they need it; and finding ways of connecting with the folks who use our docs to get their feedback. has the flexibility and openness to adopt our team's style, processes, and practices, but isn't afraid to suggest improvements that will benefit our writers, our collaborators, or our customers. is an excellent juggler. bonus points if you can literally juggle, but what's most important is that you're able to handle multiple tasks, projects, and initiatives at the same time while also keeping your cool. really enjoys working closely as part of a team, and has the people and communication skills to do that well. you  can also carve out focused time in a busy day to get work done independently. loves writing for a variety of audiences, from end users to admins to developers. you may have your favorite kind of user, but you can write content that will be engaging and informative for anyone. knows how to gracefully accept feedback without taking it personally. many folks across salesforce, particularly executives, have strong opinions about the experience we present to customers. you'll need to know when to push back on feedback you disagree with and when to adopt.
+
+
+it's fantastic if you have experience documenting saas applications or enterprise-class client/service software, particularly for security-related features. additionally, it would be awesome if you also happen to have experience with the tools, technologies, and practices we use on the doc team, such as:
+
+source-control software such as perforce an xml editor like oxygen dita/structured writing peer editing the agile approach to development
+
+
+about salesforce
+
+  these founding principles have taken our company to great heights, including being named one of forbes's "world's most innovative company" five years in a row and one of fortune's "100 best companies to work for" eight years in a row. we are the fastest growing of the top 10 enterprise software companies, and this level of growth equals incredible opportunities to grow a career at salesforce. 
+
+
+
+
+
+
+
+
+
+

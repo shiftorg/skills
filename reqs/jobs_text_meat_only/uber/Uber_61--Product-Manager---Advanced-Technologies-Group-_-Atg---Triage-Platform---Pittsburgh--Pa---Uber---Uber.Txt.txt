@@ -1,0 +1,24 @@
+Uber 61--Product-Manager---Advanced-Technologies-Group-_-Atg---Triage-Platform---Pittsburgh--Pa---Uber---Uber.Txt
+
+
+
+
+
+at uber atg, we employ a variety of testing methodologies to make our vehicles as safe as possible, including on-road testing, structured testing on the track, and virtual simulations. when the technology doesn't meet our expectations for any reason, your products enable the organization to understand what happened. from root cause introspection to diagnosis and synthesis for the autonomy development teams, your products form the tip of the spear in improving safety and comfort of our self-driving vehicles.  as the pm for triage, you will work closely with technical teams of engineers, data scientists, and designers to develop and scale software platforms that are critical towards launching the world's safest autonomous vehicles.
+own the vision for triage platform, conceptualizing impactful and innovative products that bridge your customer obsession with our business strategy
+execute on that product vision with clear product requirements, a strong bias to action, perseverance, and teamwork
+inspire your colleagues and leadership team to take on big, bold bets with effective storytelling
+design solutions with our engineering, ux design, and data science teams, creatively solving problems to build magical products
+experience building simulation software
+computer science undergraduate degree or equivalent
+minimum 8 years product management experience delivering highly successful, innovative, and delightful software products
+exceptional verbal and written communication skills, with experience leading presentations to executives and large groups of people
+experience leading, recruiting, and mentoring teams of product managers
+experience with a variety of development processes, including agile / lean startup
+deep passion for uber's mission and self-driving vehicles
+professional software engineering experience
+experience building machine learning based products, especially in the context of systems with humans in the loop
+familiarity with content management systems, analytics tools, and data visualization
+understanding of modern data technologies
+
+self-driving vehicles have the potential to make our roads safer, more connected, and less congested. at uber atg, we are building the technologies, teams, and products to bring these benefits to the world.

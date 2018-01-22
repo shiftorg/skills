@@ -1,0 +1,32 @@
+Okta 55--Senior_Group-Product-Manager-Okta-Integration-Network-|-Okta.Txt
+
+
+okta's vision is to be the foundation for secure connections between people and technology. the okta integration network (oin) is at the center of that vision. the oin has grown to over 5000 application integrations supporting single sign-on (sso), it provisioning, and mobile app delivery. these integrations are built by okta, our isv partners and our customers. key to our integration strategy is the depth and quality of the most widely used and deployed apps like office365, google apps for work, workday, box, and slack. the quality of these integrations is a strategic differentiator for okta and accounts for a huge share of how customers get value from our product.
+our integration to the suite of microsoft products is critical for many of our customers. we are looking for an innovative technical product leader who knows the microsoft product suite from office 365 and associated cloud offerings to on premise products like active directory, adfs and dirsync. you will have had significant technical exposure to a wide range of microsoft products ideally with a exposure to directories and identity management. beyond the microsoft suite, in this role you will be responsible for a portfolio of several of our other top integration partners. you'll be partnering with some of the biggest names in tech to set the strategic direction for application integrations built by okta. once you have set the strategy you will partner with our engineering, user experience, product and technical marketing teams to communicate and deliver that vision. making these top applications great requires a deep understanding of how they work and more importantly how customers use them. you'll also build and drive a strategy to keep these integrations up to date with app enhancements, advancements in core okta functionality, and how customers use the integrations.
+experience building integration products is also a plus. if you can combine these with a good understanding of the world of enterprise it and saas, you'd fit right in! success in this role will require a strong ability to understand customer and partner requirements, define our overall short and long term strategy, prioritize what's most important, and work across the broader okta organization to ensure delivery.
+
+working closely with okta's customers, prospects, fields, and top partner isvs to understand their requirements, evangelize best practices and define the highest quality application integrations.
+working with engineering, the wider pm team and other internal groups (e.g. business development) to define, document and prioritize user stories and use cases to guide engineering development
+plotting the product strategy and direction for top application integrations in the oin and the evolution of the application platform.
+defining and helping execute the roadmap to deliver on the strategy
+track industry trends and competition to inform product decisions and strategy
+collaborating with product marketing to support creation of messaging and content
+collaborating with technical marketing as the subject matter expert to enable the okta technical sales force
+
+
+deep technical understanding of the microsoft office 365 suite and experience with on premise directory products such as active directory, adfs and dirssync.
+proven ability to break down and execute on complex business-critical projects
+experience understanding and coordinating requirements across multiple groups and stakeholders
+strong leadership skills and executive presence
+excellent communication skills (presentation, verbal and written)
+experience with products which directly interface to end-users
+5+ years of industry experience. 3+ years of product management or related experience
+bachelor's degree
+
+
+experience building integration products
+experience working and driving geo-distributed teams
+familiarity with enterprise it products and it challenges
+experience with multi-tenant saas services
+
+

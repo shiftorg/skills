@@ -1,0 +1,23 @@
+Staff Software Engineer - Full Stack
+ San Francisco, CA
+ Engineering
+ Full-Time
+ Apply for this job
+ In order to succeed in our vision to offer honest financial services that improve lives, our team must maintain extreme efficiency and deliver a seamless experience with every customer interaction. We're looking for experienced, motivated software engineers who will build products and systems that serve our customers, merchant partners, and employees.
+ What You'll Do
+ Develop products that serve our merchants and customers
+ Collaborate with Product Management, Design, and Platform Engineering to iterate and enhance our product offerings
+ Plan, design, communicate, and implement software systems with an eye towards robust, extensible architecture
+ Lead technical discussions and plans to improve our overall software quality
+ Mentor and lead other software engineers
+ What We Look For
+ Driven to change consumer banking for the better
+ Fluent in full-stack development (we use React/Redux + Python/Flask)
+ Experienced with designing, building, launching and maintaining products
+ Evangelizes software development best practices, setting a high technical bar for other engineers to meet
+ Enjoys partnering with product managers and designers to execute on complex technical projects
+ Cares about the details in the user experience
+ Communicates and collaborates effectively across teamsInterest or curiosity towards leadership roles a plus
+ Apply for this job
+ Affirm Home Page
+ Jobs powered by 

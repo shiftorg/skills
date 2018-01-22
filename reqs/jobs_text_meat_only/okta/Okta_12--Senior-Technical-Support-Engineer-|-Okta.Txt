@@ -1,0 +1,24 @@
+Okta 12--Senior-Technical-Support-Engineer-|-Okta.Txt
+
+
+
+the ideal senior/ tier 2 technical support engineer is an articulate and seasoned technical specialist who understands and can appreciate the challenges organizations face in implementing and integrating cloud technologies into complex it environments across heterogeneous operating environments. you have technical depth and a customer-first mentality, the motivation to take the initiative to own and resolve customer issues, and interest in working in a dynamic, fast-growing, learning environment.
+
+provide well-thought out and reliable direction, both in technical and non-technical terms, to help customers integrate, deploy and maintain the okta service.
+take end-to-end ownership of customer issues, including initial troubleshooting, identification of root cause and issue resolution. meet or exceed customer expectations on response quality, timeliness of responses and overall customer experience. serve as internal and external point of contact on customer matters and ensure customer issues are resolved as expediently as possible.
+collect information and document bugs with engineering for product issues that are impacting customers. provide feedback to the training and documentation organization so that common or emerging issues can be addressed before they become serious or widespread. build process or troubleshooting documentation in the support knowledge base. deliver against customer experience and efficiency targets.
+push creative thinking beyond the boundaries of existing industry standard practices to come up with process improvements and new ways to delight customers.
+
+
+ba/bs/ms in computer science, management information systems, or related discipline.
+5+ years of customer support, technical support, system administration or related customer facing role.
+expertise in core microsoft product stack, including windows server, windows workstation, active directory, dns, dhcp, group policies and iis.
+real passion for solving customer issues and advocating for their success, in a fast paced, highly technical environment. ability to learn new technologies quickly. excellent relationship management, customer service and communication skills in variety of forms (written, live chat, conference calls, in-person.)
+ability to work independently with little direct supervision and as a part of a team. excellent analytical and organizational abilities. ability to remain calm, composed and articulate when dealing with tough customer situations.
+
+
+experience supporting identity access management solutions. experience supporting ldap, sso, saml, or ws federation
+experience supporting cloud applications such as office 365, google apps, salesforce, workday, netsuite, box, etc.
+experience supporting n-tier web applications. experience supporting rest apis. mcse with concentration in active directory 2008 r2 or higher
+candidates with okta certifications are a plus; okta certified professional & okta certified administrator (https://www.okta.com/services/certification/)
+

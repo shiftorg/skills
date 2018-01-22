@@ -1,0 +1,29 @@
+(Senior) Software Engineer - Site Reliability
+ San Francisco, CA
+ Engineering
+ Full-Time
+ Apply for this job
+ Infrastructure engineers are the backbone of the Engineering team. The team is responsible for building awesome products and systems that allow the rest of engineering to produce and deploy software that is scalable, reliable, secure, correct, consistent, and well tested. Scaling a global infrastructure shared across multiple merchants, vendors and products is hard. Our consistency and security requirements make scaling harder. Hard problems fascinate us and the Infrastructure engineers work with all of our Platform and Product teams to find simple, consistent, clean and scalable solutions to their business requirements.
+ What You'll Do
+ Own the metrics and instrumentation infrastructure (Time Series Database, Metrics Streaming, Visualization and Alerting) and provide guidance to platform / product teams on how metrics are generated and consumed. We believe that our metrics data forms the foundation of effective engineering teams. 
+ Work with other infrastructure and platform engineers to scale our operations globally across multiple AWS regions and cloud providers.
+ Relentlessly improve our site performance, latencies and reliability.
+ Design and build developer tools to help analyze code performance and fix problems and to debug production issues.
+ Working with development teams to ensure that code/features meet production performance criteria.
+ What We Look For
+ Extensive experience building and owning large-scale, geographically distributed backend systems is a plus.
+ Highly skilled at developing and debugging in one or more programming languages.
+ Experience with operating system internals, filesystems, databases, and networks.
+ You prefer building upon OpenSource solutions to starting from scratch.
+ Unquenchable thirst for knowing everything within your platform and learning new technologies.
+ You obsess about performance and metrics.
+ Python and Linux experience is a plus.
+ Experience with AWS and/or other cloud providers is a plus.
+ Computer Science Degree with industry experience is required.
+ ABOUT AFFIRM
+ At Affirm we are using technology to re-imagine and re-build core parts of financial infrastructure to enable friendlier and more transparent financial products and services that improve lives.
+ We believe the financial industry is fundamentally broken. Not only is the core infrastructure built with technology from the 1970s, but there are a dwindling number of people who say "I trust my bank to look out for me". It doesn’t have to be this way, and it’s our mission to fix this problem.
+ We are based in San Francisco; founded by Max Levchin (founding CTO of PayPal), Jeff Kaditz (CDO DeNA/ngmoco), and Nathan Gettings (founding CTO of Palantir); and building a team of exceptionally talented people to join us on our mission.
+ Apply for this job
+ Affirm Home Page
+ Jobs powered by 

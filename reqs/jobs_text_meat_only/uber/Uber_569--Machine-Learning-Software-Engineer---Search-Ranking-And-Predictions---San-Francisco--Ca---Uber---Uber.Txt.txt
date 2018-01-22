@@ -1,0 +1,22 @@
+Uber 569--Machine-Learning-Software-Engineer---Search-Ranking-And-Predictions---San-Francisco--Ca---Uber---Uber.Txt
+
+
+
+
+machine learning software engineer - search ranking and predictions
+
+the location search engine team is building the next generation geospatial search technology for uber.  this involves all aspects of geospatial search including location autocomplete, full text search, query-less predictions, reverse geocoding, semantic localization,
+personalization
+and recommendations.
+we are a very small team of world class engineers responsible for the entire stack for determining the origin and destination of all trips worldwide.  we ship every week and are always running user facing experiments
+.
+our org is focused on solving incredibly difficult challenges for our mapping and location platform at uber. you will be working with some of the world's best experts, programmers, innovators, and scientists on a fundamental user-facing product.
+here are the skills we're looking for:
+phd/ms in computer science or 3+ years of experience working in areas of ranking and prediction.
+strong background in machine learning.
+strong programming skills (we mainly use java & python).
+experience in the fields of information retrieval, search, ranking, query understanding, personalization and recommendation systems.
+experience with large data processing pipelines, distributed data stores, map-reduce, and distributed file systems.
+architecture chops. you should have opinions on constructing software systems and good knowledge of the principles of scalability, fault-tolerance, reliability and durability.
+experience designing and deploying high performance production services with robust monitoring and logging practices.
+bonus points if you have worked with geospatial data or built geospatial services and have experience with lucene and similar search systems.

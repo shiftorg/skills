@@ -1,0 +1,110 @@
+Salesforce 333--Performance-Engineering-Director-Analytics.Txt
+
+
+
+
+performance engineering director (analytics)
+
+location: san francisco, ca salesforce is seeking a director of performance engineering to lead a team responsible for measuring the performance of salesforce analytics. the director will guide exceptional performance engineers who use and build sophisticated automation frameworks and software tools written in java, react, javascript, c, golang and other languages to measure salesforce's cutting-edge platform within aggressive timeframes. the director must earn the respect of the team by demonstrating technical skills and the ability to understand complex system architectures, pinpoint problem areas, and develop succinct test plans in collaboration with other engineering teams across multiple hardware and software tiers.
+
+the director must possess the insight and forethought to direct the testing efforts to thoroughly uncover bottlenecks and scalability/stability problems before release. the director will also oversee the consolidation, analysis, and presentation of performance data in formal capacity planning/sizing guides containing formulas, scenarios, and best practices to the entire organization and provide training to help ensure customer success. the director will also periodically participate in critical customer issues to help troubleshoot real-world performance problems in the product to further improve testing and measurement efforts.
+
+the director will focus on developing sophisticated tests to enable salesforce to perform the most complex application simulation and comprehensive end to end automation in the industry. the director must be meticulous and excel in software architecture analysis, operating system principles, hardware architectures, troubleshooting, estimating, resource tracking, risk mitigation, people management, and project management. the director must have a stellar record of attracting, mentoring, and leading the best performance engineers to even greater accomplishments to ensure the sfdc platform meets the highest standards of performance, scalability, and reliability in the industry.
+
+
+• provide technical leadership, career development, and mentoring to team members
+
+• assign areas of ownership, ensure engineers have clear priorities and adequate resources
+
+• maintain high morale and motivate engineers to go above and beyond
+
+• develop project roadmaps, backlogs, schedules, and detailed release plans
+
+• provide accurate scoping for performance testing releases and establish clear priorities, strategies, and milestones
+
+• participate in architecture discussions and planning with development
+
+• communicate status, risks to test complete dates, and offer mitigation strategies to ensure on-time delivery of all committed projects to cross-functional teams
+
+• design and run extensive overhead, scalability, stability, and stress tests using industry standard benchmarks and custom developed software written in java
+
+• review automation implementations and encourage sound design principles while remaining practical and milestone driven
+
+• review test plans, results analysis, capacity planning guides for in-flight releases
+
+• extend sophisticated automation frameworks in java
+
+• coordinate reproduction of critical customer situations requiring special performance tests or simulations
+
+• provide product and automation expertise for use in testing patches, special projects, sizing, capacity planning, consulting, and training
+
+• coordinate technical presentations and training for capacity planning guides
+
+• report weekly trends highlighting product performance and team status against committed milestones and projects
+
+minimal required skills:
+
+• 7-10 years of benchmark testing, performance analysis, and tuning with experience developing software benchmarks
+
+• 7+ years software development experience with a distinguished track record on technically demanding projects
+
+• 4+ years management experience with 8+ engineers
+
+• bs, ms, or phd in computer science
+
+• outstanding attention to detail and communication skills
+
+• expert ability to analyze/interpret technical data
+
+• expert ability to identify/resolve system bottlenecks
+
+• expert ability to identify potential limitations in software architectures
+
+• expert ability to write clear and concise technical documents
+
+• expert troubleshooting and reasoning skills
+
+• expert understanding of throughput, latency, memory and cpu utilization
+
+• working knowledge of http load generation software (e.g. jmeter, testmaker)
+
+• working knowledge of browser profiling (e.g. dynatrace ajax, fiddler, firebug, yslow)
+
+• working knowledge of network packet sniffers (e.g. tcpdump, etherpeek)
+
+• working knowledge of operating system design/tuning (e.g. linux, solaris, aix)
+
+• working knowledge of database tuning and administration (e.g. oracle, db2)
+
+• working knowledge of scripting languages (e.g. javascript, scala, groovy)
+
+• working knowledge of java, c++, c, go, react, js etc.
+
+
+• familiar with application servers (e.g. resin, weblogic, websphere, jboss)
+
+• familiar with j2ee technologies (e.g. jsp, servlets, ejb, webservices, soa)
+
+• familiar with java debugging / monitoring software (e.g. jprobe, dynatrace, introscope)
+
+• familiar with oracle sql / pl sql query plan analysis/tuning, contention/locking analysis and tuning
+
+• familiar with oracle clustering technologies (e.g. rac, grid, ops)
+
+• familiar with open source automation frameworks (e.g. staf)
+
+• familiar with appliance load generators (e.g. spirent avalanche)
+
+• familiar with tcp/ip, networking topology, routers, switches
+
+  these founding principles have taken our company to great heights, including being named one of forbes's "world's most innovative company” five years in a row and one of fortune's "100 best companies to work for” eight years in a row. we are the fastest growing of the top 10 enterprise software companies, and this level of growth equals incredible opportunities to grow a career at salesforce. 
+
+*li-y   *li-cw1
+
+
+
+
+
+
+
+

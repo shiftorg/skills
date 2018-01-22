@@ -1,0 +1,61 @@
+Salesforce 204--Software-Architect_Principal--Platform--Java-Sql.Txt
+
+
+
+
+software architect - custom schema, platform cloud
+
+locations: san francisco
+
+on custom schema, we build the core of the platform - the ability for customers to define their own schema and extend schemas that have been defined by salesforce or isvs. we're responsible for the entire feature, from the uis and apis down to the database tables we store the information in. it's highly visible both inside of salesforce and to our customers, and our customers are thrilled by the features we release.
+
+we're looking for an experienced software architect to help us envision and implement the next generation of custom schema features and foundation services. you will work hands on across two scrum teams to take services that already operate at massive scale and make them easier to use, more resilient, and more secure, and to extend it with new features and services.
+
+primary responsibilities:
+
+
+lead by example by contributing high quality, production code that powers critical pieces of our services, tests and documentation.
+
+work with internal and external customers to understand and support their use cases and guide them towards the best practices.
+
+define and promote product strategy and architecture to take these services into the next decade, prioritizing trust (security, reliability, availability, and scale) as salesforce's #1 value.
+
+write production code, tests, and documentation.
+
+support the area operationally when production issues arise.
+
+mentor and train less-experienced engineers.
+
+stay abreast of what other teams are doing, drive consensus, and resolve technical disagreements with your peer group across salesforce r&d.
+
+
+
+
+5+ years of experience working on customer-facing products/functionality.
+
+12+ years of software development experience.
+
+experience building platforms/apis used by other developers.
+
+excellent communications skills and ability to drive consensus within the company.
+
+results oriented, adaptable, and comfortable dealing with ambiguity.
+
+collaborative and team oriented.
+
+strong knowledge of object oriented programming languages.
+
+strong knowledge of sql and understanding of relational database schema design.
+
+bachelor's degree or masters in computer science or equivalent experience.
+
+
+  these founding principles have taken our company to great heights, including being named one of forbes's "world's most innovative company” six years in a row and one of fortune's "100 best companies to work for” nine years in a row. we are the fastest growing of the top 10 enterprise software companies, and this level of growth equals incredible opportunities to grow a career at salesforce.  *li-y
+
+
+
+
+
+
+
+

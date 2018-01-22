@@ -1,0 +1,16 @@
+Uber 195--Data-Science-Manager--Forecasting---San-Francisco--Ca---Uber---Uber.Txt
+
+
+
+
+
+the marketplace team is looking for an experienced, passionate data science manager to lead and scale a functional team devoted to supply and demand forecasting.  forward projections of drivers and riders, across multiple timescales and varying levels of spatial granularity, are crucial building blocks for uber's pricing and supply positioning systems.  creating and updating these forecasts in response to a rapidly changing world is a fascinating and challenging problem, which must be solved in real time leveraging enormous data sets.
+within uber, the marketplace organization focuses on achieving market balance, matching the supply of drivers with demand from riders, and building the technology to optimize the reliability and availability of uber's trip fulfillment.  we are the brain of uber, tackling the company's most challenging quantitative problems: optimizing uber's dynamic pricing system; providing real time positioning guidance to drivers; optimizing dispatches of drivers and couriers to incoming requests; matching riders together for uberpool, and many more.
+
+excellent educational background in statistics, applied math, computer science, operations research, economics, or a related field.  masters or phd degree preferred.
+at least 5 years industry experience in time series modeling or machine learning, with significant personal experience as a technical contributor.  experience working with large data sets; experience with spatial data a plus.
+at least 3 years experience as a frontline manager, leading teams of 5 or more.  as manager, you will manage several direct reports initially and will have the opportunity to create, scale and nourish a team of experienced professionals.
+entrepreneurial. everywhere you go, you can't help but mobilize people, create things, resolve problems, roll up your sleeves, collaborate, go above and beyond. you are an insatiable doer and motivator of others.
+excellent execution and organization. this team will be working with engineers and product leads at the forefront of the development cycle. to excel in this role, you should be comfortable executing with little oversight and be able to adapt to problems quickly.
+strategic mindset - you're comfortable thinking a few steps ahead of where the team is now and foreseeing new opportunities and challenges before others see them.
+experience with common analysis tools - sql, r, and python. demonstrable familiarity with code and programming concepts.

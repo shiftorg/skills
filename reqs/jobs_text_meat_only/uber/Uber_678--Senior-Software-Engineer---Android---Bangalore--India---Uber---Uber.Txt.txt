@@ -1,0 +1,19 @@
+Uber 678--Senior-Software-Engineer---Android---Bangalore--India---Uber---Uber.Txt
+
+
+
+as an android engineer, you'll have a direct impact on the rider and driver app experience for millions of riders and driver partners of uber. millions of people from around the world have downloaded the uber android application and our numbers continue to grow rapidly. while our global reach is impressive, it's just the tip of the iceberg as we are prepared to take things to the next level with a small, but phenomenally talented team of engineers. we are creating an android solution from the ground up. you will have the opportunity to own new features from day one, work on brand new android functionality thanks to strategic partnerships, contribute to the design process, and build an android experience that is second to none.
+be sure to check out the uber engineering
+blog
+to learn more about the team.
+
+at least 6 years of experience designing, developing, releasing, and maintaining native java applications.
+excellent coding abilities and deep understanding of the android sdk.
+excellent debugging skills
+experience collaborating on software projects
+experience writing scalable, restful web services
+experience developing testing suites for mobile applications
+insightful opinions about developing for mobile including location aware apps
+a github account with some neat projects in it
+experience with web technologies (javascript, css, html5)
+more than one app currently published to the google play store with more than 100k downloads

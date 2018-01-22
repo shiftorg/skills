@@ -1,0 +1,27 @@
+Salesforce 163--Lead_Principal-Software-Developer--Super-Secure-Database.Txt
+
+
+
+
+lead/principal software engineer(super secure database team)
+
+trust is the #1 company value at salesforce. our product security team ensures the security of our products and serves as subject matter experts for our infrastructure and network operations teams in today's rapidly evolving threat landscape. we are a team of developers working in a large scale, multi-tenant environment that includes databases, linux os, aws and other environments. your role will be to work side by side with the existing product security team members, together with devops and software engineers to develop software to prevent attacks and secure our infrastructure through software. you will also help to ensure that related security policies and procedures are adhered to with the goal of keeping salesforce data secure. we run one of largest database footprints on the planet and you will create new tools, conduct industry-leading research, and solve challenging technical problems at the forefront of database and application security. responsibilities:
+
+build software technologies and tooling integrated into our infrastructure fabric to secure backend layers including the database layers. provide security guidance and oversight to engineering and operational teams by participating in design reviews and participate in threat modeling develop tools to take 3rd party technology which you would partake in evaluating and rollout at scale. research new security technologies
+
+b.s. / m.s. in computer science, electrical engineering or related experience. work experience in linux-based distributed systems 8-12+ years software development experience, including api design and significant contributions to code running in high availability production environments. relevant experience in at least 2 of these languages with fluent proficiency:
+java, c, or c++
+devops mindset and strong ownership of owned code (test, monitor, deploy, maintain) demonstrated understanding of general unix/linux systems (e.g., centos, rhel, solaris, or similar)
+bonus skills:
+
+expertise with virtualization and hypervisor security background with automated configuration management and/or build management tools e.g. jenkins
+
+company overview:   these founding principles have taken our company to great heights, including being named one of forbes's "world's most innovative company” five years in a row and one of fortune's "100 best companies to work for” eight years in a row. we are the fastest growing of the top 10 enterprise software companies, and this level of growth equals incredible opportunities to grow a career at salesforce. together, with our whole ohana (hawaiian for "family") made up of our employees, customers, partners, and communities, we are working to improve the state of the world. *li-y
+
+
+
+
+
+
+
+

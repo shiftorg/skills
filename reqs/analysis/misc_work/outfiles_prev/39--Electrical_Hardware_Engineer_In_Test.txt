@@ -1,0 +1,74 @@
+Electrical Hardware Engineer In Test
+
+About Uber
+ 
+We’re changing the way people think about transportation. Not that long ago we were just an app to request premium black cars in a few metropolitan areas. Now we’re a part of the logistical fabric of more than 600 cities around the world. Whether it’s a ride, a sandwich, or a package, we use technology to give people what they want, when they want it.
+ 
+For the people who drive with Uber, our app represents a flexible new way to earn money. For cities, we help strengthen local economies, improve access to transportation, and make streets safer.
+ 
+And that’s just what we’re doing today. We’re thinking about the future, too. With teams working on autonomous trucking and self-driving cars, we’re in for the long haul. We’re reimagining how people and things move from one place to the next.
+About the Role
+ 
+As a hardware test engineer on the V&V team, you will participate in requirements engineering, develop hardware verification and validation plans, develop test cases, design/build test fixtures, execute tests and document results to validate components and systems.
+What You'll Do
+ 
+What You'll Need
+ 
+About the Team
+ 
+At the Advanced Technologies Group (ATG), we are building technologies that will transform the way the world moves. Our teams in Pittsburgh, San Francisco, Phoenix, and Toronto are dedicated to mapping, software and hardware development, vehicle safety, and operations for self-driving technology. Our teams are passionate about developing a self-driving system that will one day move people and things around more safely, efficiently, and cost effectively.
+ 
+Our hardware team's role is to develop and integrate UBER self-driving technologies into existing and future vehicle platforms of multiple OEM’s at scale.
+See our Candidate Privacy Statement
+At Uber we don’t just accept difference—we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Uber is proud to be an equal opportunity workplace. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status.
+
+
+ ############ START_LIST_CONTENTS ############ 
+
+1
+
+ ############ LIST_CONTENTS ############ 
+
+
+Perform verification, validation and testing activities
+Design or testing of circuit boards, cameras, lidar, radar, micro controllers or computer systems
+Design, build and maintenance of electrical test fixtures
+Develop test cases to validate hardware/software integration
+Develop tools and methods to automate testing for rapid deployment
+Perform a wide range of tests (e.g. burn-in, in-circuit testing, functional testing, etc.)
+Program in C, C++ and/or Python
+Utilize data acquisition systems
+Maintain engineering processes, documentation, and configuration management
+2
+
+ ############ LIST_CONTENTS ############ 
+
+
+Creative problem solving
+Experience with safety critical hardware systems and components
+Automotive applications and standards
+Prototype development and testing
+Experience in agile project environments
+Design, build and maintenance of a hardware-in-the-loop testing environment
+CAN bus vehicle standard and debug
+Networking and debug
+3
+
+ ############ LIST_CONTENTS ############ 
+
+
+4
+
+ ############ LIST_CONTENTS ############ 
+
+
+5
+
+ ############ LIST_CONTENTS ############ 
+
+
+6
+
+ ############ LIST_CONTENTS ############ 
+
+

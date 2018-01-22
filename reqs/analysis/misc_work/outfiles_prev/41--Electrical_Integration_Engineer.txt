@@ -1,0 +1,76 @@
+Electrical Integration Engineer
+
+About Uber 
+ 
+We’re changing the way people think about transportation. Not that long ago we were just an app to request premium black cars in a few metropolitan areas. Now we’re a part of the logistical fabric of more than 600 cities around the world. Whether it’s a ride, a sandwich, or a package, we use technology to give people what they want, when they want it.
+ 
+For the people who drive with Uber, our app represents a flexible new way to earn money. For cities, we help strengthen local economies, improve access to transportation, and make streets safer.
+ 
+And that’s just what we’re doing today. We’re thinking about the future, too. With teams working on autonomous trucking and self-driving cars, we’re in for the long haul. We’re reimagining how people and things move from one place to the next.
+About the Role
+ 
+As a Electrical Integration Engineer, you will be integral in the efforts of ATG.  You will work cross functionally within teams, be a Point of Contact for OEMs, and handle technivcal issues during the entire lifecycle.  
+What You’ll Do
+ 
+None
+ 
+ 
+About the Team
+ 
+At the Advanced Technologies Group (ATG), we are building technologies that will transform the way the world moves. Our teams in Pittsburgh, San Francisco, Phoenix, and Toronto are dedicated to mapping, software and hardware development, vehicle safety, and operations for self-driving technology. Our teams are passionate about developing a self-driving system that will one day move people and things around more safely, efficiently, and cost effectively.
+ 
+Our hardware team's role is to develop and integrate UBER self-driving technologies into existing and future vehicle platforms of multiple OEM’s at scale.
+See our Candidate Privacy Statement
+At Uber we don’t just accept difference—we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Uber is proud to be an equal opportunity workplace. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status.
+
+
+ ############ START_LIST_CONTENTS ############ 
+
+1
+
+ ############ LIST_CONTENTS ############ 
+
+
+Act as the Single point of contact/lead for all electrical issues with the OEM
+Ensure technical issues are addressed during development, prototype builds, and launch
+Resolve electrical interfaces between ATG technology and OEM vehicle
+Diagnose system integration issues, and pinpoint areas of issues that require resolution
+Work internally within ATG and externally with the OEM to lead the resolution of technical issues
+Engage the component design engineers as needed to implement changes required to resolve issues
+Work as a part of the integration team to diagnose and resolve cross domain technical issues
+2
+
+ ############ LIST_CONTENTS ############ 
+
+
+Minimum 5 years of experience at a Tier 1, or automotive OEM
+Strong technical depth in automotive electrical systems
+Ability to read and understand schematics; bonus points if you create wiring schematics
+Demonstrated ability to work in a complex technical project under timing constraints
+Results oriented, with experiencing delivering/launching technical projects to production
+Demonstrated ability to work with outside companies to deliver joint projects
+Effective oral and written communication skills
+Affinity for working in a dynamic, global, and technology-focused environment
+Self-starter with ability to multi-task and deal with time pressure in an unstructured environment
+Undergraduate degree in Electrical engineering
+Willing to travel
+3
+
+ ############ LIST_CONTENTS ############ 
+
+
+4
+
+ ############ LIST_CONTENTS ############ 
+
+
+5
+
+ ############ LIST_CONTENTS ############ 
+
+
+6
+
+ ############ LIST_CONTENTS ############ 
+
+

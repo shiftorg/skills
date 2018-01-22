@@ -1,0 +1,32 @@
+Salesforce 321--Senior-Software-Engineer-Infrastructure-Security.Txt
+
+
+
+
+
+salesforce.com hosts web services and applications written by thousands of internal developers and tens of thousands of customers to provide the largest saas platform on the planet. the infrastructure security team is responsible for building the internal software platform that enhances the security posture of our production systems. our expanding team is looking  for a seasoned distributed systems developer (position level dependent on experience). 			  			 do you have a passion for security and interest in growing as a cyber security professional? do you love agile coding, controlling hyperscale services and fully owning your service? then this position is for you!
+you will be building the new generation of salesforce's security platform, looking at security policy as part of service model, modelling policy control and implementing a hardened and scalable framework for enforcing policies. you will be responsible for designing, implementing and running our fleet of services that enforce the datacenter security posture. you will unlock  security innovation and value by building a fully-automated platform with single-click policy management for tens of thousands of nodes, and services that self-heal and self-optimize.
+
+
+requirements :
+
+5+ years of development experience proficiency in at least one of the following programming languages: golang, java, c++, python, c# mastery of ooo concepts and programming
+
+demonstrated understanding of general unix/linux systems (e.g., centos, rhel, solaris, or similar) experience in application-focused security: authn/authz, identity management, pki, encryption devops mindset and strong ownership over owned code (test, monitor, deploy, maintain) m.sc/m.eng in computer science/engineering or b.a/b.sc. in same disciplines with the equivalent years of experience. u.s. citizen (u.s. born or naturalized) who does not hold dual citizenship. you agree to complete a minimum background investigation (mbi) for a moderate public trust position with the u.s. federal government or other clearances as deemed appropriate for the role.
+
+cloud infrastructure experience in saas, paas, or iaas educated in service operation technologies (docker, vm, puppet, aws) excited by building reliable, self-healing services on unreliable hardware practical experience with pair-programming, agile development, test-driven development, and pattern-based coding (mvcs, cqrs, layered architectures)
+
+company overview:
+
+  these founding principles have taken our company to great heights, including being named one of forbes's "world's most innovative company” six years in a row and one of fortune's "100 best companies to work for” nine years in a row. we are the fastest growing of the top 10 enterprise software companies, and this level of growth equals incredible opportunities to grow a career at salesforce. 
+
+
+
+
+
+
+
+
+
+
+

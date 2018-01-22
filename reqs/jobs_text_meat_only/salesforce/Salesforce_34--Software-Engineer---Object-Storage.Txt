@@ -1,0 +1,21 @@
+Salesforce 34--Software-Engineer---Object-Storage.Txt
+
+
+
+
+software engineer - object storage did you ever wonder what kind of storage systems can fuel the growth of  salesforce 's #1 crm platform used by some of the world's biggest enterprises who trust us with their data? did you ever wish if you could be part of a team that develops such web-scale, highly available storage systems? if seeing your innovative high quality code deployed in production is what challenges you then come join our team who develop and manage the largest cloud-based enterprise-quality storage system. we would love to talk to you if you have some of the following attributes:
+experience designing, developing, debugging, and operating resilient distributed systems on unreliable hardware. you have experience balancing live-site management, feature delivery, and retiring technical debt. resolve complex technical issues and drive innovations that improve system scalability, availability, resilience and performance. create, maintain and share technical documentation used by other engineering teams.
+
+experience architecting and developing large scale distributed systems. experience in concurrency, multithreading and synchronization. 6+ years of professional experience in systems software development in java, python, go, c/c++, or other language. practical knowledge of algorithms, patterns, and tradeoffs of distributed systems' design. solid understanding of how to configure, deploy, manage and maintain large cloud hosted systems; including auto-scaling, metrics & monitoring, performance tuning, troubleshooting and disaster recovery. experience delivering on strategic initiatives effectively in a fast paced environment while supporting day-to-day issues. proficiency with source control, continuous integration, and testing pipelines.
+the following skills are a plus:
+
+hands-on experience with linux server, and cloud architectures. good understanding of network technologies like dns, load balancing, ssl, tcp/ip, http. knowledge of metrics & monitoring e.g., splunk, and configuration management tools e.g., puppet. experience with software based compute infrastructure e.g., aws. working experience with source control systems e.g., perforce.
+company overview:   these founding principles have taken our company to great heights, including being named one of forbes's "world's most innovative company” six years in a row and one of fortune's "100 best companies to work for” nine years in a row. we are the fastest growing of the top 10 enterprise software companies, and this level of growth equals incredible opportunities to grow a career at salesforce.  *li-y
+
+
+
+
+
+
+
+

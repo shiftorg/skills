@@ -1,0 +1,14 @@
+Salesforce 205--Lead-Solution-Engineer---Heroku.Txt
+
+
+
+
+lead solution engineer – heroku   the heroku presales architect/solution engineer will act as a domain expert to sales teams, partners, and customers on the heroku suite of platform as a service (paas) products.  working with several sales reps, the heroku presales architect is responsible for getting the technical win on all heroku sales opportunities in his/her geographic region.  you will be joining an amazing, small team of rock stars built entirely by referrals and word of mouth.  we've grown revenues 50x over 4 years, consistently exceeded our sales goals and having a blast while doing so. your impact: as a paas and app dev expert, the candidate will bring significant current expertise in software development.  you will be responsible for building and presenting small (poc) and demo apps on heroku.  experience with heroku, cloud computing and frameworks like spring, play and rails required.  knowledge of force.com,  security, and identity is also of interest.     candidates will provide training and assistance to prospects as well as other salesforce sales engineers around these areas of expertise. as a heroku presales architect, the candidate will: understand customer goals and challenges and establish heroku as the leading solution, build and present customized demonstrations, present heroku technology infrastructure, and demonstrate deep familiarity with hardware, software, networking and security environments.  candidates will participate in all product, sales, and process training and certification to acquire and maintain the knowledge necessary to be effective, and will attain quarterly and annual objectives assigned by management.    candidates will respond effectively to rfps and assist in business case development. candidates should be comfortable working with and speaking to both technologists and executives at customers and within salesforce, be self-motivated and enjoy learning new technologies and products.    required skills: b.s. computer science, software engineering, mis or equivalent work experience strong development skills with a heroku language like java, php, ruby, go, scala, node.js, etc solid oral, written, presentation and interpersonal communication skills ability to work as part of a team to solve technical problems in varied political environments ability to travel domestically salesforce.com  will consider for employment qualified applicants with criminal histories in a manner consistent with the requirements of the san francisco fair chance ordinance *li-y
+
+
+
+
+
+
+
+

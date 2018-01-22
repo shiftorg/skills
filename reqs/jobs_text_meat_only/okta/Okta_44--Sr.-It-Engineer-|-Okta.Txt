@@ -1,0 +1,31 @@
+Okta 44--Sr.-It-Engineer-|-Okta.Txt
+
+
+job purpose:
+the senior it engineer will primarily be responsible for executing on internal company-wide it projects and tasks responsibilities. a wide range of expertise will be necessary as projects and duties include, but are not limited to networking, endpoint architecture and management, compliance, internal deployment and troubleshooting of okta products; collaboration with other internal support groups and stakeholders; and new product selection and rollouts. the ideal candidate is a self-starter with a penchant for problem-solving and who can rapidly self-educate on new concepts and tools. additionally, this is a senior level position which requires leadership competencies and the ability to work well under pressure often while managing multiple priorities.
+duties and responsibilities:
+
+management of endpoint devices across ios\osx\windows\ubuntu
+selection, deployment and domain expertise of a wide variety of saas applications, such as: workday, slack, servicenow, office365, and box
+experience developing and implementing security best practices for endpoints
+it security incident response across okta's client environment and internal okta instance
+research new promising tools and technologies, and ways to more elegantly/efficiently solve problems
+work with the rest of the it engineering, it support, and other it groups and client stakeholders on executing a diverse set of companywide initiatives related to it, security, and our internal okta instance
+function as a 3 rd  tier escalation point for tier 1 and tier 2 team members across tickets/tasks/projects not more than 25% of the time
+participate in cross team collaboration and mentoring of staff
+experience building and administrating aws infrastructure
+
+
+
+must be a self-starter with the ability to take general project requirements and execute on them
+networking certifications
+7+ years of it experience including demonstrated leadership ability
+excellent written communication skills. must love to write clear and concise documentation to later be handed off to the it support team
+experience working and coordinating with a distributed team and adept at working in an interrupt-driven environment
+experience with a wide set of saas applications such as: office 365, google apps, atlassian, salesforce, concur, mimecast, sophos, slack, servicenow, etc…
+experience administrating linux (ubuntu) based servers
+proven ability to take ownership of projects and follow through to completion
+bonus: experience in any of the following: palo alto networks, cisco, okta certified, ipv6, and network security.
+occasional travel required
+
+

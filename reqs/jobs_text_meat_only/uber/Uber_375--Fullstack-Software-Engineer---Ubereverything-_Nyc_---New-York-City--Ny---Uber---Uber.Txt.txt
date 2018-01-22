@@ -1,0 +1,27 @@
+Uber 375--Fullstack-Software-Engineer---Ubereverything-(Nyc)---New-York-City--Ny---Uber---Uber.Txt
+
+
+
+
+
+
+about the role
+
+
+ubereverything will collapse the time and distance between everyone and everything they want. our nyc office focuses on building highly efficient and reliable logistics solutions that span across food delivery (ubereats), e-commerce, and more. we are working to define and build the next generation of uber's logistics platform.  you can be a part of that future and build it with us.
+
+uber is an established company with a well known brand, but our engineering efforts in new york are just getting started. help shape the culture here, and get in on the ground floor of something big.
+
+
+
+be sure to check out the uber nyc engineering
+blog
+to learn more about the team.
+
+ability to learn quickly on the go. we're looking for software engineers who thrive while learning new technologies and don't believe in one-size-fits-all solutions. you should be able to easily adapt to meet the needs of our massive growth and rapidly-evolving business environment.
+you have strong command of a frontend stack (javascript/html/css). frameworks like react/flux/redux are a plus.
+you have knowledge of a backend stack, including technologies like golang, java, node.js, redis, kafka, or similar.
+deep system design skills. you know how to build highly-scalable, robust, and fault-tolerant services that support our unique exponential growth requirements. you stay up to date with the latest architectural trends and have exceptional experience building systems for scale.
+bias toward action. you believe that speed and quality aren't mutually exclusive. you've shown good judgment about shipping as fast as possible while ensuring your products and platforms are built in a sustainable, responsible way--and you're comfortable making mistakes, provided you learn from them.
+passion and energy. because you love what you do, you bring infectious enthusiasm to all your endeavors. you always perform at your absolute best and see new challenges as an opportunity to contribute, make an impact, and grow.
+unquenchable thirst for growth. you're not just looking for the next interesting challenge, but looking to push yourself to keep pace in our hyper-growth environment.

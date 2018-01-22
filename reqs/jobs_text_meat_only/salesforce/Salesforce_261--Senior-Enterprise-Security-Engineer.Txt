@@ -1,0 +1,31 @@
+Salesforce 261--Senior-Enterprise-Security-Engineer.Txt
+
+
+
+
+join salesforce's world class security organization and be part of our talented and highly technical global enterprise security team.
+our team conducts technical security testing, performs risk assessments, and provides business risk guidance on a wide variety of infrastructure technologies such as operating systems (mac, linux, windows, chromeos, ios, android), devices (mobile, embedded technologies, iot), networks (wired, wireless, cloud), and applications (endpoint, mobile, web, cloud).
+
+this role is for a seasoned information security professional who will lead projects, provide security guidance, mentor junior staff, and maintain a high technical skillset in a diverse and changing enterprise environment. you have a deep technical curiosity and thrive when given opportunity to analyze and investigate. you will also be instrumental in building relationships across the organization to help champion and influence security for salesforce.
+
+salesforce.com is consistently on the "best places to work” list and we're looking for a dynamic, energetic, critical thinker with a track record of learning and thriving in a challenging work environment.
+
+
+perform security assessments of a large variety of network environments and technologies… think vulnerability assessments, penetration tests, risk analysis, architecture review, and just plain creative thinking evaluate cloud and traditional network environments (i.e. aws, azure, etc.) to determine security risk, providing guidance to both technical and business leaders… how secure is that cloud define and develop technical security standards and guidelines in collaboration with other security staff evaluate risk of enterprise network architectures, interconnected infrastructure environments, connected devices, and propose requirements for reducing security risks research new technologies, emerging threats, and vulnerabilities for strategic planning and business processes improvements collaborate with infrastructure engineering teams and corporate business units to drive solutions through a secure development lifecycle (influencing architecture, design, road-map development, growth strategies, budgets, and business process integration) recommend enhancements to enterprise security procedures and identify process improvement opportunities
+
+required skills & certifications:
+
+relevant ba/bs degree and at least 3-5 years experience in a security role covering at least three of the following areas: application whitelisting, security engineering, incident response/handling, penetration testing, intrusion detection, firewall/access control technologies, risk management, identity management, windows, mac or linux security, encryption technologies, or endpoint security control solid understanding of key network protocols and concepts such as tcp/ip, mpls, ssh, ssl/tls, ipsec familiarity with intrusion detection/prevention systems (ids/ips), application layer firewalls, l3/l4 firewalls, and host-based security systems excellent organizational, problem solving and time management skills, as well as attention to detail. must be able to work on multiple tasks concurrently and re-prioritize work independently as needed strong focus on professionalism with excellent written and oral communication skills ability to communicate complex technical and programmatic information, often in the form of verbal and visual communication, situation reports and briefings a commitment to learning and never-ending curiosity of all things security
+
+bonus points :
+
+pen testing, incident response and/or threat modeling experience hands on experiencing designing solutions in and performing security testing in cloud infrastructure environments (aws, azure, google cloud) industry certifications in security, technology, and/or business management (for example: cissp, oscp, giac, gpen, ccie, ccnp/ccsp, jncie) experience performing detailed network traffic analysis, architecture review, and engineering network security solutions working knowledge of modern federated authentication and authorization standards such as saml, oauth experience writing security white papers and/or presenting at industry security conferences and events
+  these founding principles have taken our company to great heights, including being named one of forbes's "world's most innovative company” five years in a row and one of fortune's "100 best companies to work for” eight years in a row. we are the fastest growing of the top 10 enterprise software companies, and this level of growth equals incredible opportunities to grow a career at salesforce. together, with our whole ohana (hawaiian for "family") made up of our employees, customers, partners, and communities, we are working to improve the state of the world!​
+
+
+
+
+
+
+
+

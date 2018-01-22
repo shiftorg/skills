@@ -1,0 +1,207 @@
+Skip to main content
+ Back
+ Uber
+ Rides on demand
+ Install
+ Ride
+ Drive
+ Help
+ Sign In
+ What city are you in?
+ Become a driver
+ Ride
+ Overview
+ How it Works
+ Fare Estimator
+ Safety
+ Cities
+ Airports
+ Drive
+ Overview
+ Requirements
+ Driver App
+ Safety
+ Rewards
+ Eats and more
+ Uber Eats
+ Uber for Business
+ Uber Freight
+ What city are you in?
+ English
+ Follow Us
+ Facebook
+ Twitter
+ LinkedIn
+ Instagram
+ Enter keyword
+ All teams
+ All teams
+ Advanced Technologies Group
+ Business & Sales
+ Communications
+ Design
+ Engineering
+ Finance & Accounting
+ Global Community Operations
+ Legal
+ Marketing
+ Operations & Launch
+ People Operations
+ Product
+ Public Policy
+ Rentals & Leasing
+ Safety & Security
+ University
+ All subteams
+ All subteams
+ All countries
+ All countries
+ Argentina
+ Australia
+ Austria
+ Bangladesh
+ Brazil
+ Bulgaria
+ Canada
+ Chile
+ Colombia
+ Costa Rica
+ Denmark
+ Ecuador
+ Egypt
+ France
+ Germany
+ Hong Kong
+ India
+ Indonesia
+ Ireland
+ Italy
+ Japan
+ Kenya
+ Korea, Republic of
+ Lithuania
+ Malaysia
+ Mexico
+ Myanmar
+ Netherlands
+ Pakistan
+ Panama
+ Peru
+ Philippines
+ Poland
+ Portugal
+ Saudi Arabia
+ Singapore
+ South Africa
+ Spain
+ Sri Lanka
+ Sweden
+ Taiwan
+ Thailand
+ Ukraine
+ United Arab Emirates
+ United Kingdom
+ United States of America
+ Vietnam
+ All cities
+ All cities
+ Search open roles
+ Search
+ Careers
+ Search open roles
+ Open Roles
+ Android Engineer - Autonomous Vehicle UX
+ Software Engineering, Advanced Technologies Group in Pittsburgh, PA
+ Apply Now
+ About Uber 
+  
+ We’re changing the way people think about transportation. Not that long ago we were just an app to request premium black cars in a few metropolitan areas. Now we’re a part of the logistical fabric of more than 600 cities around the world. Whether it’s a ride, a sandwich, or a package, we use technology to give people what they want, when they want it.
+  
+ For the people who drive with Uber, our app represents a flexible new way to earn money. For cities, we help strengthen local economies, improve access to transportation, and make streets safer.
+  
+ And that’s just what we’re doing today. We’re thinking about the future, too. With teams working on autonomous trucking and self-driving cars, we’re in for the long haul. We’re reimagining how people and things move from one place to the next.
+ About the Role
+  
+ In this role you will contribute to the design, development and maintenance of the user interfaces in Uber self-driving vehicles based on Android. This work is critical to Uber achieving scale with a self-driving fleet. These interfaces will play a critical role in many development activities as well as in the completion of rides for normal Uber riders.
+ What You’ll Do
+  
+ Work as part of a team developing user interfaces for Uber’s self-driving vehicles
+ Evaluate and debug your code out in the physical world
+ Interact with others to coordinate backend and other Android work.
+ Participate in architecture and design discussions for future development
+  
+ What You’ll Need
+  
+ Experience developing, prototyping, testing, releasing, and maintaining native Android applications (show us what you’ve done before and where we can find it)
+ Extensive knowledge of Java or Kotlin, with strong design and interaction experience
+ Experience collaborating on software projects with design and back-end aspects
+ A product-oriented mindset; the ability to think beyond the task at hand and see the bigger picture the way an end user sees it.
+ Great debugging skills and knowledge of the best tools
+  
+ Bonus Points
+  
+  
+ Insightful opinions about developing for mobile
+ Human Interface or Human UX experience is preferred
+ Experience developing distributed systems
+ Experience developing testing suites for mobile applications
+ Experience with C++ or Python
+ Experience with iOS development in Objective-C or Swift
+ A GitHub account with some cool projects in it
+  
+ About the Team
+  
+ The Human Experience team is a multi-disciplinary team of devoted designers, mobile and robotics engineers working to deliver the highest quality user experience to vehicle operators and riders in Uber’s self-driving vehicles. Our work touches everything from industrial design, to hardware/electrical engineering, systems engineering, security, and application engineering.
+ Apply Now
+ See our Candidate Privacy Statement
+ At Uber we don’t just accept difference—we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Uber is proud to be an equal opportunity workplace. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status.
+ Uber is in 0 cities worldwide
+ City Search
+ Go to Uber.com
+ SIGN UP TO RIDE
+ Become a driver
+ Enter your location
+ English
+ Help
+ Help
+ Facebook
+ Twitter
+ LinkedIn
+ Instagram
+ Ride
+ Drive
+ Cities
+ Fare Estimate
+ Food
+ Business Travel
+ How it Works
+ Airports
+ Countries
+ Safety
+ Careers
+ Helping Cities
+ Our Story
+ Blog
+ Newsroom
+ Media
+ Uber API
+ Gift Cards
+ Uber vs Driving Jobs
+ Top Cities
+ San Francisco
+ London
+ Los Angeles
+ Washington D.C.
+ Mexico City
+ Sao Paulo
+ Top Countries
+ USA
+ France
+ India
+ Spain
+ Mexico
+ Russia
+ © 2017 Uber Technologies Inc.
+ Privacy
+ Accessibility
+ Terms

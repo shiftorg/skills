@@ -1,0 +1,87 @@
+Android Engineer - AOSP Bootstrap Engineer
+
+About Uber 
+ 
+We’re changing the way people think about transportation. Not that long ago we were just an app to request premium black cars in a few metropolitan areas. Now we’re a part of the logistical fabric of more than 600 cities around the world. Whether it’s a ride, a sandwich, or a package, we use technology to give people what they want, when they want it.
+ 
+For the people who drive with Uber, our app represents a flexible new way to earn money. For cities, we help strengthen local economies, improve access to transportation, and make streets safer.
+ 
+And that’s just what we’re doing today. We’re thinking about the future, too. With teams working on autonomous trucking and self-driving cars, we’re in for the long haul. We’re reimagining how people and things move from one place to the next.
+About the Role
+In this role you will contribute to the creation, development and maintenance of the Android OS on custom-build hardware for use in Uber’s self-driving vehicles. This work is critical to Uber achieving scale with a self-driving fleet. This hardware, and the software built on top of it, will play a critical role in shaping the customer experience of riding in a self-driving car.
+ 
+What You’ll Do
+ 
+ 
+What You’ll Need
+ 
+ 
+Bonus Points
+ 
+ 
+ 
+About the Team
+ 
+The Human Experience team is a multi-disciplinary team of devoted designers, mobile and robotics engineers working to deliver the highest quality user experience to vehicle operators and riders in Uber’s self-driving vehicles. Our work touches everything from industrial design, to hardware/electrical engineering, systems engineering, security, and application engineering. 
+ 
+See our Candidate Privacy Statement
+At Uber we don’t just accept difference—we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Uber is proud to be an equal opportunity workplace. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status.
+
+
+ ############ START_LIST_CONTENTS ############ 
+
+1
+
+ ############ LIST_CONTENTS ############ 
+
+
+Help Uber’s self-driving fleet scale up dramatically
+Collaborate with an ODM to bootstrap and then evolve Android (AOSP) on new custom hardware
+Linux kernel hacking and writing and maintaining device drivers
+Participate in rigorous, low-level security validations
+Coordinate with and contribute to application-level Android development
+2
+
+ ############ LIST_CONTENTS ############ 
+
+
+A deep understanding of the Android NDK and OS-level components, system services, device drivers, etc.
+Android (or Linux) kernel hacking experience
+Strong programming skills in platform-relevant languages (Java & C/C++) and knowledge of modern software engineering best practices
+3
+
+ ############ LIST_CONTENTS ############ 
+
+
+Experience with, and devotion to, testing your code
+Passion for software security - an ability to think like your enemy
+Experience developing, releasing, and maintaining native Android applications (point us to your apps on Google Play)
+Communication abilities; you’re a specialist, and need to be able to communicate your work to folks with different specialties
+Perspective to understand how your work integrates into a larger, complex, heterogeneous system
+4
+
+ ############ LIST_CONTENTS ############ 
+
+
+Specific experience bootstrapping new hardware in the past
+Experience developing for other deeply embedded or bare-metal platforms
+5
+
+ ############ LIST_CONTENTS ############ 
+
+
+6
+
+ ############ LIST_CONTENTS ############ 
+
+
+7
+
+ ############ LIST_CONTENTS ############ 
+
+
+8
+
+ ############ LIST_CONTENTS ############ 
+
+

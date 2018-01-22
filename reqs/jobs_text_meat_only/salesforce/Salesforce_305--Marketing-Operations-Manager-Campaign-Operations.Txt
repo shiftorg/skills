@@ -1,0 +1,26 @@
+Salesforce 305--Marketing-Operations-Manager-Campaign-Operations.Txt
+
+
+
+
+position:   marketing operations manager, campaign operations location:  san francisco, ca (hq) role and department description: seeking a marketing specialist with experience in large scale b2b marketing systems.  the manager, marketing operations will be a key member of the team  responsible for managing, supporting and enabling the on-going needs of marketing sfdc instance. this role is responsible for engaging successfully with it team to deliver tools and technology to track and measure campaign and lead performance.   this position will work closely with marketing technical system managers to document business requirements and system designs.    your impact:
+
+collaborate with internal stakeholders across marketing, sales, operations and it to understand business requirements and build marketing solutions; provide operational support and training to various internal stakeholders/acquisition companies to ensure proper execution of sales and marketing programs; serve as the sme for campaigns hierarchy (campaign object in salesforce crm) and act as it liaison with the business teams campaign management – define campaign hierarchy, setup campaigns, audit and define campaign naming process responsible for managing changes to campaign, campaign member and lead objects and working with it scrum teams to set priorities.
+
+5 years of marketing operations related experience 5 years experience with salesforce crm (salesforce certification a plus) understanding of salesforce data model and prior experience with  campaign  and campaign member objects experience working with lead object  understanding of marketing solutions and systems infrastructure.  relevant ba/bs degree required experience working with marketing automation systems (exact target, pardot, eloqua, marketo) strong analytical skills including data manipulation via excel, access, sql, etc. proven track record of managing complex projects excellent verbal and written communication skills creative problem solver that thrives in a high-demand environment adaptive, thorough, insightful team player, able to work with global cross-functional teams high energy with the ability to work well under pressure and tight deadlines in a fast paced, changing environment
+
+about salesforce:
+
+  these founding principles have taken our company to great heights, including being named one of forbes's "world's most innovative company” six years in a row and one of fortune's "100 best companies to work for” nine years in a row. we are the fastest growing of the top 10 enterprise software companies, and this level of growth equals incredible opportunities to grow a career at salesforce. 
+
+
+
+
+
+
+
+
+
+
+
+

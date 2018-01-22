@@ -1,0 +1,9 @@
+Affirm Data Scientist - Machine Learning
+
+affirm is a technology and data-driven finance company. we are mining vast amounts of data to successfully rewrite the rules on how credit is evaluated. our data scientists play an absolutely pivotal role in the company, writing the models that allow us to evaluate the creditworthiness of our users in unprecedentedly holistic, efficient, and accurate ways.
+build production fraud and credit machine learning models; your models will decide who we lend to in real time
+conduct ad-hoc data analyses; your analyses will decide which policies we adopt, where we expand our business, and whom our partners will be
+passion and drive to change consumer banking for the better
+deep understanding of and experience with machine learning and data analysis
+strong programming ability, preferably in python
+advanced degree preferred

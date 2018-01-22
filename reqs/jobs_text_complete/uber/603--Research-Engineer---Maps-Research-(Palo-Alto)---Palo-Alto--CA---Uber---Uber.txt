@@ -1,0 +1,215 @@
+Skip to main content
+ Back
+ Uber
+ Rides on demand
+ Install
+ Ride
+ Drive
+ Help
+ Sign In
+ What city are you in?
+ Become a driver
+ Ride
+ Overview
+ How it Works
+ Fare Estimator
+ Safety
+ Cities
+ Airports
+ Drive
+ Overview
+ Requirements
+ Driver App
+ Safety
+ Rewards
+ Eats and more
+ Uber Eats
+ Uber for Business
+ Uber Freight
+ What city are you in?
+ English
+ Follow Us
+ Facebook
+ Twitter
+ LinkedIn
+ Instagram
+ Enter keyword
+ All teams
+ All teams
+ Advanced Technologies Group
+ Business & Sales
+ Communications
+ Design
+ Engineering
+ Finance & Accounting
+ Global Community Operations
+ Legal
+ Marketing
+ Operations & Launch
+ People Operations
+ Product
+ Public Policy
+ Rentals & Leasing
+ Safety & Security
+ University
+ All subteams
+ All subteams
+ All countries
+ All countries
+ Argentina
+ Australia
+ Austria
+ Bangladesh
+ Brazil
+ Bulgaria
+ Canada
+ Chile
+ Colombia
+ Costa Rica
+ Denmark
+ Ecuador
+ Egypt
+ France
+ Germany
+ Hong Kong
+ India
+ Indonesia
+ Ireland
+ Italy
+ Japan
+ Kenya
+ Korea, Republic of
+ Lithuania
+ Malaysia
+ Mexico
+ Myanmar
+ Netherlands
+ Pakistan
+ Panama
+ Peru
+ Philippines
+ Poland
+ Portugal
+ Saudi Arabia
+ Singapore
+ South Africa
+ Spain
+ Sri Lanka
+ Sweden
+ Taiwan
+ Thailand
+ Ukraine
+ United Arab Emirates
+ United Kingdom
+ United States of America
+ Vietnam
+ All cities
+ All cities
+ Search open roles
+ Search
+ Careers
+ Search open roles
+ Open Roles
+ Research Engineer - Maps Research (Palo Alto)
+ Maps, Engineering in Palo Alto, CA
+ Apply Now
+ About Uber
+  
+ Uber is a technology company that is changing the way the world thinks about transportation. We are building technology people use everyday. Whether it's heading home from work, getting a meal delivered from a favorite restaurant, or a way to earn extra income, Uber is becoming part of the fabric of daily life.
+  
+ We're making cities safer, smarter, and more connected. And we're doing it at a global scale-energizing local economies and bringing opportunity to millions of people around the world.
+  
+ Uber's positive impact is tangible in the communities we operate in, and that drives us to keep moving forward.
+ Do you live on the edge between research and engineering, especially in areas like machine learning and computer vision? Do you like not just inventing new algorithms, but seeing them all the way into devices that move through the real world? 
+  
+ Uber is looking for adaptable computer vision/machine learning experts who are not afraid to get their hands dirty with real world issues to work on impactful problems. 
+  
+ We’re looking for people who have the following characteristics: 
+  
+ Fast learner. We’re looking for team members who thrive on applying their knowledge, learning new technologies and don’t believe in one-size-fits-all solutions. You should be able to adapt easily to meet the fast pace of a rapidly evolving research, development, and testing environment.
+ Fearlessness. You think a working proof-of-concept is the best way to make a point. You strive on proving that speed and quality are not conflicting; that you can achieve both at the same time.
+ Versatility. In addition to having an intimate knowledge of core engineering fields, you understand how all the pieces fit together into integrated systems, and how they impact performance.
+ Passion. You feel ownership over everything you ship; you'd never call code or design "released" until you’re confident it’s correct. You pride yourself on efficient monitoring, strong documentation, and proper test coverage.
+ A team player. You believe that you can achieve more on a team — that the whole is greater than the sum of its parts. You rely on others' candid feedback for continuous improvement.
+  
+ As part of Uber’s larger sensing effort, we are building new capabilities that will allow us extract valuable bits of information from imagery and sensors in order to optimize and augment maps in real time. 
+ This will have a direct impact on both riders and drivers by helping them connect faster and get to their destinations more efficiently and safely.  We are looking for a seasoned engineer/scientist who has a good balance of theoretical knowledge and programming expertise.   You will be rubbing shoulders with world class scientists and engineers, looking to revolutionize transportation.  You will get a chance to use your skills to solve some of the toughest problems in the geo-spatial domain using state-of-the-art compute infrastructure and tools.
+  
+ Requirements:
+ Masters, with a PhD preferred. 
+ Expertise with computer vision and/or machine learning, especially deep learning. 
+ Interest in applying machine learning & computer vision to resource constrained devices (such as mobile phones) 
+ Interest in Android development (with experience preferred)
+ Ability to whiteboard some theory while at the same time rolling up your sleeves and get coding.
+ Understand research papers and be able to translate the ideas into efficient code quickly.
+ Data oriented - i.e. be able to set up experiments to measure things that will in turn drive decisions.  
+ Above all, we're looking for someone who can make fast progress on difficult problems involving the use of vast amounts of sensor data to optimize maps.
+ You will have the rare opportunity to change the world such that everyone around you is using the product you built. We’re not just another social web app, we’re moving real people and assets and reinventing transportation and logistics globally.
+ Be sure to check out the 
+ Uber Engineering Blog
+  to learn more about the team.
+ #ubermapping
+ Perks
+ Employees are given Uber credits every month.
+ The rare opportunity to change the way the world moves. We're not just another social web app, we're moving real people and assets and reinventing transportation and logistics globally.
+ Smart, engaged co-workers.
+  
+ Benefits
+ 401(k) plan, gym reimbursement, nine paid company holidays.
+ Full medical/dental/vision package to fit your needs.
+ Unlimited vacation policy; take time when you need it.
+  
+ Uber is an equal opportunity employer and enthusiastically encourages people from a wide variety of backgrounds and experiences to apply. Uber does not discriminate on the basis of race, color, religion, sex (including pregnancy), gender, national origin, citizenship, age, mental or physical disability, veteran status, marital status, sexual orientation or any other basis prohibited by law.
+ Apply Now
+ See our Candidate Privacy Statement
+ At Uber we don’t just accept difference—we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Uber is proud to be an equal opportunity workplace. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status.
+ Uber is in 0 cities worldwide
+ City Search
+ Go to Uber.com
+ SIGN UP TO RIDE
+ Become a driver
+ Enter your location
+ English
+ Help
+ Help
+ Facebook
+ Twitter
+ LinkedIn
+ Instagram
+ Ride
+ Drive
+ Cities
+ Fare Estimate
+ Food
+ Business Travel
+ How it Works
+ Airports
+ Countries
+ Safety
+ Careers
+ Helping Cities
+ Our Story
+ Blog
+ Newsroom
+ Media
+ Uber API
+ Gift Cards
+ Uber vs Driving Jobs
+ Top Cities
+ San Francisco
+ London
+ Los Angeles
+ Washington D.C.
+ Mexico City
+ Sao Paulo
+ Top Countries
+ USA
+ France
+ India
+ Spain
+ Mexico
+ Russia
+ © 2017 Uber Technologies Inc.
+ Privacy
+ Accessibility
+ Terms

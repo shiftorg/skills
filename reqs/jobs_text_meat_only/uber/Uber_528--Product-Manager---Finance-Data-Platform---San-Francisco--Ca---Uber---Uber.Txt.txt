@@ -1,0 +1,22 @@
+Uber 528--Product-Manager---Finance-Data-Platform---San-Francisco--Ca---Uber---Uber.Txt
+
+
+
+
+
+primary product owner for one or more financial products with the goal to bring in security, accuracy and automation across finance data storage, retrieval and usage.
+
+your performance is measured by the impact of the systems, products and processes you launch and by your ability to work closely with a high-performing cross-functional team that includes counterparts in accounting, tax, fp&a, product, engineering and operations.
+lead product manager for uber's finance data platform, capabilities that include compliance workflows, data analytics and reporting and core platform
+spearhead user research and incorporate the insights you discover into new product ideas
+build a roadmap for analytics product in collaboration with leaders within the finance organization
+partner with the data engineering teams to leverage and influence the direction of the data and analytics platform
+work closely with product engineering team to deliver and enhance the products
+continually improve ongoing reporting and analysis processes; automating or simplifying self-service support for secondary datasets
+experience building data stores for various cross functional use cases including financials and finance operations.
+experience with real-time data streaming technologies such as  kafka, mq; and distributed data stores in nosql and/or hadoop
+data-driven mindset; ability to build products that leverage data to make decisions without analysis paralysis.
+agile/scrum product owner experience
+bachelor's degree in computer science or engineering
+mba or master's degree
+fintech is pioneering in providing real-time financial data so that team around the company can make much more informed and smart decisions. to power these decisions and ensure data integrity, we have assembled a team of product managers and engineers focussed on creating world class financial products.

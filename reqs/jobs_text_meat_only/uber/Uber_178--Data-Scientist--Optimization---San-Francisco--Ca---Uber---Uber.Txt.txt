@@ -1,0 +1,24 @@
+Uber 178--Data-Scientist--Optimization---San-Francisco--Ca---Uber---Uber.Txt
+
+
+
+
+
+we are looking for an entry/mid level data scientist to join our cross marketing data science team to apply  statistical, machine learning, econometrics, time-series and mathematical optimization methods to solve interesting business problems in the field marketing analytics and finance tech. you will be working with a highly cross functional team providing insights to inform decisions on uber's long/short term growth and efficiency. this is a unique opportunity to apply your skills and have a direct impact on global business.
+build production grade models to optimize marketing performance by utilizing advanced statistical modeling, machine learning and operations research techniques.
+leverage models to provide insights on budget planning, allocation and forecasting across different levers optimize key business metrics globally.
+leverage large scale user level ml models to provide insights on digital media events.
+leverage time-series models to provide insight on offline media events.
+collaborate with marketing leadership, design, product and engineering teams to create internal products.
+participate in project planning/prioritization meetings, stakeholder meeting, data prioritization meeting, etc.
+
+minimum 1 year of experience as a data scientist at a company with global operations
+expertise with r or python
+experience with machine learning, time-series analysis, mathematical optimization
+advanced sql skills - comfortable working with very large data sets
+experience with big data using technologies and pipelines
+previous experience in advertising tech is a plus
+great communication skills, organized, able to multitask and be a team player
+balance attention to detail with swift execution
+hunger and drive to learn complex topics
+enthusiasm about uber

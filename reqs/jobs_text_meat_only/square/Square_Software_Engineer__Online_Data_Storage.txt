@@ -1,0 +1,12 @@
+Square Software Engineer, Online Data Storage
+
+software engineer, online data storage
+the online data storage team (ods) is responsible for oltp systems within square. ods provides and maintains a reliable and secure platform to host databases. the team develops tooling to automate the creation and maintenance of databases, provides multiple levels of redundancy, and gives application owners tools to better manage their databases.
+optimize datastore architecture and configurations to improve performance efficiency.
+write software and tools to automate the lifecycle of databases.
+collaborate with other platform teams to develop the infrastructure of square's database servers.
+collaborate with other products teams to optimize their database usage.
+5+ years of industry experience developing highly scalable production services.
+strong experience writing software applications in ruby, java, or go.
+strong experience in mysql or redis administration, operation, and performance tuning on linux/unix.
+familiarity with scripting languages such as ruby and bash

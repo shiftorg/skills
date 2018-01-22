@@ -1,0 +1,200 @@
+Skip to main content
+ Back
+ Uber
+ Rides on demand
+ Install
+ Ride
+ Drive
+ Help
+ Sign In
+ What city are you in?
+ Become a driver
+ Ride
+ Overview
+ How it Works
+ Fare Estimator
+ Safety
+ Cities
+ Airports
+ Drive
+ Overview
+ Requirements
+ Driver App
+ Safety
+ Rewards
+ Eats and more
+ Uber Eats
+ Uber for Business
+ Uber Freight
+ What city are you in?
+ English
+ Follow Us
+ Facebook
+ Twitter
+ LinkedIn
+ Instagram
+ Enter keyword
+ All teams
+ All teams
+ Advanced Technologies Group
+ Business & Sales
+ Communications
+ Design
+ Engineering
+ Finance & Accounting
+ Global Community Operations
+ Legal
+ Marketing
+ Operations & Launch
+ People Operations
+ Product
+ Public Policy
+ Rentals & Leasing
+ Safety & Security
+ University
+ All subteams
+ All subteams
+ All countries
+ All countries
+ Argentina
+ Australia
+ Austria
+ Bangladesh
+ Brazil
+ Bulgaria
+ Canada
+ Chile
+ Colombia
+ Costa Rica
+ Denmark
+ Ecuador
+ Egypt
+ France
+ Germany
+ Hong Kong
+ India
+ Indonesia
+ Ireland
+ Italy
+ Japan
+ Kenya
+ Korea, Republic of
+ Lithuania
+ Malaysia
+ Mexico
+ Myanmar
+ Netherlands
+ Pakistan
+ Panama
+ Peru
+ Philippines
+ Poland
+ Portugal
+ Saudi Arabia
+ Singapore
+ South Africa
+ Spain
+ Sri Lanka
+ Sweden
+ Taiwan
+ Thailand
+ Ukraine
+ United Arab Emirates
+ United Kingdom
+ United States of America
+ Vietnam
+ All cities
+ All cities
+ Search open roles
+ Search
+ Careers
+ Search open roles
+ Open Roles
+ Engineering Manager, Money
+ Manager, Engineering in San Francisco, CA
+ Apply Now
+ About Uber 
+  
+ We’re changing the way people think about transportation. Not that long ago we were just an app to request premium black cars in a few metropolitan areas. Now we’re a part of the logistical fabric of more than 600 cities around the world. Whether it’s a ride, a sandwich, or a package, we use technology to give people what they want, when they want it.
+  
+ For the people who drive with Uber, our app represents a flexible new way to earn money. For cities, we help strengthen local economies, improve access to transportation, and make streets safer.
+  
+ And that’s just what we’re doing today. We’re thinking about the future, too. With teams working on autonomous trucking and self-driving cars, we’re in for the long haul. We’re reimagining how people and things move from one place to the next.
+ About the Role
+  
+ Uber is looking for an experienced Engineering Manager to lead a team within the c Engineering org. As a Money eng manager at Uber, your team will have a direct impact on the movement of money in and out of the company. This means that riders and eaters will experience timely and accurate collections, and partners and restaurants will receive timely and accurate disbursements. We are a cutting edge payments engineering team empowered to further accelerate the incredible growth of Uber through money-movement innovations. If that sounds awesome to you then you should join our team, whether or not you have any previous payments experience.
+ What You’ll Do
+  
+ As a manager within Money you will have a significant impact on the evolution of Money’s platform architecture and adoption across all lines of business at Uber. You will work with your team to build systems that stress scalability, accuracy, robustness, and auditability. You will work with dozens of critical consumers all around the company to ensure that their requirements are captured and met at the platform level. The experience you will gain will be unique and unmatched.
+  
+ What You'll Need
+  
+ Experience as a technical leader and manager for at least 4+ years
+ Experience going through the full software cycle of requirements, design, coding/testing, rollout/deploy best practices in delivering world class software and services.
+ Strong people management skills including growing and mentoring your team members
+ Experience evolving and presenting a strong vision/roadmap for your team
+ Passion about your team’s mission and the self-starting personality to make things happen
+ A track record of delivering results even when requirements are under-specified
+ Solid programming skills in Java, Go, Python, or similar.
+  
+ Bonus Points
+ Experience with payments products and infrastructure
+ Experience with streaming technologies like Kafka, and distributed storage technologies like DynamoDB and Cassandra
+  
+ About the Team
+ Uber’s Money Engineering team in Palo Alto, CA, is a high-performing team with an excellent culture marked by respect, excellent design, and execution. We focus on the development of technology that supports Uber’s current businesses and accelerates Uber’s growth through payments innovation. Our team is comprised of world-class developers and engineers with decades of experience and we're looking for exceptional engineers who can work quickly without sacrificing technical excellence.
+  
+  
+ Apply Now
+ See our Candidate Privacy Statement
+ At Uber we don’t just accept difference—we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Uber is proud to be an equal opportunity workplace. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status.
+ Uber is in 0 cities worldwide
+ City Search
+ Go to Uber.com
+ SIGN UP TO RIDE
+ Become a driver
+ Enter your location
+ English
+ Help
+ Help
+ Facebook
+ Twitter
+ LinkedIn
+ Instagram
+ Ride
+ Drive
+ Cities
+ Fare Estimate
+ Food
+ Business Travel
+ How it Works
+ Airports
+ Countries
+ Safety
+ Careers
+ Helping Cities
+ Our Story
+ Blog
+ Newsroom
+ Media
+ Uber API
+ Gift Cards
+ Uber vs Driving Jobs
+ Top Cities
+ San Francisco
+ London
+ Los Angeles
+ Washington D.C.
+ Mexico City
+ Sao Paulo
+ Top Countries
+ USA
+ France
+ India
+ Spain
+ Mexico
+ Russia
+ © 2017 Uber Technologies Inc.
+ Privacy
+ Accessibility
+ Terms

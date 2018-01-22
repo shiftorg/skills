@@ -1,0 +1,25 @@
+Salesforce 38--Senior-Product-Manager--Livemessage.Txt
+
+
+
+
+the service cloud product team is looking for a senior product manager with a track record of driving new product capabilities from initial concept to successful delivery and market adoption. this product management role will help guide the future of the livemessage product, salesforce's conversational, mobile messaging product, and extend our early to market leadership position. owning the experience that allows companies to interact with users through their native messaging applications (sms, facebook, line, wechat, etc) and marrying it with crm data is fundamental. this team owns the entire livemessage product including message delivery platform, agent/ customer experience within console, and features leveraging apis from 3 rd  party messaging applications. this role calls for a strong, proactive leader capable of autonomously driving multiple projects in parallel and technology savvy in deciding which mobile support capabilities to deliver as part of a world class customer service experience. product managers who thrive in a fast paced, collaborative environment and love working with the emerging mobile technologies should apply. responsibilities
+drive the vision for livemessage in salesforce.  ensure that the roadmap aligns with the overall product and company vision. be an expert on the domain, the market, and the trends. evangelize the vision constantly so all stakeholders are aligned, have context, and understand where we are going.   represent the customer. be the champion and voice of customers. build impactful, personal customer relationships. bring the customer's voice into the creation process. own requirements, specifications, and release plans. drive for the best customer experience possible. work closely with ux to develop, test, and deliver assets to engineering. work with the technology team to deliver a world-class product driven by customers, prospects, advisory teams, and internal product experts. drive the end to end feature delivery cycle. measure success. measure everything. a feature's release does not indicate success. define what success means for each feature and each function before it even goes to development. develop ways to constantly define and monitor success. collaborate across teams. we win or lose as a team. product managers play a critical role in creating alignment between related products, engineering teams and other key stakeholders. a collaborative attitude is essential to the job. communicate clearly and efficiently. coordinate product release communications for your components. define expectations for engineering teams and dependencies with peer product managers and hold them accountable to success and failure. work closely with product marketing managers to promote your products both internally and externally, and to ensure a cohesive message. represent  salesforce.com  as a domain and product expert at customer interactions, industry and corporate events, online in customer communities, and through social networking.
+experience/skills required
+
+leadership - proven ability to set a vision, excite, and lead a cross-functional engineering team.
+
+strong knowledge of salesforce service cloud products and apis
+
+strong technical abilities to hold your own in debates with technical architects and engineers. gathering and transforming business requirements and market needs into a successful product strategy. strong organizational, written, and oral communication skills. experience presenting to executive leadership and handling sensitive customer situations. proven ability to deliver on commitments. ability to lead and work autonomously across groups in different physical locations & time zones ability to handle multiple competing priorities in a fast-paced environment. 3-7+ years of product management experience. bachelor's degree (technical disciplines preferred).
+experience/skills desired
+
+experience managing an emerging technical product is a strong plus experience with mobile/ social messaging products. bot and/or support automation experience a strong plus. experience with agile development methodologies like scrum. mba is a plus
+
+
+
+
+
+
+
+

@@ -1,0 +1,37 @@
+Product Analyst
+ New York, NY
+ Full-time
+ Company Description
+ We believe everyone should be able to participate and thrive in the economy. So we’re building tools that make commerce easier and more accessible to all.  We started with a little white credit card reader but haven’t stopped there. Our new reader helps our sellers accept chip cards and NFC payments, and our Cash app lets people pay each other back instantly.   We’re empowering the independent electrician to send invoices, setting up the favorite food truck with a delivery option, helping the ice cream shop pay its employees, and giving the burgeoning coffee chain capital for a second, third, and fourth location.  Let’s shorten the distance between having an idea and making a living from it. We’re here to help sellers of all sizes start, run, and grow their business—and helping them grow their business is good business for everyone.
+ Job Description
+ You will:
+ Partner with Square’s product teams to prioritize and answer the most important questions where analytics will have material impact
+ Use your experience in analytics tools and scientific rigor to produce actionable insights
+ Act as an advocate of data driven culture at our company: be the subject matter expert on your product and its data, and analytics at Square in general
+ Collaborate with business leaders, subject matter experts, and decision makers to develop success criteria and optimize new products, features, policies, and models
+ Build visualizations that expose the health and performance of our products
+ Communicate key results to senior management in verbal, visual, and written media
+ Work with engineers to evangelize data best practices and implement analytics solutions
+ Teams we work with:
+ Square Dashboard is the command center that connects our Sellers with products, services and analytics they need to run their business.
+ Retail POS is Square's point-of-sale solution for Retail businesses that need to track their inventory, cost of goods, and locations.
+ Qualifications
+ You have:
+ 2+ years of industry experience in product related analytics
+ Knowledge and experience in leveraging analytics to make positive material impact on our products and business directly
+ Ability to self-prioritize and work in collaboration with multiple product managers, engineering managers and marketing managers as a front-line analytics partner
+ Experience working with early stage products on data model design, data logging, and data validation
+ Extremely strong written and verbal communication skills and ability to build strong relationships and trust with our partners
+ Fluency with SQL
+ Experience in programming or scripting to enable ETL development
+ Experience (or ability to quickly ramp up) in common data, analytics and visualization technologies (Amplitude, Tableau)
+ Experience (or ability quickly ramp up) in other database technologies like Hive and Vertica
+ Experience (or ability quickly ramp up) in a version controlled coding environment (like GitHub or Stash)
+ Plus for previous professional experience in product, marketing, business, or other related roles
+ Additional Information
+ At Square, we value diversity and always treat all employees and job applicants based on merit, qualifications, competence, and talent. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status. We will consider for employment qualified applicants with criminal histories in a manner consistent with the requirements of the San Francisco Fair Chance Ordinance.
+ I'm interested
+ I'm interested
+ Refer a friend
+ share this job
+ Powered by

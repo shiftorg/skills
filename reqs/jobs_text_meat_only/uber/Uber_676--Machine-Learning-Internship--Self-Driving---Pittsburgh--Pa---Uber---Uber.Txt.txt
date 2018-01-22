@@ -1,0 +1,31 @@
+Uber 676--Machine-Learning-Internship--Self-Driving---Pittsburgh--Pa---Uber---Uber.Txt
+
+
+
+
+
+do you dream about changing the world using your passion for science and engineering? then you should apply to join our engineering team taking on machine learning challenges in the area of self-driving technology. the work you do at the atg will be tested and deployed on real systems, in real-world conditions. the experience you gain as a member of the atg team will be unique and exciting, we can promise you that!
+
+as a full-fledged member of the machine learning team at uber atg, you will:
+
+gain subject matter expertise in various parts of the autonomy stack
+work directly with leading experts in robotics, mapping, perception, logistics, machine learning, motion planning, mobile communications, autonomy, image classification, neural networks, deep networks, scene recognition, parallelization, and other fields
+stretch yourself as you switch from one tough problem to another
+see your work deployed fast and often into the real world
+work with a world-class engineering team and the support of an established data infrastructure;
+apply your training to the field of autonomous driving, using cutting edge proprietary and open source tools
+
+machine learning specialist internships
+are available at the phd, ms, and bs levels for candidates with a degree in a machine learning-related discipline. areas of interest include:
+active learning and bayesian optimization
+anomaly detection
+deep networks
+distributed/parallel learning algorithms
+image/video classification
+learning control
+predictive modeling
+
+machine learning specialist interns should have excellent software development skills in one or more of c++, python, c, java.
+
+
+the team's mission is to deliver machine learning based features and develop solutions for the future of self-driving.

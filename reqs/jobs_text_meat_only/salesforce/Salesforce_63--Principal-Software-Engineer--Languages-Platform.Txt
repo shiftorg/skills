@@ -1,0 +1,45 @@
+Salesforce 63--Principal-Software-Engineer--Languages-Platform.Txt
+
+
+
+
+principal software engineer, apex development team san francisco, ca or seattle, wa about the work
+
+apex is the programming language of the salesforce platform. customer-written apex code running in a multi-tenant runtime environment executes billions of business-critical transactions every day, for millions of end users. our customers trust us to be secure, reliable, easy to use and fast, and delivering on those expectations requires impeccable architecture, design, clean code, and thorough testing and automation. the apex team is looking for an exceptional engineer with deep experience in compilers and runtime environments; working with us on cloud-scale challenges of today, while shaping the future of the apex language and execution environment. the successful candidate will join a highly collaborative, geographically distributed team that thrives on solving challenging problems, while creating resilient yet elegant solutions that empower our customer-developers to succeed.
+
+
+
+ten years of professional development experience including several years as an engineering lead
+
+experience developing compilers and/or runtime environments for managed languages such as c# or java. you should understand the tradeoffs of jit versus compile-time optimization
+
+exceptional object oriented design skills anchored by extensive experience applying design patterns
+
+taking ownership of the team's domain from requirements, technical design, and implementation to automated testing, code reviews, deployment, and production support
+
+a solid understanding of resilient, distributed systems
+
+experience building scalable apis and microservices
+
+writing clean, testable, and extensible enterprise java and pl/sql code
+
+thriving in an agile environment
+
+excellent communication skills. we're a geographically distributed team, so you must be fluent in written and spoken english.
+
+experience with web technologies and modern javascript frameworks would be a plus.
+
+
+at salesforce, we support our community and prefer to hire people who are passionate about volunteering and have a life outside of work. we especially encourage those who are underrepresented in the software industry to apply.
+
+  these founding principles have taken our company to great heights, including being named one of forbes's "world's most innovative company” six years in a row and one of fortune's "100 best companies to work for” nine years in a row. we are the fastest growing of the top 10 enterprise software companies, and this level of growth equals incredible opportunities to grow a career at salesforce. together, with our whole ohana (hawaiian for "family") made up of our employees, customers, partners, and communities, we are working to improve the state of the world.
+
+
+
+
+
+
+
+
+
+

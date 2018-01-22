@@ -1,0 +1,21 @@
+Salesforce 202--Principal-Infrastructure-Engineer---Service-Engineering.Txt
+
+
+
+
+principal infrastructure engineer - service engineering we are seeking an experienced, hands on infrastructure engineer to help align product / software objectives with infrastructure design to accelerate the rate of introduction of new innovations. this person will work across the entire infrastructure organization to align capabilities and define / broker improvements to make the infrastructure more accessible to the product/software teams. this person will also liaise with the product teams to inform their strategic design/architecture decisions to best utilize the salesforce infrastructure offerings and direction. this person should identify improvement opportunities, either process or technology, drive solutioning with alignment across multiple, impacted teams and effectively manage the implementation of improvements. the winning candidate balances strategic thought / problem solving with an execution focus to drive measurable business results. responsibilities:
+align, influence and review key organization projects at senior leadership level participate and promote architectural, and process improvement initiatives, balancing long-term vision with short-term customer needs provide leadership for the infrastructure engineering teams resolve complex technical issues and drive innovations that improve utilization and accessibility of our infrastructure offerings provide mentorship to other team members partner with other smes across the organization create, maintain and share technical documentation used by engineers and other team members
+
+strong analytical and problem solving skills excellent written and verbal communication skills with outstanding attention to detail bachelor's degree in cs or any engineering discipline or equivalent work experience 12+ years infrastructure experience in any one or more of these following disciplines: system engineering, release engineering, security, storage or network engineering 5+ years design and implementation experience of large infrastructure projects with multiple teams 5+ years experience with script languages javascript, perl, python, ruby, shell
+preferred skills/experience:
+
+previous management experience experience driving / definition of automation frameworks / tooling
+company overview:   these founding principles have taken our company to great heights, including being named one of forbes's "world's most innovative company” six years in a row and one of fortune's "100 best companies to work for” nine years in a row. we are the fastest growing of the top 10 enterprise software companies, and this level of growth equals incredible opportunities to grow a career at salesforce.  *li-y
+
+
+
+
+
+
+
+

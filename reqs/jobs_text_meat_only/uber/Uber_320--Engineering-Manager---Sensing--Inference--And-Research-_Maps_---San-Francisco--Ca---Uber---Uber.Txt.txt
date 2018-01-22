@@ -1,0 +1,15 @@
+Uber 320--Engineering-Manager---Sensing--Inference--And-Research-(Maps)---San-Francisco--Ca---Uber---Uber.Txt
+
+
+
+as an engineering manager on the maps sensing, inference, and research team, you will be leading the team responsible for building the data infrastructure layer - backend and mobile, as well as improvements in location technology like improved rider, driver location in dense urban canyons. this team works with various others teams at uber and solves uses cases based on the derived semantic inferences. the impact is across the entire product spectrum of driver, rider, uber eats etc.
+you will be leading the team responsible for building the data infrastructure layer - backend and mobile, as well as improvements in location technology like improved rider, driver location in dense urban canyons. this team works with various others teams at uber and solves uses cases based on the derived semantic inferences. the impact is across the entire product spectrum of driver, rider, uber eats etc.
+
+experience in managing and growing the technical team
+strong technical knowledge across the stack (mobile, backend, algorithms).
+
+experience in working with sensors, gps, data pipelines
+
+the sensing, inference, and research team at uber occupies a key strategic role: utilizing the rich array of sensors to extract semantic inferences and world knowledge to support uber. putting it another way: we are building uber's sensory nervous system.
+
+the team is based in san francisco.

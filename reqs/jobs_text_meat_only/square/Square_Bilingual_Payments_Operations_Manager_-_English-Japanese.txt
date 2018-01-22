@@ -1,0 +1,25 @@
+Square Bilingual Payments Operations Manager - English/Japanese
+
+bilingual payments operations manager - english/japanese
+square's payments team is responsible for every dollar that moves through our acquiring partners, our networks, and our internal systems. the payments team's mission is to make payments efficient, effective, and low-cost for square and to open the payments industry to square's innovation.
+as an operations manager, you'll be a vital member of the global strategic operations team responsible for enabling the payments business at the heart of square. your focus, and that of the overall team, will be to help our payments business scale with ease and confidence. within operations, we partner with our external vendors, along with our peers in product, engineering, finance, and other cross-functional areas as part of a continuous feedback loop, so that we can deliver the best possible payments experience for merchants and people across the globe.
+manage one or more key relationships and run all operational components of those relationships – including onboarding, escalation, and business-as-usual.
+hold the relationship accountable for performance against contractual obligations, and continual improvement
+develop strong relationships with counterparts at relationship in order to generate goodwill, guide their roadmap, and reduce organizational friction.
+design and monitor reports and dashboards that capture deep insights into our business through leading and lagging indicators, visualizations, and early warning mechanisms.
+partner with our intelligence and infrastructure teams to identify gaps, examine opportunities, and model improvements against the kpis of speed, cost, and acceptance.
+collaborate with engineering to build-out critical tools, automate routine work where possible, and address longer-term or recurring issues.
+own payment issues from beginning to end, working with engineering and external partners to troubleshoot and resolve issues in a systematic and timely fashion.
+collaborate with peers on the team to further develop the payments operations team as a high performing organization by defining, executing, and communicating operational processes, standards, and best practices that work flawlessly and minimize firefighting.
+support implementation teams within payments and across the entire company as a subject matter expert on operational matters.
+5+ years of operations experience at a high-growth tech company.
+strong understanding of economic, legal, regulatory, and technical factors shaping payments services.
+an affinity for systems thinking and continuous improvement.
+exceptional collaborative and troubleshooting/deductive skills including the ability to engage in operational incidents with emerging data to assess impact and drive collaborative resolution in a swift manner.
+strong analytical skills that will allow good reporting and understanding of problems.
+exceptional written and verbal presentation skills coupled with ability to drive consensus.
+fluent ability to communicate (verbal, written) in the japanese language required.
+even better:
+3+ years of payments industry experience
+experience working with external technology partners and vendors
+training in lean / six sigma

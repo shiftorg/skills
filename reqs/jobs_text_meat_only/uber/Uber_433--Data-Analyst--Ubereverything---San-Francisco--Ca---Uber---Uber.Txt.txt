@@ -1,0 +1,29 @@
+Uber 433--Data-Analyst--Ubereverything---San-Francisco--Ca---Uber---Uber.Txt
+
+
+
+
+
+at uber, providing world-class customer support for all of our products is a core feature of our experience. delivering the caliber of customer support we expect isn't easy—it takes leaders who can understand uber's operations, adapt to our constantly changing business, and help solve problems where no solution currently exists.
+
+the data analyst, ubereverything is first and foremost a creative analytical explorer. you will leverage structured and unstructured data to evolve how our worldwide product, operations and customer support program leaders think about how to ensure our product experiences for ubereats and other emerging business lines feel truly customer obsessed. you will be responsible for uncovering and assessing hypotheses our data isn't yet primed to answer, be it the impact and efficacy of our support protocols, the predictive value of our kpis, or the tactics we need to scalably improve customer experience.
+
+develop a deep understanding of the impact product flows, operational defects and support interactions have on customer experience and loyalty
+create data visualizations and automate reporting to ensure operational program leaders are informed of variations and opportunities across geographies and teams
+advise and analyze controlled pilots to recraft processes, policies and service models
+analyze predictive power of operational and satisfaction metrics on customer loyalty (engagement, investment and advocacy) to hone the suite of kpis we track and prioritize
+analyze unstructured behavioral data to uncover events and activities most damaging to customer experience and scalability
+transform the way your teammates around the world think about delivering exceptional customer experience through your creative data insight
+
+
+minimum 2 years of work experience developing a premier understanding of databases, data relationships and data integrity
+bachelor's degree in math, physics, cs, statistics, economics or another quantitative field
+expertise with sql
+solid proficiency in r and/or python
+research mindset and an ability to produce actionable results
+ability to structure a project from idea to experimentation to prototype to implementation
+a preference for quality over quantity; you get the math right and aspire to find the right solution
+excellent communication skills and attention to detail
+
+
+experience working with support data, contact management analytics or customer insights

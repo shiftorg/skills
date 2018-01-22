@@ -1,0 +1,26 @@
+Uber 514--Sr-Product-Security-Engineer---Seattle--Wa---Uber---Uber.Txt
+
+
+
+for the women and men who drive with uber, our app represents a flexible new way to earn money. for cities, we help strengthen local economies, improve access to transportation, and make streets safer.
+
+
+uber's security team works to ensure the security of all code, systems and data used by our riders, drivers and partners. product security is responsible for working with engineers to design, build, advise and review security concerns across a diverse variety of projects.
+
+you will be relied upon to provide engineering and product teams with the security expertise necessary to make confident product decisions. you will be finding security vulnerabilities through manual review, tools you build or one on ones with other engineers. you will write code to systemically fix security issues across the codebase. you will advise teams on the best way to build something to prevent future security issues.
+
+investigate and understand our newest projects and technologies and give security guidance to ensure that they are as robust as possible.
+perform code and design reviews of internally developed applications.
+develop security tools to find or fix security issues en masse.
+create automated tests to encourage and enforce security standards.
+develop security training and education for our software engineers.
+ensure that identified issues are prioritized and addressed in an appropriate time frame.
+interact directly with the security community regarding vulnerabilities and threats
+
+understanding of python, node.js, go.
+a passion for both breaking and building.
+excellent knowledge of web application security issues.
+willingness to compromise when it's necessary and hold firm when it's essential.
+a deep desire to build robust things (but also break them!)
+an interest in teaching security since we're all in this together.
+excellent communication skills.

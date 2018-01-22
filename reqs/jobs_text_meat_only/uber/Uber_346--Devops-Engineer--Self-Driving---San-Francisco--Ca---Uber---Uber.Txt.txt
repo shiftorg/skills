@@ -1,0 +1,26 @@
+Uber 346--Devops-Engineer--Self-Driving---San-Francisco--Ca---Uber---Uber.Txt
+
+
+
+
+
+we are seeking devops engineers with independent problem solving skills and a high level of technical curiosity. our technical challenges are unique; you will need to be comfortable working in uncharted territory, and excited to build systems that can support cities of 100,000 and 10 million people alike.
+what you'll do
+
+you will be developing core infrastructure and tools to monitor and scale our self-driving platform.
+
+minimum 2 years industry experience
+bs in computer science, electrical engineering or related discipline
+strong general linux experience
+strong coding skills in c, c++ or python
+minimum 1 year experience in a reliability role within a devops environment
+
+experience deploying and operating web-scale distributed systems
+superior skills in triaging, isolating and remediating operational issues.
+ability to build, use and configure metrics collection, reporting and alerting systems.
+excellent communication skills especially with diverse groups of team members including technicians, software and hardware engineers, as well as managers and executives.
+
+
+at the advanced technologies group (atg), we are building technologies that will transform the way the world moves. our teams in pittsburgh, san francisco, phoenix, and toronto are dedicated to mapping, software and hardware development, vehicle safety, and operations for self-driving technology. our teams are passionate about developing a self-driving system that will one day move people and things around more safely, efficiently, and cost effectively.
+
+the onboard integration team is responsible for developing the core apis and libraries and for each self-driving platform so that our teams can develop on top of it in a seamless and scalable way.

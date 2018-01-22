@@ -1,0 +1,40 @@
+Android Engineer, Point of Sale
+ San Francisco, CA
+ Full-time
+ Company Description
+ We believe everyone should be able to participate and thrive in the economy. So we’re building tools that make commerce easier and more accessible to all.  We started with a little white credit card reader but haven’t stopped there. Our new reader helps our sellers accept chip cards and NFC payments, and our Cash app lets people pay each other back instantly.   We’re empowering the independent electrician to send invoices, setting up the favorite food truck with a delivery option, helping the ice cream shop pay its employees, and giving the burgeoning coffee chain capital for a second, third, and fourth location.  Let’s shorten the distance between having an idea and making a living from it. We’re here to help sellers of all sizes start, run, and grow their business—and helping them grow their business is good business for everyone.
+ Job Description
+ TL;DR
+  –
+  As an engineer on the Point of Sale team, you’re working on Square’s most important product – directly contributing to an app used by millions of sellers to run their businesses every day. You’ll have near infinite opportunity to work on interesting problems: High availability systems, great user experiences, hardware integration, and everything in between. You’ll regularly work across product, design, and other engineering teams to make decisions, improve features, and get things done – that’s pretty sweet.
+ Longer version
+  –
+  The Point of Sale team serves two sets of customers: We build the Square Point of Sale app (
+ https://squareup.com/pos
+ ), which is used by millions of sellers around the world to run their businesses every day. We also build the Square Point of Sale platform, which is a foundational set of APIs and components used to build other Square products. Both of these customers are at the heart of Square’s business – you’re directly contributing to what the world recognizes as Square.
+ Engineers on the Point of Sale team have the opportunity to work on both features and platform / infrastructure. On any day, you might work with a backend engineer to debug an issue in a new server-side service, talk to a designer to get the UX of a feature just right, or work with infrastructure and platform teams to determine how best to modularize a feature for reuse. Our engineers enjoy working on all parts of our apps, and can tie all this work together to ship a high quality feature.
+ In the past, we’ve shipped…
+ Square’s Contactless & Chip Reader
+ Offline mode for card payments
+ Open Tickets / Checks
+ Itemized Refunds
+ Stored Cards on File
+ Qualifications
+ You will (or want to learn!)...
+ Enjoy working on mobile apps at all levels – from networking up to user interfaces and whatever’s in between.
+ Build high availability and highly resilient systems which can accept and accurately report payments no matter the network or device conditions.
+ Collaborate with iOS, Android, and Server engineers to ship features.
+ Work with product managers and designers to iterate on and define product scope and design.
+ Languages and technologies we use (and teach)...
+ Java and Kotlin for development.
+ Espresso for UI testing.
+ Protocol buffers for network transport.
+ Gradle + OkBuck for our build environment.
+ Also leverage Flow, LeakCanary, Dagger, Mortar, and okhttp for day to day development.
+ Additional Information
+ At Square, we value diversity and always treat all employees and job applicants based on merit, qualifications, competence, and talent. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status. We will consider for employment qualified applicants with criminal histories in a manner consistent with the requirements of the San Francisco Fair Chance Ordinance.
+ I'm interested
+ I'm interested
+ Refer a friend
+ share this job
+ Powered by

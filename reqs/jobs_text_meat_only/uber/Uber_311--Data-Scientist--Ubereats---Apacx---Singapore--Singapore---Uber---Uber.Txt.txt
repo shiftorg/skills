@@ -1,0 +1,26 @@
+Uber 311--Data-Scientist--Ubereats---Apacx---Singapore--Singapore---Uber---Uber.Txt
+
+
+
+as a data scientist on our apac marketing team, you will use advanced analytics and modeling to drive spend decisions for uber's multi-million dollar marketing budget.
+you will be responsible for collaborating with our hq team in san francisco to build and apply models that drive efficiency through optimization. by informing decisions through attribution and media mix models, you will directly impact the growth of supply and demand in apac.
+
+collaborate on building production grade models on large-scale datasets to optimize marketing performance by utilizing advanced statistical modeling, machine learning, or data mining techniques.
+leverage machine learning models to address key growth challenges such as lifecycle marketing, predictive ltv, cross-channel spend allocation, response modeling and media attribution
+build robust attribution models that effectively measure performance of each digital (email/mobile) and offline channel
+collaborate with marketing leadership, design, product and engineering teams.
+participate in project planning, stakeholder management and data prioritization meetings
+
+
+minimum of 4 years of experience in advanced quantitative analysis
+experience with a programming language (python/java/r/scala) required.
+experience with machine learning techniques and advanced analytics (e.g. regression, classification, clustering, time series).
+advanced sql skills - comfortable working with very large data sets
+familiarity with hadoop/hive
+
+
+m.s. in computer science, engineering, statistics, economics or other relevant technical field
+expert knowledge of customer lifecycle and marketing analytics
+
+
+the data and analytics team plays an important role in defining overall modeling methodologies, project priorities and business direction. as continue to strive for efficiency, the team's ability to collaborate with marketers, engineers and product leads alike adds value at every stage of our growth.  from testing campaigns to identifying targeting models for implementation, the team continues to have visible impact on the success of our various products and markets in apac.

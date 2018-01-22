@@ -1,0 +1,37 @@
+Uber 498--Developer-Tools--Self-Driving---San-Francisco--Ca---Uber---Uber.Txt
+
+
+
+
+
+as a member of the developer tools and infrastructure team you will be building out
+
+the core infrastructure, tools and management systems that powers our self driving teams. you'll have an opportunity to work multiple groups with the atg in a fast paced production focused environment.
+
+creating and managing new infrastructure and clusters for the
+uber atg
+
+developing coding standards and best practices
+
+refining and executing test plans for complex cyber-physical systems
+
+building powerful tools for our autonomy and software engineering teams
+
+
+experience with automated unit or stress testing
+prior v&v experience
+proven experience building sw/hw release management pipelines
+experience working with automated reporting systems and analysis of test results
+strong knowledge sense around modern automotive electronics and diagnostic procedures
+
+minimum 2 years experience programming in c/c++/python
+skilled in isolating, documenting, and tracking issues systematically
+proficient in communicating with vehicle technicians, software engineers, and executives
+
+php proficiency or familiarity with phabricator internals
+
+
+
+at the advanced technologies group (atg), we are building technologies that will transform the way the world moves. our teams in pittsburgh, san francisco, phoenix, and toronto are dedicated to mapping, software and hardware development, vehicle safety, and operations for self-driving technology. our teams are passionate about developing a self-driving system that will one day move people and things around more safely, efficiently, and cost effectively.
+
+the developer tools and infrastructure team is responsible for laying out the systematic infrastructure for uber atg and creating tools that help our team become 10x more productive.

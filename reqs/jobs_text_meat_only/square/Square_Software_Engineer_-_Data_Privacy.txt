@@ -1,0 +1,24 @@
+Square Software Engineer - Data Privacy
+
+software engineer - data privacy
+we started with a simple idea—that everyone should be able to accept credit cards—and we've been rethinking buying and selling ever since.
+for sellers, we're creating one cohesive service to run your entire business, from a register in your pocket to analytics on your laptop. for buyers, we're making it faster to order from the businesses you love and more fun to pay your friends back.
+buying and selling sound like simple things—and they should be. somewhere along the way, they got complicated. we're working hard to make commerce easy for everyone.
+information privacy and security has become a critical issue for consumers as well as companies.
+gdpr requires substantial investment by companies with european customers  doing so in a manner that minimizes disruption to product development and risk analysis is critical to square's future in the eu.
+as the founding engineer for the gdpr effort, you'll be the nexus for all gdpr related engineering efforts.  you will influence the roadmap for products affected by gdpr and review designs and implementations from teams to validate gdpr conformance.  as the gdpr and other privacy efforts increase you may be responsible for managing a team of engineers.
+work directly with teams at square building products for use in the eu.
+help product teams understand the effects of gdpr and how to minimize disruption from the requirements.
+work with the information security team to insure appropriate safeguards are in place for private data.
+work with the chief privacy officer and legal team to understand the ongoing requirements and impacts of gdpr
+communicate and collaborate with others in the industry to stay on the leading edge.
+attend conferences to understand current industry best practices as well as represent square's interests.
+at least 3-6 years of software development experience.
+programming experience in one or more object-oriented languages, including c, c++, objective-c, java, ruby, scala, go, and/or python.
+experience working with mysql or similar db
+experience with data warehousing technologies is a plus
+a demonstrated ability to learn new technologies quickly
+an ability to communicate well with a wide variety of people and product areas
+unwavering commitment to customer experience and product quality
+eagerness to share your own ideas, and openness to those of others
+a record of self-directed side projects, research, or open source participation are a plus!

@@ -1,0 +1,25 @@
+Salesforce 118--Architect-Or-Principal-Software-Engineer---Diagnostics-Visibility-And-Analytics.Txt
+
+
+
+
+software engineering architect/principal - diagnostics, visibility, and analytics about salesforce   these founding principles have taken our company to great heights, including being named one of forbes's "world's most innovative company” five years in a row and one of fortune's "100 best companies to work for” eight years in a row. we are the fastest growing of the top 10 enterprise software companies, and this level of growth equals incredible opportunities to grow a career at salesforce.  about diagnostics, visibility and analytics the salesforce platform hosts web services and applications written by thousands of internal developers and tens of thousands of customers to provide the largest business automation cloud on the planet. we process more than 2 billion customer interactions per day across our global data centers. needless to say, operations at this scale generate petabytes of operational data - every day. salesforce is strengthening the diagnostics, visibility and analytics (dva) team that is building the next generation web-scale, massively distributed platform for collecting, processing, transforming and analyzing this volume of operational data and providing near real-time insights to hundreds and thousands of delighted customers. do you want to step up and own chunks of this platform end-to-end?  if yes, we want to talk to you! about you ideally, you are a passionate software engineer who has tons of experience designing, developing, debugging, and operating resilient distributed systems that run across thousands of compute nodes in multiple datacenters.you have solved similar problems before and your solutions are powering the internet today - somewhere! you have experience balancing feature delivery, service ownership and retirement of technical debt. you are an agilista capable of driving and delivering thin slices of end-to-end functionality on a regular cadence with data-driven feedback loops. some of what you will do:
+
+live and breathe distributed services. you will write code, lots of it. ​commit to your customers' success by owning your services end-to-end; all the way from design, through development, validation, deployment, and last but not least, support in production. the buck will stop with you. commit to disciplined software engineering - tdd is how you roll, documentation is second nature to you, code reviews are a way of life, and your high quality code is always production ready. continuous deployment - bring it on! work closely with the open-source community. the community gave to us, it's only right that you contribute back changes and enhancements. use your prior experience to make sound design decisions, account for all the abilities of enterprise scale software, resolve complex technical issues and promote innovation. be an example for engineering excellence!
+
+what you have done:
+
+acquired a bachelor's degree in computer science or a similar engineering field. ​developed server-side java or c++ applications for 10+ years in a linux/unix environment. don't sweat it if you are stronger in c# than java, or windows rather than linux. if you are smart, you will pick up what you don't know yet. enough work in python, perl, ruby, go, scala etc. to be able to become an expert if necessary. worked with time series dbs, log and metric collection frameworks, message bus and other aspects of data streaming and analytics platforms using apache kafka, opentsdb, logstash, elasticsearch or equivalent technologies. used java management technologies including jmx, mbeans, java management features and snmp. if you are an expert in .net and want to learn java, that works too. some experience using sql and/or nosql datastores e.g. oracle, microsoft sql server etc. you could get by in hbase or equivalent. demonstrated passion, ability, a willingness to learn quickly and a mindset to make a difference. you are an effective communicator and work equally well in a team or by yourself. you get stuff done!
+we will turn handsprings if you:
+
+are an industry leader in the monitoring space. ​are an active contributor on two or more open source projects.
+come talk to us!
+
+
+
+
+
+
+
+
+

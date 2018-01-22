@@ -1,0 +1,21 @@
+Uber 32--Localization-Engineer---San-Francisco--Ca---Uber---Uber.Txt
+
+
+
+
+
+
+this an opportunity for those with specializations in developing new real-time registration, localization and pose estimation algorithms from a variety of sensor and inertial data, and/or production-quality software development.
+design, implement, test, and maintain real-time localization and mapping software that runs on self-driving uber vehicles
+design, implement, test, and maintain localization and mapping software that runs offboard for optimization, analysis, testing, and verification
+analyze large datasets and work with raw sensor data
+collaborate cross-functionally with other engineering teams at uber and communicate your work to colleagues and management
+
+highly skilled in probabilistic filtering theory, or geometric computer vision, or inertial pose theory
+extensive, demonstrable results in real-world applications
+good experience and experience programming in c++. python skills are also desirable but not essential.
+shown ability to produce computationally intensive software that runs and produces high quality results in real time
+prior experience in any of pose estimation, probabilistic filtering, slam, nonlinear optimization, autonomy, networking, or user interfaces desired
+
+
+at the advanced technologies group (atg), we are building technologies that will transform the way the world moves. our teams in pittsburgh, san francisco, phoenix, and toronto are dedicated to mapping, software and hardware development, vehicle safety, and operations for self-driving technology. our teams are passionate about developing a self-driving system that will one day move people and things around more safely, efficiently, and cost effectively.

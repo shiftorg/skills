@@ -1,0 +1,27 @@
+Okta 13--Director-Site-Reliability-Engineering-|-Okta.Txt
+
+
+okta authenticates, authorizes and provisions millions of users a day. the service is hosted on amazon web services (aws) across multiple availability zones and geographically separated regions. the service is designed for high throughput, and 100% availability.   we're looking for a technical leader to help us to continue to scale the service with great people and reliable, cost-effective and efficient infrastructure, processes and tooling.
+
+"always on" service delivery.
+work with our program management, finance and product development organizations for capacity forecasting and production budget management.
+people management - you will lead and develop distributed team of site reliability engineers, database reliability engineers, and first line managers.
+ensure that we build and maintain the automation tools and processes required to reliably and efficiently manage and secure our fleet.
+work with other parties within engineering to accelerate sre adoption of agile and devops methodologies and help the sre teams fully leverage the source control, ci, quality engineering and release management resources available to them.
+partner with development to provide the infrastructure and services required to enable innovation and to ensure the products we build have the tools and telemetry required to operate it effectively and efficiently.
+continue to evolve our service architecture of microservices, containers, and a monolith to take advantage of new cloud infrastructure services and modern scalability concepts (i.e. pets vs cattle).
+participate in 24x7 site reliability rotations and escalation workflows.
+
+
+8+ years of experience in technical leadership.
+5+ years of experience people management.
+extensive experience using agile and devops methodologies to build product infrastructure along with the monitoring, alerting and tooling required to operate it.
+3+ years of experience running large-scale infrastructure supporting a cloud service, preferably in aws.
+solid background in linux system administration and understanding of automation scripting languages (eg python), configuration management systems (eg chef), and logging and monitoring frameworks (eg splunk, zabbix).
+deep expertise in securing cloud infrastructure (eg security monitoring, pam, key-based authentication, role-based authorization, audit logging and patching).
+experience navigating security certification audits a plus (eg fedramp).
+effective verbal, written communication and interpersonal skills.
+
+
+computer science degree or related degree or equivalent experience
+

@@ -1,0 +1,304 @@
+Skip to main content
+ Back
+ Uber
+ Rides on demand
+ Install
+ Ride
+ Drive
+ Help
+ Sign In
+ What city are you in?
+ Become a driver
+ Ride
+ Overview
+ How it Works
+ Fare Estimator
+ Safety
+ Cities
+ Airports
+ Drive
+ Overview
+ Requirements
+ Driver App
+ Safety
+ Rewards
+ Eats and more
+ Uber Eats
+ Uber for Business
+ Uber Freight
+ What city are you in?
+ English
+ Follow Us
+ Facebook
+ Twitter
+ LinkedIn
+ Instagram
+ Enter keyword
+ All teams
+ All teams
+ Advanced Technologies Group
+ Business & Sales
+ Communications
+ Design
+ Engineering
+ Finance & Accounting
+ Global Community Operations
+ Legal
+ Marketing
+ Operations & Launch
+ People Operations
+ Product
+ Public Policy
+ Rentals & Leasing
+ Safety & Security
+ University
+ All subteams
+ All subteams
+ All countries
+ All countries
+ Argentina
+ Australia
+ Austria
+ Bangladesh
+ Brazil
+ Bulgaria
+ Canada
+ Chile
+ Colombia
+ Costa Rica
+ Denmark
+ Ecuador
+ Egypt
+ France
+ Germany
+ Hong Kong
+ India
+ Indonesia
+ Ireland
+ Italy
+ Japan
+ Kenya
+ Korea, Republic of
+ Lithuania
+ Malaysia
+ Mexico
+ Myanmar
+ Netherlands
+ Pakistan
+ Panama
+ Peru
+ Philippines
+ Poland
+ Portugal
+ Saudi Arabia
+ Singapore
+ South Africa
+ Spain
+ Sri Lanka
+ Sweden
+ Taiwan
+ Thailand
+ Ukraine
+ United Arab Emirates
+ United Kingdom
+ United States of America
+ Vietnam
+ All cities
+ All cities
+ Search open roles
+ Search
+ Careers
+ Search open roles
+ Open Roles
+ Data Scientist - Platform Development & Applied Consulting
+ Data Science, Engineering in San Francisco, CA
+ Apply Now
+ About Uber 
+  
+ We’re changing the way people think about transportation. Not that long ago we were just an app to request premium black cars in a few metropolitan areas. Now we’re a part of the logistical fabric of more than 600 cities around the world. Whether it’s a ride, a sandwich, or a package, we use technology to give people what they want, when they want it.
+  
+ For the people who drive with Uber, our app represents a flexible new way to earn money. For cities, we help strengthen local economies, improve access to transportation, and make streets safer.
+  
+ And that’s just what we’re doing today. We’re thinking about the future, too. With teams working on autonomous trucking and self-driving cars, we’re in for the long haul. We’re reimagining how people and things move from one place to the next.
+ About the Product Platforms Data Science Team
+ The Product Platform Data Science Team is a collection of teams that work horizontally across Uber. That means you’ll be solving problems in all different domains, with varying datasets, and novel challenges every day. Our teams break into several categories:
+  
+ Platform
+  
+ Development:
+  We work toward the construction of scalable, powerful and easy-to-use platform tools that are used by everyone at Uber. Specifically...
+ Forecasting and Anomaly Detection Platform - 
+ We develop cutting-edge methodologies to forecast business critical metrics over short and long horizons and to detect anomalous behavior. We also build a platform that makes our tools readily and broadly available.
+ Experimentation Platform - 
+ The bedrock of all testing at Uber, we design, enhance, and expand the suite of experimentation tools for teams in search of insights and learnings.
+ Natural Language Processing Platforms - 
+ Text and language surround Uber, so multiple teams require core DS skills as well as knowledge of NLP. These platforms are the backbone of Uber, impacting Marketplace to Marketing to Operations and every team in between.
+ Communication Platform
+ Customer Support
+ People Products
+ Semantic Platforms
+  
+ Applied Consulting:
+  We consult and embed with internal data scientist, engineering, and operations teams to solve technically challenging problems and deliver customized solutions. 
+ Applied
+  
+ Machine
+  
+ Learning
+  - We are team of ML enthusiasts, who consult with Uber teams on projects across the entire company. Our team builds large-scale ML models, consults on optimal ML approaches, and prototypes new techniques and technology. We’ve pioneered Deep Learning for NLP, Computer Vision for document processing, and causality modeling to optimize incentives.
+ Behavioral
+  
+ Science
+  - The LABS team (Leveraging Applied Behavioral Science) translates theories from psychology, marketing, neuroscience, etc. into practice by collaborating with product and regional teams to guide the ideation and implementation of science-backed product development and business processes through experimentation.
+  
+ What you could be doing:
+ The theme of Platform Development & Applied Consulting is that you get to work with other people, share their challenges, and collectively deliver better, scalable solutions. No matter the team you will...
+ Join scientists, engineers and product professionals on some of the most high-impact projects in the company.
+ Partner with critical program teams (i.e. Driver, Pricing, Maps) to offer them novel and ground breaking platform solutions or embed to tackle some of the most exciting data science challenges.
+  
+ Here is more information on the individual roles
+ Forecasting and Anomaly Detection Platform - 
+ Push the envelope on what can be done in the realm of time series and outlier detection, by actively researching and developing the next generation algorithms
+ Implement these methodologies in a rapidly growing platform designed for broad adoption and ease of use
+ Partner with experienced scientists and engineers to ensure their domain knowledge and needs are incorporated.
+ Experimentation Platform - 
+ Design large-scale experiments with teams to optimize our projects and strategies across the globe. You will guide the platform to ensure it serves all our data scientists.
+ Advocate for data-driven decisions by partnering with both downstream product teams and upstream data modeling teams to standardize the availability of metrics and testing results
+  
+ Natural Language Processing Platforms - 
+ Build scalable tools (i.e. dashboards, machine learning models) in R/Python to measure and monitor the effectiveness of our communications and strategies over a slew of platforms
+ Identify gaps in our strategies and data collection approaches to enable us to utilize NLP techniques
+ Communication
+  
+ Platform
+  - How can you analyze and optimize the way we communicate with riders/drivers/eaters?
+ Customer
+  
+ Support
+  - How can we listen (at scale) to our users and efficiently problem solve?
+ People
+  
+ Products
+  - How can you streamline the management of internal information and improve our colleagues’ experience at Uber?
+ Semantic
+  
+ Platforms
+  - How do we automate our cities by developing tools for the hundreds of operations teams located across the world?
+  
+ Applied Machine Learning - 
+ Set strategic vision for an evolving machine learning ecosystem. You will help us design solutions for challenges such as large scale feature engineering and storage, real-time prediction, and productionizing alternative model structures
+ Learn to build and deploy a variety of ML techniques. Past examples include, using deep learning + computer vision for reading documents, semi-supervised identifying safety issues, online-learning of ETA predictions, and modeling phone-sensor data to identify fraudulent behavior
+  
+ Perks
+ E
+ mployees are given Uber credits every month.
+ The rare opportunity to change the way the world moves. We're not just another social w
+ eb app, we're moving real people and assets and reinventing transportation and logistics globally.
+ Smart, engaged co-workers.
+ Benefits
+ 401(k) plan, gym reimbursement, nine paid company holidays.
+ Full medical/dental/vision package to fit your needs.
+ Unlimited vacation policy; take time when you need it.
+  
+ Be sure to check out the Uber Engineering 
+ Blog
+  to learn more about the team.
+  
+ Uber is an equal opportunity employer and enthusiastically encourages people from a wide variety of backgrounds and experiences to apply. Uber does not discriminate on the basis of race, color, religion, sex (including pregnancy), gender, national origin, citizenship, age, mental or physical disability, veteran status, marital status, sexual orientation or any other basis prohibited by law.
+  
+ Here are the kinds of skills we're looking for:
+ M.S.
+  
+ or
+  
+ Ph.D.
+  
+ degree
+  in Computer Science, Statistics (preferred) or quantitative domain
+ 3+
+  
+ years
+  
+ work
+  
+ experience
+  in delivering, scaling, and owning highly impactful Data Science products (models, platforms, dashboards, etc)
+ Proficiency in coding languages (R or Python required; Spark, Java, or Go are nice but not required) and familiarity with data extraction tools such Hadoop and Hive
+ Deep knowledge of statistical principles (i.e. confidence intervals, sampling bias, overfitting) and how they apply to your domain (forecasting, testing, ML, behavioral studies)
+ A commitment to learning and a love of data. We want someone who seeks to deliver impact, but also invests in themselves and others. Likewise you should jump at the chance to get your hands dirty with data and be able to turn it into an insightful story
+ Solid written and verbal communication skills, capable of explaining technical concepts to both your teammates and less-technical partners
+ Collaboration-first mindset. Our teams are built on working with others so we want you to seek out areas to help, be open to critical feedback, and appreciate diversity of thought
+ Some of the teams have more specialized skillsets in addition to those above:
+ [Applied
+  
+ Machine
+  
+ Learning
+  
+ or
+  
+ Forecasting/Anomaly
+  
+ Detection]
+  - Detailed understanding of the breadth and depth of machine learning. You know core concepts like the back of your hand (feature discovery/engineering, model validation, regression methods). You should also bring substantial depth in at least 1-2 ML specialities (i.e. NLP, recommender systems, time series)
+ [Experimentation
+  
+ or
+  
+ Behavioral
+  
+ Science]
+  - In depth knowledge of core experimental design (ANOVA, non-parametric testing) as well familiarity methodologies for handling nuanced cases (switchback testing, bootstrapping, longitudinal studies, causal inference).
+ Apply Now
+ See our Candidate Privacy Statement
+ At Uber we don’t just accept difference—we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Uber is proud to be an equal opportunity workplace. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status.
+ Uber is in 0 cities worldwide
+ City Search
+ Go to Uber.com
+ SIGN UP TO RIDE
+ Become a driver
+ Enter your location
+ English
+ Help
+ Help
+ Facebook
+ Twitter
+ LinkedIn
+ Instagram
+ Ride
+ Drive
+ Cities
+ Fare Estimate
+ Food
+ Business Travel
+ How it Works
+ Airports
+ Countries
+ Safety
+ Careers
+ Helping Cities
+ Our Story
+ Blog
+ Newsroom
+ Media
+ Uber API
+ Gift Cards
+ Uber vs Driving Jobs
+ Top Cities
+ San Francisco
+ London
+ Los Angeles
+ Washington D.C.
+ Mexico City
+ Sao Paulo
+ Top Countries
+ USA
+ France
+ India
+ Spain
+ Mexico
+ Russia
+ © 2017 Uber Technologies Inc.
+ Privacy
+ Accessibility
+ Terms

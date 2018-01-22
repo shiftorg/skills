@@ -1,0 +1,25 @@
+Uber 526--Data-Scientist-Ii---Driver-Product---Bangalore--India---Uber---Uber.Txt
+
+
+
+
+the driver team at uber is focused on accelerating driver growth, engagement, and retention across 300+ cities worldwide. data scientists on driver play a central role in guiding product development and strategy through the discovery of insights from data. in this position, you will offer a data-driven perspective and work closely with product, engineering, and marketing. you will be on the forefront of analysis and leverage our data sources to propose new ideas related to every area of our product, including developing predictive models of driver behavior, studying market balance and developing a growth model in the context of a two-sided market, creating experiment designs for product changes with difficult constraints (e.g. extensive product network effects). our team's autonomy gives us the flexibility to focus on the highest-impact projects in this adaptive and challenging role as we bring increasing numbers of riders and drivers onto the uber platform.
+
+leverage data to perform intensive analysis across all areas of our business to catalyze product development
+design experiments and interpret the results to draw detailed and actionable conclusions
+generate and execute on ideas for exploratory analysis to shape future projects and provide recommendations for actions
+perform time-series analyses, hypothesis testing, and causal analyses to statistically assess relative impact and extract trends
+create models to enhance understanding of user behavior and predict future performance of cohorts
+create dashboards and reports to regularly communicate results and monitor key metrics
+present findings to senior management to guide business decisions
+collaborate with cross-functional teams across disciplines such as product, engineering, operations, and marketing
+
+at least 5 years of experience in a quantitative analysis role
+ba/bs/ms in physics, economics, applied math, statistics, engineering, computer science, or other quantitative field (advanced degrees are a plus)
+comfortable writing code and contributing to a code base in python or r
+proficient in writing and understanding complex sql; experience working with large data sets
+advanced knowledge of experimentation and statistical methods
+ability to deliver on tight timelines and move quickly while maintaining attention to detail
+collaborate closely with cross-functional teams to execute on decisions
+self-driven and proactive with the ability to work in a self-guided manner
+excellent communication and organization skills

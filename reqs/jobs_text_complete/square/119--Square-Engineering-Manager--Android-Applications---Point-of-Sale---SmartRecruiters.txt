@@ -1,0 +1,32 @@
+Engineering Manager, Android Applications - Point of Sale
+ San Francisco, CA, USA
+ Full-time
+ Company Description
+ We believe everyone should be able to participate and thrive in the economy. So we’re building tools that make commerce easier and more accessible to all. We started with a little white credit card reader but haven’t stopped there. Our new reader helps our sellers accept chip cards and NFC payments, and our Cash app lets people pay each other back instantly. We’re empowering the independent electrician to send invoices, setting up the favorite food truck with a delivery option, helping the ice cream shop pay its employees, and giving the burgeoning coffee chain capital for a second, third, and fourth location. Let’s shorten the distance between having an idea and making a living from it. We’re here to help sellers of all sizes start, run, and grow their business—and helping them grow their business is good business for everyone.
+ Job Description
+ The Point of Sale team builds the software millions of sellers trust to run their businesses every day. We craft simple, elegant, and reliable product experiences to enable small businesses to make every sale. We work collaboratively to develop intuitive yet sophisticated product features, highly-available services, and software that integrates seamlessly with our hardware products.
+ Square’s Android engineers are among the most prolific Open Source contributors anywhere,  Dagger was born inside Square’s Point of Sale application in order to make development modular. Same with Retrofit and Leak Canary. And we’re not done yet!
+ As an Engineering Manager on the Android Point of Sale team, you will:
+ Help set broad direction and vision, influence product strategy, and establish practices to efficiently and effectively address customer needs
+ Find the perfect balance between time to market and long-term sustainable software development
+ Lead and participate in critical technical, design, and product discussions with leaders across product teams
+ Own the success of your team’s projects and deliver quantifiable results in a timely manner
+ Mentor engineers for their technical and career development
+ Hire great talent, coach and develop your team, cultivate pragmatic engineering decision-making, and leverage your technical expertise.
+ Qualifications
+ You have:
+ 5+ years of software development or equivalent experience
+ 1+ year of management or equivalent experience
+ BA/BS degree or equivalent practical experience
+ Experience developing mobile products
+ Experience collaborating with designers, product managers, and other engineering leaders
+ Excellent software engineering aptitude and the ability to provide technical mentorship and guidance
+ Even better:
+ Current or recent hands-on coding expertise
+ Additional Information
+ All your information wiAt Square, we value diversity and always treat all employees and job applicants based on merit, qualifications, competence, and talent. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status. We will consider for employment qualified applicants with criminal histories in a manner consistent with the requirements of the San Francisco Fair Chance Ordinance.ll be kept confidential according to EEO guidelines.
+ I'm interested
+ I'm interested
+ Refer a friend
+ share this job
+ Powered by

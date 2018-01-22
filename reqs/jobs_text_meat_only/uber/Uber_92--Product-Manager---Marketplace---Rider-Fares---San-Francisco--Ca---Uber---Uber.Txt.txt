@@ -1,0 +1,34 @@
+Uber 92--Product-Manager---Marketplace---Rider-Fares---San-Francisco--Ca---Uber---Uber.Txt
+
+
+
+for the women and men who drive with uber, our app represents a flexible new way to earn money. for cities, we help strengthen local economies, improve access to transportation, and make streets safer.
+
+
+
+• rider fares within the marketplace group is responsible for figuring out rider, eater, and driver fares for uber's entire global marketplace and delivering prices in a clear and compelling user experience.
+• rider fares powers and develops uber's pricing levers that are critical to running uber's marketplace efficiently, providing real-time fare calculation that takes into account various internal and external inputs such as rider demand, driver availability, geography, and time. the price calculation for every single uber trip flows through the rider fares platform.
+• the team also leads the end-to-end mobile app experience for pricing, ensuring that the determined fares for uber's portfolio of products is conveyed to riders and drivers with high clarity and in a magical experience, from app session to trip request and through to trip completion.
+• as the gateway and guardian of all uber price determination, the rider fares team ensures the accuracy and traceability of the price for every trip taken on uber, in addition to managing the interfaces with other uber internal stakeholders that rely on price.
+internalize and deeply understand uber's mission and strategies, as well as the mission and objectives of the rider fares team
+lead the vision, roadmap, and execution to deliver a clear, compelling, and accurate upfront price in the user experience for all of uber's riders and drivers.
+innovate and develop unique mobile app experiences and levers for pricing that encourage rider usage and continued loyalty.
+ensure accurate, reliable, and traceable price calculation for every trip on uber's marketplace.
+enhance and scale the rider fares engine that powers uber's pricing to support uber's exponential growth.
+understand the requirements and needs of uber's markets to ensure successful global deployment of upfront price experiences.
+lead cross-functional and full-stack teams of engineers, data scientists, and designers to deliver your product vision.
+collaborate with uber internal stakeholders, including the global operations teams that have on-the-ground knowledge about the city markets in which uber operates.
+a passion to apply technology and data to change how humanity moves
+minimum 2 years of product management experience
+strong customer empathy, with an ability to transform complex data and customer insights into delightful mobile user experiences
+experience working in a metrics and experimentation driven organization
+experience partnering with cross-functional teams of engineers, data scientists, and designers to deliver extraordinary products
+expert communication skills, both within your team and with leadership and stakeholders
+academic background in computer science, statistics, or engineering
+
+
+the marketplace group builds the platform, products, and algorithms responsible for the real time execution and online optimization of uber's marketplace. we are building the brain of uber, solving np-hard algorithms and economic optimization problems at scale, in real time, making all of the decisions for uber's marketplaces based on up-to-the-second data as well as forecasts of the future. and we're not just talking about designing algorithms - we also build robust production systems to power these algorithms from the ground up.
+
+our group's systems control the dynamics of all of uber's markets, from our core personal transport business with uberx and uberpool, to uber's emerging markets such as ubereats and uberrush. we focus on areas like dynamic pricing (surge pricing, upfront pricing), intelligent dispatching (matching algorithms, dispatch paradigms), and supply positioning (optimal positioning of drivers in anticipation of demand patterns). the goal of these systems is to dramatically lower cost & etas for riders, increase revenue for driver partners, improve the overall efficiency and utilization of uber's fleet of supply, and enable products in entirely new marketplaces.
+
+our group is continuously deploying a variety of system configuration and algorithmic changes that affect how we respond to and attempt to balance supply and demand in different markets - any given week could involve deploying a new real time dynamic pricing algorithm, testing a set of new dispatching features, and launching a supply positioning recommendation system to drivers. in addition to all of the changes that the teams in the marketplace group are constantly making in order to optimize uber's marketplace, there are scores of other changes external to our control happening in each city's markets: rider growth, driver growth, trip growth, cyclical daily/weekly demand patterns, special events, weather, and even uber promotions like kittens and ice cream.

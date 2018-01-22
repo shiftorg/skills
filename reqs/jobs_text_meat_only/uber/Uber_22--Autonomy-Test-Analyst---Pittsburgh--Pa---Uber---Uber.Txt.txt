@@ -1,0 +1,26 @@
+Uber 22--Autonomy-Test-Analyst---Pittsburgh--Pa---Uber---Uber.Txt
+
+
+
+
+
+as an autonomy test analyst, you will be part of a team responsible for analyzing driving events encountered by our vehicles on the road, building simulations such that they can be replicated in software, and communicating system performance to the autonomy team. you may work closely with autonomy test engineers, autonomy engineers, or software engineers to understand or build specific scenarios.
+
+
+review events encountered by our vehicles on the road every day
+participate in software discussions and stay on top of all new features
+assist autonomy test engineers track and update bug tickets
+synthesize feedback from our drivers about the performance of the autonomy system
+build simulations that replicate on-road situations
+curate metadata describing how the simulation fits with the overall testing plan
+
+bs degree in technical field or equivalent practical experience.
+experience working with unix systems and a familiarity working on the command line
+basic knowledge of physics as it applies to vehicle analysis (braking distance, acceleration profiles, etc)
+previous software quality testing experience a plus
+comfortable working on a task that's repetitive in nature, while still ever-changing
+strong attention to detail
+
+at the advanced technologies group (atg), we are building technologies that will transform the way the world moves. our teams in pittsburgh, san francisco, phoenix, and toronto are dedicated to mapping, software and hardware development, vehicle safety, and operations for self-driving technology. our teams are passionate about developing a self-driving system that will one day move people and things around more safely, efficiently, and cost effectively.
+
+our teams of test specialists on triage and scenario operations work directly with various autonomy teams to document driving events and then turn those events into actionable test simulations to verify improvements and track regressions of our software.

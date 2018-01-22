@@ -1,0 +1,32 @@
+Okta 54--Senior_Group-Product-Manager-Admin-Experience-|-Okta.Txt
+
+
+we are looking for a strong senior or group product manager with a passion for the experience of the it administrator configuring, managing, and using the product. this is a unique opportunity for the right candidate to help deliver our next generation admin experience with a specific focus on information and knowledge delivery across our documentation, user interface, help center, and other channels.
+this role will be responsible for partnering closely with information development, product management, engineering, user experience, customer success, support, training and marketing teams to drive significant improvements to our admin experience that drive feature discovery and adoption across our products. this includes assuming product ownership in integration of tasks, notifications, system status information, support and release notes, into a cohesive and consumable experience.
+overall success in this role will require both a strong ability to understand customer requirements, define our strategy, and execute across okta stakeholders to ensure delivery of a compelling end-to-end admin experience. the ideal candidate will have experience developing and optimizing market-leading enterprise saas products. experience in identity management and it products is a plus, too. balancing the value for customers, the cost of implementing different approaches, and working within real-world constraints is a key part of the role.
+
+
+set product strategy and direction for key areas of our admin product experience, including knowledge and information delivery
+closely partner with the user experience team to uncover insights and drive a compelling design to support the knowledge experience across channels
+execute with engineering, the wider products teams and other internal groups to deliver capabilities to our administrators that make them successful and adopt our products
+ruthlessly prioritize across a number of product investment areas and detailed features to deliver the most customer value
+track industry trends and competition to inform product decisions and strategy and collaborate with product marketing to support new offerings
+
+
+
+bachelor's degree
+experience across the product management lifecycle for enterprise products or services for a multi-tenant saas company
+strong ux and design thinking skills
+data-driven approach to decision making
+excellent communication skills (presentation, verbal and written)
+strong leadership skills and presence
+track record of successful delivery of company-critical projects
+5+ years of industry experience. 3+ years of product management or related experience
+
+
+advanced degree or mba
+knowledge of enterprise security products and services
+knowledge of data systems and infrastructure
+knowledge in identity or access management
+experience with developing multi-tenant saas services
+

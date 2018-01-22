@@ -1,0 +1,30 @@
+Uber 558--Product-Manager---Data-Platform---Experimentation---San-Francisco--Ca---Uber---Uber.Txt
+
+
+
+
+
+we are looking for an experienced product manager to lead our experimentation team. in this role, you will build the platform that brings intelligence to everything we ship, from code changes, to product launches and experiments.
+
+this team is at the ground zero of uber's innovation engine. and with your help, we will build the most important tool for decision making at the company.
+
+you'll lead a cross-functional team of engineers, data scientists, and designers that owns:
+experimentation across our mobile apps, backend services, websites, and communication channels
+robust analytics system, including the pipeline for canonical business and product metrics
+configuration dashboard for running experiments
+real-time health monitoring to detect, alert, and roll back regression
+
+internalize and deeply understand uber's growth strategy - and then align your team's mission and roadmap with this direction.
+craft a coherent product vision and execution strategy for your team to achieve product adoption among engineers, product managers, and data scientists using your software.
+guide your team to build tools that rapidly attain internal product-market fit and widespread adoption among those responsible for making uber grow.
+execute. this means being constantly biased towards action, knowing the data, being in the details, setting a high bar and building strong collaborative relationships with other teams, thinking boldly, disambiguating, always thinking of the customer first and rapidly iterating towards something demonstrably awesome.
+a computer science undergraduate degree or equivalent plus hands-on software engineering experience. technical understanding of the systems you propose to build.
+at least five years experience leading and leading cross-functional product teams that delivered solutions related to user engagement and activation
+great design instincts and product taste.
+a high bar across the board - from your own contributions to the people you work with to the products you work on.
+a “driver” personality - biased toward action, great collaborator and master disambiguator/simplifier - constantly pushing toward clarity and delivery.
+data-driven mindset; ability to leverage data to make decisions without getting stuck in analysis paralysis.
+true user-centricity and deep empathy for a wide variety of stakeholders.
+true passion for uber's mission and the company's hybrid technology / operations nature.
+a strong entrepreneurial bent. you never hesitate to roll up your sleeves and tackle something hands-on, you persevere when others fall away, you get it done.
+an unquenchable desire to help uber be the fastest growing company in the world.

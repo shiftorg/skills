@@ -1,0 +1,20 @@
+Salesforce 54--Product-Management-Director-–-Financial-Services-Cloud.Txt
+
+
+
+
+are you an innovative product manager who thrives in a fast paced collaborative environment and loves working with the best technology team in the world? how about financial services? do you know the industry well? do you know the fintech space and have a point of view of how banks, wealth advisors or insurers can transform to be digital first? what about the enterprise technologies that make up the world's back offices to manage client onboarding or referral and policy management processes? the salesforce financial services cloud is looking for a strong product management professional to drive the next set of industry-specific functionality for our financial services offerings. we've already started, and are looking for this addition to help us scale and tackle even more as we deliver 3 releases per year. we are also looking for a salesforce expert, or someone who wants to become just that. much of our mandate is to extend core salesforce offerings into financial services specific use cases, so they work out-of-the-box and incorporate best practices from around the industry, as well as drawing inspiration from mind-blowing innovations from other industries. have a look at what we've been up to recently:  https://sfdc.co/la9m5 responsibilities here's what you'd be doing:
+contribute to our wealth management, retail banking, and insurance product point of views and directional roadmaps including how they work with/leverage partner integrations. identify & define business problems worth solving at scale, work with our innovation process to design forward-thinking solutions, then determine how we'll deliver -- whether by extending the financial services cloud with existing salesforce technology, co-building capabilities with isv partners, or building out net new functionality ourselves. engage with customers, partners, and isvs in our design partner program, along with product ambassadors from across salesforce to prioritize the future of our industry represent salesforce as a domain and product expert at customer interactions, industry and corporate events, and through community sites and social media.
+job requirements first and foremost:
+proven financial services expertise (whether in wealth management, banking, or insurance - but must be willing to tackle any of the three) demonstrable salesforce product knowledge enterprise architecture comprehension and experience ability to work in a team of other pms who have dependencies on you and vice versa. others would leverage much of what you work on with corresponding needs for their functionality.
+everything else that matters:
+
+bachelor's degree in engineering, computer science, or related disciplines or equivalent experience in technical leadership roles minimum of 8 years' experience in platform product engineering and/or management with expertise in enterprise / saas environments understanding of the broad saas and financial services landscape, product marketing and go-to-market strategies agile methodology, and api experience mba a plus a sense of humor, and grace under pressure
+
+
+
+
+
+
+
+

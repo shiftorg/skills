@@ -1,0 +1,24 @@
+Software Engineer - Full-Stack
+ San Francisco, CA
+ Engineering
+ Full-Time
+ Apply for this job
+ In order to succeed in our vision to offer honest financial services that improve lives, our team must maintain extreme efficiency and deliver a seamless experience with every customer interaction. We're looking for an incredible full-stack engineer who will create products that will empower our customers, our merchant partners, and our employees.
+ What You'll Do
+ You will lead the development of products for our merchant partners, our customers, or our finance, risk and operations teams
+ Work with Product Management, Design, and Platform Engineering to design & implement new products, and features for our existing products.
+ What We Look For 
+ Passion and drive to change consumer banking for the better
+ Comfort with both client-side and server-side development
+ AJAX/Javascript/HTML5/CSS
+ Understanding of templating technologies like Jinja
+ Backend service integration
+ Experience with wsgi frameworks like Flask
+ Experience integrating UX testing tools / test automation frameworks
+ ABOUT AFFIRM
+ At Affirm we are using technology to re-imagine and re-build core parts of financial infrastructure to enable friendlier and more transparent financial products and services that improve lives.
+ We believe the financial industry is fundamentally broken. Not only is the core infrastructure built with technology from the 1970s, but there are a dwindling number of people who say "I trust my bank to look out for me". It doesn’t have to be this way, and it’s our mission to fix this problem.
+ We are based in San Francisco; founded by Max Levchin (founding CTO of PayPal), Jeff Kaditz (CDO DeNA/ngmoco), and Nathan Gettings (founding CTO of Palantir); and building a team of exceptionally talented people to join us on our mission.
+ Apply for this job
+ Affirm Home Page
+ Jobs powered by 

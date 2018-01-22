@@ -1,0 +1,32 @@
+Okta 57--Senior_Group-Product-Manager-Universal-Directory-And-Directory-Integrations-|-Okta.Txt
+
+
+our customers use okta both to power their internal enterprise and to build apps for their customers and partners. in both cases, customers want the benefits, flexibility and innovation that a modern cloud directory provides, while managing the reality of having an extensive and deeply integrated on-premises infrastructure.
+explosive growth in collaboration and the types of connected devices, driven by employees bringing their own devices and the internet of things (iot), mean that the modern directory needs to track, map and provide the full richness of this data and their relationships. further, all these challenges must be met at massive scale with best-in-class security and performance. okta's universal directory is the foundational product that allows okta to solve these critical customer problems and build the identity and mobility infrastructure of the future.
+in this role, you'll be defining the product strategy and direction for okta's directory product, how okta works with common on-premises 3 rd -party directories (e.g., ldap and active directory), modern cloud-based directories like google, aws, and azure ad, and how we differentiate against other products in the market. in addition, you'll be setting the roadmap for the product by defining, prioritizing, building and delivering user scenarios and features to drive that strategy forward.
+
+define product strategy and roadmap to focus our investments on the highest value projects
+collaborate closely with architects, engineers and ux to define usable and scalable solutions
+use a hypothesis-driven approach while finding ways to validate assumptions quickly and at low cost
+track market trends and dynamics to inform product decisions and strategy
+collaborate with product marketing and technical marketing to align product and go-to-market strategies
+connect with customers and internal teams to understand the root drivers behind what drives value for them in both the short and long term, their feature requests and then distill these asks into requirements and an actionable phased delivery plan
+leverage product data to continually get smarter about how to improve our existing products
+
+
+you have a strong technical background that allows you to influence technical design and investment decisions
+you can see the big picture, but deliver on the details
+you can produce solid action plans from often incomplete, conflicting or ambiguous inputs
+you can think deeply about hard problems
+excellent communication skills across both technical and business audiences
+strong leadership skills and executive presence
+5+ years of industry experience. 3+ years of product management or related experience
+bachelor's degree
+
+
+experience with directory products (e.g., active directory, ldap)
+experience with the broader microsoft enterprise technology stack, particularly in real-world customer deployments
+experience with systems/endpoint management challenges and technologies (e.g., sccm, jamf, airwatch, mobileiron)
+experience w/ iot
+advanced degree in technical or business field
+

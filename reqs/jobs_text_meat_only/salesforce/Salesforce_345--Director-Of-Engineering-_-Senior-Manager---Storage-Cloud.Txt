@@ -1,0 +1,18 @@
+Salesforce 345--Director-Of-Engineering-_-Senior-Manager---Storage-Cloud.Txt
+
+
+
+
+director of engineering / senior manager - storage cloud the storage cloud team designs, develops, tests, and releases storage services that cater to different customer workloads ranging from low-latency databases to high-throughput backups in salesforce's web scale data centers. you will be part of a team that is responsible to drive innovation in persistent storage and create the next-gen scale-out distributed storage technology running in all salesforce data centers.   we are looking for a strong engineering leader who can drive and execute this vision.  do the points below get you excited about the role? come and join us at salesforce!
+be the voice of the team that eats, sleeps, and breathes services at cloud-scale. you have experience balancing live-site management, feature delivery, and retirement of technical debt. have strong, heartfelt opinions on topics such as on-disk data placement formats, data consistency, availability, i/o performance, disaster recovery, etc. excited by building reliable, self-healing services on unreliable hardware and providing a robust monitoring and management framework for these services. experience designing, developing, debugging, and operating resilient distributed systems that run across thousands of compute nodes in multiple data centers. enjoy playing the role of a product owner and scrum master for the storage service by defining the roadmap, chalking milestones and defining and tracking progress through sprints enjoy guiding and mentoring team members to reach the pinnacles of success, but you are always ready to get hands-on, if the situation demands
+
+strong technical credentials with 10+ years in software development; experience building storage services or storage products preferred. 4+ years in managing software development teams, ideally with some hands-on architecture or distributed systems experience. experience in building strong, successful technical teams and coaching and mentoring individuals along their career paths. ability to prioritize in a rapidly changing environment; communicate clearly to steer the strongly talented team to deliver a high quality service. experience with c++ and/or java in a linux/unix data center environment. ability to represent operational issues to senior leadership and dive deep into the technical details when required.
+company overview:   these founding principles have taken our company to great heights, including being named one of forbes's "world's most innovative company” six years in a row and one of fortune's "100 best companies to work for” nine years in a row. we are the fastest growing of the top 10 enterprise software companies, and this level of growth equals incredible opportunities to grow a career at salesforce.    *li-y
+
+
+
+
+
+
+
+

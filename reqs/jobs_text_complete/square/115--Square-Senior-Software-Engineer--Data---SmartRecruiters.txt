@@ -1,0 +1,35 @@
+Senior Software Engineer, Data
+ San Francisco, CA
+ Full-time
+ Company Description
+ We believe everyone should be able to participate and thrive in the economy. So we’re building tools that make commerce easier and more accessible to all.  We started with a little white credit card reader but haven’t stopped there. Our new reader helps our sellers accept chip cards and NFC payments, and our Cash app lets people pay each other back instantly.   We’re empowering the independent electrician to send invoices, setting up the favorite food truck with a delivery option, helping the ice cream shop pay its employees, and giving the burgeoning coffee chain capital for a second, third, and fourth location.  Let’s shorten the distance between having an idea and making a living from it. We’re here to help sellers of all sizes start, run, and grow their business—and helping them grow their business is good business for everyone.
+ Job Description
+ At Square we recognize that good decision-making is only possible when you have all the data you need at hand, along with the right tools and systems to process and analyze that data. The Data Infrastructure team plays a pivotal role in powering the Square data engine, through the full-stack ownership of:
+ data replication pipelines, for moving data at scale.
+ structured application event logging, for analytics and machine learning.
+ Kafka, for streaming data at scale.
+ shared distributed data processing and analytical databases such as Hive and Vertica.
+ As a shared infrastructure team, our customers span the gamut from other application teams to data analysts to data scientists; if you need data, Data Infrastructure has a hand in making it available to you.
+ This is an exciting time to join! As we continue to grow and expand, these are the kinds of challenges you’ll help solve:
+ How to seamlessly migrate data pipelines to new, modern foundations
+ How to incorporate modern cloud technologies into the existing data architecture to solve existing use cases and empower new use cases
+ How to build robust, efficient, automated, generic self-service data pipelines
+ You Will:
+ Write performant, clean, modern applications, services, and pipelines in Java and Ruby/Rails.
+ Improve and automate our existing systems.
+ Participate in the full development process, from design and design docs to implementation and testing to deployment and scaling.
+ Propose, research, prototype, and test new ideas, from libraries to systems to technologies
+ Qualifications
+ You have:
+ 5+ years industry experience developing scalable web applications, backend services, or data pipelines in Java or Ruby, or 3+ years with a Master's degree.
+ Bachelor’s degree in Computer Science or equivalent practical experience.
+ Bonus: Development or operational experience with Hadoop, Hive, or Kafka.
+ Bonus: Linux operational experience
+ Bonus: Experience with cloud technologies.
+ Additional Information
+ At Square, we value diversity and always treat all employees and job applicants based on merit, qualifications, competence, and talent. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status. We will consider for employment qualified applicants with criminal histories in a manner consistent with the requirements of the San Francisco Fair Chance Ordinance.
+ I'm interested
+ I'm interested
+ Refer a friend
+ share this job
+ Powered by

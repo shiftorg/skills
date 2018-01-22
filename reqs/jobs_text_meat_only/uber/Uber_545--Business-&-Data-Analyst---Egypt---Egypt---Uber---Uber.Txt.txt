@@ -1,0 +1,30 @@
+Uber 545--Business-&-Data-Analyst---Egypt---Egypt---Uber---Uber.Txt
+
+
+
+
+
+
+our central operations teams are the heart and soul of uber. these are the teams that take our global product and localize it to an assigned market, while creating thousands of economic opportunities for drivers, and making transportation cheaper and more accessible for our riders. we are in the midst of incredible growth, which requires hard work. we are looking for individuals who are passionate about what they do and ready to roll up their sleeves to grow their city.
+
+are you pumped about impacting the strategic direction and day to day decisions of uber in egypt? then this role is for you!. based out of cairo, you will drive the strategic decision making process through your heavily data-driven/analytical approach and operational mindset. the ideal candidate for this role should have exemplary analytical skills, excellent time-management and organizational habits, and the ability to clearly communicate and present information.
+
+
+drive analysis on important strategic decisions in order to optimize the ph business
+provides recommendations and actions for teammates that will further drive business to success
+coordinate with other members of the uber team to measure the impact and efficiency of new products and business processes
+develop analytical frameworks to support the company in new markets and products
+identify operational weaknesses and help improve or innovate new processes to keep our local teams as efficient as possible
+build, maintain, and communicate detailed reporting models to assist city-level, regional, and expansion efforts
+
+2+ years of data science / business intelligence or related experience
+exceptional excel / data management skills - many say they are great at excel, fewer truly are. ideal candidate brings some impressive know-how (and the understanding that there's always more to learn)
+sql, python, r, coding experience is required
+must have a passion for hacking things together in order to solve the hardest problems
+strong communication and organization skills
+hacker: gets things done by using existing tools or introducing new ones
+strategic thinker: goes beyond today and thinks about tomorrow, using data to drive his/her decision-making
+team player
+balance attention to detail with swift execution - we need to do things quickly, and we need to do them well. balancing those can be challenging, and this should be a strength
+explorer - the ability to self-serve, investigate and get the data we require will make you much more effective in this role. self-starter attitude is a must!
+experience working in a high-growth analytics or operations experience a plus

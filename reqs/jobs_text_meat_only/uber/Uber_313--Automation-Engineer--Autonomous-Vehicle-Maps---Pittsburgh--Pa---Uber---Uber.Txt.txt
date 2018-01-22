@@ -1,0 +1,22 @@
+Uber 313--Automation-Engineer--Autonomous-Vehicle-Maps---Pittsburgh--Pa---Uber---Uber.Txt
+
+
+
+
+
+we are looking for experienced automation engineers capable of designing, implementing, bringing to production, and maintaining the advanced automation techniques for our autonomous vehicle mapping team. automation engineers work closely with engineers and map production specialists across the av maps team to support more automation in map production. we need experienced, production-focused automation engineers developing highly-reliable products in a collaborative and fast-paced environment.
+
+use best principles in automation to introduce advanced analytics, automation, and machine learning techniques to the map production pipeline
+make informed tradeoffs and conduct studies to demonstrate the efficacy of your models in a production environment
+support the code and models you design and write in production
+
+
+experience building advanced analytics, automation, and machine learning techniques in c++ and python
+experience with machine learning frameworks such as tensorflow
+high bar for producing high-quality software
+familiarity and the ability to work with technologies such as linux and git
+experience with extremely large data sets
+
+
+
+the avmaps team at uber advanced technologies group (atg) is a passionate, close-knit group of interdisciplinary thinkers and doers that craft forward-thinking software that enables self-driving vehicles. we develop technologies at fast pace while considering safety, legality and user experience. the team identifies map data and builds solutions to deliver reliable and high quality maps for faster autonomous development.

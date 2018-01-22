@@ -1,0 +1,25 @@
+Uber 205--Data-Science-Manager---Uber-Everything-(Nyc)---New-York--Ny---Uber---Uber.Txt
+
+
+
+
+
+
+are you interested in working at the intersection of applied quantitative research, engineering development, and data science? do you have interest in leading and growing a top-notch science team at uber to develop and apply quantitative solutions related to uber's uniquely challenging problems? if so, this is the job for you.
+
+
+uber everything data scientists embed with uber's logistics delivery marketplace and help resolve the most challenging quantitative problems related to uber's expansive initiatives in the logistics space, such as ubereats and uberrush. these fascinating and challenging problems include: demand and supply forecasting, delivery time prediction, restaurant ranking and recommendation, driver dispatch and routing, dynamic pricing and supply positioning, etc.
+
+
+as a data science manager in our nyc office, you are in charge of managing and developing a group of data scientists to tackle the driver and logistics side of challenges for uber everything, such as driver acquisition, dispatch logic, batching and vrp algorithms, supply positioning mechanism, etc. your efforts will critically impact the efficiency and reliability of uber's logistics marketplace.
+
+we are looking for someone with advanced quantitative degrees (phd preferred) who is comfortable enough with research methodologies that they can address abstract business and product problems with utmost precision, and who also has the passion and experience in leading and empowering a group of geniuses to accomplish extremely ambitious goals.
+
+minimum 4 years industry experience in data analytics and quantitative modeling, with significant work experience as a technical contributor.
+prior management and team-forming experience. you'll be managing several direct reports initially and will have the opportunity to create, scale and nourish a team of experienced professionals.
+excellent educational background in a quantitative field, such as statistics, operations research, computer science, or machine learning; graduate degree required and phd degree preferred.
+self-starter and collaborative leader. everywhere you go, you can't help but mobilize people, build things, resolve problems, get into the details, go above and beyond, and draw out the best in people. you are a doer and motivator of others.
+excellent execution and organization. this team will be working with engineers and product leads at the forefront of the development cycle. to excel in this role, you should be comfortable executing with little oversight and be able to adapt to problems quickly.
+strategic mindset - you're comfortable thinking a few steps ahead of where the team is at now.
+experience with common analysis tools - sql, python, r, etc. demonstrable familiarity with code and programming concepts.
+

@@ -1,0 +1,20 @@
+Uber 84--Data-Apps-Software-Engineer---Full-Stack--Self-Driving---Pittsburgh--Pa---Uber---Uber.Txt
+
+
+
+
+
+we are seeking software engineers working on large-scale distributed systems with independent problem solving skills and a high level of technical curiosity. our organizational challenges are unique, so you should be comfortable in uncharted territory and pumped to build systems that can support cities of 100,000 and 10 million people alike. do you enjoy field testing? are you willing to put in lots of energy to help bring new technologies from prototype to production? if so, then keep reading.
+
+
+data processing/pipelining, distributed computing, docker, kafka, flask, redis, elasticsearch, spark/hadoop, relational and nosql databases
+front-end and back-end development, with advanced knowledge in multiple languages and frameworks  such javascript, react/redux, node.js, and python (to name a few)
+strong service oriented architecture chops, experience in building highly scalable, robust, and fault-tolerant services that support our unique rate-of-growth requirements
+
+we're looking for software engineers who thrive on learning new technologies and don't believe in one-size-fits-all solutions. you should be able to adapt easily to meet the needs of our massive growth and rapidly evolving business environment
+you think a working proof-of-concept is the best way to make a point. you strive on proving that speed and quality are not conflicting; that you can achieve both at the same time
+in addition to having an intimate knowledge of the whole web stack, you understand how all the pieces fit together (front-end, database, network layer, etc.) and how they impact the performance of your application
+you feel ownership over everything you ship; you'd never call code "released" until you're confident it's correct. you pride yourself on efficient monitoring, strong documentation, and proper test coverage
+
+
+the atg data applications & pipelines team is tasked with building the next generation data platforms that will support the research and development of self-driving software. the teams is responsible for the curation of very large scale autonomous vehicle data, including the processing, storage, indexing, searching, and, distribution of the data to the entire organization.

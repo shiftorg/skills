@@ -1,0 +1,45 @@
+Arena Account Administrator
+ San Francisco, CA
+ Full-time
+ Company Description
+ We believe everyone should be able to participate and thrive in the economy. So we’re building tools that make commerce easier and more accessible to all.  We started with a little white credit card reader but haven’t stopped there. Our new reader helps our sellers accept chip cards and NFC payments, and our Cash app lets people pay each other back instantly.   We’re empowering the independent electrician to send invoices, setting up the favorite food truck with a delivery option, helping the ice cream shop pay its employees, and giving the burgeoning coffee chain capital for a second, third, and fourth location.  Let’s shorten the distance between having an idea and making a living from it. We’re here to help sellers of all sizes start, run, and grow their business—and helping them grow their business is good business for everyone.
+ Job Description
+ Square is looking for an organized and resourceful individual to lead and drive the (PLM) Product Lifecycle Management system (Arena). 
+ The 
+ Arena Account Administrator 
+ manages the Arena PLM environment, provides daily support to the user base and assists in various PLM modules implementation and improvement projects. The administrator will respond to shifting priorities in a fast changing environment, will be self-directed to drive day-to-day operations, and recommend and manage improvement initiatives in the PLM environment
+ . The Arena Account Administrator must be able to handle rapid changes, prioritize and track the details, implement new configuration management, and design control processes.
+ As an Arena Account Administrator you will:
+ Work cross-functionally with managers and employees at all levels of the organization. 
+ Work with Engineering Program Coordinator, Operation Program Manager, Packaging and Hardware Engineering teams to manage the day-to-day functional requirements of the PLM system including process enforcement, administrative support, technical support, and training
+ Evaluate our current business practices and analyze ways to improve processes
+ Manage the existing Arena PLM setup and modify configurations as required by evolving business processes
+ Create and manage configuration rules and BOM structure standards
+ Multiply Platform Database integration
+  
+ review and audits (Oracle & Altium)
+ Monitor, verify and approve NPI and production engineering change orders
+ Assist in creation of  BOM's (Bill of Materials) part numbers and archive related documentation 
+ Work on multiple projects, simultaneously
+ Qualifications
+ Experience implementing and expanding PLM feature sets (Change Requests/Engineering Change Orders/Quality Processes/Projects/Training)
+ Maintaining engineering processes, documentation, and configuration management
+ Self-motivated customer-oriented individual that will document current processes, provide analysis, and recommend process and tool improvements.
+ Working knowledge in SQL
+ Experience with Application Program Interfaces (APIs) and programming skills
+  
+ Experience in development of integrated PLM / ERP solutions
+ Deploying and/or maintaining a PLM system within an organization (configuring categories, attributes, item numbering, workflows, access policies etc)
+ Understanding of configuration management and BOM structuring (preferably for hardware products)
+ Excellent communication (written and verbal)
+ Ability to work in a fast paced environment
+ Some travel required - both international and domestic
+ Preferred Experience:
+ BA/BS degree or 5+ years of industry experience
+ Additional Information
+ At Square, we value diversity and always treat all employees and job applicants based on merit, qualifications, competence, and talent. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status. We will consider for employment qualified applicants with criminal histories in a manner consistent with the requirements of the San Francisco Fair Chance Ordinance.
+ I'm interested
+ I'm interested
+ Refer a friend
+ share this job
+ Powered by

@@ -1,0 +1,38 @@
+Okta 24--Software-Engineer-Scalability-(Staff_Principal)-|-Okta.Txt
+
+
+we are looking for an experienced software engineer that is passionate about building large-scale, mission-critical software in a fast-paced agile environment. you will share our passion and great pride in the simplistic elegance and usability of our solution and will join an engineering team that strongly believes in automated testing, ux design and an iterative process to build high-quality next generation enterprise software.
+our elite team is fast, innovative and flexible; with a weekly release cycle and individual ownership we expect great things from our engineers and reward them with stimulating new projects, emerging technologies and the chance to have significant equity in a company that is about to change the cloud computing landscape forever.
+
+cost containment through code and infrastructure optimization
+java performance profiling to improve scalability and performance
+investigate, analyze, and re-design, or refactor components to handle increased load or reduce latency
+build new components and rollout new infrastructure to extend the scalability of the core platform upon which our product features are built
+partner with our techops sres to optimize our infrastructure
+evaluate the scalability fit and potential of emerging services and technologies
+maintain and enhance our load management, monitoring and analysis telemetry, frameworks and tools
+track system load profiles over time and investigate changes therein
+participate in a performance rotation that investigates critical performance related customer escalations
+test-driven development, design and code reviews
+
+
+5+ years of experience as a software developer working with java or similar language
+3+ years of experience as a performance or scalability engineer developing mission-critical, high-volume, low-latency software
+expertise implementing load mitigation and failure tolerance related solutions such as retrying, exponential back-off, caching, queueing and shedding
+experience working with technical operations to trouble shoot and/or tune infrastructure
+knowledge and understanding of:
+
+platform infrastructure such as aws and its service offerings, containers and cdn
+system level infrastructure such as linux configuration, clustering and load balancing
+network and web-related protocols such as tcp/ip, https and routing protocols
+
+
+
+
+expert in sql and related technologies such as hibernate and rdms and/or:
+expertise in any of the following: redis, storm, elasticsearch, cassandra and/or:
+experience cherry picking microservices out of a monolithic code base
+
+
+b.s. computer science or related field (ms/phd a plus)
+

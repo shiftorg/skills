@@ -1,0 +1,15 @@
+Salesforce 280--Technical-Producer---Marketing-Cloud.Txt
+
+
+
+
+salesforce marketing cloud is a leading global provider of cross-channel digital marketing solutions that empower organizations of all sizes to communicate with their customers through email, mobile, social media, web and marketing automation. we're driven by a deep understanding of marketers' needs—because we're marketers too. no other digital marketing company invests in product innovation the way we do, giving our clients access to truly cutting-edge technology. joining forces with  salesforce.com , pioneers in cloud computing, we offer an even more superior experience to our customers and employees. by partnering state-of-the-art technology with the best and brightest employees in the industry, we foster a culture of constant innovation and growth.
+as required, this role may also include coding html emails and using salesforce marketing cloud's proprietary scripting language, automation and database tools to execute campaigns. responsibilities •work with the email marketing team, and internal stakeholders to understand key campaign parameters and inputs, such as subscriber audience, program frequency, degree of personalization and overall creative approach •lead technical aspects of projects related to email, mobile and web campaigns and crm initiatives •manage data flows and lists and suggest areas for optimization •create html paste emails using html and inline css •leverage salesforce marketing cloud tools and scripting language to deliver highly dynamic and personalized content •develop robust campaign documentation requirements •ba/bs degree required •experience hand-coding html and css •software expertise: adobe creative suite, microsoft office •ability to prioritize and manage multiple projects and internal customer schedules with minimal oversight •ability to work effectively in a fast paced, entrepreneurial environment •ability to lead and effectively manage technical discussions
+
+
+
+
+
+
+
+

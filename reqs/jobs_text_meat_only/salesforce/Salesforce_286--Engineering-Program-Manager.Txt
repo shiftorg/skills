@@ -1,0 +1,46 @@
+Salesforce 286--Engineering-Program-Manager.Txt
+
+
+
+
+the engineering program manager will be a critical member of the lightning platform engineering exec staff, and will report directly to the svp of engineering for lighting platform. they will be chartered with ensuring the efficient, effective, and sustainable operation of the entire lightning platform engineering org. they will be a partner and facilitator to the engineering leadership team of lightning platform.
+
+
+they will not be directly accountable for the performance of any given scrum team, as that is still the responsibility of the engineering manager and management chain. rather they will be an early warning system; one who brings issues to the svp/management before they progress to larger problems. as such they will be accountable for raising issues to teams and communicating/alerting/tracking progress to resolution for engineering leadership of lightning platform. they will be accountable for maintaining or improving the overall health, quality, performance, and velocity of lightning platform engineering as a whole.
+
+
+core responsibilities
+
+will raise issues or concerns around team or release health and progress to the svp of eng for lightning platform provide current, historical, and predictive analytics, dashboards, and data to engineering managers in lightning platform to help them understand the quality and performance of their features, the velocity of their teams, and their likelihood of making key release milestones. will monitor and communicate status around milestone progress throughout the software release cycle will drive to completion key lightning platform eng initiatives, for example: new training programs, certification programs, eng/scrum team process changes, etc. organize weekly lightning platform eng leadership staff meeting
+track topics and follow ups from weekly staff
+serve as program manager for key cross-team projects within lightning platform serve as program manager for key cross-cloud projects that originate from lightning platform partner with product tpm to organize and define format and content for monthly lightning platform sprint reviews organize and chair the lightning platform drb organize and chair the lightning platform architects monthly meeting support scrum teams without qualified scrum masters
+the primary goal here is to make the engineering teams' lives easier by helping with the overhead of release management, e.g., what needs to be complete or signed off when and how to do it.
+will represent lightning platform overall in weekly wror, and communicate back to eng leadership will notify lightning platform eng leadership of any changes in t&p policy and process and will find and provide additional details or resources to help ensure proper rollout . will help rollout and facilitate through lightning platform the education and onboarding of any new changes in policy and processes driven by lightning platform eng leadership.
+
+core traits
+
+effective oral and written communicator detail oriented data-driven and analytical drives things to completion can coordinate and manage communication amongst many different people and teams can effectively influence people and teams they don't directly manage
+
+core abilities
+
+able to translate low-level technical issues into clear and actionable summaries for executives hands on experience working with a variety of agile methodologies, with considered opinions on which methods work in which cases, and what rules should be followed or broken (and when.)
+able to exhibit flexibly and adaptability when interacting and guiding many different teams at various levels of maturity and/or stability.
+able to effectively and meaningfully connect the dots between products and teams, predicting the butterfly effect of one team's decision on other teams and products
+
+
+core experience
+
+7+ years working in an r&d organization in a saas technology company 5+ years as a technical program manager, or equivalent 3+ years working in large, multi-team/multi-division software company 5+ years working in an agile/scrum environment 3+ years working with vp level or equivalent senior engineering leaders
+
+
+  these founding principles have taken our company to great heights, including being named one of forbes's "world's most innovative company” six years in a row and one of fortune's "100 best companies to work for” nine years in a row. we are the fastest growing of the top 10 enterprise software companies, and this level of growth equals incredible opportunities to grow a career at salesforce. 
+
+
+
+
+
+
+
+
+
+

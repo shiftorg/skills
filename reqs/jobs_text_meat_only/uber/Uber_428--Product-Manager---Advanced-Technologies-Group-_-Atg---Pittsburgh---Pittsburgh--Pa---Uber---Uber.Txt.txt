@@ -1,0 +1,36 @@
+Uber 428--Product-Manager---Advanced-Technologies-Group-_-Atg---Pittsburgh---Pittsburgh--Pa---Uber---Uber.Txt
+
+
+
+
+
+uber's mission is “transportation as reliable as running water for everyone, everywhere”. while we have found product-market fit with our core ridesharing service, it is absolutely day one for us. self-driving cars have the potential to make our cities safer, more connected, and less congested. at uber atg, we are building the technologies and teams to bring these benefits to the world.
+
+about the roles
+
+we're seeking a small group of talented and enthusiastic product managers to lead this effort. you will lead teams of engineers, data scientists, and designers to develop and scale software platforms that are critical to autonomous cars:
+•
+
+offline testing
+
+- deploy software quickly and safely through software performance measurement on millions of driving scenarios, all without deploying it onto actual vehicles.
+•
+
+data
+
+- turn the vehicle into an api, develop highly scalable real-time data pipelines from cars to operators, and bring intelligence to every decision.
+
+to be successful, you will need to bring creativity, strong product judgment, vision, focus, and a bias towards action to your teams, with an ability to thrive in energizing environments. you should have significant experience building software platforms, strong technical backgrounds, and a commitment to inventing highly efficient and scalable systems.
+
+this is a ground-zero opportunity to usher in a fundamental new way of thinking about transportation and technology, to solve really hard problems, and to experience explosive professional growth with the smartest minds in the industry. we hope you're as excited about it as we are.
+• deep background in building scalable systems.
+• a computer science undergraduate degree or equivalent plus hands-on software engineering experience. technical understanding should go from the highest abstractions down to the metal.
+• 5+ years experience delivering highly successful and innovative software products with your fingerprints all over them - you're extremely proud of what you've accomplished
+• stellar design instincts and product taste.
+• a high bar across the board - from your own contributions to the people you work with to the products you work on.
+• a “driver” personality - biased toward action, great collaborator and master disambiguator/simplifier - constantly pushing toward clarity and delivery.
+• grittiness. you never hesitate to roll up your sleeves and pursue something hands-on, you persevere when others fall away.
+• finger-tippiness with data: you get the data you need with little fuss and can weave it into an insightful story. you know how to leverage data to make decisions without getting stuck in analysis paralysis.
+• customer centricity - examples from your past of tough product challenges that you powered through because you were unwilling to make your problems your customers' problems.
+• true passion for uber's mission.
+• a never-ending desire to grow and learn.

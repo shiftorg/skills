@@ -1,0 +1,25 @@
+Uber 553--Data-Scientist---Uber-For-Business---San-Francisco--Ca---Uber---Uber.Txt
+
+
+
+
+
+uber for business is on a path to revolutionize the way businesses manage their ground transportation needs.  we need creative, quantitative thinkers with the ability to clearly synthesize and communicate insights from product data to accelerate us down this path.
+
+as a data scientist on uber for business you will work hand in hand with the product, marketing, design, sales and engineering teams to keep product development data driven and informed.  candidates are expected to act with high levels of autonomy to guide their team's roadmaps and build their data products.  we have multiple roles open with responsibilities spanning all of the following:
+predictive modeling of fraud, user behavior and sales opportunities
+experimental design for product changes (many with difficult constraints)
+defining and measuring metrics and kpis
+quantitatively understanding the end-to-end business travel experience
+sales and onboarding optimization
+
+quantitative background in statistics, computer science, math, economics,
+physics
+or another technical field. graduate degrees preferred.
+extensive experience with common analysis tools - sql, r, python, julia or similar. demonstrable familiarity with programming concepts.
+2+ years experience in quantitative analytical roles, preferably product related.
+highly analytical and able to extract key insights from data then communicate them clearly and effectively to stakeholders.
+ability to work in high growth, ambiguous environment.
+advanced knowledge of experimentation and statistical methods.
+
+

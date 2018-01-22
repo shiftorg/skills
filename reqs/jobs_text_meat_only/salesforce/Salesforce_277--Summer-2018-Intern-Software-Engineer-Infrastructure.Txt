@@ -1,0 +1,23 @@
+Salesforce 277--Summer-2018-Intern-Software-Engineer-Infrastructure.Txt
+
+
+
+
+summer 2018 intern, software engineer, infrastructure locations: san francisco, ca, bellevue, wa, herndon, va, indianapolis, in, burlington, ma *multiple positions available* this is your time to shine. our software engineering interns are considered full time employees by their peers--in fact, you will be expected to contribute right away as a member of our scrum teams for future releases.  you will design, code, and operate services that reach the millions of users who use our applications everyday, solving hard infrastructure problems with code. our interns don't sit on the sidelines and enjoy the view -- they change the way our customers connect their business to the world! as a software engineer intern, you will join one of the teams in our infrastructure cloud.  these teams design the hardware and software the underlies all facets of salesforce.com.  this includes many areas, including:
+hardware design, diagnostics, and repair database engine  compute fabric - kubernetes and docker, ci/cd, virtualization block and blob scale-out storage network fabric for edge, backbone and inside of our data centers security monitoring, analytics, and visualization of service telemetry big data / machine learning
+your job will be to design and build the systems that operates hundreds of thousands of servers, millions of cores, and exabytes of storage, in our own data centers as well as inside public cloud providers like aws. your impact:
+
+implement code fixes under the direction of software architects and senior developers develop well-tuned code that may be included as part of our next software release contribute to our suite of automated tests and testing infrastructure
+
+enrolled in sophomore year or higher at a college/university or any year at a graduate school working towards a bs or ms in computer science, electrical engineering or related technical field academic or professional/internship experience with java understanding of object-oriented programming/design working knowledge of html and web technologies ability to quickly learn new technologies strong analytical and problem-solving skills be a self-starter and possess strong sense of self-motivation
+
+coursework in sql, relational database and distributed systems concepts strong competency in javascript and associated frameworks
+about futureforce: salesforce's global university recruiting program is dedicated to attracting, retaining and cultivating next generation talent. our interns and new graduates work on real projects that affect how our business runs, giving them the opportunity to make a tangible impact on the future of our company. with offices all over the world, our recruits have the chance to collaborate and connect with fellow employees on a global scale. we offer job shadowing, mentorship programs, talent development courses, and much more. about salesforce:   these founding principles have taken our company to great heights, including being named one of forbes's "world's most innovative company” six years in a row and one of fortune's "100 best companies to work for” nine years in a row. we are the fastest growing of the top 10 enterprise software companies, and this level of growth equals incredible opportunities to grow a career at salesforce. 
+
+
+
+
+
+
+
+

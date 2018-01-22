@@ -1,0 +1,34 @@
+Salesforce 166--Sr.-Site-Reliability-Engineer.Txt
+
+
+
+
+
+sr. site reliability engineer 			 			the salesforce dmp team is looking to hire a sr. member for the platform engineering team.
+
+so, you're not only well versed in infrastructure and operations, but also in developing software that can run it for you. you support application developers by building and exposing well designed tools, apis and services. you hate waking up at 2am to production failures and that's why you have monitors for everything, and enough failover or self-healing setup so you can deal with it in the morning. you're fine with rolling out code all the time because if anything unexpected happens, you have it covered. you did this already. twice. so you automated it. and when the caching system had a problem, you found the bug, fixed it and sent them a patch.
+
+great, we're dying to talk to you! salesforce might be just the place for you; we're looking for people who can build and operate big data and ml infrastructure, fast changing webapps, real time apis and a lot of traffic. people who are technical experts and get things done by using their smarts and whatever tools make sense to get the job done. people who love to solve new problems and thrive in a rapidly innovating space.
+
+your day to day:
+
+architect, develop, implement, and operate the scalable distributed systems platform that supports our big data processing, data-science and ai applications. provide expertise and guidance to assist development teams in making the right architectural & operational decisions early develop new methods and tools to automate packaging, deployment and configuration of internally developed applications, and others to self-heal production environments. apply software development workflows to operational environments test and tune newly developed systems to prepare them for production deployment and ensure maximum performance at minimum cost lead, coach and grow our devops practice by bridging development, ops and qa measure everything, providing critical operational insight into our applications become and stay an expert in current and emerging technologies and tools contribute to open source solutions and communities we use wherever you can
+
+your tech friends would say you:
+
+are a domain expert in scalable and distributed infrastructure ran production services in the cloud (aws) and know where it's awesome and where it hurts are fluent in several programming language (preferably scala, java, and python) make things work and get things done love to leave things better than how you found them and automate anything you've done more than twice really grok your ci (jenkins, etc), config management (puppet) and vcs tools (git) can write a one-liner for anything, but know when not to can't go to sleep knowing your tests or monitors are failing love to learn new things and can do so quickly you don't just use the code, you contribute
+
+your tech friends might even say you:
+
+love agile/lean development and delivering code know the pros and cons of all the technology trends in your field make excellent informed decisions and know when to ask for advice know your way around the entire stack are a great communicator have a great sense of humor
+li - y
+
+
+
+
+
+
+
+
+
+

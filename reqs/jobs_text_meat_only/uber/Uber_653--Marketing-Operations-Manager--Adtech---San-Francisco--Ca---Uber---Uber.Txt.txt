@@ -1,0 +1,28 @@
+Uber 653--Marketing-Operations-Manager--Adtech---San-Francisco--Ca---Uber---Uber.Txt
+
+
+
+
+
+we're looking for an excellent marketing operations manager to join our growing adtech team.
+develop a deep understanding of the ad data flow and process of daily campaign data operations across all paid channels.
+lead and scale data quality strategy and implementation for global adtech team.
+collaborate with marketing stakeholders, pm and eng to deliver on data quality kpis.
+access quality of data in terms of accuracy completeness to the most granular level. provide recommendations for system level improvements.
+own all aspects of data quality services- from evaluation, design processes, trend analysis, identification of common operational defects.
+identify opportunities to fix or improve processes, provide long-term solutions for marketers to build trust on data.
+lead adhoc analysis in specialized areas like fraud analysis, campaign automation, remarketing and segmentation.
+find opportunities to contribute to the breadth of uber's marketing stack- data operations, tools in order to make operations efficient.
+collaborate with external ad partners, tracking, data operations and bi team to ensure that marketing stakeholders have access to data that is reliable for attribution and visualization.
+
+
+3-5 years' experience in a marketing tech or data analysis, data operations or marketing tech
+demonstrates a high degree of attention to detail and validates assumptions about data correctness
+well-developed analytical and problem-solving skills with an attention to detail
+3-5 years of sql skills.
+plus: hands-on with  hive and presto.
+excellent communication skills and stakeholder management skills.
+ability to fluently communicate with engineering, product and marketing teams
+minimum 2 years of data analysis, data operations or technical operations experience
+comfortable with ambiguity in a fast-paced environment
+

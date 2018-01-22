@@ -1,0 +1,16 @@
+Square Software Engineer, Compliance Engineering
+
+software engineer, compliance engineering
+the compliance engineering team at square is responsible for policing the behavior of merchants on our platform to guarantee compliance with the bank secrecy act and anti-money laundering laws, ensure the security of our money transmission licenses, and fulfill financial institution partnership obligations, which are the cornerstone of square's ability to do business.
+this team:
+builds full stack custom software to identify, investigate, and report on suspected money laundering, terrorism financing, sanctioned activity, and other terms of service violations
+is responsible for ensuring that merchants using our platform have passed all identity verification requirements required by the laws governing anti-money laundering in each of the countries in which we do business
+uses machine learning to improve our ability to identify and act on potential compliance violations
+work with operational teams to build full stack web applications that optimize the manual review of suspected violations
+work on high volume, highly available platforms that are crucial to the onboarding process
+work with machine learning teams to identify merchant violations that threaten our financial institution partnerships and money transmission licenses
+work with international teams to assure compliance with all international money movement and privacy regulations to enable international expansion
+a strong desire to prevent square's platform from being used to facilitate the financing of terrorism, money laundering, or the sale of items that are commonly vectors for fraud
+experience developing full stack web applications (java or ruby is a bonus but not required)
+ba/bs degree or equivalent practical experience
+you must deeply enjoy moving quickly, creating a great team culture, and shipping production software.

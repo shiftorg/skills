@@ -1,0 +1,25 @@
+Okta 20--Software-Engineer-Adaptive-Authentication-(Senior_Staff_Principal)-|-Okta.Txt
+
+
+we are looking for an experienced software engineer that is passionate about building large-scale, critical software in a fast-paced agile environment. we hope you will share our passion and great pride in the simplistic elegance and usability of our solution and will join an engineering team that strongly believes in automated testing, ux design and an iterative process to build high-quality next generation enterprise software.
+
+our elite team is fast, innovative and flexible; with a weekly release cycle and individual ownership we expect great things from our engineers and reward them with stimulating new projects, emerging technologies and the chance to have significant equity in a company that is about to change the cloud computing landscape forever.
+
+this is an opportunity to join our authentication team to develop cutting-edge risk-based adaptive authentication policies and services. we are looking for a senior/staff/principal level software engineer to design and build large-scale distributed systems that use machine learning and rule based policies to solve business problems. we are looking for someone with experience in creating complex rule systems to perform real time data analysis, authentication, policies, multi-factor authentication, and security.
+
+analyze/refine requirements with product management
+work with engineering management to scope and plan engineering efforts
+design and implement highly scalable event processing framework
+test-driven development, design and code reviews
+collaborate with qa, product management, technical support, documentation and ux team
+
+
+5+ years of strong software development experience in an object oriented language building highly-reliable, critical software
+excellent grasp of software engineering principles.
+experience in authentication and authentication policies.
+experience in creating or extending complex rule systems.
+experience with multi-factor authentication a plus.
+experience with machine learning a plus.
+b.s. or m.s. computer science or related field
+
+#li-lr1 apply now u.s. equal opportunity employment information (completion is voluntary) individuals seeking employment at this company are considered without regards to race, color, religion, national

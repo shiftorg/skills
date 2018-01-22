@@ -1,0 +1,25 @@
+Square Technical Writer
+
+technical writer
+new york, ny, usa
+we're looking for a technical writer whose passion is helping developers be successful. we're aggressively growing the square developers team as we expand the platform and engage the broader developer community.
+we consider documentation an integrated product that's as critical to developer success as the apis it explains. the technical writing team helps set our documentation strategy and partners with developer experience engineering team to make documentation an interactive experience that ensures we're meeting the needs of successfully educating, informing, and guiding developers.
+come grow the square developer community!
+write clear, concise, and human documentation for square's external developer audience.
+develop code samples and interactive tutorials to help developers get up to speed quickly.
+democratize the documentation process across the developer platform team, serving as an editor for contributing engineers.
+work with product managers, developer evangelists, designers, and marketing to shape the entirety of the square developer experience, including community development and developer outreach.
+work cross-functionally with our product teams, other engineering teams, and partner developers in the design and delivery of square's global developer platform.
+contribute occasionally to internal documentation initiatives.
+proficient writing in english.
+comfortable working in a semi-structured writing environment with evolving processes and homegrown systems.
+comfortable handling multiple deadlines and self prioritization of ad hoc requests.
+experience working directly with engineers, product managers, and other stakeholders to help document (and define) new developer products and features.
+experience writing common forms of developer documentation (api reference, conceptual guides, and tutorials).
+experience writing markdown and html by hand.
+experience working with teams developing tools and applications in at least one of: go, java, ruby.
+experience writing coding examples in pseudocode and at least one of: php, ruby, .net, python, java, c#, swift/objective-c — and the desire to gain experience with more.
+comfortable navigating and reading source code in a variety of languages.
+comfortable working with the linux command line in a macintosh environment.
+familiarity with version control systems.
+interest in learning and working with javascript dom.

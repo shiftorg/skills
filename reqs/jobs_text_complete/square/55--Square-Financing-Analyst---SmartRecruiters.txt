@@ -1,0 +1,36 @@
+Financing Analyst
+ New York, NY
+ Full-time
+ Company Description
+ We believe everyone should be able to participate and thrive in the economy. So we’re building tools that make commerce easier and more accessible to all. We started with a little white credit card reader but haven’t stopped there. Our new reader helps our sellers accept chip cards and NFC payments, and our Cash app lets people pay each other back instantly. We’re empowering the independent electrician to send invoices, setting up the favorite food truck with a delivery option, and helping the ice cream shop pay its employees. And, with Square Capital, we have extended over $1 billion in funding to our sellers, helping them manage their cashflow and making it easy to invest in and grow their business. Let’s shorten the distance between having an idea and making a living from it. And make it easier for customers to shop and pay at their favorite businesses. We’re here to help sellers of all sizes start, run, and grow their business—and helping them grow their business is good business for everyone.
+ Job Description
+ As a Financing Analyst  on the Capital Markets team at Square Capital, you will be responsible for answering unstructured business questions by analyzing and interpreting a wealth of data about our products, services, and customers. This analysis will touch many parts of the organization, and your work will drive strategic analysis around key business initiatives
+ .
+ Qualifications
+ Work with the capital markets team to anticipate analytics needs and answer product and business questions
+ Design and implement data structures and analyses that drive actionable insights for new features and initiatives
+ Work with data infrastructure analysts and engineers to ensure the right data is available for analysis
+ Distill data using SQL and create analyses that facilitate clear and timely decision making
+ Analyze, forecast, and build reporting for key performance metrics
+ Effectively present and communicate analysis to the business in order to drive business decisions
+ You have:
+ A Bachelor’s Degree in Finance, Business, Economics, Computer Science, Statistics, or other relevant field
+ 2 to 4 years of relevant industry experience with financial modeling (e.g. investment banking, private equity, corporate finance, consulting)
+ Excellent proficiency in Excel (you should be prepared for a case study)
+ Experience using relational databases to query data (e.g. SQL) and ETL
+ Excellent analytical skills and problem solving ability; the ability to answer unstructured business questions and work independently to drive projects to conclusion
+ Intellectual curiosity
+ Excellent verbal and written communication skills
+ Consistent track record of success and career progression
+ Exceptional judgement and maturity, including an ability to execute independently and work with team members of all levels
+ Basic understanding of the payments industry and a commitment to Square’s mission
+  
+ Even better:
+ Experience with scripting and data analysis programming languages (e.g. Python, R)
+ Additional Information
+ At Square, we value diversity and always treat all employees and job applicants based on merit, qualifications, competence, and talent. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status. We will consider for employment qualified applicants with criminal histories in a manner consistent with the requirements of the San Francisco Fair Chance Ordinance.
+ I'm interested
+ I'm interested
+ Refer a friend
+ share this job
+ Powered by

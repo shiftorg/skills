@@ -1,0 +1,20 @@
+Salesforce 201--Lead-Software-Engineer.Txt
+
+
+
+
+lead software engineer - livemessage service cloud livemessage platform team is looking for a strong senior or lead level engineer to join our team. livemessage is newly acquired product offering which seeks to integrate salesforce's service products with mobile messaging. this product makes it easier than ever for customers to have a direct conversation using mobile messaging apps they use everyday, such as sms, facebook messenger, and soon apple imessage. the engineer will:
+drive detailed design and implementation of solutions between salesforce livemessage, other internal products and external partner products and services use their expertise with oo programming in java, .net and sql to build, enhance and maintain the livemessage feature set, platform, and infrastructure. operate effectively in the hybrid engineering model where engineers are expected to be able to design and execute the necessary work to ensure quality in their own code as well as other engineers'. facilitate cross architecture technologies and interconnects in a mixed java and .net environment understand how to use a variety of technologies appropriately to build enterprise solutions ensure livemessage is secure, scalable, robust, and reliable own various components of the product by driving the architecture and technical design and implementation of the components work with product managers to translate product requirements into technical designs collaborate with the infrastructure team to define server infrastructure, monitoring, and streamline deployment processes perform code reviews to ensure the implementation is maintainable, supportable, resilient and compliant to design standards and specifications design for security, performance, scalability, and maintainability
+in order to fulfill the roles and responsibilities, the engineer should have:
+strong experience with oo programming concepts and languages (java, c and variants of c++, c#, etc) experience designing and implementing webhooks and apis (rest, soap, etc) ability to think both tactically and strategically strong written and verbal communication skills experience with mqtt, xmpp, smtp, smpp, mm4 protocols is strongly desired. experience modeling xml schema with xmlspy or oxygenxml or similar strong knowledge of security best practices
+in addition to the required knowledge and skills, the following are very desirable:
+experienced oauth v2.0, v1.0 design and implementation symmetric and asymmetric encryption methods, key handling including aes, ecc experience with tls v1.3 and prior versionsfamiliarity with messaging apis, such as fb messenger, imessage, line, rcs, kik, viber, twitter dm, twilio, etc. experience with internationalization and unicode, utf-8 and utf-16 working knowledge of salesforce
+  these founding principles have taken our company to great heights, including being named one of forbes's "world's most innovative company” six years in a row and one of fortune's "100 best companies to work for” nine years in a row. we are the fastest growing of the top 10 enterprise software companies, and this level of growth equals incredible opportunities to grow a career at salesforce.   *-li-y
+
+
+
+
+
+
+
+

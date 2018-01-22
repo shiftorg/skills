@@ -1,0 +1,68 @@
+Uber 333--Senior-Database-Administrator---San-Francisco--Ca---Uber---Uber.Txt
+
+
+
+
+you are passionate about using technology to solve big business problems. you are hungry to make a difference. you have created software that can scale and handle complex interchange of data and compute between multiple geographical locations. you like creating software that is robust to various kinds of network, system and state failures, without compromising the data and business applications that use it. you love tuning your software and porting existing software to different architectures. you have also worked with open source build/release/test toolchains and are familiar with multiple languages. you like to optimize your software to run with extremely light footprint, on high-demand systems, without compromising the core functionality of the systems.
+
+work with the dba team to provide 24x7 coverage for financial systems availability, monitoring, issue resolution and recovery
+work closely with fintech engineers for code migrations, implementing new systems, services, and install any components of the oracle application tech-stack
+monitor all production systems, respond to alerts that need immediate attention associated with security threats, storage, system overloads, etc . identify and fix the root causes of the failures.
+back-up, recovery, test/dev instance refresh as requested,
+incrementally document all standard operating procedures
+respond to queries related to financial systems from internal audits, network, safety & security teams
+installation, patching and upgrading of financial systems
+where necessary, build automations around monitoring, migrations, auto-scaling and self-healing to ensure systems operate at high-level of availability with very little maintenance
+
+minimum 10 years' experience as an oracle e-business suite application dba including:
+minimum 5+ years with oracle r12.1.3
+r12 ebs application installation, patching and upgrading
+experience with exadata (administration, patching, tuning)
+experience with oracle ebs financial modules and helping troubleshoot forms errors, concurrent manager errors.
+experience working in multinode architecture environment with a load balancer.
+experience in linux environments.  should have basic linux administration skills.
+working knowledge of oracle rac and asm
+application cloning using rapid clone
+application backup and recovery experience
+oracle backup and recovery using rman
+working knowledge of application patching, maintenance and diagnostic utilities
+application and database auditing
+working knowledge in linux shell scripting
+excellent written & verbal communication skills
+experience writing documentation
+working knowledge of oracle customer support, product support, certification and product end of life policies.
+experience in administering very large (30tb) oracle data warehouse database on exadata.
+strong commitment to both linux, database and application security
+oracle sql query tuning
+bonus points if you have:
+
+demonstrated ability to work in a team environment including the ability to work collaboratively with business users, it staff and various levels of management; including experience working in an onshore/offshore model with different time zones
+attention to detail and strong personal organizational skills and able to work in fast, paced, high volume environment. proven history of successful problem solving with strong sense of ownership
+excellent verbal and written communication skill
+experience with oracle enterprise manager grid control (12c)
+working knowledge of oracle performance tuning and diagnostic utilities
+application load balancing using hw load balancer (f5 big ip)
+mysql administration
+tomcat installation, administration and tuning
+ocfs2
+basic understanding of java
+oracle hyperion epm
+basic functional knowledge of oracle ebs 12.1.3 for troubleshooting purposes
+
+
+fintech touches all of these growing options and complexities. the scale is global, massive, and growing.
+
+uber platform, frameworks, and api's – be able to handle all the new products and variations. minimize development time for innovation.
+
+data is our north star - use it for insights, planning, product innovation.
+find parts of p&l (profits and loss reporting) meaningful for the business.
+
+real-time p&l; frictionless payments in over 600 cities; provide predictive tools for city general managers;
+
+scratch-building systems where solutions do not exist for our scale or global complexity
+trips and payments store
+tax calculator (others cannot globally scale)
+invoice engine - #10m invoices weekly for riders, partners, restaurants
+receipts
+revenue accounting products
+real-time p&l

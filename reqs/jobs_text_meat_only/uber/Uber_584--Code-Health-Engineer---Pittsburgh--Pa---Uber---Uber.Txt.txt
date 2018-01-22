@@ -1,0 +1,26 @@
+Uber 584--Code-Health-Engineer---Pittsburgh--Pa---Uber---Uber.Txt
+
+
+
+
+
+as an engineer focused on code health you will develop automated and manual tooling and services to measure, track, and implement software quality in a large code base. you w
+ork efficiently and establish relationships with distributed teams located at uber atg offices in pittsburgh, san francisco, phoenix, and toronto. occasional travel to uber atg locations is expected and required.
+help to develop, support and enable the best software engineering practices across a large software engineering team
+we're looking for software engineers who flourish with learning new technologies and don't believe in one-size-fits-all solutions. you should be able to adapt easily to meet the needs of our massive growth and dynamic business environment
+in addition to having an intimate knowledge of core engineering fields, you understand how all the pieces fit together into integrated systems, and how they impact performance
+
+
+experience designing and coding unit tests for complex cyber-physical systems
+familiarity with developing test plans, stress-testing software, and designing large-scale integration tests
+prior experience programming in c/c++/python
+prior experience developing automated testing pipelines and release management systems
+familiarity with the isolation, documentation, and tracking of issues systematically
+comfort with analysis of test results and automated reporting systems
+proficiency in communicating with vehicle technicians, software engineers, and executives
+you think a working proof-of-concept is the best way to make a point. you flourish with the belief that quality doesn't have to be compromised to achieve speed - you can have both at the same time
+
+
+at the advanced technologies group (atg), we are building technologies that will transform the way the world moves. our teams in pittsburgh, san francisco, phoenix, and toronto are dedicated to mapping, software and hardware development, vehicle safety, and operations for self-driving technology. our teams are passionate about developing a self-driving system that will one day move people and things around more safely, efficiently, and cost effectively.
+
+we believe that you can achieve more on a team - that the whole is greater than the sum of its parts. we rely on others' candid feedback for continuous improvement.  we pride our team for establishing ownership over everything we ship; you'd never call code "released" until you're sure it's correct. you pride yourself on efficient monitoring, excellent documentation, and proper test coverage.

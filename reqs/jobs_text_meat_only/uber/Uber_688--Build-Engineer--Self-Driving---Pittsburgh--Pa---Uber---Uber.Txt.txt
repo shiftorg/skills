@@ -1,0 +1,24 @@
+Uber 688--Build-Engineer--Self-Driving---Pittsburgh--Pa---Uber---Uber.Txt
+
+
+
+
+
+you will be at the core of the software development process driving adoption and implementation of best practices throughout the organization. you will c
+ollaborate with many different groups, and is central to our mission to deliver quality cutting-edge software, deploying to embedded, desktop and mobile platforms.
+dive into a large variety of systems including databases, network file systems, web applications, mobile apps, hpc clusters, and other distributed systems. in addition to a having a deep and diverse toolbox, you should have a strong intuition for 'knowing what you don't know' and an ability to learn quickly.
+find and implement the best solutions to the complex technical problems of efficiently building and releasing software.
+
+be a capable build engineer, with prior experience delivering large software systems. our software teams develop in c++ and python for deployment into embedded, desktop, mobile and hpc cluster environments, and do their work on linux, os x, and windows.
+strong unix systems knowledge, have experience with cmake, as well as familiarity with other build and continuous integration systems used in large software projects. previous experience with cross-development is a plus.
+desire to be the kind of engineer who knows and embraces industry best practices. you are excited to apply that knowledge to enable great things for the team as a whole.
+you should aspire to continuous improvement, applying the best techniques you know today, and striving to stay abreast of new and better techniques to apply tomorrow.
+you thrive on the belief that quality doesn't have to be compromised to achieve speed - you can have both at the same time.
+approach your work with discipline and a passion for displacing chaos with order. build and release engineers curate and deliver the work of many others, and serve as the conduit for that work to be applied out in the world. you understand that a build process isn't useful until it's measurable and repeatable, and you pride yourself on creating robust, documented solutions.
+
+
+
+at the advanced technologies group (atg), we are building technologies that will transform the way the world moves. our teams in pittsburgh, san francisco, phoenix, and toronto are dedicated to mapping, software and hardware development, vehicle safety, and operations for self-driving technology. our teams are passionate about developing a self-driving system that will one day move people and things around more safely, efficiently, and cost effectively.
+
+
+the build and release engineering team enables and materializes the work of all the other engineering disciplines, and thus you'll have the opportunity to make a significant impact across the organization.

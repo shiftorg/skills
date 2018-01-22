@@ -1,0 +1,21 @@
+Salesforce 49--Senior_Lead_Principal-Software-Engineer---Big-Data-Infrastructure.Txt
+
+
+
+
+senior, lead, principal software engineer - bigdata infrastructure we are building out our bigdata @scale engineering team to design, develop, and run the next generation of large scale distributed data platforms at salesforce. do the points below get you excited about the role? come and join us at salesforce!
+
+building reliable, self-healing services on unreliable hardware diving into performance, scalability, capacity and reliability problems and resolve them developing tools and automation to manage large scale distributed services across a global footprint working with hbase, phoenix, hdfs, yarn, kafka, spark, or equivalent large scale distributed systems technologies strong, heartfelt opinions on cap theorem, sketching out different consistency models on a single napkin and defend each of them you don't just use open source projects, but are motivated to contribute to them
+
+
+bs, ms, or phd in computer science or related discipline excellent knowledge of computer science fundamentals, with strong competencies in data structures, algorithms, software design and coding knowledge or experience with large scale distributed systems experience with java, python, puppet, kerberos, bash  in a linux/unix data center environment experience designing, building and supporting infrastructure or services at a large scale comfortable with supporting large scale services in production experience with open source projects like hbase, phoenix, kafka, hdfs, hadoop, cassandra etc., or industry or academic projects in the areas of large scale distributed systems or data platforms experience with agile development methodology and continuous integration/delivery
+
+company overview:   these founding principles have taken our company to great heights, including being named one of forbes's "world's most innovative company" five years in a row and one of fortune's "100 best companies to work for" eight years in a row. we are the fastest growing of the top 10 enterprise software companies, and this level of growth equals incredible opportunities to grow a career at salesforce. 
+
+
+
+
+
+
+
+

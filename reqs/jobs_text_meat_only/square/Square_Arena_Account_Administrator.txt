@@ -1,0 +1,35 @@
+Square Arena Account Administrator
+
+arena account administrator
+we believe everyone should be able to participate and thrive in the economy. so we're building tools that make commerce easier and more accessible to all.  we started with a little white credit card reader but haven't stopped there. our new reader helps our sellers accept chip cards and nfc payments, and our cash app lets people pay each other back instantly.   we're empowering the independent electrician to send invoices, setting up the favorite food truck with a delivery option, helping the ice cream shop pay its employees, and giving the burgeoning coffee chain capital for a second, third, and fourth location.  let's shorten the distance between having an idea and making a living from it. we're here to help sellers of all sizes start, run, and grow their business—and helping them grow their business is good business for everyone.
+square is looking for an organized and resourceful individual to lead and drive the (plm) product lifecycle management system (arena).
+the
+arena account administrator
+manages the arena plm environment, provides daily support to the user base and assists in various plm modules implementation and improvement projects. the administrator will respond to shifting priorities in a fast changing environment, will be self-directed to drive day-to-day operations, and recommend and manage improvement initiatives in the plm environment
+. the arena account administrator must be able to handle rapid changes, prioritize and track the details, implement new configuration management, and design control processes.
+as an arena account administrator you will:
+work cross-functionally with managers and employees at all levels of the organization.
+work with engineering program coordinator, operation program manager, packaging and hardware engineering teams to manage the day-to-day functional requirements of the plm system including process enforcement, administrative support, technical support, and training
+evaluate our current business practices and analyze ways to improve processes
+manage the existing arena plm setup and modify configurations as required by evolving business processes
+create and manage configuration rules and bom structure standards
+multiply platform database integration
+
+review and audits (oracle & altium)
+monitor, verify and approve npi and production engineering change orders
+assist in creation of  bom's (bill of materials) part numbers and archive related documentation
+work on multiple projects, simultaneously
+experience implementing and expanding plm feature sets (change requests/engineering change orders/quality processes/projects/training)
+maintaining engineering processes, documentation, and configuration management
+self-motivated customer-oriented individual that will document current processes, provide analysis, and recommend process and tool improvements.
+working knowledge in sql
+experience with application program interfaces (apis) and programming skills
+
+experience in development of integrated plm / erp solutions
+deploying and/or maintaining a plm system within an organization (configuring categories, attributes, item numbering, workflows, access policies etc)
+understanding of configuration management and bom structuring (preferably for hardware products)
+excellent communication (written and verbal)
+ability to work in a fast paced environment
+some travel required - both international and domestic
+preferred experience:
+ba/bs degree or 5+ years of industry experience

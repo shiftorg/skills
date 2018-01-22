@@ -1,0 +1,18 @@
+Salesforce 319--Software-Engineer---Quip.Txt
+
+
+
+
+software engineer - new grad (quip)
+our goal at quip is to build a new class of productivity tool that every person at every company enjoys using every single day. what we're looking for: a software engineering generalist who's passionate and cares deeply about product development. at quip, our engineers are always learning new things — we all work cross-platform and full-stack. we pride ourselves on writing high-quality code and maintainable systems that make our lives easier, across javascript, c++, python, java, and objective-c. every engineer works on exciting, meaningful projects that impact our technical and product strategy. we work closely with product managers and designers to define new features, and help map the future of quip. we're building the next generation of products leveraging frameworks, such as react, and tackling complex problems related to large-scale backend infrastructure and mobile platforms. we're building a team of talented, thoughtful people who will work together to build an enduring company that will change the way teams work together.
+what we look for:
+
+bs and/or ms degree in computer science, math or a related technical field knowledge of python, objective-c, javascript, sql, c++, java, or the ability to learn them quickly experience with web applications, databases, distributed systems, or mobile development a plus passion for learning and working with others to improve yourself, the team, the product, the company bonus: past relevant tech internship experience
+
+
+
+
+
+
+
+

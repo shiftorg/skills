@@ -1,0 +1,31 @@
+Okta 26--Sr.-Software-Engineer-|-Okta.Txt
+
+
+we are looking for an experienced software engineer that is passionate about building large-scale, critical software in a dynamic agile environment. you will share our passion and great pride in the simplistic elegance and usability of our solution and will join an engineering team that strongly believes in building solutions to scale, automated testing and an iterative process to build high-quality next generation enterprise software.
+our elite team is fast, creative and flexible; with a weekly release cycle and individual ownership we expect great things from our engineers and reward them with stimulating new projects, new technologies and the chance to have significant equity in a company that is about to change the cloud computing landscape forever.
+
+work with engineering teams on major development of projects, design, and implementation
+drive the implementation and support of a scalable elasticsearch cluster
+assist in the evaluation, development and roll out of infrastructure components like redis, elasticsearch and dockerzing microservices
+conduct code reviews, analysis, and performance tuning
+provide technical leadership and mentorship to junior engineers
+implement unit and functional tests
+collaborate with architects, qa, product owners, engineering services, tech ops
+
+
+3+ years of experience in object oriented language, preferably java and knowledge of spring, and mysql
+5+ years of industry experience in enterprise based saas environment
+experience designing, querying and optimizing relational databases, ideally mysql
+experience working with highly scalable systems
+in-depth understanding of multithreading, garbage collection, memory management
+excellent grasp of software engineering principles
+knowledge with rest, maven, aws, docker, elasticsearch, and redis
+knowledge with chef, ansible, and javascript is a plus
+knowledge of network security, authentication, and authorization is a plus
+
+
+bachelor's degree majoring in computer science
+
+#li-ad1
+
+apply now u.s. equal opportunity employment information (completion is voluntary) individuals seeking employment at this company are considered without regards to race, color, religion, national

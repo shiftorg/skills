@@ -1,0 +1,34 @@
+Uber 401--Manager--Engineering-(Aarhus)---Aarhus--Denmark---Uber---Uber.Txt
+
+
+
+uber is looking for an experienced engineering manager to lead a team within our core infrastructure group. as a manager within infrastructure you will have a significant impact on the evolution of uber's backend teams and architecture. our mission is to make transportation as reliable as running water, and we need people who are excited to build the dependable foundation that supports that vision.
+
+uber infrastructure is comprised of several key areas:
+
+compute: job scheduling and containerization; docker, mesos, aurora.
+storage: globally replicated data stores; mysql, cassandra.
+networking: software-defined traffic control and rpc frameworks; golang, zookeeper, grpc.
+data: analytics, fraud detection, and business metric aggregation; hadoop, spark, kafka, samza.
+performance: distributed systems, tracing, profiling, system performance; golang, java, c++
+
+if you have a strong preference for a particular area please note that in your application. we also encourage generalists to apply.
+
+this is the opportunity of a lifetime for a highly skilled infrastructure leader.
+
+what you'll do
+
+manage, develop and guide our core infrastructure engineering team.
+knowledge share and inspire to enable the team to grow.
+assess, plan and strategize to help us work toward a long term vision.
+
+you have great interpersonal skills, deep technical ability, and a portfolio of successful execution. if you enjoy discussing anything from kernels to datacenters and you measure the success of your projects in "nines," then we want you on the team.
+undergraduate degree in computer science or equivalent.
+management experience running backend infrastructure team(s) at scale.
+hands-on software development experience. code shouldn't scare you.
+great written and verbal communication skills.
+ability to lead, inspire, and grow excellent engineering teams.
+experience planning projects, and the wisdom to know when to shift priorities amid a rapidly changing business environment.
+ability to assess new technologies and make pragmatic choices that help guide us towards a long-term vision.
+open, curious, and bold approach to problem-solving and striving for the best solution.
+

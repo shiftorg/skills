@@ -1,0 +1,32 @@
+Uber 444--Android-Engineer---Autonomous-Vehicle-Ux---Pittsburgh--Pa---Uber---Uber.Txt
+
+
+
+
+
+in this role you will contribute to the design, development and maintenance of the user interfaces in uber self-driving vehicles based on android. this work is critical to uber achieving scale with a self-driving fleet. these interfaces will play a critical role in many development activities as well as in the completion of rides for normal uber riders.
+
+work as part of a team developing user interfaces for uber's self-driving vehicles
+evaluate and debug your code out in the physical world
+interact with others to coordinate backend and other android work.
+participate in architecture and design discussions for future development
+
+
+experience developing, prototyping, testing, releasing, and maintaining native android applications (show us what you've done before and where we can find it)
+extensive knowledge of java or kotlin, with strong design and interaction experience
+experience collaborating on software projects with design and back-end aspects
+a product-oriented mindset; the ability to think beyond the task at hand and see the bigger picture the way an end user sees it.
+great debugging skills and knowledge of the best tools
+
+
+
+insightful opinions about developing for mobile
+human interface or human ux experience is preferred
+experience developing distributed systems
+experience developing testing suites for mobile applications
+experience with c++ or python
+experience with ios development in objective-c or swift
+a github account with some cool projects in it
+
+
+the human experience team is a multi-disciplinary team of devoted designers, mobile and robotics engineers working to deliver the highest quality user experience to vehicle operators and riders in uber's self-driving vehicles. our work touches everything from industrial design, to hardware/electrical engineering, systems engineering, security, and application engineering.

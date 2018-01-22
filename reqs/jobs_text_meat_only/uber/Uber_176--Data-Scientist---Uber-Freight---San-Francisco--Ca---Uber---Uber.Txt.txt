@@ -1,0 +1,27 @@
+Uber 176--Data-Scientist---Uber-Freight---San-Francisco--Ca---Uber---Uber.Txt
+
+
+
+
+
+we're looking for experienced, passionate data scientists to work on our team. specifically, we are looking for someone to build the pricing engine that will power uber freight.
+
+the marketplace dynamics group is all about the intersection of market signals and business strategy. its mission is to ensure that uber freight has the data, processes, and tools to build and maintain a healthy marketplace. that means building quoting tools so that our operations teams can bid and sell with confidence; that means building data structures to track the buy-offer-sell spreads of our freight; that means building a dynamically priced marketplace to ensure that our drivers are the most fairly paid in the industry.
+
+you'll be partnering with uber's product and engineering teams to drive actionable data insights and solutions from some of the world's most interesting datasets. our data scientists work on every aspect of the product - whether it's exploratory research to understand user behavior for riders and drivers, or running experiments to optimize untapped areas of growth, or developing machine learning models to mitigate fraud on our platform.
+
+minimum 3 years practical data science or engineering work experience out of school, in the aforementioned domains
+domain expertise in logistics, supply chain management, and freight.
+strong quantitative background: ms or phd preferred.
+familiarity with technical tools for analysis - python (with pandas, etc.), r, sql
+programming chops - demonstrable familiarity (work experience, github account) with programming concepts. go or python skills and previous software engineering background a plus.
+organizational skills and the ability to execute and own a complete research project -  go from idea to experimentation to prototype to implementation.
+driven and focused self-starters, great communicators, amazing follow-through - you aggressively tackle your work and love the responsibility of being individually empowered.
+scrappy, entrepreneurial mindset - you're comfortable making do with what you have and building toward the future.
+
+
+trucks move everything you buy, why shouldn't booking a truck be as seamless as booking an uber?
+
+uber freight connects shippers with truckers, much like the way the uber connects riders and drivers. the uber freight team believes that empowering truck drivers will bring more open, efficient, and increasingly safer transportation to our roads.
+
+we are a team of sharp, entrepreneurial individuals who are redefining the movement of goods around the world. we are currently looking for candidates to join our growing team who share our enthusiasm for tackling today's toughest challenges in transportation.

@@ -1,0 +1,31 @@
+Uber 559--Engineering-Manager---Customer-Identity---San-Francisco--Ca---Uber---Uber.Txt
+
+
+
+
+
+uber's
+customer identity
+team is responsible for building a unified, secure, extensible, reliable and scalable system for customer signup, login, and identity management.
+
+the solutions support diverse use cases e.g. rider/driver/eater, enterprise/business customers, developers, third party application embed integrations, third party identity providers integrations, b2b & api authentication, autonomous vehicles authentication etc.
+
+the solutions include several services and product apis, web/mobile frameworks, reusable components & libraries, product features and user flows which enable multiple products, programs and external partners globally.
+
+we are ambitious, engaged, and excited about transforming the way to protect customers and their data, building customer trust, and advancing the industry.
+we are seeking an engineering leader to join our
+customer identity program
+team at uber hq in san francisco.  the engineering security manager will play a key role throughout the planning, development, and delivery of uber's customer identity solutions, including interfacing with all the product, engineering, operations, legal and security teams. this role requires close collaboration with all product, product engineering and operations teams across uber.
+
+prior management experience with at least 2 years experience managing technical teams and at least 5 years experience as an individual technical contributor, preferably in the mobile, web or product/business services for consumer products
+provide subject matter expertise on product features, business integrations, api design, reusable & customizable mobile/web components/frameworks, extensibility, configurability, scalability and reliability.
+ensure reliable and consistent business & operational metrics, dashboards, effective monitoring and alerting, excellent developer and user documentation, and proper test coverage
+effective prioritization and timely resolution for all issues and feature requests from external users, product management, operations and support teams
+proven experience of large cross functional collaborations with multiple engineering, product & program management, legal and operations teams
+fast learner. we're looking for engineering leaders who thrive on learning new technologies and don't believe in one-size-fits-all solutions. you should be able to adapt easily to meet the needs of our massive growth and rapidly evolving business environment.
+management at uber is management as a service. as such, managers are judged based on their ability to identify opportunities and lead/grow engineers through efficient execution. you must be persuasive, patient, compassionate and possess exquisite prioritization skills.
+biased toward action. you must be able be able to do more with less and turn would be blockers into opportunities for growth.
+excellent execution, organization and ability to collaborate. to be successful in this role, you should be comfortable executing with little oversight and be able to adapt to problems quickly.
+strategic mindset. you're comfortable thinking a few steps ahead of where the team is at now.
+principled yet pragmatic. a qualified candidate will have conviction and be authentic in their approach, but situationally aware enough to adapt when needed.
+

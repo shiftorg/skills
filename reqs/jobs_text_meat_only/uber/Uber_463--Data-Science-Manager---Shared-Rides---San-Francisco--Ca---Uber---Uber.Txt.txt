@@ -1,0 +1,20 @@
+Uber 463--Data-Science-Manager---Shared-Rides---San-Francisco--Ca---Uber---Uber.Txt
+
+
+
+
+shared rides data science is responsible for the analytics involved in enabling our drivers to transport multiple riders heading the same way and ensure that uberpool is an attractive opportunity to drivers and rider; experimenting with innovative new product offerings like uberhop and pickup swaps; simulating marketplace changes to understand their effects; and designing our realtime dispatching and pricing systems to benefit riders, drivers and cities.
+
+joining our team is a unique opportunity to be part of a team that is changing the world of transportation and logistics forever.  for the data science leader who wants to have a fundamental influence on the trajectory of a hyper-growth company, this is the opportunity of a lifetime!
+
+
+the ability to lead a diverse team that uses technical tools from operations research, statistics, machine learning, and economics
+at least two years experience successfully leading a technical team
+the ability to coordinate with diverse stakeholders from data science, product, engineering, and city operations
+a strong record of prior research and / or product development experience
+phd strongly prefered in a quantitative field such as operations research, statistics, management science, computer science or economics.
+familiarity with technical tools for analysis and engineering implementation
+a research-to-implementation mindset:  ability to spearhead a project from idea to experimentation to prototype to implementation.
+driven and focused self-starter, great communicator, amazing follow-through - you aggressively tackle your work and love the responsibility of being individually empowered.
+you want to change the world.   we're not just another social web app, we're moving real people and assets and reinventing transportation and logistics globally.
+a desire to work with sharp, motivated co-workers in a fun environment.

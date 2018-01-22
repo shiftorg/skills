@@ -1,0 +1,469 @@
+
+	 
+		 
+
+
+	 
+
+	 
+		 
+			 
+				 Okta 
+				 Looks like you have Javascript turned off! Please enable it to improve your browsing experience. 
+			 
+		 
+	 
+
+		 
+	 
+
+		 
+			 Okta 
+		 
+				 
+			 Looking for Okta Logos? 
+			 You can find all the media assets you need as part of our press room. 
+			 Download Media Assets 
+		 
+
+
+		 
+       Customers 
+ Solutions Business Initiatives Protect Against Data Breaches 
+ Secure, Seamless Customer Experience 
+ Collaborate with Partners 
+ Reduce IT Friction 
+ Increase M&A Agility 
+ Modernize Enterprise IT 
+ 
+ Industries Healthcare 
+ Government 
+ Education 
+ Energy 
+ Financial Services 
+ Technology 
+ Nonprofit 
+ 
+ View all solutions 
+ 
+ Products Okta IT Products Single Sign-On 
+ Multi-Factor Authentication 
+ Lifecycle Management 
+ Universal Directory 
+ API Access Management 
+ 
+ Okta API Products 
+ Okta Integration Network 
+ View all products 
+ 
+ Services Training & Certification Overview 
+ Hands-on training 
+ Certification 
+ Basic training 
+ 
+ Support 
+ Find a Channel Partner 
+ Professional Services 
+ Adoption Services 
+ Self Service Overview 
+ Community 
+ User groups 
+ 
+ View all services 
+ 
+ Resources Find Your Apps 
+ Content Library 
+ Businesses @ Work Dashboard 
+ Events 
+ Customer Success Center 
+ Blog 
+ View all resources 
+ 
+ Company Contact 
+ Partners 
+ Leadership 
+ Investors 
+ Vision 
+ Careers 
+ FAQ 
+ View company 
+ 
+ Contact Sales 
+ 		 
+
+		 
+			 
+				Try Okta
+			 
+		 
+
+		 
+
+			 Sign In 
+		 
+
+		 
+			 
+ 
+     
+     
+         
+     
+ 
+		 
+
+		 
+			 
+ 
+     
+         
+         
+         
+         
+     
+ 
+		 
+
+	 
+ 
+
+ 
+	 
+
+		 
+		 Search 
+
+	 
+ 
+
+ 
+   
+       
+   
+
+  
+  
+   
+
+  
+    
+      
+      
+     
+   
+     
+
+       
+
+         
+           
+             Careers 
+           
+                       
+               Engineering 
+             
+                     
+             Site Reliability Engineer (Senior/Staff/Principal) 
+           
+         
+
+       
+
+     
+   
+ 
+
+ 
+
+   
+     
+       
+         
+       
+     
+     
+       
+         
+       
+     
+     
+       
+         
+       
+     
+   
+
+   
+     
+
+       
+
+         
+          Site Reliability Engineer (Senior/Staff/Principal)         
+
+       
+
+       
+
+         
+
+           
+             Position Description: 
+ At Okta our motto is "Always On", and nowhere do we embrace that more than in Technical Operations. We strive to build the most reliable and performant systems on the planet through the skillful use of automation. If you like to be challenged and have a passion for solving problems at scale with automation, testing and tuning then we would love to hear from you. The ideal candidate is someone who exemplifies the ethics of, “If you have to do something more than once, automate it,” and who can rapidly self-educate on new concepts and tools.  
+ You will work on: • Designing, building, running and monitoring Okta's production infrastructure • Responding to production incidents and determining how we can prevent them in the future • Triaging and troubleshooting complex production issues to ensure reliability and performance • Identifying and automating manual processes  • Continuously evolving our monitoring tools and platform • Promoting and applying best practices for building scalable and reliable services across engineering • Developing and maintaining technical documentation, runbooks, and procedures • Supporting a 24x7 online environment as part of an on-call rotation 
+ You are an ideal candidate if you: • Have experience with Linux systems administration including strong scripting skills in Bash, Ruby, Python, Go or similar • Have in-depth knowledge and experience supporting web applications running on Java / Apache / Tomcat in a live production environment • Have experience with running Docker containers in a production environment and/or on AWS • Have experience running production services in AWS (EC2, ECS, KMS, Kinesis, CloudWatch) • Have experience automating systems and infrastructure via Ansible, Chef or Terraform • Solid understanding of networking concepts and IP protocols • Experience using and supporting Splunk, Zabbix or related tools • Have knowledge or experience of CI/CD principles  • Experience working in a source controlled environment  • Worked with Relational Databases, such as MySQL • Knowledge of NoSQL systems such as Redis, Cassandra is an added plus 
+ Education and Training:   • B.S. Computer Science (plus) or relevant experience 
+ Okta is an Equal Opportunity Employer 
+ #LI-TC1            
+
+           
+
+             
+               
+             
+
+             
+               Okta 
+               
+              The foundation for secure connections between people and technology
+             
+
+             
+               Okta is the leading provider of identity for the enterprise. The Okta Identity Cloud connects and protects employees of many of the world's largest enterprises. It also securely connects enterprises to their partners, suppliers and customers. With deep integrations to over 5,000 apps, the Okta Identity Cloud enables simple and secure access from any device. Thousands of customers, including Experian, 20th Century Fox, LinkedIn, Flex, News Corp, Dish Networks and Adobe trust Okta to work faster, boost revenue and stay secure. Okta helps customers fulfill their missions faster by making it safe and easy to use the technologies they need to do their most significant work. 
+             
+
+           
+
+         
+
+       
+
+       
+
+         
+
+           
+
+             
+
+               
+                Apply
+               
+               
+               
+                               
+               
+                 
+   First Name  * 
+  
+ 
+ 
+   Last Name  * 
+  
+ 
+ 
+   Email  * 
+  
+ 
+ 
+   Phone  
+  
+ 
+ Resume 
+   Resume  
+  
+     Upload PDF  
+
+ 
+ 
+     Paste  
+
+ 
+ 
+ 
+ 
+   Resume/CV  
+  
+ 
+ Upload Resume/CV (PDF must be less than 8 MB ) 
+ 
+ 
+   Resume/CV  
+  
+ 
+ Cover Letter 
+   Cover Letter  
+  
+     Upload PDF  
+
+ 
+ 
+     Paste  
+
+ 
+ 
+ 
+ 
+   Cover Letter  
+  
+ 
+ Upload Cover Letter (PDF must be less than 8 MB ) 
+ 
+ 
+   Cover Letter  
+  
+ 
+ 
+   LinkedIn Profile  
+  
+ 
+ 
+   Website  
+  
+ 
+ 
+   How did you hear about this job?  
+  
+ 
+ 
+   Choose Are you related to anyone employed by Okta?  * 
+  Choose Are you related to anyone employed by Okta? No Yes 
+ 
+ 
+   If yes, please provide name and relationship.  
+  
+ 
+ 
+   Will you now or in the future require sponsorship for employment authorization?  * 
+  
+ 
+ 
+     
+ 
+                
+
+             
+
+           
+
+         
+
+       
+
+     
+   
+ 
+  
+  
+    
+   
+   
+
+         
+  
+         Trending Topics: 
+    
+     Enable Digital Business with IAM 
+ A Cloud Service for Secure Digital Experiences 
+ Office 365 Adoption eGuide 
+ Consumer Identity Management 
+ Automate Identity Lifecycle 
+ Okta vs. ADFS 
+   
+   
+   
+ 
+
+ 
+   
+
+     
+         
+  
+         Quick Links 
+    
+     Partners 
+ Pricing 
+ Careers 
+ Support 
+ Press Room 
+ Trust 
+ Blog 
+ Contact Us 
+ Executive Briefing Center 
+   
+   
+  
+      
+     Solutions Protect Against Data Breaches 
+ Secure, Seamless Customer Experience 
+ Collaborate with Partners 
+ Enable a Mobile Workforce 
+ Reduce IT Friction 
+ Increase M&A Agility 
+ View All › 
+ 
+ Resources Whitepapers 
+ Analyst Research 
+ Webinars 
+ Businesses @ Work Dashboard 
+ Events 
+ 
+   
+   
+  
+      
+     Products Okta IT Products Single Sign-On 
+ Multi-Factor Authentication 
+ Lifecycle Management 
+ Universal Directory 
+ 
+ Okta API Products 
+ Okta Integration Network 
+ 
+   
+        
+
+     
+         
+  
+      
+     © 2017 Okta, Inc. All Rights Reserved. Various trademarks held by their respective owners. 
+  
+   
+  
+      
+     Privacy 
+ Security 
+ FAQ 
+ Visit our Developer Site 
+   
+   
+  
+         Select Language 
+    
+     English 
+ French 
+   
+   
+  
+      
+     Twitter 
+ Facebook 
+ LinkedIn 
+ Youtube 
+   
+        
+
+   
+ 
+
+
+   
+			 
+ 
+
+ 
+ 
+ 
+

@@ -1,0 +1,24 @@
+Uber 25--Deep-Learning_Machine-Learning-Specialist--Self-Driving---Toronto--Canada---Uber---Uber.Txt
+
+
+
+
+
+do you dream about changing the world using your passion for science and engineering? then you should apply to join our engineering team tackling machine learning challenges in the area of self-driving technology. the work you do at the atg will be tested and deployed on real systems, in real-world conditions.
+applied machine learning e.g., supervised methods like logistic regression, svms, random forests, deep learning & reinforcement learning and also semi-supervised & active learning approaches
+building and owning production models, pipelines, and runtimes
+
+a degree in a machine learning related discipline -- positions are available at the phd, ms, and bs levels
+a strong quantitative background
+excellent software development skills in c/c++ and/or python
+knowledge of machine learning commensurate with education/experience level
+excellent presentation and communication skills
+machine learning areas of special interests include: active learning and bayesian optimization, anomaly detection, deep networks, distributed/parallel learning algorithms, image/video classification, learning control, predictive modeling.
+
+track record of building and shipping machine learning features in products
+prior work in automotive applications
+
+
+at the advanced technologies group (atg), we are building technologies that will transform the way the world moves. our teams in pittsburgh, san francisco, phoenix, and toronto are dedicated to mapping, software and hardware development, vehicle safety, and operations for self-driving technology. our teams are passionate about developing a self-driving system that will one day move people and things around more safely, efficiently, and cost effectively.
+
+the team's mission is to deliver machine learning based features and develop solutions for the future of self-driving.

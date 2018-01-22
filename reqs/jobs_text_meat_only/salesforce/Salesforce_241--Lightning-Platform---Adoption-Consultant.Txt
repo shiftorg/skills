@@ -1,0 +1,37 @@
+Salesforce 241--Lightning-Platform---Adoption-Consultant.Txt
+
+
+
+
+lightning experience has been a multi-year mission— a labor of love for salesforce. we asked ourselves, "if we built salesforce today, what would it look like?” the result is lightning experience.
+
+
+but lightning is more than a great new user experience — it is also a powerful ui framework that extends the salesforce platform. we want every salesforce developer and partner in our eco-system to harness the full power of the lightning platform. and we want to help existing customers with legacy platform customizations transition those to lightning.
+
+
+to that end, we're hiring a technical platform adoption consultant to help customers make the move.
+
+
+if you consider yourself a good blend of technical consultant, communicator, and coach; you're highly motivated and like to roll up your sleeves to drive results--this role is for you.
+
+
+
+understand the point-and-click customization and programmatic capabilities of the lightning platform, and the future roadmap. work directly with customers to help them develop their technical migration plan and architecture. develop sample code, demos, presentations and content to showcase the power of the platform. develop and conduct technical workshops on framework technologies to developers and partners seeking to learn how to build customizations in lightning. articulate and champion best practices for migrating or re-implementing customizations in lightning. identify gaps in current learning assets and documentation, and facilitate improvements with the appropriate teams and resources; develop assets as needed. partner with csg, product, and engineering teams to identify platform gaps and escalate issues that may prevent customer migrations. help product management develop and execute pilot programs for new platform technologies.
+
+
+required skills & experience:
+
+7-10 years professional experience in a customer facing role in a high paced, demanding corporate culture. excellent written and verbal communications skills - ability to interface with all levels of the organization, with a specific strength in influencing cios, architects, and developers. experience working with front-end web technologies: css, html, javascript, js frameworks. experience developing and delivering technical presentations or training experience configuring and deploying lightning experience. lightning superbadges a plus. strong functional and technical experience with salesforce, including apex / visualforce. demonstrated program ownership and consistent delivery on commitments. proven track record as a cross-organizational collaborator. sfdc certified architect or developer a plus. some travel may be required for event support.
+
+
+  these founding principles have taken our company to great heights, including being named one of forbes's "world's most innovative company" six years in a row and one of fortune's "100 best companies to work for" nine years in a row. we are the fastest growing of the top 10 enterprise software companies, and this level of growth equals incredible opportunities to grow a career at salesforce. 
+
+
+
+
+
+
+
+
+
+

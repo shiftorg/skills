@@ -1,0 +1,33 @@
+Okta 31--Cloud-Integration-Engineer-|-Okta.Txt
+
+
+the cloud integration engineer will help okta design and build the future of systems integration. you'll be responsible for end-to-end integrations between various cloud based systems using dell boomi and/or other integration technologies to support okta growth. you should have proven ability to design and implement scalable solutions to meet rapid growth. in this role, you will be the owner of various integration solutions across multiple business systems.
+role and responsibilities
+
+design, develop, implement and maintain integration applications using a variety of languages and technologies.
+translate business requirements into technical design specifications for system integration services.
+develop real time and asynchronous systems integrations.
+debug/analyze/fix production issues
+be responsible for a diverse catalog of systems integration solutions and maintain them.
+
+
+bachelors of science in computer science or engineering
+3 - 5+ years of industry experience in system integration domain
+2+ years of boomi process design and full life cycle implementation experience from requirements gathering/analysis to go-live and post-production support.
+authority in using rest and soap api's
+experience in integrating a portfolio of saas applications using service oriented architecture and ipaas tool.
+proficient in java script
+knowledgeable of securing data; understands pgp, ssh, oauth, https, sftp.
+eager to take responsibility, accountability and ownership of systems and processes
+ability to adopt new technologies and willingness to self-learn those technologies quickly.
+
+desired requirements
+
+boomi developer certification is desirable
+integration experience with: netsuite, workday, salesforce
+web app and ui development experience.
+aws system architecture and operations
+github version control and continuous integration
+
+okta is the leading provider of identity for the enterprise. the okta identity cloud connects and protects employees of many of the world's largest enterprises. it also securely connects enterprises to their partners, suppliers and customers. with deep integrations to over 5,000 apps, the okta identity cloud enables simple and secure access from any device. thousands of customers, including experian, 20th century fox, linkedin, flex, news corp, dish networks and adobe trust okta to work faster, boost revenue and stay secure. okta helps customers fulfill their missions faster by making it safe and easy to use the technologies they need to do their most significant work.
+

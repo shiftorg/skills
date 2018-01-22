@@ -1,0 +1,21 @@
+Square Senior Software Engineer, Front-End
+
+senior software engineer, front-end
+we believe everyone should be able to participate and thrive in the economy. so we're building tools that make commerce easier and more accessible to all.  we started with a little white credit card reader but haven't stopped there. our new reader helps our sellers accept chip cards and nfc payments, and our cash app lets people pay each other back instantly.   we're empowering the independent electrician to send invoices, setting up the favorite food truck with a delivery option, helping the ice cream shop pay its employees, and giving the burgeoning coffee chain capital for a second, third, and fourth location.  let's shorten the distance between having an idea and making a living from it. we're here to help sellers of all sizes start, run, and grow their business—and helping them grow their business is good business for everyone.
+the invoices team is helping service professionals succeed and empowering them to run their entire business on square.  we build mobile-first products that small businesses depend on, we build software so they can compete in today's digital landscape.  do you like helping merchants start, run and grow their business?  are you interested in building products that millions of merchants depend on?  do you like shipping code at a rapid pace? we're seeking an experienced full stack engineers who are passionate about building mobile and desktop web applications.
+why this position is important:
+square is building software to grow beyond being the best way to get paid, we work to enable merchants to manage and grow their business from anywhere.
+what you will learn and do:
+learn how to solve challenging software and product problems related to payments, scheduling, distributed systems, and mobile engineering.
+learn how to envision and build beautiful new products that are used by millions of square merchants around the world.
+iterate quickly with world class product managers and designers.
+hold your teammates and yourself to a high standard of engineering working on products that move billions of dollars in payments and manage customers' sensitive data.
+build products in a way so we can be brave and move fast without breaking the products that millions of small businesses depend on.
+innate curiosity and desire to build products that merchants depend on.
+desire to solve hard and engaging engineering problems.
+an understanding how the web works with experience developing applications and can make pragmatic engineering decisions from that knowledge.
+a record of pursuing self directed side projects, research, or open source projects.
+languages and technologies we use:
+responsive web development
+javascript, es6, jquery, ember, sass, and other web-app frameworks
+testing frameworks like (qunit, mocha, jasmine, etc.)

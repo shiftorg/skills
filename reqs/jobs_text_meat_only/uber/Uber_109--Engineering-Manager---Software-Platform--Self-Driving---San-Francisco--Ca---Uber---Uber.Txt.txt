@@ -1,0 +1,42 @@
+Uber 109--Engineering-Manager---Software-Platform--Self-Driving---San-Francisco--Ca---Uber---Uber.Txt
+
+
+
+
+
+the uber advanced technology group is seeking an engineering manager to lead ongoing development of technical infrastructure as applied to the autonomous driving technology space.  our software platforms support the atg mission across both development and production realms, and include vehicle-resident operating systems, onboard software frameworks and sensor integration, live telemetry systems, bulk data transport and curation, large-scale datacenter systems, software build and release, among others.
+
+are you passionate about building high-reliability mobile systems?  do you enjoy solving complex data management problems at continental scale?  do you live and breathe at the context of compute, storage, networking, space, power and requirements?  are you able to rapidly understand the needs of users and convert these to action plans?  are you comfortable diving deep into the details of sensors or systems one day, and doing technology selection and resource planning the next day?  if so this opportunity is for you.
+
+as an engineering manager at atg you will be expected to make an impact through both organizing the work of others and your ability to lead within one or more technical areas. working at the intersection of technology and people, you will balance long-term technology direction, health of the team, and individual careers of team members to ensure success in all these dimensions.
+
+
+access uber's planet-scale data store while gaining subject matter expertise in the specific technical infrastructure needs of self-driving technologists;
+learn from world-renowned practitioners in robotics, mapping, perception, logistics, machine learning, motion planning, mobile communications, and other fields;
+see your work and that of your team deployed fast and often into the enterprise, to receive rapid use and feedback for future iteration;
+
+work with a group of core domain experts to plot the future course of technical infrastructure technologies within the enterprise;
+recruit and attract new talent into your group, to enhance and accelerate existing and future programs;
+benefit from working at a dynamic startup inside an established, well-capitalized company.
+
+
+people management experience:
+you have the management playbook to nurture careers, manage under- and over-achievers, influence cross-functional teams, and recruit and build teams;
+skills as a software systems expert:
+deep knowledge of operating systems, common software toolsets and frameworks, ability to select and blend existing technologies suitable to the specific atg problem space;
+fast learner:
+we're looking for an engineering manager who thrives on learning new technologies and doesn't believe in one-size-fits-all solutions -- you should be able to adapt easily to meet the needs of our massive growth and rapidly evolving business environment;
+action:
+you think a working proof-of-concept is the best way to make a point, and you thrive on the belief that quality doesn't have to be compromised to achieve speed - you can have both at the same time;
+versatility:
+in addition to having an intimate knowledge of core engineering fields, you understand how all the pieces fit together into integrated systems, and how they impact performance;
+passion:
+you feel ownership over everything you ship; you'd never think of code as "released" by your team until you're sure it's correct; you pride yourself on ensuring your teams do efficient monitoring, excellent documentation, and proper test coverage;
+team player mentality:
+you believe that you can achieve more on a team - that the whole is greater than the sum of its parts;
+design and business acumen:
+whether you're working on an api used by other developers, an internal tool consumed by our operation teams, or a feature used by millions of customers, your attention to details leads to a delightful user experience.
+
+
+the platforms team builds and runs the set of software platforms used to operate our fleets of automated vehicles.  from onboard sensing and computation, to wireless telemetry, to bulk data capture and offload, to ingest and transform and indexing and searching, to visualization frameworks and more, the platforms team plays a central role in the atg development and production ecosystem; we make the cars drive, protect them from harm, provide rich datasets to our engineers, and delight our scientists!
+

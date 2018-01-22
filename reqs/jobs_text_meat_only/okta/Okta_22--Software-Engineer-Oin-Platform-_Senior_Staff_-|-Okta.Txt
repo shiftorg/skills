@@ -1,0 +1,26 @@
+Okta 22--Software-Engineer-Oin-Platform-(Senior_Staff)-|-Okta.Txt
+
+
+we are looking for an experienced software engineer to join the team that develops the platform that drives the oin.  the okta integration network (oin) provides comprehensive single-sign-on, mfa, user management, and mobile integrations to over 5,000 cloud services, such as g suite, workday, salesforce, box, slack, github, and atlassian. the team is responsible for designing and building a platform that enables a community of okta developers, customers, and partners to rapidly and securely build, share, and monitor integrations.  the platform also allows customers to search and discover new integrations in the oin as well as give insights to partners on how their integrations are being used by customers.  we are looking for smart, innovative and passionate engineers to join the team and help craft the future of the okta integration network.
+you share our passion and great pride in elegant solutions and will join an engineering team that strongly believes in designing for scale, rigorous code reviews, automated testing, and an iterative process to build high-quality next generation enterprise software.
+our elite team is fast, innovative and flexible; with a weekly, agile release cycle and individual ownership. we expect great things from our engineers and reward them with stimulating new projects, emerging technologies and the chance to have significant equity in a company that is changing the cloud computing landscape forever.
+
+4+ years of strong software development experience in an object-oriented language building highly-reliable, mission-critical software
+experience working with a system of scale
+excellent grasp of software engineering principles
+deep understanding of server side technologies: caching and asynchronous processing
+knowledge of network security, encryption, authentication and authorization a plus
+prior experience with or understanding of rest (or designing apis) highly desirable
+
+
+b.s. or m.s. in computer science or related field
+
+overview of our tech stack:
+
+our primary programming languages are java and javascript
+we use open source frameworks such as hibernate, spring and backbone.js
+we run on best of breed infrastructure including mysql, tomcat, github, memcached, redis, kinesis and elasticsearch
+we make extensive use of virtualization and containers: aws, vagrant, docker
+our weekly production releases are made possible by continuous integration and sophisticated build, test and release automation leveraging maven, npm, yarn, artifactory, chef, ansible and the like
+we participate in the opensource community with the likes of  https://github.com/okta/okta-auth-js
+

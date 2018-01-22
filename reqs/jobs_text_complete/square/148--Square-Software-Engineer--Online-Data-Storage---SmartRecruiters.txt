@@ -1,0 +1,25 @@
+Software Engineer, Online Data Storage
+ San Francisco, CA, USA
+ Full-time
+ Company Description
+ We believe everyone should be able to participate and thrive in the economy. So we’re building tools that make commerce easier and more accessible to all. We started with a little white credit card reader but haven’t stopped there. Our new reader helps our sellers accept chip cards and NFC payments, and our Cash app lets people pay each other back instantly. We’re empowering the independent electrician to send invoices, setting up the favorite food truck with a delivery option, helping the ice cream shop pay its employees, and giving the burgeoning coffee chain capital for a second, third, and fourth location. Let’s shorten the distance between having an idea and making a living from it. We’re here to help sellers of all sizes start, run, and grow their business—and helping them grow their business is good business for everyone.
+ Job Description
+ The Online Data Storage team (ODS) is responsible for OLTP systems within Square. ODS provides and maintains a reliable and secure platform to host databases. The team develops tooling to automate the creation and maintenance of databases, provides multiple levels of redundancy, and gives application owners tools to better manage their databases.
+ You will:
+ Optimize datastore architecture and configurations to improve performance efficiency.
+ Write software and tools to automate the lifecycle of databases.
+ Collaborate with other platform teams to develop the infrastructure of Square’s database servers.
+ Collaborate with other products teams to optimize their database usage.
+ Qualifications
+ You have:
+ 5+ years of industry experience developing highly scalable production services.
+ Strong experience writing software applications in Ruby, Java, or Go.
+ Strong experience in MySQL or Redis administration, operation, and performance tuning on Linux/Unix.
+ Familiarity with scripting languages such as Ruby and Bash
+ Additional Information
+ At Square, we value diversity and always treat all employees and job applicants based on merit, qualifications, competence, and talent. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status. We will consider for employment qualified applicants with criminal histories in a manner consistent with the requirements of the San Francisco Fair Chance Ordinance.
+ I'm interested
+ I'm interested
+ Refer a friend
+ share this job
+ Powered by

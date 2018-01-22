@@ -1,0 +1,34 @@
+Uber 467--Embedded-Systems-R&D-Test-Engineer---Pittsburgh--Pa---Uber---Uber.Txt
+
+
+
+
+
+as a hardware test engineer on the v&v team, you will participate in requirements engineering, develop hardware verification and validation plans, develop test cases, design/build test fixtures, execute tests and document results to validate components and systems.
+testing software/firmware on microcontrollers and computer systems that work with cameras, lidar, radar, and other sensors.
+debugging & failure analysis of complex hardware-software interactions
+create methods for stress-testing pcbs
+develop test cases to validate hardware/software integration
+develop tools and methods to automate testing for rapid deployment
+programming & debugging in c-like languages, and developing test scripts in high-level languages like python, labview or matlab.
+present reports, document your work, and prioritize tasks on your own
+
+creative problem solving
+good experience with linux command-line & shell scripts
+embedded software testing experience
+broad general ee knowledge
+ability to design, build and maintain tests for custom hardware
+bs in electrical/computer engineering or a related field and 5 years of work experience, or an advanced degree (masters, ph.d.) in electrical/computer engineering or a related field and 3 years of relevant work experience.
+
+experience with safety-critical hardware systems and components
+understanding of automotive applications and standards
+experience in agile project environments
+can bus vehicle standard familiarity
+fpga experience
+experience debugging problems with communication data links
+ability to design, build and maintain electrical test fixtures
+
+
+at the advanced technologies group (atg), we are building technologies that will transform the way the world moves. our teams in pittsburgh, san francisco, phoenix, and toronto are dedicated to mapping, software and hardware development, vehicle safety, and operations for self-driving technology. our teams are passionate about developing a self-driving system that will one day move people and things around more safely, efficiently, and cost effectively.
+
+our hardware team's role is to develop and integrate uber self-driving technologies into existing and future vehicle platforms of multiple oem's at scale.

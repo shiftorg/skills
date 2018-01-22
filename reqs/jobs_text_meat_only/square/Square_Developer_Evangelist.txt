@@ -1,0 +1,13 @@
+Square Developer Evangelist
+
+developer evangelist
+square took a simple, revolutionary idea that everybody should be able to take credit cards for payments and change how commerce is done. we continue to open square's commerce platform for any developer to build solutions leveraging payments and square merchant accounts. we're looking for a developer evangelist that's passionate about ensuring developers can successfully build solutions on square's commerce platform. we're aggressively growing the square developer platform team as we expand and engage a broader section of the developer community. you'll help showcase the platforms capabilities through content and presentations at events locally and abroad. our developer evangelists also play a crucial role of representing the voice of external developers internally and bringing their feedback into our current and upcoming product offerings. come grow the square developer community!
+build and grow the square developer community, which targets millions of sellers
+write and drive high quality technical content that helps developers get started more quickly and easily
+be the voice of square in public forums and external events for developers building on square's commerce platform
+work cross-functionally with our product teams, many other engineering teams, and partner developers in the design and delivery of square's global developer platform
+passion for developers and an innate desire for good developer experiences
+experience building and engaging communities
+have previously delivered high quality code samples and documentation that others use to successfully onboard and build
+track record of pursuing self directed side projects, research, or open source projects
+great communication and writing skills

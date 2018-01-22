@@ -1,0 +1,31 @@
+Uber 640--Business-Systems-Analyst-(Finance-Applications)---Hyderabad--India---Uber---Uber.Txt
+
+
+
+
+about the role
+
+uber is looking for finance systems analysts who is a subject matter expert in procure-to-pay applications. the bsa is responsible for both supporting existing functionality and enhancements and must be techno-functional to be able to drive projects and assignments to their successful completion.
+
+participate in the internal oracle ebs/ coupa global implementation rollouts and enhancements.
+identify opportunities for business process improvement and drive cross functional business and system requirements for the implementation and support of key financial processes.
+evaluate information gathered from multiple sources, identify gaps, and translate business requirements into system solutions
+document business requirements, functional design, test scenarios and scripts, and end-user training materials.
+work directly with international finance shared services business users around the world to provide superior day-to-day application support.
+provide research, analysis, and problem resolution including creating and monitoring service requests with oracle/coupa support
+support business users and help to troubleshoot simple to complex application issues and develop creative solutions to support business needs.
+work closely with engineering organization to develop and test system extensions, enhancements, integrations, and bug fixes.
+
+bachelor's degree in business administration, finance or information technology is required.
+5 - 10 years of experience in implementation, development, process re-engineering and support of coupa or oracle ebs r12 suite mainly in gl, agis, po, ap, ar, fa, cm and ebtax.
+proficient at multitasking and prioritization of projects and support.
+excellent analytical, problem solving, and troubleshooting skills to manage complex process and technology issues.
+understands technical issues and able to write sql queries
+knowledge of oracle tools used to support oracle application development including pl/sql, sql, apex is a plus.
+
+demonstrated ability to work in a team environment including the ability to work collaboratively with business users, it staff and various levels of management; including experience working in an onshore/offshore model with different time zones
+attention to detail and strong personal organizational skills and able to work in fast, paced, high volume environment. proven history of successful problem solving with strong sense of ownership
+excellent verbal and written communication skill
+
+
+the business systems team is responsible for supporting financial systems, troubleshooting and documenting software applications of varying complexity following the predefined standards and best practices.

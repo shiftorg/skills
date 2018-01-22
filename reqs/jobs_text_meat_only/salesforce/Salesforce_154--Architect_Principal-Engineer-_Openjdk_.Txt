@@ -1,0 +1,27 @@
+Salesforce 154--Architect_Principal-Engineer-(Openjdk).Txt
+
+
+
+
+architect/principal engineer (openjdk)
+
+salesforce delivers the customer success platform that enables customers to connect with businesses and consumers in powerful new ways. our platform serves over 6 billion mission critical business transactions every day and growing fast. salesforce core engineering is a team with the charter to provide a highly-scalable and reliable foundation for all our services. we strive everyday to earn customer trust by making our cloud always available, always fast, and always secure.
+
+our core platform is powered by java. salesforce core engineering cloud is looking for an exceptionally strong architect/principal level engineer to define and drive the adoption of the openjdk technology across the salesforce platform and many micro services. are you that special engineer who is passionate about the java platform, openjdk, java security and distributed systems development? do you enjoy using and extending open source technologies (standing on the shoulders of giants!) to bootstrap new services? do you like to work in fast paced teams that propel our growth as well as yours? we can provide a great opportunity for applying your talents to high scale challenges.
+
+
+actively work with openjdk community, bootstrap openjdk delivery internally, architect salesforce needs and make contributions to the benefit of java community.  deliver the most secure jdk/java runtime built with the openjdk technology.  develop a robust roadmap for and lead the jdk9/jdk10 adoption across salesforce platform and various microservices.  help deliver our services deploy at scale (docker/kubernetes-based micro service architecture) and work across with polyglot microservices.  formulate, evaluate and implement techniques to support service stability, scalability, and availability  work closely with quality engineering and technical operations to test and deploy infrastructural enhancements  work across the engineering organization to resolve complex technical issues and drive innovation that improves system availability, resiliency, and performance  provide thought leadership for cloud technology inside salesforce and collaborate with cross-functional engineering teams to develop and enhance the platform.
+
+
+bs/ms or higher degree in computer science or electrical engineering  5+ years hands on experience with working knowledge of openjdk, java service execution containers, server-side runtimes and network programming.  large systems software design and hands on development experience in unix/linux.  ability to analyze complex systems and failure modes and build technical strategies for improvements based on those findings.  ability to learn quickly and deliver high quality code in a fast-paced, dynamic team environment.  excellent spoken and written communication skills
+
+
+ideal candidate is an active openjdk contributor or team lead working on jdk development  familiarity with internals of open source cloud and application platforms such as jetty/netty/jboss/tomcat/glassfish, servlets/jsp technology, redis/memcached, web services stacks, jmx, monitoring; direct experience in building or extending an application server is a huge plus.  good exposure to cloud design considerations in the areas of virtualization, service discovery, load balancing, networking and security.  strong foundation in data structures, algorithms, software design and performance optimizations.  solid analytical and troubleshooting skills.  experience with agile software development, and short release cycles
+
+
+
+
+
+
+
+

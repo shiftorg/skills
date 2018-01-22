@@ -1,0 +1,28 @@
+Okta 52--Senior_Group-Product-Manager-|-Okta.Txt
+
+
+position description:  are you excited and passionate about defining what customers need to know to be wildly successful on the okta service, at massive scale globally? does working with customers, customer-facing teams, partners, engineering, product marketing and business development to deeply understand what customers and users know and need to know for a rapidly growing company get you out of bed in the morning?
+okta has consistently expanded our product portfolio beyond sso to include lifecycle management, multi-factor authentication, device management, and a flexible platform for mobile and web application developers to help our customers manage users both internal and external to their organization. now, with over 3,000 enterprise customers and 6 million users in 185 countries accessing our cloud service from tens of millions of devices, okta is really starting to scale.
+we are looking for a strong product leader with technical backgrounds, good business sense, and an ability to partner closely with other product managers, engineering, user experience, sales engineering, customer success, product marketing, and technical marketing teams to drive this team and overall effort at okta. this role will have responsibility for defining customer use cases and which problems are most important for us to solve. this includes working with engineering and system architects to understand what the possible solutions are, how we deliver the most customer value from our efforts, and that solutions we develop are useful within the constraints of the real world. it will require creativity, passion, and an ability to execute in order to get to product-market fit quickly and leverage product data to continually get smarter about how to improve our existing products.
+experience working with cloud services, enterprise it products, identity management, and device management are major advantages. success in this role will require both a strong ability to understand true requirements (not just what people ask for), define our overall short and long term strategy, and collaborating across the broader okta organization to ensure delivery of a compelling product roadmap and strategic plan your area.      job duties and responsibilities:
+
+understanding core business problems and requirements from customers, prospects, sales and support
+working with engineering, the wider pm team and other internal groups to prioritize, define and document user stories and use cases to guide product development
+setting product strategy and direction for your product
+tracking industry trends and competition to inform product decisions and strategy
+collaborating with product marketing to support creation of messaging and content
+collaborating with technical marketing as the subject matter expert to enable the okta technical sales force
+
+
+bachelor's degree
+excellent communication skills (presentation, verbal and written)
+track record of successful delivery of company-critical projects
+4+ years of industry experience. 2+ years of product management experience
+
+
+advanced degree in technical field
+strong leadership skills and executive presence
+experience with enterprise products or services
+knowledge in identity, access management, device/mobility management, and/or developer-facing products
+background in saas products
+

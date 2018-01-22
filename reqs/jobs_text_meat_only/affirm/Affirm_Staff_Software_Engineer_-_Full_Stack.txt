@@ -1,0 +1,15 @@
+Affirm Staff Software Engineer - Full Stack
+
+in order to succeed in our vision to offer honest financial services that improve lives, our team must maintain extreme efficiency and deliver a seamless experience with every customer interaction. we're looking for experienced, motivated software engineers who will build products and systems that serve our customers, merchant partners, and employees.
+develop products that serve our merchants and customers
+collaborate with product management, design, and platform engineering to iterate and enhance our product offerings
+plan, design, communicate, and implement software systems with an eye towards robust, extensible architecture
+lead technical discussions and plans to improve our overall software quality
+mentor and lead other software engineers
+driven to change consumer banking for the better
+fluent in full-stack development (we use react/redux + python/flask)
+experienced with designing, building, launching and maintaining products
+evangelizes software development best practices, setting a high technical bar for other engineers to meet
+enjoys partnering with product managers and designers to execute on complex technical projects
+cares about the details in the user experience
+communicates and collaborates effectively across teamsinterest or curiosity towards leadership roles a plus

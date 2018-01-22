@@ -1,0 +1,27 @@
+Square Data Scientist, Commerce Platform
+
+data scientist, commerce platform
+atlanta, ga, usa
+as a data scientist at square, you will lead projects that derive value from our unique, rich, and rapidly growing data. we're a passionate team of hackers, statisticians, and optimizers who are resourceful in distilling questions, wrangling data, and driving decisions.
+as a data scientist in the commerce platform team you will apply your modeling and engineering skills to a variety of challenging, high-impact projects in areas such as authentication and authorization, catalog and inventory management, orders and billing, and analytics and reporting.
+drive cross-functional ml projects from beginning to end: build relationships with partner teams, frame and structure questions, develop data pipelines, train and optimize ml models, and deploy solutions in production.
+work with engineers to evangelize data best practices and implement ml solutions.
+collaborate with business leaders, subject matter experts, and decision makers to identify automation opportunities.
+develop success criteria and optimize new and existing products, features, policies, and models.
+communicate key results to senior management in verbal, visual, and written media.
+help build an amazing suite of ml-driven products at square
+an advanced degree (m.s., phd.), preferably in statistics, computer science, physical sciences, economics, or a related technical field
+a consistent track record of performing data analysis using python (numpy, pandas, scikit-learn, etc.) and sql
+experience using statistics and machine learning to solve complex business problems
+the versatility and willingness to learn new technologies on the job
+the ability to clearly communicate complex results to technical and non-technical audiences
+even better:
+2+ years industry experience in data science, machine learning, or analytics
+familiarity with other data tools such as hive, vertica, tableau, ruby
+familiarity with linux/os x command line, version control software (git), and general software development
+technologies we use and teach:
+python (numpy, pandas, sklearn) & r
+mysql, vertica, hive, redshift
+machine learning (e.g. regression, ensemble methods, etc.)
+statistics (bayesian methods, experimental design, causal inference)
+tableau, looker

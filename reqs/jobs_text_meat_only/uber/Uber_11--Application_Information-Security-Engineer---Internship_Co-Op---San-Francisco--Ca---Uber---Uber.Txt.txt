@@ -1,0 +1,30 @@
+Uber 11--Application_Information-Security-Engineer---Internship_Co-Op---San-Francisco--Ca---Uber---Uber.Txt
+
+
+
+
+uber engineering is a high-performance culture marked by fearlessness and hyperproductivity. we're looking for fantastic new grads who can work harder, faster, and smarter without sacrificing technical excellence. our organizational challenges are unique, so you should be comfortable in uncharted territory and pumped to build systems that can support cities of 100,000 and 10 million people alike.
+
+uber's security team works to ensure the security of all code, systems and data used by our riders, drivers and partners. application security is responsible for working with engineers to design, build, advise and review security concerns across a diverse variety of projects.
+you will be relied upon to provide engineering and product teams with the security expertise necessary to make confident product decisions. you will be finding security vulnerabilities through manual review, tools you build or 1:1s with other engineers. you will write code to systemically fix security issues across the codebase. you will advise teams on the best way to build something to prevent future security issues.
+
+what you'll be doing:
+investigate and understand our newest projects and technologies and give security guidance to ensure that they are as robust as possible.
+perform code and design reviews of internally developed applications.
+develop security tools to find or fix security issues en masse.
+create automated tests to encourage and enforce security standards.
+develop security training and education for our software engineers.
+ensure that identified issues are prioritized and addressed in an appropriate timeframe.
+interact directly with the security community regarding vulnerabilities and threats
+
+programming languages we use:
+python, node.js, go.
+
+here are the kinds of skills we're looking for:
+you enjoy both breaking and building.
+strong knowledge of web application security issues.
+willing to compromise when it's necessary and hold firm when it's essential.
+you maintain a strong desire to build robust things (but also break them!)
+you are interested in teaching security since we're all in this together.
+excellent communication skills.
+

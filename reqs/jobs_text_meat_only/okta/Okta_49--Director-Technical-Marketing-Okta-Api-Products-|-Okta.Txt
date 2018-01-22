@@ -1,0 +1,37 @@
+Okta 49--Director-Technical-Marketing-Okta-Api-Products-|-Okta.Txt
+
+
+from hailing a cab to collaborating with co-workers, digital has redefined our expectations around extraordinary experiences. today, businesses have put digital transformation at the top of their corporate agenda and identity has become the key enabler for seamlessly and securely connecting people and things empowering these new digital experiences.
+okta apis provide programmatic access to okta's market leading identity cloud services. this enables developers to build great user experiences for both complex enterprise architectural challenges as well as customer identity for digital businesses. okta's api access management secures modern apps that connect to an api backend. it can be used to securely authorize access to any api, regardless of the api gateway being used, and centralizes security for apis enterprise-wide.
+join a world class product team that is building a cloud based platform enabling global enterprises and brands to transform their services and products. work at a company that is addressing an explosive market focused on apis and apps.
+
+what is this role all about?
+you will be a member of the okta product team and will build/lead a strong team of api experts focused on accelerating the adoption of okta's api products. the candidate will demonstrate strong personal drive, a sense of ownership, and exemplary communication skills.
+
+what we need to see
+
+10+ years of evangelism, product related or pre-sales engineering experience for a saas, security, developer platform, or web services company.
+good understanding of identity and security concepts (authentication, authorization, related protocols), apis, middleware, and web services technologies
+bachelors in computer science or engineering (technology background is preferred)
+prior software, solutions development background and proven ability to present and demonstrate complex technology to developers, sales and technical product leaders.
+ability to delve into technical details of product, and strong ability to defend opinions with both business and technical partners within the organization
+motivated with ability to prioritize tasks and work in a dynamic environment. ability to handle multiple projects and constituents and prioritize under tight deadlines
+
+
+ways to stand out
+
+do you exude high energy and a positive attitude?
+do you have exceptional verbal and written communication skills?
+have you developed technical content for online audiences and are actively engaged with social media for work
+
+
+
+what will you get out of this role?
+you will get to work with awesome companies who have partnered with okta to solve some of their most critical business challenges. you will become familiar with the entire product development lifecycle at one of the fastest-growing saas companies in the world—from ideation to adoption. you will be at ground-zero of one of the most significant technology trends of our time: organizations transforming and reimagining their customer facing applications and services.
+
+build and lead a team of smart and driven api experts dedicated to our mission
+partner with product marketing to drive the go-to-market strategy and execution
+develop core content that communicates the use cases and value of the okta api products for our technical audiences
+collaborate with product management to ensure we are delivering on top priority customer needs
+develop a competitive strategy, the tools and enablement necessary to ensure successful field execution of the competitive playbook
+

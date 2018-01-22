@@ -1,0 +1,51 @@
+Okta 48--Director-Product-Marketing-Identity-|-Okta.Txt
+
+
+as we scale okta globally through our enterprise and commercial go-to-market, the core identity business – including universal directory, sso, and lifecycle management - continues to play a central and strategic role in driving growth for the company. enabling this growth at okta is product marketing, which is responsible for sizing market opportunities, understanding buyers and how to effectively communicate value, mapping the competitive landscape, packaging and pricing the okta service to best capture value and drive growth, prioritizing go to market investments, and enabling a global sales organization that spans multiple customer segments and buyers.
+as evidence by the new gartner access management mq, modern, cloud-based identity management has entered the mainstream. while okta was placed very favorably in this new mq, the stakes have never been higher for the core identity business to continue to power the company's growth as organizations large and small modernize their entire it infrastructure. from smaller organizations that are looking to okta to power their cloud/mobile-first strategy to larger enterprises that are looking to okta to transform their legacy it stack, telling our unique identity story with clarity and continued thought leadership, expanding through new partnerships and channels, and expanding the awareness of the strategic importance of okta has never been more important.
+the identity product marketing leader will have three core responsibilities:
+
+identity   business   and   product   ownership:  our identity business is the largest and most strategic business at okta. this leader will continue challenging the status quo relative to legacy iam with our cloud-based identity and access products. this includes being responsible for the overall business management messaging, positioning, compete, packaging, pricing, analyst, pr, and go-to-market campaigns for our core business.
+identity   gtm   leader:  define kpis, assess performance, identify areas for additional investment, and drive a coordinated go to market strategy across the broader okta organization. this includes leadership of the pmm team around our core identity go-to-market plays, including our modernize enterprise it, build 100% cloud/mobile it, and increase m&a agility initiatives.
+lead   the   core   identity   team.  we have a high-power, high achieving identity team here at okta, so you'll be leveraging your previous management skills to their fullest to ensure that the team continues to perform at a high level. this team includes strong product marketing practitioners across our universal directory, sso, and lifecycle management products as well as our business value management function.
+
+
+
+business leadership and go to market strategy
+identify and prioritize target markets, product opportunities and buyers
+evolve and drive cross organizational alignment around repeatable use cases
+partner with corporate marketing to prioritize and inform demand gen investments and communication strategies
+partner with analyst relations to develop and drive deep relations with key analysts and lead okta responses to relevant mq, wave, etc. submissions
+publicly represent okta with customers, partners and larger audiences to communicate our product and business value, and educate customers, prospects and partners about okta's company and business strategy
+customer driven messaging, positioning and content
+collaborate with corporate marketing on our identity message
+define and deliver effective product messaging and positioning across products, segments, and use cases
+deliver content in various formats to communicate messaging and value of okta
+packaging and pricing
+deliver packaging and pricing of okta across products and segments that aligns with go to market and competitive strategy
+provide tools and enablement across the company
+manage ongoing input and feedback to evolve with changes in product, strategy
+business value quantification
+provide world class tools, enablement, and support for quantifying the value of okta
+drive adoption of business value more broadly across okta beyond sales
+competitive analysis
+develop and maintain a deep understanding of competitive product and go to market strategies to inform okta's business strategy
+collaborate with tech marketing to ensure we have technical product knowledge and that sales reps and ses can articulate competitive differentiation and defend value
+sales enablement
+collaborate with sales ops team to deliver tools and training for sales rep
+provide "real time” support for field in deals to navigate competitive and business challenges
+collaborate with technical marketing to ensure alignment across sales and se enablement
+establish strong, collaborative relationships across okta
+develop strong working relationships with product management, technical marketing, sales, marketing, and customer success to foster a creative and nimble culture with very tight functional alignment.
+
+
+
+7+ years of product management or product marketing experience for an enterprise-focused software, saas, or web services company.
+experience selling to cio and it community is a requirement, ideally with an iam background.
+consistent record of marketing to a highly technical audience. you are comfortable working with and marketing to technical buyers within enterprises.
+leadership skills as this will be a team management position.
+strong written and verbal communication and presentation skills (of course)
+real passion for measurement, metrics and continuous improvement across the organization.
+project management skills, can handle multiple priorities in a dynamic environment
+a degree in computer science, engineering or a related field. mba a plus.
+

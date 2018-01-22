@@ -1,0 +1,205 @@
+Skip to main content
+ Back
+ Uber
+ Rides on demand
+ Install
+ Ride
+ Drive
+ Help
+ Sign In
+ What city are you in?
+ Become a driver
+ Ride
+ Overview
+ How it Works
+ Fare Estimator
+ Safety
+ Cities
+ Airports
+ Drive
+ Overview
+ Requirements
+ Driver App
+ Safety
+ Rewards
+ Eats and more
+ Uber Eats
+ Uber for Business
+ Uber Freight
+ What city are you in?
+ English
+ Follow Us
+ Facebook
+ Twitter
+ LinkedIn
+ Instagram
+ Enter keyword
+ All teams
+ All teams
+ Advanced Technologies Group
+ Business & Sales
+ Communications
+ Design
+ Engineering
+ Finance & Accounting
+ Global Community Operations
+ Legal
+ Marketing
+ Operations & Launch
+ People Operations
+ Product
+ Public Policy
+ Rentals & Leasing
+ Safety & Security
+ University
+ All subteams
+ All subteams
+ All countries
+ All countries
+ Argentina
+ Australia
+ Austria
+ Bangladesh
+ Brazil
+ Bulgaria
+ Canada
+ Chile
+ Colombia
+ Costa Rica
+ Denmark
+ Ecuador
+ Egypt
+ France
+ Germany
+ Hong Kong
+ India
+ Indonesia
+ Ireland
+ Italy
+ Japan
+ Kenya
+ Korea, Republic of
+ Lithuania
+ Malaysia
+ Mexico
+ Myanmar
+ Netherlands
+ Pakistan
+ Panama
+ Peru
+ Philippines
+ Poland
+ Portugal
+ Saudi Arabia
+ Singapore
+ South Africa
+ Spain
+ Sri Lanka
+ Sweden
+ Taiwan
+ Thailand
+ Ukraine
+ United Arab Emirates
+ United Kingdom
+ United States of America
+ Vietnam
+ All cities
+ All cities
+ Search open roles
+ Search
+ Careers
+ Search open roles
+ Open Roles
+ Android Engineer - Mobile Accessibility
+ Android, Engineering in San Francisco, CA
+ Apply Now
+ About Uber
+  
+ We’re changing the way people think about transportation. Not that long ago we were just an app to request premium black cars in a few metropolitan areas. Now we’re a part of the logistical fabric of more than 600 cities around the world. Whether it’s a ride, a sandwich, or a package, we use technology to give people what they want, when they want it. For the people who drive with Uber, our app represents a flexible new way to earn money. For cities, we help strenghten local economies, improve access to transportation, and make streets safer.  And that's just what you're doing today.  We're thinking about the future, too. With teams working on autonomous trucking and self-driving cars, we're in for the long haul. We're reimagining how people and things move from one place to the next.  
+  
+ About the Role
+ Uber’s mission is to provide transportation as reliable as running water everywhere, for everyone. As an accessibility engineer you will be part of our Mobile Platform Team that works across all of Uber to help fulfill this mission. Your work will impact live riders, eaters, driver-partners, and operations teams across the globe. Our teams span from the traditional ridesharing business to the new emerging products around UberEATS, our own Mapping technology, and Self-Driving cars.
+  
+ In this role you will work help define the solutions to make Uber accessible and translate our accessibility mission into our technology. You will also define and create platform and processes to support the rest of Uber’s engineers and our operations managers across the globe in their accessibility efforts. 
+  
+  
+ #productplatform
+  
+ #productplatform
+  
+ What You'll Do
+ Build accessible, efficient, and reusable UIs for Uber’s mobile apps 
+ Create tooling, infrastructure, and frameworks that enable engineers to build experiences that are accessible to users of all abilities
+ Develop systems and patterns to prevent regressions and sustain a high bar of accessibility throughout the engineering organization
+ Communicate, document, and evangelize best practices for creating accessible UIs within Uber Engineering
+ Participate in design and code reviews
+ Work with end-users to help define what make our technology accessible
+ Help define the future of accessibility for Uber
+  
+ What You’ll Need 
+ At least 5 years experience as a software engineer
+ A passion for building accessibility into the fabric of the latest technologies
+ Expertise in Java or Kotlin
+ Good working understanding of the Android platform
+ Experience with developing complex software systems scaling to millions of users with production quality deployment, monitoring and reliability.
+ Ability to decompose complex business problems and lead a team in solving them
+ A passion for products, empathy for users, and aspiration to make big impact
+  
+ Bonus points if
+ Experience in developing accessible user interfaces following WCAG 2.0
+ Experience working with TalkBack features and UI Automation testing
+ BS/MS/PhD in Computer Science or a related field 
+  
+ Apply Now
+ See our Candidate Privacy Statement
+ At Uber we don’t just accept difference—we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Uber is proud to be an equal opportunity workplace. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status.
+ Uber is in 0 cities worldwide
+ City Search
+ Go to Uber.com
+ SIGN UP TO RIDE
+ Become a driver
+ Enter your location
+ English
+ Help
+ Help
+ Facebook
+ Twitter
+ LinkedIn
+ Instagram
+ Ride
+ Drive
+ Cities
+ Fare Estimate
+ Food
+ Business Travel
+ How it Works
+ Airports
+ Countries
+ Safety
+ Careers
+ Helping Cities
+ Our Story
+ Blog
+ Newsroom
+ Media
+ Uber API
+ Gift Cards
+ Uber vs Driving Jobs
+ Top Cities
+ San Francisco
+ London
+ Los Angeles
+ Washington D.C.
+ Mexico City
+ Sao Paulo
+ Top Countries
+ USA
+ France
+ India
+ Spain
+ Mexico
+ Russia
+ © 2017 Uber Technologies Inc.
+ Privacy
+ Accessibility
+ Terms

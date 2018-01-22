@@ -1,0 +1,49 @@
+Software Engineer ATL (New Grad)
+ Atlanta, GA
+ Full-time
+ Company Description
+ We believe everyone should be able to participate and thrive in the economy. So we’re building tools that make commerce easier and more accessible to all.  We started with a little white credit card reader but haven’t stopped there. Our new reader helps our sellers accept chip cards and NFC payments, and our Cash app lets people pay each other back instantly.   We’re empowering the independent electrician to send invoices, setting up the favorite food truck with a delivery option, helping the ice cream shop pay its employees, and giving the burgeoning coffee chain capital for a second, third, and fourth location.  Let’s shorten the distance between having an idea and making a living from it. We’re here to help sellers of all sizes start, run, and grow their business—and helping them grow their business is good business for everyone.
+ Job Description
+ Our Software Engineers are responsible for keeping Square simple and making our users faster and smarter by giving them a designed payments experience and rich data surrounding each transaction. We’re looking for smart engineers of all shapes and sizes, capable and excited about building world-class software and solving hard problems. Our challenges span many technologies, from web and mobile applications (iOS, Android) to server-side development (Java and/or Ruby). Our engineers work on small teams with people across engineering, product, and creative, building reliable, fast, responsive, and beautiful software. 
+ You will:
+ Design: Implement pixel perfect designs that defy user expectations.
+ Reliability: Ensure Square works right, every time, by using testing, continuous integration, and in-depth code reviews.
+ Security: Create interactions and APIs that reinforce trust, increase security, and make it harder to do the wrong thing.
+ Analytics: Collect all the data around every transaction and turn it into tools that help our users.
+ Products: Envision entire new products, features, and flows that are inspired, considered, and magical.
+ Fraud: Make quick decisions on millions of dollars which require sound judgment, thorough diligence, and passion for detecting bad actors and preventing loss.
+ Machine Learning: Build and refine powerful machine learning models that automate decisions, prioritize our work, and change the behavior of Square’s products in real time.
+ Teams
+ Below are the descriptions of Square’s engineering teams that have new grad openings in Atlanta
+ Billing
+  - Square’s Billing team is responsible for building out Square’s internal billing system - this enables Square to automatically bill merchants for their subscription to Square services such as payroll, appointments, or employee management. 
+ As a Software Engineer on the Billing Team, you will be responsible for designing, building, and maintaining services that ensure Square merchants are accurately billed. You will be deeply involved in the technical details of building highly available and reliable services, while also working with product teams to enable Square to rapidly build new tools for our merchants and buyers all over the world.
+ Catalog
+  - The Catalog team manages the items and inventory software that Square merchants use to track and sell their products. Items and inventory support all types of merchants, from food trucks with just a few menu items to retail stores with thousands of SKUs. Our full-stack team maintains the backend services and database that stores items, the web interface that edits items, and the Android and iOS apps that ring up products at the point of sale. 
+ Identities
+  - The Identities team maintains both the data store that represents Square’s core merchant model and the authentication system merchants use to access Square services. We curate merchant data (i.e. merchants, locations, employees, devices), provide authentication services (login, two-step verification, DDoS protection), all with highly availability while handling thousands of queries per second. 
+ As a software engineer on the Identities team, you will be responsible for designing, building, and improving the merchant model or authentication system. You will be deeply involved in the technical details of building highly available and reliable services, while also working with product teams to enable Square to service a wider range of merchants across the globe. 
+ Orders
+  - The Orders team builds platform software that coordinates transaction flow logic across Square’s products. We represent the agreement between a buyer and a seller, and facilitate the execution of that agreement by orchestrating the exchange of goods, services, and funds. We are a new team that will ultimately tie together many software components across Square, allowing developers to quickly combine new and existing components to build out new features on top of Square’s platform.
+ Payments
+  - As a software engineer on the Payments team, you will be responsible for designing, building, and maintaining the Payments platform services. This involves interacting with payment gateways and ensuring that payments continue to flow through Square systems into banks and vice versa. You will be deeply involved in the technical details of building highly available and reliable products and services for our sellers all over the world.
+ Qualifications
+ Please only apply if you are graduating in 2018. This job listing is only for those interested in our Atlanta office.
+ Pursuing a degree in Computer Science, Electrical Engineering, Math or related technical field, graduating between December 2017 and May 2018.
+ Programming experience in one or more object-oriented languages, including C, C++, Objective-C, Java, Ruby, Scala, Go, and/or Python.
+ Perks
+ Education / Foundational / Social Events 
+ Lunch
+  
+ ‘n
+  
+ Learn Workshops
+ Tons of internal social clubs to get plugged in ( LatinX, Squeers, WomEng, New Grads!, etc.)
+ Fully stocked micro-kitchens
+ Additional Information
+ At Square, we value diversity and always treat all employees and job applicants based on merit, qualifications, competence, and talent. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status. We will consider for employment qualified applicants with criminal histories in a manner consistent with the requirements of the San Francisco Fair Chance Ordinance.
+ I'm interested
+ I'm interested
+ Refer a friend
+ share this job
+ Powered by

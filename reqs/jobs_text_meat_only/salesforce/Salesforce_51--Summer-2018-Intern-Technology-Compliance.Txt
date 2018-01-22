@@ -1,0 +1,20 @@
+Salesforce 51--Summer-2018-Intern-Technology-Compliance.Txt
+
+
+
+
+title:  summer 2018 intern, technology compliance location:   san francisco, ca  type:  internship role:   if you have an upbeat energetic attitude, enjoy a challenge, are extremely motivated and are looking for a company with a focus on change, collaboration and communication, then this is the role for you.  the technology compliance intern is to support the team in internal control testing and assessment (inclusive of compliance/certification frameworks spanning pci-dss, sox, soc, hitrust, fedramp, iso), vendor assessments, vendor audits and other administrative tasks that support the technology compliance team brand and function. the intern will report to the technology compliance sr. analyst or manager and should hold an interest in developing professional skills in a fast-paced learning environment with a passion centered around technology, specifically saas. responsibilities:
+work with designated control and process owners to gain an understanding of the process and key controls to be tested and assist in updating applicable process documentation. execute control testing and documentation activities with consistent quality, including but not limited to performing walk throughs and executing test plans. assess and make recommendations/suggestions regarding the efficiency of processes, operations and control testing approach. stay aware of current technology trends and recommend, where appropriate, adaptation to our assessment approach based on continuous improvement  engage in our company's culture, including the development of professional relationships with technology compliance team personnel, management, and company employees. conduct special projects and execute project activities as needed in an effective and efficient manner. miscellaneous administrative tasks as they relate to technology compliance brand and function.
+
+candidate should be a master's student pursuing a degree in management information systems (mis), computer science, or a related field rock-star computer skills familiar with cyber security concepts, tools and techniques. excel guru, you already know that data-set will crash excel due to the 1,048,576 row limitation strong written and verbal communication skills  must be able to multi-task and work efficiently under tight deadlines ability to take initiative and adapt excited to learn!
+desired skills/experience: although the following are not required, they are considered a significant plus for this role:
+familiarity with information security audit and compliance frameworks pursuing industry relevant certification (e.g. cisa, cissp) thirst for technology and staying in tune with industry trends and developments. experience with programming/scripting languages (shell scripting, python or similar); data modeling experience also a plus
+about futureforce: salesforce's global university recruiting program is dedicated to attracting, retaining and cultivating next generation talent. our interns and new graduates work on real projects that affect how our business runs, giving them the opportunity to make a tangible impact on the future of our company. with offices all over the world, our recruits have the chance to collaborate and connect with fellow employees on a global scale. we offer job shadowing, mentorship programs, talent development courses, and much more.
+
+
+
+
+
+
+
+

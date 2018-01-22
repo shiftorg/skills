@@ -1,0 +1,27 @@
+Square Software Qa Automation Engineer
+
+software qa automation engineer
+we believe everyone should be able to participate and thrive in the economy. so we're building tools that make commerce easier and more accessible to all.  we started with a little white credit card reader but haven't stopped there. our new reader helps our sellers accept chip cards and nfc payments, and our cash app lets people pay each other back instantly.   we're empowering the independent electrician to send invoices, setting up the favorite food truck with a delivery option, helping the ice cream shop pay its employees, and giving the burgeoning coffee chain capital for a second, third, and fourth location.  let's shorten the distance between having an idea and making a living from it. we're here to help sellers of all sizes start, run, and grow their business—and helping them grow their business is good business for everyone.
+as a software qa automation engineer, you will be responsible for planning and executing software testing with an emphasis on testing through automation for square's pos app. this includes working with the cross-functional team to identify areas for automation and automating them.
+you should have a software quality assurance background including both manual and test automation experience. you should also have a strong aptitude for learning new technologies with a good instinct for discovering defects in software and hardware, and have the willingness to do both manual and automated testing.
+
+what you will do:
+
+plan, create and execute tests for validating square's pos software including end-to-end testing with hardware integration
+develop and maintain test automation for the pos app, based on developed test strategies and by collaborating with the manual testing team
+identify and report bugs found through manual testing or automated testing, and document bugs in jira by following square's guidelines for reporting bugs
+collaborate with external qa vendors as they execute our test plans. hold vendors accountable and ensure they have impact
+stay informed on customer and industry trends and integrate new ideas into ongoing testing efforts
+have a solid understanding of sqa methodologies and practices
+be a vocal proponent for maintaining quality in every phase of the development lifecycle
+minimum of 4 years as a software qa analyst with experience in both manual and automated testing
+experience in developing test automation using java or objective-c
+the ability to own a complete functional area of a product for testing by planning, executing and driving issues to resolution
+experience in testing and automating on mobile platforms (android or ios)
+excellent communication skills
+a strong sense of urgency and proactivity
+
+even better:
+
+experience in automation testing using expresso or kif test frameworks
+experience in testing payment systems

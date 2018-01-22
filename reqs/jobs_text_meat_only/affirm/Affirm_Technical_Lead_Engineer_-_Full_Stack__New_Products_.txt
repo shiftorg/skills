@@ -1,0 +1,19 @@
+Affirm Technical Lead Engineer - Full Stack (New Products)
+
+we re looking for an engineer to lead the full stack (web frontend and backend) development on projects to improve and grow the affirm anywhere app.
+the team you ll join is responsible for new product initiatives at affirm that go beyond our core business in the value they provide to our customers. part of this mandate is to invest in the affirm anywhere offering which provides powerful search and discovery tools that let customers find relevant themes, categories, merchants and discounts where they can save money and use affirm financing. the team s work is a critical part of affirm s mission to become a trusted financial partner for our customers, and to help them live their best and most fulfilling financial lives. you can think of the team as r&d or a  startup within a startup  working on the next generation of affirm products.
+lead technical projects from specification and planning, through execution & coding with multiple engineers, to testing and deployment into production
+design and implement new product features, as well as extend core platform services and apis to support those features
+architect and build the web frontend for our affirm anywhere offering
+analyze/debug performance issues on the frontend and across distributed services
+plan, design, and build our core platform software and systems to scale with an increasing number of users, features, business requirements, partners, and new engineers
+provide mentoring to more junior engineers in their progress on business and personal career goals
+passion and drive to change consumer finance for the better
+experience building real-time distributed web services in the consumer or saas space
+ability to pick up new technologies quickly
+strong software engineering fundamentals are far more important than familiarity with specific tools or languages
+emphasis on writing clear, readable, testable code
+nice to have
+experience working on growth hacking projects
+interest in or experience with recommendation systems
+python expertise

@@ -1,0 +1,15 @@
+Affirm Senior Software Engineer - Ios
+
+as we extend the reach of our transparent loan services to a broader populace, we re seeking an ios engineer to construct beautiful mobile applications. the ios app along with the companion android app will introduce an unprecedented level of freedom over one s personal finances.
+check out our recent ios app announcement:
+https://www.affirm.com/press/releases/affirm-reinvents-credit-for-21st-century/
+work closely with our product and design team to build innovative consumer financial products
+implement custom native user interfaces using swift
+build out foundational ios frameworks and pipelines to be deployed across a suite of financial products
+collaborate with other mobile platform developers to make sure we have parity in our products across multiple native mobile platforms
+work with the platform team to improve our apis and optimize our mobile services
+passion and drive to change consumer banking for the better
+a track record and obsession for shipping exceptional native mobile user experiences on the ios platform
+experience with ios automation tools and test frameworks
+experience designing mobile optimized apis and backend systems
+advanced working knowledge of swift, or the ability to quickly pick it up

@@ -1,0 +1,29 @@
+Square Fraud Analyst
+
+fraud analyst
+dublin, ireland
+we started with a simple idea - that everyone should be able to accept credit cards - and we've been rethinking buying and selling ever since. for sellers, we're creating one cohesive service to run your entire business, from a register in your pocket to analytics on your laptop. for buyers, we're making it faster to order from the businesses you love and more fun to pay your friends back. buying and selling sound like simple things - and they should be. somewhere along the way, they got complicated. we're working hard to make commerce easy for everyone.
+square's risk and fraud team is seeking a highly motivated fraud analyst to mitigate transactional fraud within the merchant commerce space. in this role, you will perform detailed analysis of high-risk purchases/transactions, via real-time queues to identify unauthorized transactions across different types of payments (card, ach, and mobile payments). this position will analyze unrecognizable risk patterns and communicate with our clients in cases where additional information is required.
+the ideal candidate would be ready to make a meaningful contribution to the team from day one. this individual will need to be decisive, yet embody a growth mindset and be open to learning - you won't always make the right decision! all candidates must be flexible with their schedule; having the ability to work non-traditional shifts as well as some holidays.
+use in depth fraud knowledge to assess financial risk and legitimacy of transactions and accounts.
+scale global fraud support for multiple products while optimizing operational efficiency and quality.
+interact with other risk teams on developing fraud prevention strategy and process.
+take ownership of projects and make decisions in a fast-paced environment with minimal direction and previously determined processes.
+monitor numerous real-time queues and review high-risk transactions from specified points-of-sale requiring demonstrated decision-making skills.
+maintain or exceed established service level agreements and guidelines for timely resolution of queued transactions to minimize potential revenue losses.
+contact and effectively communicate with customers and internal partners to ensure all slas are achieved with little or no supervision.
+understand our risk systems and investigate account patterns through data analysis.
+deal with escalations from internal and external stakeholders in a professional and efficient manner.
+provide and help develop & implement departmental process improvement.
+3+ years of experience within risk, fraud or trust and safety or are highly skilled at business intelligence/data analytics and interested in fraud
+able to work and self-organise with rapidly changing priorities
+strong customer focus and the ability to balance fraud prevention alongside a positive customer experience
+desire to work in fast-paced and rapidly changing start-up environment
+strong oral and written bilingual skills
+flexibility to adapt and ability to manage multiple assignments while working independently
+strong communication skills, self-motivated and results-oriented
+demonstrated customer service, organizational, and analytical skills
+strong investigative ability, internet research, and overall computer skills; experience writing sql to query relational databases is a plus!
+bachelor's degree required
+even better:
+leadership experience, formal or informal

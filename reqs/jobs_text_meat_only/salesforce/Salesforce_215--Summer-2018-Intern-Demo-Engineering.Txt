@@ -1,0 +1,23 @@
+Salesforce 215--Summer-2018-Intern-Demo-Engineering.Txt
+
+
+
+
+demo engineer intern are you technical? are you looking for something more than a typical developer internship? are you intrigued by the ins and outs of different businesses, industries and new web technologies? if these sound exciting to you, then consider this unique internship. the demo engineer works in a dynamic team environment with sales engineers to develop unique solutions for new and existing customers. in this hands-on role, you'll learn salesforce applications, the salesforce1 platform, and learn how to position the product in a sales environment. consider this your introduction to the sales organization, spend some time learning, and be on your way to an exciting career at salesforce.
+responsibilities: work with a variety of sales engineers (pre-sales consultants) across the us to:
+understand customer goals and challenges ​build proof of concept web and mobile applications position salesforce as the ideal product to solve the customers challenges and achieve their goals learn some or all salesforce applications and the salesforce1 platform. develop demonstration preparation skills and basic presentation skills light to heavy programming and/or scripting
+working toward a cs/se/ee/is/mis or related engineering/science degree. ​rising junior or rising senior minimum 1 year of relevant classroom, internship and/or industry experience general interest in sales and presenting to groups knowledge of cloud applications/platforms, relational databases and web technologies programming experience/exposure in c#/java/.net/ruby or other object oriented programming languages experience/exposure to html, css, javascript, sql exemplary verbal, presentation, and written communication skills ability to multi-task, prioritize and manage time effectively experience with heroku is highly desirable works well in collaborative team environment
+
+
+salesforce
+salesforce, the customer success platform, and world's #1 crm, empowers companies to connect with their customers in a whole new way.  these founding principles have taken our company to great heights, including being named one of forbes's "world's most innovative company" five years in a row and one of fortune's "100 best companies to work for" eight years in a row. we are the fastest growing of the top 10 enterprise software companies, and this level of growth equals incredible opportunities to grow a career at salesforce. together, with our whole ohana (hawaiian for "family") made up of our employees, customers, partners, and communities, we are working to improve the state of the world.
+salesforce foundation
+over the last 10 years, salesforce.org has become a vital part of salesforce's culture. the vision of the salesforce.org is to use salesforce people, technology and relationships to improve our communities. using a unique 1/1/1 model - 1% time, 1% product and 1% equity - we contribute the core strengths of  salesforce  to our communities. the nonprofits in our communities inspire us. our employees inspire us. by giving employees seven paid days per year to volunteer,  salesforce  encourages you to contribute to nonprofits you are passionate about and help those organizations grow and prosper. our volunteers read to children, mentor youth, feed the homeless, build playgrounds and clean up beaches, help nonprofits implement salesforce—and much, much more. we are an equal opportunity employer and greatly value diversity at our company. we do not discriminate on the basis of race, religion, color, national origin, gender identity, sexual orientation, age, marital status, veteran status, or disability status.
+
+
+
+
+
+
+
+

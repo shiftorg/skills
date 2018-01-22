@@ -1,0 +1,41 @@
+Software Engineer, Application Platform
+ San Francisco, CA, USA
+ Full-time
+ Company Description
+ We started with a simple idea—that everyone should be able to accept credit cards—and we’ve been rethinking buying and selling ever since.
+ For sellers, we’re creating one cohesive service to run your entire business, from a register in your pocket to analytics on your laptop. For buyers, we’re making it faster to order from the businesses you love and more fun to pay your friends back.
+ Buying and selling sound like simple things—and they should be. Somewhere along the way, they got complicated. We’re working hard to make commerce easy for everyone.
+ Job Description
+ The mission of the Application Platform team is to provide engineers at Square all the tools necessary to make deploying and monitoring their applications easy, repeatable, and reliable. As part of the wider Platform Engineering group, we commodify our rapid growth and we compile all the pieces necessary to help Square scale. We build great infrastructure to handle the complexity of our size so the entire company can focus on building special products.
+ As a team, we value correctness, efficiency, and automation. We measure and monitor everything, and have a culture of continuous reflection and improvement. We aim to eliminate friction for our software engineers in production and believe that no project should be delayed due to lack of reliable infrastructure. We believe that a well designed production environment can be beautiful. We're looking for senior engineers who share our values, particularly those who have experience building, monitoring, and maintaining high-volume, low-latency, distributed transactional platforms.
+ You will develop new features for, and maintain in production through oncall coverage, many of the following systems that cater to thousands of production servers:
+ Our deployment platform, codenamed P2, that’s loosely based on kubernetes (https://github.com/square/p2)
+ Our metrics ingestion, aggregation, and visualization pipeline which handles hundreds of thousands of incoming data points per second (and includes our custom metrics querying engine: https://github.com/square/metrics)
+ Our alerting solutions for system- and app-level monitoring
+ Our logging and exception reporting systems
+ Qualifications
+ You have:
+ 5+ years of API/server development experience
+ We use golang, java, and ruby/rails for our backend systems, and ember/js/css/html for our Web clients
+ We require strong familiarity with linux system administration tools
+ experience developing and maintaining distributed systems
+ prior experience handling reliability troubleshooting and day-to-day deployment/monitoring operations for the products that you developed
+ a proven track record of self-motivation and determination to learn
+ willingness to learn from and to teach your colleagues
+ Ideally, you also have:
+ developed and/or deployed infrastructure systems in the past for deployment, alerting, and logging
+ worked with distributed nosql datastores like Cassandra
+ a strong passion for open source software and a strong track record in open source community
+ You will learn how to:
+ write software using highly-available distributed datastores like Cassandra and strongly-consistent datastores like consul
+ store billions of metrics in a database
+ help engineers feel confident that the customer is satisfied with the hard work they deliver
+ debug live applications from the syscall level on up
+ safely change a system that a multi-billion dollar international company depends on
+ Additional Information
+ At Square, we value diversity and always treat all employees and job applicants based on merit, qualifications, competence, and talent. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status. We will consider for employment qualified applicants with criminal histories in a manner consistent with the requirements of the San Francisco Fair Chance Ordinance.
+ I'm interested
+ I'm interested
+ Refer a friend
+ share this job
+ Powered by

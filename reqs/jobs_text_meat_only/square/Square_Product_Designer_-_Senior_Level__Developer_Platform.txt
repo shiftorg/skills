@@ -1,0 +1,30 @@
+Square Product Designer - Senior Level, Developer Platform
+
+product designer - senior level, developer platform
+we believe everyone should be able to participate and thrive in the economy, so we're building tools that make commerce easier and more accessible to all. we started with a little white credit card reader but haven't stopped there. our new reader helps our sellers accept chip cards and nfc payments, and our cash app lets people pay each other back instantly. we're empowering the independent electrician to send invoices, setting up the favorite food truck with a delivery option, and helping the ice cream shop pay its employees.
+as a designer for square's developer platform you will have a high impact on the future of square as you help to expand the reach of square's core mission by empowering developers to build custom solutions for square sellers. by enabling developers to build on top of our platform, we encourage creative square applications to flourish outside the walls of our offices. the developer platform team spans the 3rd party developer experience, our app marketplace, and the e-commerce and hardware payment apis. you will be critical as our team reinvents square from a product company to a platform company.
+design responsibilities of this team spans:
+public facing aspects such as delivering a breathtaking web or native experience
+the developer marketing channels and onboarding funnel
+best in class developer tools and resources to make it as easy as possible to build with square's platform
+interactions of the e-commerce and hardware payment apis
+tools, content, best practices and design guidelines to help third party developers find success on the platform
+our app marketplace where millions of merchants can choose from app integrations to help run their businesses
+working across all these experiences to build a consistent, connected, and holistic design aesthetic
+***for consideration, please submit a link to your portfolio***
+build an amazing third party developer experience across web products and in native sdks
+rapidly prototype ideas with engineering and test them quantitatively and qualitatively with customers
+work cross-functionally with our product teams, many other teams, and partner with developers to design and implement square's global developer platform
+see the big picture to design robust experiences so the team can be brave, move fast, and incrementally create the right experience with lots of feedback along the way
+follow agile practices
+a minimum of 4 years of relevant experience
+experience turning complex problems into simple and engaging customer experiences for the web, ipad, iphone, and android
+expertise in developing information architecture, interaction models, customer flows, schematics, and visual design for products and services
+the ability to communicate interactions rapidly at varying levels of resolution
+demonstrated comfort with an iterative design process that includes accepting and acting on feedback and constructive criticism
+innate curiosity and a desire to be responsible for all aspects of building square's developer platform in a small, highly focused, and very rapidly growing team
+excellent collaboration skills
+even better:
+experience conducting customer research ranging from insight protocols to usability tests
+background developing interaction prototypes
+experience with motion design and related software

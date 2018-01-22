@@ -1,0 +1,24 @@
+Uber 62--Senior-Android-Engineer---Scheduled-Rides-(Seattle)---Seattle--Wa---Uber---Uber.Txt
+
+
+
+
+
+as part of the scheduled rides team you will deliver a delightful end-to-end experience to enable millions of customers around the globe to schedule rides on the uber app for android platform. you will work on a daily basis in very close collaboration with our product managers, marketing managers, designers, data scientists, operation specialists, ios and backend developers in order to deliver this customer experience which is critical for the overall success of uber.
+
+own the end-to-end experience for scheduled rides on the android rider and partner application
+participate in the design and architecture (frontend and backend) of the scheduled rides experience that spans across multiple tiers of the uber application
+work with product managers and designers to drive and finalize core user scenarios
+participate in ideating and planning the upcoming features the team will focus on
+work with data scientists to understand customer behavior and how the scheduled rides product is performing
+help take uber to the next level as a world class engineering team
+interview and coach new team members
+bs/ms/phd in computer science or related field
+native android development with a deep understanding of the android sdk
+strong algorithm and cs skills
+excellent written/verbal communication and great team player
+good track record of delivering customer facing android application (ideally used by millions of people)
+experience in working with agile methodology
+knowledge of restful architecture/networking, application health monitoring and analytics tools such as sentry, grafana, elk
+
+scheduled rides is one of the few features present on the home screen of the uber app and, as such, is used by millions of people around the globe. the team owns the full end-to-end experience on the rider and driver application including frontend, backend, operation tools and data analysis pipeline. some of the interesting challenges for this team would be to deliver a tailored experience for specific scheduling use cases (like airport trips, commuter trips...) or introduce new ways to schedule and accept trips from within or outside the uber application in order to differentiate our experience from competition and, consistently delight our customer. you will have the opportunity to work with senior engineers having a long tenure in the team and in uber therefore with a deep understanding of our entire system and trip flow to help guide and coach you.

@@ -1,0 +1,29 @@
+Square Technical Program Manager, Developer Platform
+
+technical program manager, developer platform
+we believe everyone should be able to participate and thrive in the economy. so we're building tools that make commerce easier and more accessible to all.  we started with a little white credit card reader but haven't stopped there. our new reader helps our sellers accept chip cards and nfc payments, and our cash app lets people pay each other back instantly.   we're empowering the independent electrician to send invoices, setting up the favorite food truck with a delivery option, helping the ice cream shop pay its employees, and giving the burgeoning coffee chain capital for a second, third, and fourth location.  let's shorten the distance between having an idea and making a living from it. we're here to help sellers of all sizes start, run, and grow their business—and helping them grow their business is good business for everyone.
+we are building a platform and ecosystem for developers building solutions on top of square's growing apis and sdks (both server side and using square's hardware). this is a massive strategic initiative of the company.
+do you want to help turn square from a product to a platform company?
+are you motivated to work cross-functionally with many small teams to expose all of square's products as public platform apis and sdks?
+does technical program management of a transformative and strategic initiative fit your experience and interests?
+do you want to join a team that, in ~2 yrs, grew from ~5 people to 30 and soon will be over 50?
+if you say yes, then please apply and we want to talk to you!
+as square is expanding to meet the needs of a broader seller base, including serving the needs of larger and more complex sellers, the platform is core to square's strategy and growth. enabling developers to easily build solutions which integrate systems and simplify a seller's life using square's commerce platform is critical to our sellers success. a key deliverable is to work with every team at square to build and expose services and api's to better serve our customers.  we are looking for a strong senior technical program manager that can define, manage, and successfully drive these engagements as every team in square delivers new api's.
+we are looking for a leader to bootstrap this team that will grow as we continue to expand the scope of square's commerce platform.  in this role, you will be the key person in ensuring square's commerce platform is consistent, cohesive, and that teams are executing and delivering a truly differentiated experience with our platform.
+be responsible for the success of technical projects from start to finish
+provide hands-on program management during analysis, design, development, and post launch.
+be the connector for product, design, engineering, analytics, and business operations through the entire project lifecycle
+facilitate and manage technical projects, gather requirements, develop and track project milestones, work with engineering teams to estimate work efforts and manage competing priorities
+highlight risks and clearly communicate those risks to stakeholders
+identify blockers and facilitate the removal of those blockers
+manage communication of progress/status with the developer platform team, executives and other project stakeholders
+develop and manage end-to-end project plans and ensure on-time delivery.
+a bachelor's degree, ideally in a technical discipline with 4+ years of experience managing large cross-functional engineering projects at a fast-paced, high-growth company in any industry
+an ability to distill complex issues into solvable and actionable tasks
+extremely strong project planning skills with an eye for details
+a superior ability to communicate with engineers and executives
+a positive, fun to work with attitude and help teams perform their best when working with you
+a passion for questioning the status quo and willingness to push boundaries in order to move quickly and deliver the right thing
+even better (bonus points):
+experience or interest in working with developers using rest apis and sdks
+experience working with software engineering teams

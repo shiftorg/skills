@@ -1,0 +1,20 @@
+Square Software Engineer, Cash
+
+software engineer, cash
+kitchener, canada
+square cash is a quick, easy, and free way to send money. the cash engineering team is responsible for the code that makes this work. we care about infrastructure that makes it easy to write software that is secure, efficient, and tested. we build incrementally with small changes and we deploy to production every day.
+as a member of the cash engineering team, you'll collaborate with us to:
+design data models to support application features
+build apis used by apps and microservices
+scale systems to our growing customer base
+operate and manage cash services
+unit test everything
+share ownership of the product
+contribute to the broader tech and open source communities
+strong desire to perform and grow as an engineer
+bachelors degree in computer science or equivalent experience
+demonstrated technical initiative on previous projects
+technologies we use and teach:
+java 8 including junit, hibernate, guice, and jersey
+http, json, grpc, and protocol buffers
+mysql

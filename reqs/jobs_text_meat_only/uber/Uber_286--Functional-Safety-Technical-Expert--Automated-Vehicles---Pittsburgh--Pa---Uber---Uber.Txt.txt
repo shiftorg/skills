@@ -1,0 +1,31 @@
+Uber 286--Functional-Safety-Technical-Expert--Automated-Vehicles---Pittsburgh--Pa---Uber---Uber.Txt
+
+
+
+
+
+our safety experts apply analytical skills and expertise throughout the product development lifecycle, and we work with software engineers, hardware engineers, test teams, and external partners to efficiently deliver the appropriate level of assurance for on-road, highly automated systems.our systems engineers bring knowledge of standard methodologies from a variety of industries, and apply tools and agile processes to right-size efforts around generating and maintaining system-level documentation and interface specifications.
+as the functional safety technical expert, automated vehicles you will have exceptional automotive functional safety expertise and an ability to deeply understand and extrapolate from traditional/standard approaches to address the complex world of self-driving vehicles
+responsibilities will include authoring functional safety work products for system elements, refining vehicle-level safety case artifacts, and aiding in applying tried-and-true analysis methods to evolving system architectures and highly complex software
+you will work in a small, self-optimizing team passionate about delivering results, not building an empire
+
+be knowledgeable about fail-operational system architectures and safety-critical system design and validation processes
+be well-versed in automotive functional safety standards such as iso 26262 and sotif
+have an attested ability to move fast and the confidence to innovate where clear industry or regulatory mentorship does not currently exist
+be comfortable in non-traditional environments -- highly helpful to have worked with startups, in an agile development process, or in a dynamic skunkworks division
+have proven experience working on sophisticated, safety-critical software systems
+have a track record of participating in, influencing, and/or driving well-tailored safety processes -- not just executing according to standard procedures
+
+building novel safety cases for complex cyber-physical systems
+making/defending smart judgements on residual system risk
+adapting traditional standard safety processes to rare new technology applications, e.g.,
+self-driving vehicles, highly automated driving
+being exposed to another industry (e.g., aerospace, defense, medical) and the applicable standards/principles therein, such as iec 61508, do-178, stpa, alara
+fast learner - you flourish with learning new technologies, pivot easily but thoughtfully to new ideas, and don't believe in one-size-fits-all solutions
+versatile teammate - you are willing to adapt to whatever role is most needed in a given moment, and you rely on others' candid feedback for continuous improvement
+business savvy - you understand requirements beyond the written word and how your technical contributions will influence the viability of future products
+
+
+at the advanced technologies group (atg), we are building technologies that will transform the way the world moves. our teams in pittsburgh, san francisco, phoenix, and toronto are dedicated to mapping, software and hardware development, vehicle safety, and operations for self-driving technology. our teams are passionate about developing a self-driving system that will one day move people and things around more safely, efficiently, and cost effectively.
+
+the system safety team within uber atg is charged with ensuring that, at every stage of development, our self-driving vehicles are demonstrably free from unreasonable risk when operating on public roads. we also hold primary responsibility for establishing durable specifications that will guide the integration of self-driving technology onto the uber network at global scale.

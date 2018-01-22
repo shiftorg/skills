@@ -1,0 +1,27 @@
+Uber 283--Machine-Learning-Specialist--Self-Driving---Pittsburgh--Pa---Uber---Uber.Txt
+
+
+
+
+
+do you dream about changing the world using your passion for science and engineering? then you should apply to join our engineering team taking on machine learning challenges in the area of self-driving technology. the work you do at the atg will be tested and deployed on real systems, in real-world conditions. the experience you gain as a member of the atg team will be unique and exciting, we can promise you that!
+develop machine learning algorithms for supervised learning, deep learning, reinforcement learning and active learning
+apply these algorithms to self driving vehicles
+build and own production ml models, pipelines, and runtimes
+collaborate and present your work throughout the atg organization
+
+a degree in a machine learning related discipline -- positions are available at the phd, ms, and bs levels
+a strong quantitative background
+excellent software development skills in c/c++ and/or python
+knowledge of machine learning commensurate with education/experience level
+excellent presentation and communication skills
+machine learning areas of special interests include: active learning and bayesian optimization, a
+nomaly detection, deep networks, distributed/parallel learning algorithms, image/video classification, learning control, predictive modeling.
+
+track record of building and shipping machine learning features in products
+prior work in automotive applications
+
+
+at the advanced technologies group (atg), we are building technologies that will transform the way the world moves. our teams in pittsburgh, san francisco, phoenix, and toronto are dedicated to mapping, software and hardware development, vehicle safety, and operations for self-driving technology. our teams are passionate about developing a self-driving system that will one day move people and things around more safely, efficiently, and cost effectively.
+
+the prediction team's mission is to deliver machine learning based features and develop solutions for the future of self-driving.

@@ -1,0 +1,16 @@
+Salesforce 235--Principal-Software-Engineer---Platform.Txt
+
+
+
+
+principal software engineer - platform administration san francisco or seattle  the platform administration team owns the user management and user access control functionality across the salesforce ecosystem. salesforce administrators use our tools to create and manage users and to control who has access to what within their organizations. our features are used by over 100k admin users supporting millions of end users delivering tens of billions of secure transactions every day. our vision is to improve the administrator experience with intelligent user access management products that leverage machine learning and operate across multiple salesforce technology stacks. we are looking for a principal software engineer to join our team. more specifically, we're looking for an innovator. you're someone who sees how things ought to be and has both the technical skill and the determination to make them a reality. we're looking for someone who is customer focused. you don't settle for giving users what they want. you delve deeper and deliver what they actually need to be successful. finally, we're looking for a leader. you not only lead by example but also inspire and elevate the team as a whole. requirements:
+ten years of professional development experience including several years as an engineering lead exceptional object oriented design skills anchored by extensive experience applying design patterns taking ownership of the team's domain from requirements, technical design, and implementation to automated testing, code reviews, deployment, and production support a solid understanding of resilient, distributed systems experience building scalable apis and microservices writing clean, testable, and extensible enterprise java and pl/sql code thriving in an agile environment excellent communication skills. we're a geographically distributed team, so you must be fluent in written and spoken english. experience with web technologies and modern javascript frameworks would be a plus.
+at salesforce, we support our community and prefer to hire people who are passionate about volunteering and have a life outside of work. we especially encourage those who are underrepresented in the software industry to apply.   these founding principles have taken our company to great heights, including being named one of forbes's "world's most innovative company” six years in a row and one of fortune's "100 best companies to work for” nine years in a row. we are the fastest growing of the top 10 enterprise software companies, and this level of growth equals incredible opportunities to grow a career at salesforce. together, with our whole ohana (hawaiian for "family") made up of our employees, customers, partners, and communities, we are working to improve the state of the world. *li-y
+
+
+
+
+
+
+
+

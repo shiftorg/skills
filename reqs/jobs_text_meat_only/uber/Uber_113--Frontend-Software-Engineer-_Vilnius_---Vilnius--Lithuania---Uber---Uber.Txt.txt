@@ -1,0 +1,36 @@
+Uber 113--Frontend-Software-Engineer-(Vilnius)---Vilnius--Lithuania---Uber---Uber.Txt
+
+
+
+
+
+
+the
+observability vilnius
+team is part of the observability group within uber infrastructure. we are charged with delivering platforms in two specific domains at uber: on-call experience and host-level monitoring. our team works with the rest of the observability group to build the tools to monitor physical infrastructure at uber and build  applications that our engineers across uber use to ensure on-call & incident response processes are running properly.
+
+
+the
+observability vilnius
+team works on several full stack applications for supporting on-call engineers on their duties, monitoring, alerting and generally making sense of millions of checks that are monitored at uber.
+
+as part of our team you'll focus primarily on the front-end of these applications along with a few other front-end engineers. some of the work you'd be involved in includes:
+
+building a platform for on-call, incident response and incident review processes management.
+building an open-source platform for host-level monitoring.
+prototyping new features to make the lives our engineers at uber easier and putting the new features that work into production.
+you'll generally help build out some of our existing tools, as well as craft new ones. we aspire to make most of our work open source, and prefer like minded team members who understand the balance of building software for use inside of uber that also has a path for external use via open source.
+
+
+generally, you'll do well in our team and enjoy the kind of projects we work on if you:
+you have deep javascript knowledge and have worked with node.js.
+enjoy digging into how we can help make uber's systems more understandable for engineers.
+understand the full web technology stack: html, css, http, cookies, headers, asset loading / caching.
+have experience with modern javascript ecosystem, libraries, and tooling. bonus if you know react framework.
+have experience working with visualization frameworks such as d3.
+have experience building awesome visualization tools.
+have
+some
+knowledge of full stack infrastructure from front-end to backend.
+have excellent communication skills and the ability to work well in a team.
+

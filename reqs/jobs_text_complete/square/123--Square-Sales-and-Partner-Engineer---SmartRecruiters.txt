@@ -1,0 +1,39 @@
+Sales and Partner Engineer
+ San Francisco, CA
+ Full-time
+ Company Description
+ We believe everyone should be able to participate and thrive in the economy. So we’re building tools that make commerce easier and more accessible to all.  We started with a little white credit card reader but haven’t stopped there. Our new reader helps our sellers accept chip cards and NFC payments, and our Cash app lets people pay each other back instantly.   We’re empowering the independent electrician to send invoices, setting up the favorite food truck with a delivery option, helping the ice cream shop pay its employees, and giving the burgeoning coffee chain capital for a second, third, and fourth location.  Let’s shorten the distance between having an idea and making a living from it. We’re here to help sellers of all sizes start, run, and grow their business—and helping them grow their business is good business for everyone.
+ Job Description
+ You will create and present business arguments and proofs of concept (demos & prototypes) built on Square products and our API. You will serve as an evangelist of Square’s operational value, drive an implementation cadence on strategic deals and push the boundaries of what’s technically possible on our platform. At least 10% of this role will be coding focused.
+ You will:
+ Provide technical consulting and propose feasible solutions according to products' terms and conditions
+ Solve merchant business issues with Square technology, brainstorming with the Sales & Partnerships teams on technical propositions to enhance Square’s offering
+ Propose, design, create, and present prototypes, demos, and proofs of concept to a wide variety of audiences, which include marketing professionals and engineers
+ Design, build, and support integrations for premier merchants and partners using Square’s platform APIs
+ Establish best practices to be shared with the Square Certified partner community
+ Attain quarterly and annual objectives assigned by management
+ Be the go-to expert for Sales team on what is technically possible with Square
+ Qualifications
+ You have:
+ A B.S. in Computer Science or related engineering field, or equivalent practical experience
+ Solid oral, written, presentation and interpersonal communication skills
+ 5 years of experience in technical sales or field sales
+ Experience leading implementation projects
+ Technical background in Web technologies such as HTTP, HTML, XML, and experience with web services (RESTful and SOAP)
+ Coding skills in at least one scripting (python, ruby,
+  
+ php, javascript) and one compiled/typed language (Java, .net/C#, C/C++)
+ Excellent written and verbal communication skills, and comfort presenting to and meeting with internal and external executive audiences
+ Even Better
+ Working knowledge of relational database administration (MySQL)
+ Ability to speak directly to technical teams, with experience adapting communications to the technical level of the audience and presenting technical materials to large groups
+ Experience working with small and mid-sized businesses
+ Additional Information
+ At Square, we value diversity and always treat all employees and job applicants based on merit, qualifications, competence, and talent. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status. We will consider for employment qualified applicants with criminal histories in a manner consistent with the requirements of the San Francisco Fair Chance Ordinance.
+ I'm interested
+ I'm interested
+ Refer a friend
+ Posted by
+ Derek Kokich
+ share this job
+ Powered by

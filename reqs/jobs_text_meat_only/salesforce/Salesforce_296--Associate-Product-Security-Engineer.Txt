@@ -1,0 +1,33 @@
+Salesforce 296--Associate-Product-Security-Engineer.Txt
+
+
+
+
+
+
+
+
+salesforce has one of the best security teams in the world and growing this piece of the business is a top priority. our security teams work hand in hand with the business to ensure the highest security around all of our applications. we are looking for a senior or lead product security engineer to provide security support for salesforce.com's cloud computing service. you'll work closely with the technology organization to educate our teams on secure application development and help create innovative security solutions for our product. additionally, you will play a key role providing both strategic and tactical security advice and help develop technology solutions that promote security and trust for our customers and their data.
+
+
+identify and understand the development practices, networks and infrastructure that make salesforce.com successful recommend and build solutions/mitigation plans to help resolve risks. guide the technology organization's security by participating in design reviews, threat modeling, and in depth security penetration testing of our code and systems. provide input on application design, secure coding practices, log forensics, log design and application code security. perform cutting edge research on new attacks, write white papers and present on those findings to internal audiences. evaluate and build application security tools for internal consumption and drive usage of these tools. the ideal candidate will have in-depth experience protecting against web and web services security vulnerabilities including cross-site scripting, sql injection, dos attacks, xml/soap, api attacks, email security flaws and more.
+
+experience/skills required:
+
+bs degree (4 year program) ​the ideal candidate will have some experience identifying and protecting against web application and web service security vulnerabilities
+
+experience/skills desired:
+
+ability to demonstrate strategic thinking extensive problem solving and analytical skills knowledge of the owasp top 10 and cwe top 25 vulnerabilities ​extensive programming and application development experience in multiple languages such as java, c, and scripting language
+
+​about futureforce university recruiting
+
+salesforce's global university recruiting program is dedicated to attracting, retaining and cultivating next generation talent. our interns and new graduates work on real projects that affect how our business runs, giving them the opportunity to make a tangible impact on the future of our company. with offices all over the world, our recruits have the chance to collaborate and connect with fellow employees on a global scale. we offer job shadowing, mentorship programs, talent development courses, and much more. about salesforce   these founding principles have taken our company to great heights, including being named one of forbes's "world's most innovative company” six years in a row and one of fortune's "100 best companies to work for” nine years in a row. we are the fastest growing of the top 10 enterprise software companies, and this level of growth equals incredible opportunities to grow a career at salesforce. 
+
+
+
+
+
+
+
+

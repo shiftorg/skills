@@ -1,0 +1,29 @@
+Uber 629--Adas-Systems-Engineer---San-Francisco--Ca---Uber---Uber.Txt
+
+
+
+
+
+
+the systems engineering team has responsibility for delivering autonomous driving capabilities for uatg's trucking program by bringing hardware and software together.  the adas systems engineer will be responsible for delivering hardware and software solutions to implement collision detection and collision mitigation on our self-driving trucks.
+as the lead for the collision mitigation and detection system, you will be the person responsible for seeing the functionality realized, from initial requirements all the way through production.  you will be directly responsible for:
+authoring system requirements for collision detection and mitigation hardware and software
+managing requirements all the way through the module's life cycle
+leading supplier engagement activities for adas systems
+integrating the functionality of collision detection and mitigation together with our self-driving hardware and software
+working with vehicle teams to integrate hardware onto vehicle platforms
+verifying and validating functional requirements
+working with the rest of the systems team to deliver integrated system functions
+
+
+expertise in inertial and radar sensing principles
+experience integrating inertial, optical, and radar sensors onto vehicle platform
+familiarity with radar object tracking
+experience with multi-modal vision systems
+familiarity with automotive hardware qualification
+familiarity with vehicle dynamics
+at the advanced technologies group (atg), we are building technologies that will transform the way the world moves. our teams in pittsburgh, san francisco, phoenix, and toronto are dedicated to mapping, software and hardware development, vehicle safety, and operations for self-driving technology. our teams are passionate about developing a self-driving system that will one day move people and things around more safely, efficiently, and cost effectively.
+
+our hardware team's role is to develop and integrate uber self-driving technologies into existing and future vehicle platforms of multiple oem's at scale.
+
+

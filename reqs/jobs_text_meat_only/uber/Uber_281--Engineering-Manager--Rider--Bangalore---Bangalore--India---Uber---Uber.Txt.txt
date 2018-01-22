@@ -1,0 +1,15 @@
+Uber 281--Engineering-Manager--Rider--Bangalore---Bangalore--India---Uber---Uber.Txt
+
+
+
+
+
+minimum 5+ years of experience as a manager and overall 10+ years of industry experience in a variety of contexts, during which you've built scalable, robust, and fault-tolerant systems.
+you have a solid knowledge of the whole web stack: front-end, back-end, databases, cache layer, http protocol, tcp/ip, linux, cpu architecture, etc.
+you are comfortable jamming on complex architecture and design principles with senior engineers.
+bias for action. you believe that speed and quality aren't mutually exclusive. you've shown good judgement about shipping as fast as possible while still making sure that products are built in a sustainable, responsible way.
+mentorship/ guidance. you know that the most important part of your job is setting the team up for success. through mentoring, teaching, and reviewing, you help other engineers make sound architectural decisions, improve their code quality, and get out of their comfort zone.
+commitment. you care tremendously about keeping the uber experience consistent for users and strive to make any issues invisible to riders. you hold yourself personally accountable, jumping in and taking ownership of problems that might not even be in your team's scope.
+hiring know-how. you're a thoughtful interviewer who constantly raises the bar for excellence. you believe that what seems amazing one day becomes the norm the next day, and that each new hire should significantly improve the team.
+design and business vision. you help your team understand requirements beyond the written word and you thrive in an environment where you can uncover subtle details.. even in the absence of a pm or a designer, you show great attention to the design and product aspect of anything your team ships.
+

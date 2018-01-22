@@ -1,0 +1,198 @@
+Skip to main content
+ Back
+ Uber
+ Rides on demand
+ Install
+ Ride
+ Drive
+ Help
+ Sign In
+ What city are you in?
+ Become a driver
+ Ride
+ Overview
+ How it Works
+ Fare Estimator
+ Safety
+ Cities
+ Airports
+ Drive
+ Overview
+ Requirements
+ Driver App
+ Safety
+ Rewards
+ Eats and more
+ Uber Eats
+ Uber for Business
+ Uber Freight
+ What city are you in?
+ English
+ Follow Us
+ Facebook
+ Twitter
+ LinkedIn
+ Instagram
+ Enter keyword
+ All teams
+ All teams
+ Advanced Technologies Group
+ Business & Sales
+ Communications
+ Design
+ Engineering
+ Finance & Accounting
+ Global Community Operations
+ Legal
+ Marketing
+ Operations & Launch
+ People Operations
+ Product
+ Public Policy
+ Rentals & Leasing
+ Safety & Security
+ University
+ All subteams
+ All subteams
+ All countries
+ All countries
+ Argentina
+ Australia
+ Austria
+ Bangladesh
+ Brazil
+ Bulgaria
+ Canada
+ Chile
+ Colombia
+ Costa Rica
+ Denmark
+ Ecuador
+ Egypt
+ France
+ Germany
+ Hong Kong
+ India
+ Indonesia
+ Ireland
+ Italy
+ Japan
+ Kenya
+ Korea, Republic of
+ Lithuania
+ Malaysia
+ Mexico
+ Myanmar
+ Netherlands
+ Pakistan
+ Panama
+ Peru
+ Philippines
+ Poland
+ Portugal
+ Saudi Arabia
+ Singapore
+ South Africa
+ Spain
+ Sri Lanka
+ Sweden
+ Taiwan
+ Thailand
+ Ukraine
+ United Arab Emirates
+ United Kingdom
+ United States of America
+ Vietnam
+ All cities
+ All cities
+ Search open roles
+ Search
+ Careers
+ Search open roles
+ Open Roles
+ Sr Security Engineer - Network (Self-Driving Vehicles)
+ Engineering Security, Safety & Security in San Francisco, CA
+ Apply Now
+ About Uber
+ Uber is a technology company that is changing the way the world thinks about transportation. We are building technology people use everyday. Whether it's heading home from work, getting a meal delivered from a favorite restaurant, or a way to earn extra income, Uber is becoming part of the fabric of daily life.
+ We're making cities safer, smarter, and more connected. And we're doing it at a global scale-energizing local economies and bringing opportunity to millions of people around the world.
+ Uber's positive impact is tangible in the communities we operate in, and that drives us to keep moving forward.
+  
+ About the job
+ You immerse yourself in all aspects of security. You are looking for an opportunity that will try your technical skills and challenge your creativity. You are ready to face a wide range of security questions, many of which have not been considered before.
+ Production servers, networks, endpoint devices, and data are safe in your hands. You are a subject matter expert who wants to implement tactical solutions 
+ and
+  contribute to the bigger picture.
+  
+ What you'll do
+ You’ll be tasked with improving security across all aspects of the Uber Advanced Technologies Group. This infrastructure will run complex new services and it will operate at significant scale. You will be challenged every day.
+ Push the boundaries of security technology to create defenses for large scale production infrastructure and networks
+ Provide subject matter expertise on network architecture and security
+ Perform security assessments of production, corporate, and cloud infrastructure
+ Define and implement network access control policies across routers, switches, firewalls, and hosts
+ Harden our networks against attacks
+ Instrument systems to enable detection of intrusions
+ Create services and tools to manage the security of our network
+ Support all aspects of the Uber Advanced Technologies Group
+  
+ What you'll need
+ BS in Computer Science, Electrical Engineering, or related field or equivalent practical experience.
+ Expertise in operations and management of carrier-class routers, switches, and firewalls
+ Solid foundational knowledge of technologies around network security including Linux, PKI, DNS, load balancing, IPSec, TLS and HTTP
+ Programming skills in languages such as Python, Go, C, Java, Bash, PowerShell
+ Involved with common network security industry practices, forums, and institutions.
+  
+  
+ Apply Now
+ See our Candidate Privacy Statement
+ At Uber we don’t just accept difference—we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Uber is proud to be an equal opportunity workplace. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status.
+ Uber is in 0 cities worldwide
+ City Search
+ Go to Uber.com
+ SIGN UP TO RIDE
+ Become a driver
+ Enter your location
+ English
+ Help
+ Help
+ Facebook
+ Twitter
+ LinkedIn
+ Instagram
+ Ride
+ Drive
+ Cities
+ Fare Estimate
+ Food
+ Business Travel
+ How it Works
+ Airports
+ Countries
+ Safety
+ Careers
+ Helping Cities
+ Our Story
+ Blog
+ Newsroom
+ Media
+ Uber API
+ Gift Cards
+ Uber vs Driving Jobs
+ Top Cities
+ San Francisco
+ London
+ Los Angeles
+ Washington D.C.
+ Mexico City
+ Sao Paulo
+ Top Countries
+ USA
+ France
+ India
+ Spain
+ Mexico
+ Russia
+ © 2017 Uber Technologies Inc.
+ Privacy
+ Accessibility
+ Terms

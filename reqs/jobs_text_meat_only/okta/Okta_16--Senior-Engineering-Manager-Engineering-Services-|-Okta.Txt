@@ -1,0 +1,46 @@
+Okta 16--Senior-Engineering-Manager-Engineering-Services-|-Okta.Txt
+
+
+
+
+
+
+
+okta is seeking a senior engineering manager with a strong technical background and excellent communication skills to join the engineering services team.  engineering services team tackles the problem of scale, velocity, and efficiency of our engineering organization.  you will be driving and perfecting our vision of continuous delivery, increasing the velocity and productivity or engineering and making the release experience easy and enjoyable.  you will work with a wide range of stakeholders and partners, including engineers, architects, operations, program management and quality.
+
+
+manage software development engineers and lead engineering projects
+act as scrum master for one or more scrum teams
+mentor software engineers through their career growth
+engage in technical design and discussions and also help drive technical architecture
+ensure the happiness and productivity of the team's software engineers
+help mitigate risk (technical, product, personnel)
+collaborate with other scrum teams, qa, release management, program management, and techops.
+provide guidance and influence in other areas of the engineering (e.g. devops and test engineering)
+communicate the vision of our product to external entities
+utilize professional acumen to improve okta's technology, product, and engineering
+participate in relevant engineering and technical operations workgroups and on-call rotations to assure service availability
+foster, enable and promote innovation
+define team metrics and meet productivity goals of the organization
+
+
+5+ years leading a team of highly skilled engineers
+10+ years as a software engineer working on enterprise or saas commercial software
+well-versed in software engineering principles and practices
+deep understanding of the tradeoffs of various sdlc models
+understanding and appreciation for tdd
+experience with web-based architectures, in particular, j2ee and related
+solid understanding of ci/cd release pipelines, build and test clusters.
+experience with aws infrastructure and services--ecs, lamdba, sqs, spot instance fleets, auroradb.
+experience with docker, docker image management, and docker image ci.
+experience with release engineering, understanding of release process of cloud software, and infrastructure to support build and release (e.g. git, artifactory, jenkins).
+experience with monitoring services such as appdynamics, splunk, wavefront.
+experience working in enterprise software or saas desirable
+prior experience working in an agile environment with matrixed teams a plus
+
+
+
+b.s. computer science or related field (ms/phd preferred)
+
+
+

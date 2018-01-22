@@ -1,0 +1,109 @@
+Salesforce 214--Product-Manager-(It-Applications).Txt
+
+
+
+
+the product manager (pm), is the "ceo” of the product and is focused on long and short term product vision, while harmonizing customers' interests with it delivery, and representing the product to our internal salesforce business partners.
+
+the it applications team is looking for an experienced pm who is knowledgeable and enthusiastic about leading the design, execution and strategy for effective, scalable, end-to-end business solutions (primarily with a focus on salesforce service cloud) in the areas of customer success.
+
+responsibilities:  the pm has a "seat at the table” with our business partners and is responsible for long and short term product vision, while focusing on the health of the customer relationship (building trust and openness). the pm is responsible for market, business case, and delivery analysis. the pm prioritizes the backlog and translates requirements into user stories, writes (story level) acceptance criteria and business value scoring and success metrics. other key responsibilities:
+
+
+owns the product roadmap for multiple applications, incorporating projects, features and other key initiatives
+
+contributes to business partner vision at the initiative level, influencing scope and delivery options with feedback
+
+effectively influences and negotiates work scope with business partners to align on strategy and objectives around time to market, effort and scope
+
+serves as the scrum team's primary, but not only, conduit to their business partner(s)
+
+owns the delivery of user stories and acceptance criteria
+
+prioritizes work backlog
+
+works with the scrum team in planning and execution of their work.
+
+communicates delivery scope, status and questions back to business (for feature releases and supporting pmo for projects).
+
+manages requirements to understand the requirements change process, and traceability.
+
+may supervise the work of others, including contingent or temporary staff
+
+considered a subject matter expert in how the business users perform their jobs.
+
+plans ahead to identify delivery capacity needs based on roadmap across his/her primary team and cross-functional dependencies, and works with management to address them
+
+anticipates blockers, conflicts and obstacles, and marshalls appropriate resources to align and solve
+
+guides business partners/customers through the work intake process, highlighting milestones and artifacts, and understands the value behind them
+
+leads cross-functional initiatives across multiple teams
+
+manages and communicates tradeoff decisions between budget, scope and schedule
+
+responsible for dependency management (across scrum teams/products)
+
+review technical solutions for compliance to business process and objectives
+
+manage to the definition of done from feature acceptance criteria and meets business value requirements
+
+
+
+
+as a product manager, you typically work with large and medium bu priorities, requests or projects of significant scope and complexity.  you prevent and respond to problems, influence and prioritize correctly, systematically gather information, sort through issues, seek input from others, develop accurate conclusions from findings, and make timely decisions to prioritize and adapt to change. as a pm you manage cross-functional dependencies related to your work. you communicate effectively to ask and answer questions and share your knowledge with the larger teams.
+
+
+experience
+
+
+5+ years of relevant experience in product management or relevant experience
+
+experience leading multiple products, multi-team delivery, representing multiple customer functions, divisions, and technology suites.
+
+salesforce service cloud experience preferred.
+
+work very comfortably with stakeholders at the executive, department or division level.
+
+juggle multiple issues, set expectations and prioritize accordingly
+
+
+
+
+able to:
+
+
+operate as trusted advisor with our business partner and resolve concerns in a timely manner
+
+communicate at both the business and technical level (written and verbal)
+
+work very comfortably with stakeholders at the department level
+
+juggle multiple projects, set expectations and prioritize accordingly
+
+research and respond to customer questions
+
+navigate complex situations involving multiple teams
+
+
+
+
+familiar with:
+
+
+general business processes (sales, marketing, service, support, etc.)
+
+salesforce product and platform capabilities
+
+internet architecture and cloud computing concepts
+
+general it (database, security, networking) concepts and basic programming concepts 	 	 	 	   these founding principles have taken our company to great heights, including being named one of forbes's "world's most innovative company” six years in a row and one of fortune's "100 best companies to work for” nine years in a row. we are the fastest growing of the top 10 enterprise software companies, and this level of growth equals incredible opportunities to grow a career at salesforce.  	 	 	*li-y
+
+
+
+
+
+
+
+
+

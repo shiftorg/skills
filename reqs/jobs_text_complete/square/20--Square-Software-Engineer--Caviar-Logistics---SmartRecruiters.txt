@@ -1,0 +1,44 @@
+Software Engineer, Caviar Logistics
+ San Francisco, CA
+ Full-time
+ Company Description
+ Caviar is changing the way businesses and consumers order food from restaurants. We believe that everyone should have access to the best eateries in their city without any hassles. Want your favorite burger joint, but hate the traffic and long lines? We're a team of passionate foodies solving that exact problem for your home and office. At Caviar, we believe in an environment that allows you to be creative and go beyond the call of duty. We're looking for exceptionally talented individuals who want to learn and grow with the company. Each and every day counts - you'll make a direct impact to the business starting from Day 1.
+ Job Description
+ The Caviar team is building the world's best food delivery and logistics service. We’re changing the way restaurants and diners order food online. We believe that everyone should have access to the best eateries in their city without any hassles. Want your favorite burger joint, but hate the traffic and long lines? We're a team of passionate foodies solving that exact problem for your home and office.
+ Our software powers the entire delivery experience: we have close relationships with the best restaurants in every city, a network of Caviar Couriers and customers ordering products on 3 platforms.
+ Qualifications
+ You will..
+ Work closely with product managers to understand and deliver on needs of customers from a data science perspective.
+ Own and develop new features that improve the end-to-end experience for our diners and couriers.
+ Creatively solve tough technical challenges, both algorithmic and architectural. Help build and define the rapidly growing field of productionization of machine learning.
+ Write concise code and sensible tests, especially in python and all things data-focused.
+ Design large-scale systems that keep things running smoothly.
+ Get a balanced, supportive, fun working environment, and career path.
+ Make hungry people happy.
+  
+ You have..
+ 5+ years of solid, practical experience.
+ Expertise in at least one object-oriented language.
+ Strong knowledge of CS fundamentals and code organization.
+ Experience in or desire to learn Ruby, Rails, and the Caviar technology stack.
+ A Computer Science or other technical degree.
+  
+ Even better..
+ You have worked in real-time logistics, food related or not.
+ Solving classic computer science problems in the real world is an interest.
+ An interest in applying machine intelligence to real-world problems.
+ A real passion for good food, maybe even have worked in the food industry before!
+  
+ Technologies we use:
+ Ruby, Python, Android, Javascript, Swift
+ AWS, Docker, ElasticSearch
+ Postgres, MySQL, Redis
+ Rails, RxJava, RxSwift, Ember.js, React, Sass
+ Scikit-Learn, OSRM
+ Additional Information
+ At Square, we value diversity and always treat all employees and job applicants based on merit, qualifications, competence, and talent. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status. We will consider for employment qualified applicants with criminal histories in a manner consistent with the requirements of the San Francisco Fair Chance Ordinance.
+ I'm interested
+ I'm interested
+ Refer a friend
+ share this job
+ Powered by

@@ -1,0 +1,19 @@
+Square Software Engineer, Regulator Platform
+
+software engineer, regulator platform
+regulator platform builds and runs the common infrastructure, dashboard, and workflow management that allow square employees (especially support, risk, and compliance) to quickly research and resolve customer issues. key parts of this project involve integrating with and corralling data from all of square's products to paint a coherent picture of square's customers as they exist now or existed at a point in time, and then arranging all the actions that can be taken in order to resolve an issue.
+we care about a solid, scalable, efficient, and straightforward ux for the hundreds of squares who use our team's internal products daily. at the same time, to keep up with square's rapid growth of new products, we must approach aspects of regulator as key square infrastructure, making it easy for other engineers to jump into it, make quick progress, and not risk destabilizing the system for current users.
+help us build a robust case-management system that scales with the evolution of square operations teams who handle our compliance, risk, and support needs of new product additions in square's lineup
+work full stack and understand front-end services (javascript, ember, etc.)
+help us run roll-out concurrently running versions of our ui so that we can safely try out new uis without unduly disrupting anybody's work
+help us track and tune performance of our application in order to help square's employees get through their daily workload quicker
+interact with various product team engineers to help them successfully incorporate administrative access to their products in our platform
+learn about square's major product offerings, while developing systems that remain reliable in spite of occasionally unreliable vendors
+get to know and interact directly with key internal customers on requests and ui issues with the goal of improving efficiency and improving square's bottom line
+ba/bs degree or equivalent practical experience
+solid experience and interest in developing and debugging server-side code
+interest in doing some front-end ui work
+technologies we use and teach:
+javascript, ember, qunit, ruby on rails, rspec
+s2s architecture, rest apis, protobufs
+mysql, redis, elasticsearch, hive, vertica

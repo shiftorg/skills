@@ -1,0 +1,64 @@
+Data Apps Software Engineer - Full Stack, Self-Driving
+
+About Uber 
+ 
+We’re changing the way people think about transportation. Not that long ago we were just an app to request premium black cars in a few metropolitan areas. Now we’re a part of the logistical fabric of more than 600 cities around the world. Whether it’s a ride, a sandwich, or a package, we use technology to give people what they want, when they want it.
+ 
+For the people who drive with Uber, our app represents a flexible new way to earn money. For cities, we help strengthen local economies, improve access to transportation, and make streets safer.
+ 
+And that’s just what we’re doing today. We’re thinking about the future, too. With teams working on autonomous trucking and self-driving cars, we’re in for the long haul. We’re reimagining how people and things move from one place to the next.
+About the Role
+ 
+We are seeking Software Engineers working on Large-Scale Distributed Systems with independent problem solving skills and a high level of technical curiosity. Our organizational challenges are unique, so you should be comfortable in uncharted territory and pumped to build systems that can support cities of 100,000 and 10 million people alike. Do you enjoy field testing? Are you willing to put in lots of energy to help bring new technologies from prototype to production? If so, then keep reading.
+ 
+What You’ll Do
+ 
+ 
+What You’ll Need
+ 
+About the Team
+ 
+The ATG Data Applications & Pipelines team is tasked with building the next generation data platforms that will support the research and development of self-driving software. The teams is responsible for the curation of very large scale autonomous vehicle data, including the processing, storage, indexing, searching, and, distribution of the data to the entire organization.
+See our Candidate Privacy Statement
+At Uber we don’t just accept difference—we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Uber is proud to be an equal opportunity workplace. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status.
+
+
+ ############ START_LIST_CONTENTS ############ 
+
+1
+
+ ############ LIST_CONTENTS ############ 
+
+
+Data processing/pipelining, distributed computing, Docker, Kafka, Flask, Redis, Elasticsearch, Spark/Hadoop, relational and NoSQL databases
+Front-end and back-end development, with advanced knowledge in multiple languages and frameworks  such Javascript, React/Redux, Node.js, and Python (to name a few)
+Strong service oriented architecture chops, experience in building highly scalable, robust, and fault-tolerant services that support our unique rate-of-growth requirements
+2
+
+ ############ LIST_CONTENTS ############ 
+
+
+We’re looking for software engineers who thrive on learning new technologies and don’t believe in one-size-fits-all solutions. You should be able to adapt easily to meet the needs of our massive growth and rapidly evolving business environment
+You think a working proof-of-concept is the best way to make a point. You strive on proving that speed and quality are not conflicting; that you can achieve both at the same time
+In addition to having an intimate knowledge of the whole web stack, you understand how all the pieces fit together (front-end, database, network layer, etc.) and how they impact the performance of your application
+You feel ownership over everything you ship; you'd never call code "released" until you’re confident it’s correct. You pride yourself on efficient monitoring, strong documentation, and proper test coverage
+3
+
+ ############ LIST_CONTENTS ############ 
+
+
+4
+
+ ############ LIST_CONTENTS ############ 
+
+
+5
+
+ ############ LIST_CONTENTS ############ 
+
+
+6
+
+ ############ LIST_CONTENTS ############ 
+
+

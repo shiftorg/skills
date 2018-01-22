@@ -1,0 +1,74 @@
+Uber 317--Data-Scientist---Platform-Development-&-Applied-Consulting---San-Francisco--Ca---Uber---Uber.Txt
+
+
+
+
+about the product platforms data science team
+the product platform data science team is a collection of teams that work horizontally across uber. that means you'll be solving problems in all different domains, with varying datasets, and novel challenges every day. our teams break into several categories:
+
+platform
+
+development:
+we work toward the construction of scalable, powerful and easy-to-use platform tools that are used by everyone at uber. specifically...
+forecasting and anomaly detection platform -
+we develop cutting-edge methodologies to forecast business critical metrics over short and long horizons and to detect anomalous behavior. we also build a platform that makes our tools readily and broadly available.
+experimentation platform -
+the bedrock of all testing at uber, we design, enhance, and expand the suite of experimentation tools for teams in search of insights and learnings.
+natural language processing platforms -
+text and language surround uber, so multiple teams require core ds skills as well as knowledge of nlp. these platforms are the backbone of uber, impacting marketplace to marketing to operations and every team in between.
+communication platform
+customer support
+people products
+semantic platforms
+
+applied consulting:
+we consult and embed with internal data scientist, engineering, and operations teams to solve technically challenging problems and deliver customized solutions.
+applied
+
+machine
+
+learning
+- we are team of ml enthusiasts, who consult with uber teams on projects across the entire company. our team builds large-scale ml models, consults on optimal ml approaches, and prototypes new techniques and technology. we've pioneered deep learning for nlp, computer vision for document processing, and causality modeling to optimize incentives.
+behavioral
+
+science
+- the labs team (leveraging applied behavioral science) translates theories from psychology, marketing, neuroscience, etc. into practice by collaborating with product and regional teams to guide the ideation and implementation of science-backed product development and business processes through experimentation.
+
+what you could be doing:
+the theme of platform development & applied consulting is that you get to work with other people, share their challenges, and collectively deliver better, scalable solutions. no matter the team you will...
+join scientists, engineers and product professionals on some of the most high-impact projects in the company.
+partner with critical program teams (i.e. driver, pricing, maps) to offer them novel and ground breaking platform solutions or embed to tackle some of the most exciting data science challenges.
+
+here is more information on the individual roles
+forecasting and anomaly detection platform -
+push the envelope on what can be done in the realm of time series and outlier detection, by actively researching and developing the next generation algorithms
+implement these methodologies in a rapidly growing platform designed for broad adoption and ease of use
+partner with experienced scientists and engineers to ensure their domain knowledge and needs are incorporated.
+experimentation platform -
+design large-scale experiments with teams to optimize our projects and strategies across the globe. you will guide the platform to ensure it serves all our data scientists.
+advocate for data-driven decisions by partnering with both downstream product teams and upstream data modeling teams to standardize the availability of metrics and testing results
+
+natural language processing platforms -
+build scalable tools (i.e. dashboards, machine learning models) in r/python to measure and monitor the effectiveness of our communications and strategies over a slew of platforms
+identify gaps in our strategies and data collection approaches to enable us to utilize nlp techniques
+communication
+
+platform
+- how can you analyze and optimize the way we communicate with riders/drivers/eaters?
+customer
+
+support
+- how can we listen (at scale) to our users and efficiently problem solve?
+people
+
+products
+- how can you streamline the management of internal information and improve our colleagues' experience at uber?
+semantic
+
+platforms
+- how do we automate our cities by developing tools for the hundreds of operations teams located across the world?
+
+applied machine learning -
+set strategic vision for an evolving machine learning ecosystem. you will help us design solutions for challenges such as large scale feature engineering and storage, real-time prediction, and productionizing alternative model structures
+learn to build and deploy a variety of ml techniques. past examples include, using deep learning + computer vision for reading documents, semi-supervised identifying safety issues, online-learning of eta predictions, and modeling phone-sensor data to identify fraudulent behavior
+

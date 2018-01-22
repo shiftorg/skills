@@ -1,0 +1,25 @@
+Uber 443--Infrastructure-Security-Engineer-(San-Francisco)---San-Francisco--Ca---Uber---Uber.Txt
+
+
+
+
+
+about the job
+we are looking for hands-on security engineers who are passionate about building and defending.
+
+
+you'll be pushing the boundaries of security technology to create defenses for large scale production infrastructure, enterprise systems, and cloud services.
+provide subject matter expertise on architecture, authentication, and systems security
+perform security assessments of production, corporate, and cloud infrastructure
+harden our clients, servers, and networks against exploitation and privilege escalation
+instrument systems to enable detection of intrusions and abuse
+create services and tools to secure our data
+
+experience with operating systems internals and hardening (linux, os x, windows)
+a firm grasp of networking protocols and operations
+programming skills (python, go, c, java, bash, powershell)
+aws and cloud security knowledge
+applied cryptography and key management
+thorough understanding of authentication, authorization, and directory services
+
+uber's security team works to ensure the security of all private, personal and payment information for our full set of users - riders, drivers and partners. our ultimate goal is to ensure that every single experience with uber is simple, secure, and safe.

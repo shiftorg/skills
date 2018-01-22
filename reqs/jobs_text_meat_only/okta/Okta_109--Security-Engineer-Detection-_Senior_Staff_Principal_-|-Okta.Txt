@@ -1,0 +1,28 @@
+Okta 109--Security-Engineer-Detection-(Senior_Staff_Principal)-|-Okta.Txt
+
+
+you will be a part of okta's defensive security team and take a leadership role in internet-scale defensive security measures surrounding the okta platform, code base, and infrastructure. this person will be required to work effectively and seamlessly with okta's existing offensive security team, development team, and okta's dev-ops team. the security engineer will need to stay ahead of the state-of-the-art in internet-scale web service security defensive measures.
+
+play a key role in okta's detection and prevention efforts by collaborating with internal it, engineering, devops and product management teams to facilitate identification, handling and resolution of corporate and production environment security incidents
+monitor, maintain and improve okta's security detection initiatives by identifying and ingesting new security log sources, and by writing (anticipated and reactive) custom security event correlation rules to identify targeted malicious activity
+lead/contribute to implementation or improvement of automation around aws service-level security controls and build solutions for monitoring corporate saas services
+improve monitoring instrumentation, intrusion detection setup & rules, endpoint detection solution and dns/content filtering systems
+design, evangelize and implement security process & technical controls to enhance okta's ability to detect, analyze and prevent malicious activity
+research new threats, attack vectors, 0 days that impact okta's application/infrastructure, provide remediation recommendations and monitor remediation efforts
+
+
+5+ years of hands-on experience as a lead contributor to security operations, threat detection, or security architecture in cloud environments
+extensive experience in detecting, alerting and automating triage or remediation of security events
+experience building security solutions in continuous deployment pipelines
+deep understanding of the tcp/ip stack, web-application architecture, and encryption fundamentals
+experience in one or more configuration management or infrastructure as code tools such as chef, puppet, ansible or terraform
+working knowledge of splunk, elk or other security monitoring/response products
+experience in security root cause analysis across systems, network, code in legacy and cloud environments
+ability to apply knowledge of attacker tools, techniques and procedures to enhance okta's detection posture
+proficient in at least one programming language (python, ruby, golang, c/c++ etc) and experience deploying code in a production environment
+
+
+exposure or experience working with aws
+experience utilizing osquery, auditd or other similar insight generation frameworks
+experience automating integrations between apis and creating middleware to connect disparate systems
+

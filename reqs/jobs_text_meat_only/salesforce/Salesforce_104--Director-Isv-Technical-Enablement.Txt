@@ -1,0 +1,37 @@
+Salesforce 104--Director-Isv-Technical-Enablement.Txt
+
+
+
+
+job title: director, isv technical enablement
+
+location: san francisco, ca or remote (essentially anywhere in the us)
+
+the isv technical enablement team is a key function of the salesforce appexchange and platform organization. the vision of the isv technical enablement team is to inspire and create a thriving, dynamic and growing ecosystem, filled with exciting new apps and technology showcasing the capabilities of the salesforce platform.
+
+
+the isv technical enablement team consists of a global team of isv technical evangelists. an isv technical evangelist is a technical role, responsible for supporting isv revenue growth by helping appexchange partners successfully assess our technologies, then choose to build, sell, and deliver commercial apps on the salesforce platform. the isv technical evangelist helps salesforce isvs build and distribute enterprise quality apps leveraging the salesforce platform. this position requires strong technical and communications skills, excellent time management and prioritization capabilities, and an aptitude for critical thinking.
+
+
+as director, isv technical enablement, you will manage a team of isv technical evangelists, working closely with isv prospects and partners as well as our own isv account managers, product managers, and partner programs professionals, all working towards the shared goal of isv and reseller partner success and growth of the isv and reseller channel. this individual must be a compelling presenter and product guru who will effectively evangelize salesforce technologies -- platform and apps -- with deep technical expertise and first-hand experience working in similar roles.
+
+
+
+manage a team of isv technical evangelists.  be a trusted technical advisor to salesforce.com isvs building commercial, enterprise-quality apps on the salesforce platform.  work closely with isv sales organization to define and execute the recruitment of new and strategic isvs to build on the platform by developing prototypes and demos to highlight salesforce platform technologies and features. participate in architectural and design discussions with strategic isv partners to ensure technical success with salesforce technologies. influence next-generation platform technologies, features, and tools in partnership with internal product r&d teams
+
+
+
+ba/bs in computer science or similar technical degree or equivalent experience. understanding of commercial software development practices, methodologies, and tools. strong technical background and application development experience, including solid app dev abilities on salesforce, and ideally one or more of the following languages: java, .net, node.js, ruby, apex.  passionate and knowledgeable about exploring and experimenting with the latest salesforce platform and heroku technologies.  experience managing a team of technical resources.  excellent presentation, demonstration, and interpersonal communication skills; experienced speaker at company events. strong communication skills and experience in talking to wide range of audiences including sales, product architects, developers, marketing, and senior executives.  working knowledge of modern web technologies and cloud computing. deep analytical skills enabling comprehension and development of complex business and technical issues, topics and plans. methodical and organized; able to manage multiple opportunities, projects and priorities concurrently. talented at explaining complex topics clearly and concisely, and effective at providing practical guidance.
+
+
+
+experience developing custom salesforce apps using force.com, lightning, and/or heroku.  salesforce developer certified
+  these founding principles have taken our company to great heights, including being named one of forbes's "world's most innovative company” six years in a row and one of fortune's "100 best companies to work for” nine years in a row. we are the fastest growing of the top 10 enterprise software companies, and this level of growth equals incredible opportunities to grow a career at salesforce.  li-y
+
+
+
+
+
+
+
+

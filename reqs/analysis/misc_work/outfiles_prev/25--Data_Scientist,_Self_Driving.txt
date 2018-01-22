@@ -1,0 +1,64 @@
+Data Scientist, Self Driving
+
+About Uber
+ 
+We’re changing the way people think about transportation. Not that long ago we were just an app to request premium black cars in a few metropolitan areas. Now we’re a part of the logistical fabric of more than 600 cities around the world. Whether it’s a ride, a sandwich, or a package, we use technology to give people what they want, when they want it.
+ 
+For the people who drive with Uber, our app represents a flexible new way to earn money. For cities, we help strengthen local economies, improve access to transportation, and make streets safer.
+ 
+And that’s just what we’re doing today. We’re thinking about the future, too. With teams working on autonomous trucking and self-driving cars, we’re in for the long haul. We’re reimagining how people and things move from one place to the next.
+About the Role
+None
+What You’ll Do
+ 
+What You’ll Need
+ 
+About the Team
+ 
+At the Advanced Technologies Group (ATG), we are building technologies that will transform the way the world moves. Our teams in Pittsburgh, San Francisco, Phoenix, and Toronto are dedicated to mapping, software and hardware development, vehicle safety, and operations for self-driving technology. Our teams are passionate about developing a self-driving system that will one day move people and things around more safely, efficiently, and cost effectively.
+See our Candidate Privacy Statement
+At Uber we don’t just accept difference—we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Uber is proud to be an equal opportunity workplace. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status.
+
+
+ ############ START_LIST_CONTENTS ############ 
+
+1
+
+ ############ LIST_CONTENTS ############ 
+
+
+Learn from world-renowned practitioners of robotics, mapping, perception, logistics, machine learning, motion planning, mobile communications, and other fields;
+See your work deployed fast and often into the real world and stretch yourself as you switch from one tough problem to another;
+Work with an outstanding engineering team and the support of an established data infrastructure;
+Benefit from working at a dynamic startup inside an established, well-capitalized company;
+Get in at the beginning as we grow the data science team!
+Build dashboards and visualizations of complex data sets and calculations
+2
+
+ ############ LIST_CONTENTS ############ 
+
+
+We have positions available for experienced data scientists, as well as those at bachelors, master, and PhD levels
+Skills as a full-stack data scientist… equally proficient in software development, statistics, machine learning, big data, and visualization Don’t worry if you haven’t covered each one—we learn skills from each other
+Excellent software development skills (preferably in Python or C++)
+Driven and focused self-starters, great communicators, amazing follow-through - you love the responsibility of being individually empowered
+3
+
+ ############ LIST_CONTENTS ############ 
+
+
+4
+
+ ############ LIST_CONTENTS ############ 
+
+
+5
+
+ ############ LIST_CONTENTS ############ 
+
+
+6
+
+ ############ LIST_CONTENTS ############ 
+
+

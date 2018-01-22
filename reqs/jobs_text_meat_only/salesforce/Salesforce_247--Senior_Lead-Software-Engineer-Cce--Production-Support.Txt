@@ -1,0 +1,21 @@
+Salesforce 247--Senior_Lead-Software-Engineer-Cce--Production-Support.Txt
+
+
+
+
+customer centric engineer, r&d san francisco join a high impact global engineering team that delivers customer love by solving the toughest technical customer escalations fast and champions trust strategy throughout the company. at salesforce, trust is our #1 priority. our cloud applications handle billions of transactions each day for 100,000+ companies who demand high quality, responsiveness, and predictability. performance issues and functional bugs must be identified and resolved quickly. as a customer centric engineer within r&d you will investigate, reproduce, and diagnose complex issues affecting our customers. you should be passionate about solving tough technical problems and recommending improvements to products and processes. technical skills are important, but so are persistence, patience and communication. what you'll be doing:
+
+using your java, database, and web api and ui skills to solve critical customer technical escalations to r&d from our technical support organization figuring out ways to "find the bug" utilizing top-notch troubleshooting techniques and all the tools and systems available within the r&d organization, and digging deep into code identifying root causes, proposing test cases and fixes, and developing new debugging tools while working closely with product teams providing timely information to customer facing teams to improve overall customer satisfaction mentoring technical support on technical issues and best practices building relationships with other teams across customer services, r&d, and data center operations as a technical expert championing supportability and debuggability initiatives throughout r&d
+
+developer-level technical chops along with a strong desire to interact with customers, support engineers and management on high-profile issues critical to the long-term success of the company demonstrable curiosity, passion, integrity and outstanding attention to detail in professional and personal pursuits unparalleled troubleshooting and problem-solving skills excellent written and verbal communication skills, as exemplified by clear bug/issue explanations, documentation of knowledge, mentoring ability, and comfort interacting with all levels of management bachelor's degree. bs or ms in computer science preferred. html/css experience, including concepts like layout, cross browser compatibility, and accessibility, strong javascript knowledge highly proficient in java or a similar language deep understanding of object oriented programming good understanding of relational databases and sql
+there are opportunities for international travel for training and mentoring, but this position requires no formal travel.
+
+about salesforce   these founding principles have taken our company to great heights, including being named one of forbes's "world's most innovative company” five years in a row and one of fortune's "100 best companies to work for” eight years in a row. we are the fastest growing of the top 10 enterprise software companies, and this level of growth equals incredible opportunities to grow a career at salesforce. 
+
+
+
+
+
+
+
+

@@ -1,0 +1,29 @@
+Salesforce 289--Site-Reliability-Engineer---Quip.Txt
+
+
+
+
+site reliability engineer - quip at quip, we have built what we think is an amazing new way for teams to collaborate, communicate, and make decisions, whether you're three friends in an office, or one of the largest companies on the planet with tens of thousands of employees at all corners of the globe. our sf-based site reliability engineering (sre) team makes sure that quip is delightfully fast, always available for our customers whenever they need it, and well-insulated from unpleasant surprises or outages. we never lose sight of the principle that you cannot meet these goals at the expense of the team working on them: maintaining a healthy and supportive work environment that encourages happiness, good work-life balance, and technical and personal growth is as of much a core value for us as having top-notch operational standards. our team focuses on keeping our product running smoothly, consistently, and without manual toil, in both public cloud services or bare-metal on-premise environments. we continually improve our technology and processes to create easy-to-understand robust scaling, observability, and automation. sre works closely with the rest of engineering to continue shipping new features to delight our customers and spread quip to new teams, quickly and with little risk. we work to continually reduce the complexity that comes along with running large featureful applications over the internet, especially for enterprise customers. we know we have a keen product, and a fantastic place to work, and we're looking for some great people to join our sre team to keep everything that way! you would get the opportunity to:
+continually evolve quip's operational reliability and simplicity, responding to changes in environment, requirements, or circumstances. maintain our observability and automation at the level where we need it to be, by extending existing infrastructure, setting up open source projects, or even developing custom solutions when necessary. investigate and repair bugs, mysterious occurrences, and production issues throughout the entire system, in concert with product and infrastructure engineers. champion operational excellence and production quality across the entire company, via production readiness reviews, system refactoring projects, and leading by personal example.
+skills and technologies you'd use (and learn or improve!) here:
+
+building efficient scalable products on top of public or privately-run cloud services. understanding, modifying, and writing python code, both in our product codebase, and in supporting infrastructure for automation. using configuration and orchestration tools to create repeatable, auditable, documented-in-code systems. monitoring, tuning, and administrating sql databases for scalability, reliability, and performance. designing systems for the sweet spot of long-term scale and reliability, while keeping manual maintenance and complexity costs down, and still shipping at reasonable speeds.
+things we're looking for in people who we want to join us:
+
+keen interest in keeping a holistic view of entire systems in mind: patterns, architectures, data flows, lifecycles, edge cases, and risks. excited about continually reducing complexity, and creating systems that are easily understandable, repeatable, and observable. convinced about the importance of communication (both verbal and written/online), close team collaboration, and sharing information with others (creating documentation, or in-person training). eager to learn best-in-field design and engineering practices from coworkers with a wealth of skills and experience, and getting to add your unique mark to what we're building. drawn to understand (at a rough level) the basic skeleton of the stacks on which your system operates, from both network (ssl/tls, http, dns, tcp, ip, cidr, local networking, global routing) and host (process/daemon, system library, process supervisor, binary packaging, unix distribution, kernel) perspectives. committed to focusing on the priorities and needs of our customers, your coworkers, and the direction of the company in general, and aligning your strategic goals to benefit them.
+bonus points (not at all required, but would let you hit the ground running!):
+
+experience running medium-to-large user-facing services on public cloud services, particularly aws. experience running, scaling, tuning, and debugging production sql databases, particularly mysql on aws rds. experience with configuration and orchestration management tools, particularly terraform and docker. experience with and opinions about modern best-practice observability/debugging/logging/monitoring stacks. comfortable writing python (specifically, python 3) scripts and libraries from scratch, and modifying existing code. comfortable enough with javascript and css to understanding and modify our web interfaces for internal-facing tools.
+
+  these founding principles have taken our company to great heights, including being named one of forbes's "world's most innovative company” five years in a row and one of fortune's "100 best companies to work for” eight years in a row. we are the fastest growing of the top 10 enterprise software companies, and this level of growth equals incredible opportunities to grow a career at salesforce. 
+
+
+
+
+
+
+
+
+
+
+

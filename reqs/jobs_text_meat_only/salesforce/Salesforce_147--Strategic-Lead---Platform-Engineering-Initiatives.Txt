@@ -1,0 +1,22 @@
+Salesforce 147--Strategic-Lead---Platform-Engineering-Initiatives.Txt
+
+
+
+
+strategic lead - platform engineering initiatives salesforce is looking for a technical lead to help develop new strategic initiatives for its b2c data platform. you're well versed in infrastructure & operations and understand how to architect systems that benefit your product, customers, the company and ease the lives of support divisions like security, finance & compliance. you're a firm believer that adding quality & security ‘later' isn't going to get the results you're looking for, and aim to bake these things in early, as first class citizens. you understand that any solution involves trade offs, buy-in and organizational support and can find a way to balance these and articulate their value to all stakeholders. you believe that building something new is ultimately a team sport, and you're happy to be the champion, evangelist, coach or janitor for that team as needed.  great, we're dying to talk to you! salesforce might be just the place for you; we're looking for people who can build & design next generation initiatives that solve not just technological, but importantly business & organizational needs. people who are technical experts and get things done by using their smarts, empathy, communication skills and power of persuasion and whatever tools make sense to get the job done. people who love to solve new problems and thrive in a rapidly innovating space. your day to day:
+
+scope & frame challenges, desired outcomes & solutions across multiple departments provide expertise in the design, implementation, and operation of scalable distributed systems  apply software development workflows to operational environments develop pocs & mvps of feasible solutions to automate and self-heal production environments test and tune newly developed systems to prepare them for production deployment and ensure maximum performance at minimum cost measure everything, providing critical operational insight into our infrastructure become and stay an expert in our internal infrastructure, from the high-level architecture down to the code become and stay an expert in current and emerging technologies and tools contribute to open source solutions and communities we use wherever you can
+your tech friends would say you:
+
+really know about scalable infrastructure ran production services in the cloud (aws) and know where it's awesome and where it hurts have in depth experience with at least one supporting department such as compliance, security or finance are a great communicator can put yourselves in other peoples shoes and solve problems from their perspective make things work and get things done love to leave things better than how you found them love to automate anything you've done more than twice are fluent in at least one programming language (preferably python, scala, and/or java, but any language will do) love to learn new things and can do so quickly
+your tech friends might even say you:
+
+love agile/lean development and delivering code know the pros and cons of all the technology trends in your field make excellent informed decisions and know when to ask for advice know your way around the entire stack have a great sense of humor
+
+
+
+
+
+
+
+

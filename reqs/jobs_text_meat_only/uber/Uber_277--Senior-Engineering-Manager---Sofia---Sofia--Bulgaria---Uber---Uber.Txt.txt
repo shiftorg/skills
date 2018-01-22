@@ -1,0 +1,35 @@
+Uber 277--Senior-Engineering-Manager---Sofia---Sofia--Bulgaria---Uber---Uber.Txt
+
+
+
+and that's just what we're doing today.
+
+we're thinking about the future, too. with teams working on autonomous trucking and self-driving cars, we're in for the long haul. we're reimagining how people and things move from one place to the next.
+
+uber is looking for a senior engineering manager to lead uber's tax & compliance engineering team based in sofia, bulgaria. as a leader of the team, you will oversee and help grow cross-functional groups within our engineering organization.
+
+influence and guide all phases of the product lifecycle
+work with engineers and product to create roadmaps
+lead engineers across the stack
+work closely with the finance team to bring end to end solutions to life
+work to enhance the platform with third-party integrations
+attract and mentor talent
+dig into the complex but rewarding world of tax & compliance
+
+
+minimum 5 years industry experience in a variety of contexts
+experience interviewing, hiring, and empowering teams
+experience building scalable, robust, and fault-tolerant systems or large mobile/web apps
+ability to provide quality documentation, for both internal and external consumption
+bias toward action
+
+
+our team is responsible for several key capabilities associated with a trip or a delivery: from real-time tax rate calculation, to issuing all related documents that are important for our riders and partners (receipts, invoices, tax reports), to providing our partners with real-time and easy access to their tax data from within 3rd party partner applications like intuit, stride and hr block. the platforms that we build need to be highly scalable (handling data from dozens of millions of trips per day), highly available (our riders and partners need access to their documents & data 24/7) and highly flexible (uber is operating in 80+ countries around the world, each with its own compliance requirements)
+
+visit our sofia engineering website
+here
+.
+
+be sure to check out the uber engineering blog to learn more about the
+team.
+

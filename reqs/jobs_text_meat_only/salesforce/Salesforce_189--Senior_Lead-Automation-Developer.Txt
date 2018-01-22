@@ -1,0 +1,21 @@
+Salesforce 189--Senior_Lead-Automation-Developer.Txt
+
+
+
+
+the team we are defining the next generation of trusted enterprise computing in the cloud. we're a fast-paced team of industry experts in systems software and database technology. we're highly collaborative and work across all areas of our technology stack. we live and breathe transactional systems, distributed systems and enterprise reliability, availability and scale. the role the team is seeking a smart, energetic, and experienced automation developer to drive the design and execution on our next generation performance test and analytics service in a modern ci pipeline. you will have a huge impact on the productivity of the entire development group and play a strategic role in improving system performance, scalability, and stability. you will help us blow away limits on test capacity with software-managed environments and flexible frameworks for performance measurement and analysis. you love to solve complex technical problems and expect autonomy and ownership of your solutions. you are a natural teacher and learner and always looking to improve your skills and your team's performance. requirements
+
+(ms in computer science, ee, or related field plus 2 years of  professional  software engineering experience) or 	(bs in computer science, ee, or related field plus 5 years of  professional  software engineering experience) strong coding skills (java || c# || c++) && (python || ruby || perl) fluency with linux command line interfaces and shell scripting familiarity with sql and relational db schema concepts experience developing test automation and frameworks for complex systems high energy, enthusiasm for technical problem solving, learning and growth mindset great communication and collaboration skills
+preferred skills and experience
+
+8+ years of  professional  software engineering experience database fundamentals and architecture: sql, schema, internals distributed systems network protocols and infrastructure performance measurement, analysis, and optimization statistical analysis and experimental design techniques
+
+about salesforce   these founding principles have taken our company to great heights, including being named one of forbes's "world's most innovative company” five years in a row and one of fortune's "100 best companies to work for” eight years in a row. we are the fastest growing of the top 10 enterprise software companies, and this level of growth equals incredible opportunities to grow a career at salesforce. 
+
+
+
+
+
+
+
+

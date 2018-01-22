@@ -1,0 +1,39 @@
+Uber 538--Product-Manager---Elevate---San-Francisco--Ca---Uber---Uber.Txt
+
+
+
+
+
+
+
+on-demand aviation has the potential to radically improve urban mobility, giving people back time lost in their daily commutes. just as skyscrapers allowed cities to use limited land more efficiently, urban air transportation will use three-dimensional airspace to alleviate transportation congestion on the ground. a network of small, electric aircraft that take off and land vertically (called vtol aircraft for vertical take-off and landing, and pronounced vee-tol), will enable rapid, reliable transportation between suburbs and cities and, ultimately, within cities. we're looking for someone who can work with cities around the world to realize the full potential of this new mode of transportation.
+we are looking for someone to lead product management for uber elevate, based in san francisco.
+
+
+
+developing deep issue expertise on the hardware, software, operations, regulatory, and policy issues impacting uber elevate;
+distilling the long-term vision and strategy for aviation at uber, and building the roadmap to get us there;
+collaborating with technologists across every part of the vtol ecosystem—aircraft, batteries, autonomous technology, airspace management, etc.—to deeply understand the feasibility barriers and how uber can help accelerate progress against them;
+organize a series of uber elevate summits by working with a number of partners (internal and external) to design detailed sessions which move the ball forward against each of these barriers;
+work with the director of aviation engineering to meet with vehicle manufacturers to evaluate fit with elevate and potential collaboration models with uber;
+consulting with local public affairs, communications and policy teams around the world to help cities enable this future mode of transportation; and
+working with business partners internally to develop creative solutions to thorny software and hardware challenges.
+
+
+deep interest in aviation and, ideally experience with aviation or robotics/hardware (preferred but not required)
+a computer science undergraduate degree or equivalent plus hands-on software engineering experience. technical understanding must go from the highest abstractions down to the metal.
+2-5 years experience delivering highly successful and innovative consumer internet products with your fingerprints all over them - you're extremely proud of what you've accomplished
+stellar design instincts and product taste
+a high bar across the board - from your own contributions to the people you work with to the products you work on.
+a “driver” personality - biased toward action, great collaborator and master disambiguator/simplifier - constantly pushing toward clarity and delivery.
+finger-tippiness with data: you just go get the data you need with no muss/fuss and can whip it into an insightful story with no help. you know how to leverage data to make decisions without getting stuck in analysis paralysis.
+rider-centricity - examples from your past of tough product challenges that you powered through because you were unwilling to make your problems your riders' problems.
+true passion for uber's mission and the company's hybrid technology / operations nature.
+a never-ending desire to grow and learn.
+
+
+uber has already found strong product/market fit with its world-changing service. but it is day one for us. we're seeking a small group of unbelievably talented product leaders to define and execute against a giant vision that builds upon what uber has brought to the world so far.
+
+if you have the right stuff to join the uber product team, you'll work among star engineers, designers and product managers in a rapidly growing, hybrid technology/operations environment. we are highly rider-centric and we deeply believe we can innovate our way out of any box. the role demands great technical depth, principled thinking, well honed product judgment, a stubborn refusal to settle, bold innovation, a high design bar and a mentality of starting with the rider and working backwards.
+
+

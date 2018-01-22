@@ -1,0 +1,27 @@
+Uber 89--Applied-Machine-Learning-Engineer---Business-Platform---Seattle--Wa---Uber---Uber.Txt
+
+
+
+
+as an applied machine learning engineer on the business platform team you are uniquely positioned to bring artificial intelligence into uber business
+
+use machine learning techniques to find out what matters to our customers and agents.
+projects include prospective driver identification, customer ranking, sentiment analysis, best action recommendation, workflow defects detection, etc.
+
+bs/ms/phd in computer science or related field
+expertise in one or more object oriented programming language (e.g. python, go, java, c++) and the eagerness to learn more
+software design and data modelling: understanding of design patterns and architecture
+2+ year hands-on experience in at least one of the following areas: natural language processing, natural language understanding, predictive modeling and analysis, recommendation system, information retrieval.
+experience developing prototypes and conducting experiments by analyzing complex, high-volume, high-dimensionality data from varying sources.
+experience with popular machine learning libraries (tensorflow, scikitlearn, theano, etc.) is a plus.
+understanding of testing environments.
+
+the business platform teams operates at the critical intersection of product and infrastructure, building technology  to accelerate the fastest-growing company in history.
+as a member of the business platform team, you will be responsible for developing core platforms, distributed services, customer insights powered by data mining & ml techniques to increase the effectiveness and efficiency of our products and operations. these serve as the essential backbone to fuel the uber business. if you are passionate about designing and building extremely reliable, highly scalable, and performant multi-tenant services that never fail, this is right group for you.
+
+customer connections
+the customer connections team within business platform is building platform & services to provide uber integrated and personalized crm experience that empowers sales team to proactively engage with customers across their full life cycle. our flagship product, uconnect, supported by machine learning technologies is powering the sales experience and is leveraged by thousands of agents to bring in new customers to the uber.
+
+business process automation platform
+the business process automation platform is building platform & services to automate the key business processes at uber. its flagship product, autobots, is an unified platform to run critical business processes at uber, including driver/rider communications, engagement and quality control, with easy authoring and comprehensive insights across entire uber. it executes tens of thousands processes, processes tens of thousands events per seconds and affects tens of millions of users per day.
+

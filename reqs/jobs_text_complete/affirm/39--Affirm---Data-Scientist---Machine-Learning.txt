@@ -1,0 +1,21 @@
+Data Scientist - Machine Learning
+ San Francisco, CA
+ Data/Risk
+ Full-Time
+ Apply for this job
+ Affirm is a technology and data-driven finance company. We are mining vast amounts of data to successfully rewrite the rules on how credit is evaluated. Our Data Scientists play an absolutely pivotal role in the company, writing the models that allow us to evaluate the creditworthiness of our users in unprecedentedly holistic, efficient, and accurate ways. 
+ What You'll Do
+ Build production fraud and credit machine learning models; your models will decide who we lend to in real time
+ Conduct ad-hoc data analyses; your analyses will decide which policies we adopt, where we expand our business, and whom our partners will be
+ What We Look For
+ Passion and drive to change consumer banking for the better
+ Deep understanding of and experience with machine learning and data analysis
+ Strong programming ability, preferably in python
+ Advanced degree preferred
+ ABOUT AFFIRM
+ At Affirm we are using technology to re-imagine and re-build core parts of financial infrastructure to enable friendlier and more transparent financial products and services that improve lives.
+ We believe the financial industry is fundamentally broken. Not only is the core infrastructure built with technology from the 1970s, but there are a dwindling number of people who say "I trust my bank to look out for me". It doesn’t have to be this way, and it’s our mission to fix this problem.
+ We are based in San Francisco; founded by Max Levchin (founding CTO of PayPal), Jeff Kaditz (CDO DeNA/ngmoco), and Nathan Gettings (founding CTO of Palantir); and building a team of exceptionally talented people to join us on our mission.
+ Apply for this job
+ Affirm Home Page
+ Jobs powered by 

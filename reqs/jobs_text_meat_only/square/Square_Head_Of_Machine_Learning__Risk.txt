@@ -1,0 +1,17 @@
+Square Head Of Machine Learning, Risk
+
+head of machine learning, risk
+we believe everyone should be able to participate and thrive in the economy. so we're building tools that make commerce easier and more accessible to all.  we started with a little white credit card reader but haven't stopped there. our new reader helps our sellers accept chip cards and nfc payments, and our cash app lets people pay each other back instantly.   we're empowering the independent electrician to send invoices, setting up the favorite food truck with a delivery option, helping the ice cream shop pay its employees, and giving the burgeoning coffee chain capital for a second, third, and fourth location.  let's shorten the distance between having an idea and making a living from it. we're here to help sellers of all sizes start, run, and grow their business—and helping them grow their business is good business for everyone.
+risk management is a core engineering challenge for all square products. by finding ways to manage and mitigate risk, we can extend our products and services to more customers and ultimately build a more inclusive financial network. as an engineering manager for risk, you will build and lead a world-class team focused on using large-scale data engineering and analysis to identify fraud, automate responses to it, and improve our customers' experience. your work will have material impact on square's success, and will have direct influence on all of square's products.
+lead a world-class team of 25+ engineers, data scientists, and product managers by hiring exceptional talent, coaching and developing your team, cultivating pragmatic engineering decision-making, and applying your technical expertise to build awesome things
+help set broad direction and vision for square's overall risk management strategy, and work with stakeholders across the company to implement it
+coach your team to design and build a distributed, highly-available platform that allows products to make real-time risk decisions across the product lifecycle
+build and shape square's data and machine learning platforms
+work with product managers, designers, sales staff, and others build square's risk management brand and use it to drive growth for the company
+use computers to fight crime.
+practical, hands-on experience as an engineer in the past, and a continued and demonstrated ability to earn respect from technical teams
+significant engineering management experience, including as a manager of managers
+leadership experience, and a proven ability to work cross-functionally as well as with executives to set goals and drive execution
+a background in using data and machine learning tools to achieve high-impact business goals
+excellent software engineering aptitude and the ability to provide technical mentorship and guidance
+excitement to have full-stack impact, on topics ranging from core data modeling to customer messaging and branding.

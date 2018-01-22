@@ -1,0 +1,38 @@
+Uber 165--Developer-Infrastructure-Engineer--Self--Driving---Pittsburgh--Pa---Uber---Uber.Txt
+
+
+
+
+
+uatg is hiring systems engineers who have good attention to detail and experience building a variety of infrastructure solutions to scale. travel to various locations may be required.
+
+automate infrastructure provisioning and management to scale massive systems supporting self-driving development
+support autonomy development across a wide range of functional teams in disparate regions to further the uatg self-driving mission
+maintain availability and uptime slas for developer-facing and vehicle-facing services
+maintain and support large-scale batch processing development pipelines
+architect the future of infrastructure supporting self-driving cars at world-scale
+execute large engineering projects with full autonomy
+
+
+prior experience programming in c/c++, ruby,  python, java, or go
+experience using docker to create portable applications or services across thousands of servers in multiple regions
+experience with traditional infrastructure configuration management and provisioning technologies such as:
+puppet, chef, ansible, saltstack, etc.
+vagrant, packer, terraform, cloudformation, etc.
+experience architecting, building, and supporting distributed systems for batch processing and cluster computation
+experience deploying infrastructure in public cloud environments (amazon aws, google cloud, etc.)
+experience maintaining vmware infrastructure on esxi and horizon
+skilled in isolating, documenting, and tracking issues systematically
+able to work with technical and non-technical stakeholders in cross-functional roles and projects
+minimum 5 years supporting infrastructure in large-scale environments
+
+bonus points if (optional)
+you've supported storage platforms like hdfs, lustre, or freenas
+you've worked with bazel, buck, or other complex build system for large software projects
+you've built machine learning infrastructure to scale
+hpc administration experience and knowledge of lustre fs and zfs
+working knowledge of sas, sata, iscsi, iser, pcie, nvme, rdma, infiniband, smart, other storage protocols/interfaces.
+good working knowledge of the linux storage stacks and file-systems (mdadm, xfs, device mapper, lvm, ceph, swift, lustre, zfs, hdfs, scst, lio, nfs, smb/cifs etc.)
+
+the uatg developer infrastructure team is dedicated to providing a consistent development experience across all software development use cases at uatg. in addition, we are architecting the future of infrastructure to support our expanding self-driving fleet of vehicles.
+

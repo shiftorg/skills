@@ -1,0 +1,24 @@
+Salesforce 155--Senior-Software-Engineer---Sales-Cloud.Txt
+
+
+
+
+senior software engineer - sales cloud are you excited to work for salesforce, the world's #1 crm & the most innovative software company that defines game-changing technology? how about working on adding intelligence services for the highest revenue generating software for salesforce? the sales cloud in salesforce is a conglomeration of the most widely used sales tools and sales automation software, speeding and streamlining all phases of sales from lead management to analytics and forecasting.   in this role as lead ui and full-stack software developer for the sales cloud, you'll be responsible for leading a team in building next generation mobile and desktop web applications for a multi-billion dollar product line, sales cloud crm.  specifically you will be working on providing intelligent insights that will help to manage people and sales processes more effectively, pursue more business in less time, and close more deals. to be successful, you'll need to proactively drive technology, product, and architectural direction as well as mentor other developers within the organization.  with a passionate, results oriented approach, you'll drive your team to innovate and build robust software, allowing salesforce to maintain and grow its leadership position in this expanding market. responsibilities:
+
+design and implement features on sfa apps. work closely with a team of product managers, usability experts and quality engineers to build scalable products for our customers lead and mentor developers both within and outside your immediate team drive your team's execution and implementation strategy analyze and influence product direction and functional requirements participate and promote architectural initiatives, balancing long-term velocity with short-term customer needs value team excellence over individual productivity
+experience/skills required:
+
+5+ years of expert level experience in web technologies (java, javascript, json, ajax, html, dhtml, css, etc.) knowledge of sql and understanding of relational databases professional track record of being a top performer in current and past software development roles over several years. passion for building user interfaces and applications that are highly usable and incredibly fast    solid understanding of object-oriented design and programming concepts professional experience with java team player with excellent communication skills bachelor's degree in computer science or equivalent experience
+
+experience/skills desired:
+
+strong understanding of rest and soap based web services familiarity with xml, dom, and other w3c standards experience building software as a service (saas) applications experience with agile software development and test driven development methodologies crm domain knowledge master's degree in computer science or equivalent experience
+  these founding principles have taken our company to great heights, including being named one of forbes's "world's most innovative company” five years in a row and one of fortune's "100 best companies to work for” nine years in a row. we are the fastest growing of the top 10 enterprise software companies, and this level of growth equals incredible opportunities to grow a career at salesforce.    *li-y
+
+
+
+
+
+
+
+

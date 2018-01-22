@@ -1,0 +1,19 @@
+Affirm (Senior) Software Engineer - Infrastructure/Platform
+
+infrastructure engineers are the backbone of the engineering team. the team is responsible for building awesome products and systems that allow the rest of engineering to produce and deploy software that is scalable, reliable, secure, correct, consistent, and well tested. scaling a global infrastructure shared across multiple merchants, vendors and products is hard. our consistency and security requirements make scaling harder. hard problems fascinate us and the infrastructure engineers work with all of our platform and product teams to find simple, consistent, clean and scalable solutions to their business requirements.
+build products, systems and tools to handle new affirm products and business requirements that scale over millions of users, their transactions and secure data.
+build frameworks and products which will be used by other engineering teams at affirm.
+build our fast growing online and offline data infrastructure.
+build systems which help us in efficient underwriting and fighting fraud.
+work with product managers, tech leads and other engineers to build affirm products.
+collaborate with other infrastructure teams on security, reliability and automation.
+extensive experience building and owning large-scale, geographically distributed backend systems.
+highly skilled at developing and debugging in one or more programming languages.
+python development experience is a plus.
+experience with aws and/or other cloud providers is a plus.
+you prefer using, enhancing and contributing to opensource solutions than building solutions from ground up.
+experience with (or want to learn about) operating system internals, filesystems, databases, network, concurrency frameworks.
+unquenchable thirst for learning new things.
+you obsess about keeping costs low while building your products.
+familiarity with linux.
+computer science degree with industry experience is required.

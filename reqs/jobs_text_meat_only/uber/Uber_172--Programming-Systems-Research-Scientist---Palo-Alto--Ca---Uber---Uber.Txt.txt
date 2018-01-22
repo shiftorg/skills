@@ -1,0 +1,22 @@
+Uber 172--Programming-Systems-Research-Scientist---Palo-Alto--Ca---Uber---Uber.Txt
+
+
+
+
+uber engineering is growing quickly as we look to tackle some exciting opportunities at scale and in challenging regions around the world. as we grow our team and code base, there is a growing need for automatic analysis tools to keep our code quality high while ensuring our engineers can continue to move fast.  to support this need, the mobile developer productivity team is looking for talented, experienced engineers to build new static analysis tools and help apply them to uber mobile apps.
+
+the team is aiming to build analyses to detect a wide variety of bugs in both android (java) and ios (swift) apps.  the work includes a mix of both building or extending core analysis infrastructure and developing new analyses targeted at key issues.  analyses will be used to detect properties like crash freedom, isolation, lifecycle safety, and security.  the team is also responsible for finding new ways to annotate or modularize code to enable better analysis scalability and precision.
+
+to succeed in this position, you will have a strong understanding of state-of-the-art program analysis techniques and experience in developing static analyses.  you should also be passionate about writing clean, efficient, well-tested code, and should have some familiarity with mobile app architectures.
+
+job requirements
+bs/ms in computer science or computer engineering, phd preferred
+previous experience developing new static analysis techniques or applications
+solid understanding of the current state of the art in static analysis techniques
+3+ years of software development or developing infrastructure
+excellent coding skills and software design skills
+
+published works in the field of static analysis
+experience analyzing large, production code bases
+experience developing mobile apps and/or mobile testing frameworks/tools
+hands-on experience with dependency injection and unit testing

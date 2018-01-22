@@ -1,0 +1,48 @@
+Salesforce 306--Sr.-Software-Engineer-Dept-Of-Data---Heroku.Txt
+
+
+
+
+sr. software engineer, dept of data - heroku location: amer, usa or canada we're looking for passionate engineers who will join us in reinventing how databases are deployed, used, and protected.
+
+the department of data is a team that provides performant data services in a highly dynamic environment. we manage one of the largest collections of databases in the world, and you could have an impact on the developers' experiences by designing and implementing simple, intuitive workflows for running databases and interacting with their data.
+
+in this role you will work directly with the team behind heroku postgres on automating operations behind our database-as-a-service platforms. you will write tools to reliably operate thousands of servers including automated backups, disaster recovery, high availability, orchestration, monitoring systems, configuration management, security and much more. if you have passion for data storage and management, intuition for code maintainability, and care about making customers succeed, get in touch.
+
+the stack for day-to-day operations includes ruby with sequel and sinatra, python and some bash. this role requires interfacing with aws services (ec2, s3, vpc and so on), writing and maintaining scalable system administration and monitoring, and working with postgres infrastructure at scale. beyond that, you should be excited to learn any of these skills:
+
+
+go, python and bash
+
+other databases (redis, cassandra, kafka)
+
+unix tools and services
+
+lxc containerization, docker
+
+information security
+
+
+in addition to seeing your resume, we'd like to get to know you. in your resume please consider including:
+
+
+an example of source code you've worked on, or a link to your github account
+
+two or three code snippets that you think represent your coding style
+
+a brief description of your skills, interests, and work style
+
+a link to your blog and/or other personal/hobby apps you've built
+
+
+heroku is a fast-growing business unit of salesforce.com. our work environment is collaborative, flexible and fun. we're focused on technical and operational excellence and customer success.
+
+  these founding principles have taken our company to great heights, including being named one of forbes's "world's most innovative company” six years in a row and one of fortune's "100 best companies to work for” nine years in a row. we are the fastest growing of the top 10 enterprise software companies, and this level of growth equals incredible opportunities to grow a career at salesforce. 
+
+
+
+
+
+
+
+

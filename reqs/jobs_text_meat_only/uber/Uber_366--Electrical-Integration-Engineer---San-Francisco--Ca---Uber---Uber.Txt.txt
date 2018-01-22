@@ -1,0 +1,32 @@
+Uber 366--Electrical-Integration-Engineer---San-Francisco--Ca---Uber---Uber.Txt
+
+
+
+
+
+as a electrical integration engineer, you will be integral in the efforts of atg.  you will work cross functionally within teams, be a point of contact for oems, and handle technivcal issues during the entire lifecycle.
+
+act as the single point of contact/lead for all electrical issues with the oem
+ensure technical issues are addressed during development, prototype builds, and launch
+resolve electrical interfaces between atg technology and oem vehicle
+diagnose system integration issues, and pinpoint areas of issues that require resolution
+work internally within atg and externally with the oem to lead the resolution of technical issues
+engage the component design engineers as needed to implement changes required to resolve issues
+work as a part of the integration team to diagnose and resolve cross domain technical issues
+
+minimum 5 years of experience at a tier 1, or automotive oem
+strong technical depth in automotive electrical systems
+ability to read and understand schematics; bonus points if you create wiring schematics
+demonstrated ability to work in a complex technical project under timing constraints
+results oriented, with experiencing delivering/launching technical projects to production
+demonstrated ability to work with outside companies to deliver joint projects
+effective oral and written communication skills
+affinity for working in a dynamic, global, and technology-focused environment
+self-starter with ability to multi-task and deal with time pressure in an unstructured environment
+undergraduate degree in electrical engineering
+willing to travel
+
+
+at the advanced technologies group (atg), we are building technologies that will transform the way the world moves. our teams in pittsburgh, san francisco, phoenix, and toronto are dedicated to mapping, software and hardware development, vehicle safety, and operations for self-driving technology. our teams are passionate about developing a self-driving system that will one day move people and things around more safely, efficiently, and cost effectively.
+
+our hardware team's role is to develop and integrate uber self-driving technologies into existing and future vehicle platforms of multiple oem's at scale.

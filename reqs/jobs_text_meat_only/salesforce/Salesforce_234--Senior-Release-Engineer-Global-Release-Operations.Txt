@@ -1,0 +1,22 @@
+Salesforce 234--Senior-Release-Engineer-Global-Release-Operations.Txt
+
+
+
+
+senior release engineer, global release operations we are seeking release engineers who are skilled in release methodologies. they will represent release engineering in discussions collaborate, other groups. must be able to also work independently lead and direct small and medium-sized projects within release engineering. the candidate is expected to continually strive to improve tools and processes and foster relationships with other areas by building strong networks. salesforce is an incredibly fast-paced environment with high demands of our release engineers. a successful candidate has experience in such an environment and motivated in their delivery of quality in everything that they do. release engineers at salesforce are the cornerstone of the technology teams with tremendous responsibility and high visibility. this role is going to primarily be responsible for supporting production releases of all applications running on our production infrastructure. includes both customers facing salesforce products as well as internal products used to run salesforce operations globally (such as monitoring tools). we have a bi-weekly rotation of engineers supporting production release staging and deployment activities, and this role will be a part of this rotation cycle. the ideal candidate should be passionate about release operations and manage their time and commitments. excel at executing detailed and complex run lists, quickly learn and internalize a repeatable release process, and be a clear and thorough communicator while reporting release progress status to the rest of the release team. they should also be able to remain calm under pressure and excel at creative troubleshooting. responsibilities:
+
+build/configuration/administration and troubleshooting of a highly complex core application and multiple ancillary products with new products coming online all the time. ad hoc troubleshooting of release blockers (hardware, configuration, code) and support triaging efforts related to customer impacting production issues. the gateway for releases into multiple, geographically-dispersed production datacenters. responsible for staging and deploying every release (major, patch, e-release) of the salesforce core application to all global customers. execute code promotions in preparation for releases. participate in weekly calls with release management to plan and prepare all production facing releases. while production release operations are your primary responsibility, you may also have opportunities to put on your developer hat for scripting and automation projects to optimize our release processes.
+3+ years build/release experience of java-based, on-demand applications. 3+ years experience working on unix platforms with rhel preferred. 3+ years experience with a scripting language (python preferred, but perl, go is okay) required. demonstrated ability to support release operations: production environments, mission-critical internal tools administration in a help desk, and zero downtime framework. a strong command of code branching architecture branching, merging, rollback plans, etc. experience supporting an on-demand environment is highly valued. proven track record of implementing build/release systems around new products. bachelors degree in engineering or another related field excellent communication skills, both written and verbal.
+
+experience with orchestration and remote execution: saltstack and puppet, or ansible, fabric or similar. proven ability to multi-task, prioritize, and work under deadlines. strong customer-focus.
+
+"u.s. citizen (u.s. born or naturalized) who does not hold dual citizenship. you agree to complete a minimum background investigation (mbi) for a moderate public trust position with the u.s. federal government or other clearances as deemed appropriate for the role." company overview   these founding principles have taken our company to great heights, including being named one of forbes's "world's most innovative company” five years in a row and one of fortune's "100 best companies to work for” eight years in a row. we are the fastest growing of the top 10 enterprise software companies, and this level of growth equals incredible opportunities to grow a career at salesforce.  *li-y
+
+
+
+
+
+
+
+
+

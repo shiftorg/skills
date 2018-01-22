@@ -1,0 +1,20 @@
+Uber 361--Data-Scientist--Self-Driving---San-Francisco--Ca---Uber---Uber.Txt
+
+
+
+
+you will have access to uber's planet-scale data store while gaining subject matter expertise in various parts of the autonomy stack.
+learn from world-renowned practitioners of robotics, mapping, perception, logistics, machine learning, motion planning, mobile communications, and other fields;
+see your work deployed fast and often into the real world and stretch yourself as you switch from one tough problem to another;
+work with an outstanding engineering team and the support of an established data infrastructure;
+benefit from working at a dynamic startup inside an established, well-capitalized company;
+get in at the beginning as we grow the data science team!
+build dashboards and visualizations of complex data sets and calculations
+
+we have positions available for experienced data scientists, as well as those at bachelors, master, and phd levels
+skills as a full-stack data scientist… equally proficient in software development, statistics, machine learning, big data, and visualization don't worry if you haven't covered each one—we learn skills from each other
+excellent software development skills (preferably in python or c++)
+driven and focused self-starters, great communicators, amazing follow-through - you love the responsibility of being individually empowered
+
+
+at the advanced technologies group (atg), we are building technologies that will transform the way the world moves. our teams in pittsburgh, san francisco, phoenix, and toronto are dedicated to mapping, software and hardware development, vehicle safety, and operations for self-driving technology. our teams are passionate about developing a self-driving system that will one day move people and things around more safely, efficiently, and cost effectively.

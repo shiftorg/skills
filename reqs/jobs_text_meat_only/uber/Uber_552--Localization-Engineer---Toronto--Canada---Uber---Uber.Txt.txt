@@ -1,0 +1,29 @@
+Uber 552--Localization-Engineer---Toronto--Canada---Uber---Uber.Txt
+
+
+
+
+
+we're looking for talented engineers to help develop the next generation system for localization and mapping for uber's self-driving vehicles. we are a team of diverse researchers, engineers, and computer scientists who are motivated by the challenges of developing reliable, accurate, and scalable solutions across a wide range of operational scenarios. we value experience in slam, 3d reconstruction, and visual odometry, and are seeking new team members who have applied geometric computer vision techniques to real-world problems.
+design, implement, test, and maintain real-time localization and mapping software that runs on self-driving uber
+vehicles
+design, implement, test, and maintain localization and mapping software that runs offboard for optimization, analysis, testing, and verification
+analyze large datasets and work with raw sensor data
+collaborate cross-functionally with other engineering teams at uber and communicate your work to colleagues and management
+
+highly skilled in lidar point cloud registration, or geometric computer vision, or state estimation
+extensive, demonstrable results in real-world applications
+good experience developing software in c++
+shown ability to produce computationally intensive software that runs and produces high-quality results in real-time
+solid understanding of 3d spatial mathematics concepts
+prior experience in any of pose estimation, probabilistic filtering, slam, nonlinear optimization, autonomy, networking, or user interfaces desired
+experience with techniques or applications for nonlinear optimization (e.g., nonlinear least squares, bundle adjustment, pose graph optimization)
+python development experience
+experience in state estimation using kalman filters
+minimum 3 years of industry experience
+
+
+at the advanced technologies group (atg), we are building technologies that will transform the way the world moves. our teams in pittsburgh, san francisco, phoenix, and toronto are dedicated to mapping, software and hardware development, vehicle safety, and operations for self-driving technology. our teams are passionate about developing a self-driving system that will one day move people and things around more safely, efficiently, and cost effectively.
+
+we are a group of diverse researchers, engineers, and computer scientists working to develop accurate localization and mapping systems for self-driving vehicles. reliability and scalability are key drivers for us as our software must perform across a large fleet of vehicles in large and diverse operating areas.
+

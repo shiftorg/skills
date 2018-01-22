@@ -1,0 +1,27 @@
+Senior Software Engineer - iOS
+ San Francisco, CA
+ Engineering
+ Full-Time
+ Apply for this job
+ As we extend the reach of our transparent loan services to a broader populace, we’re seeking an iOS engineer to construct beautiful mobile applications. The iOS app—along with the companion Android app—will introduce an unprecedented level of freedom over one’s personal finances.
+ Check out our recent iOS app announcement: 
+ https://www.affirm.com/press/releases/affirm-reinvents-credit-for-21st-century/
+ What You'll Do
+ Work closely with our product and design team to build innovative consumer financial products
+ Implement custom native user interfaces using Swift
+ Build out foundational iOS frameworks and pipelines to be deployed across a suite of financial products
+ Collaborate with other mobile platform developers to make sure we have parity in our products across multiple native mobile platforms
+ Work with the platform team to improve our APIs and optimize our mobile services
+ What We Look For
+ Passion and drive to change consumer banking for the better
+ A track record and obsession for shipping exceptional native mobile user experiences on the iOS platform
+ Experience with iOS automation tools and test frameworks
+ Experience designing mobile optimized APIs and backend systems
+ Advanced working knowledge of Swift, or the ability to quickly pick it up
+ ABOUT AFFIRM
+ At Affirm we are using technology to re-imagine and re-build core parts of financial infrastructure to enable friendlier and more transparent financial products and services that improve lives.
+ We believe the financial industry is fundamentally broken. Not only is the core infrastructure built with technology from the 1970s, but there are a dwindling number of people who say "I trust my bank to look out for me". It doesn’t have to be this way, and it’s our mission to fix this problem.
+ We are based in San Francisco; founded by Max Levchin (founding CTO of PayPal), Jeff Kaditz (CDO DeNA/ngmoco), and Nathan Gettings (founding CTO of Palantir); and building a team of exceptionally talented people to join us on our mission.
+ Apply for this job
+ Affirm Home Page
+ Jobs powered by 

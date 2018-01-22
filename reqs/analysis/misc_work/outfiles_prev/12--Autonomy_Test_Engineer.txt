@@ -1,0 +1,65 @@
+Autonomy Test Engineer
+
+About Uber
+ 
+We’re changing the way people think about transportation. Not that long ago we were just an app to request premium black cars in a few metropolitan areas. Now we’re a part of the logistical fabric of more than 600 cities around the world. Whether it’s a ride, a sandwich, or a package, we use technology to give people what they want, when they want it.
+ 
+For the people who drive with Uber, our app represents a flexible new way to earn money. For cities, we help strengthen local economies, improve access to transportation, and make streets safer.
+ 
+And that’s just what we’re doing today. We’re thinking about the future, too. With teams working on autonomous trucking and self-driving cars, we’re in for the long haul. We’re reimagining how people and things move from one place to the next.
+About the Role
+As an Autonomy Test Engineer, you will be part of a team responsible for analyzing driving events encountered by our vehicles on the road, identifying the underlying reasons for failures, and designing the scenarios that will simulate behavior of our vehicles and surrounding actors. You will be interpreting results and understanding areas of improvement to make autonomous technology ready for the road. You will support other ATG efforts with clear and concise data that provides unambiguous feedback so autonomy engineering and technical leaders make the right choices. You will maintain awareness of new features and define the processes and mechanisms to verify performance of all relevant scenarios before the software releases.
+What You’ll Do
+ 
+What You’ll Need
+ 
+About the Team
+At the Advanced Technologies Group (ATG), we are building technologies that will transform the way the world moves. Our teams in Pittsburgh, San Francisco, Phoenix, and Toronto are dedicated to mapping, software and hardware development, vehicle safety, and operations for self-driving technology. Our teams are passionate about developing a self-driving system that will one day move people and things around more safely, efficiently, and cost effectively.
+ 
+Our team of Autonomy Test Engineers on Triage and Scenario Operations works directly with various autonomy teams to ensure the quality and performance of our software, and also with the rest of the Simulation teams to ensure we can appropriately reproduce the real world in simulation.
+None
+See our Candidate Privacy Statement
+At Uber we don’t just accept difference—we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Uber is proud to be an equal opportunity workplace. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status.
+
+
+ ############ START_LIST_CONTENTS ############ 
+
+1
+
+ ############ LIST_CONTENTS ############ 
+
+
+Review events encountered by the vehicle on the road daily
+Identify failure modes and assign severity levels to each driving event
+Manage bugs through their entire lifecycle: filing, maintaining, closing
+Design scenarios for simulating autonomous vehicle behavior
+Remove ambiguity of what needs to be tested and how to interpret result data
+Collaborate with autonomy engineers to refine scenario and metrics requirements
+Participate in software discussions and stay on top of all new features
+Compare on road performance to simulations generated using up-to-date software
+Generate reports summarizing and communicating software performance
+2
+
+ ############ LIST_CONTENTS ############ 
+
+
+3
+
+ ############ LIST_CONTENTS ############ 
+
+
+4
+
+ ############ LIST_CONTENTS ############ 
+
+
+5
+
+ ############ LIST_CONTENTS ############ 
+
+
+6
+
+ ############ LIST_CONTENTS ############ 
+
+

@@ -1,0 +1,21 @@
+Square Software Engineer, Billing
+
+software engineer, billing
+atlanta, ga, usa
+square's billing team is a full-stack team creating technology so our merchants can bill quickly and accurately.  we are developing new systems to offer sophisticated pricing and tax models to merchants of all types and scales in countries around the world.  we are responsible for internal services, integrations with square's payment technology, and customer facing features on both mobile and web.  we're building a platform that is modular, highly available, scalable, secure and forward-looking.
+we are looking for talented individuals to design and build infrastructure that is used by millions of merchants around the world to run core aspects of their business. if you are able to think modularly, have a passion for apis, want to create beautiful tools to make lives better, or want to be deeply involved in building highly available services in a microservice ecosystem, the billing team may be for you.
+build our billing platform, a key strategic asset of square that handles pricing, taxes, and billing for millions of merchants
+design and implement high-volume, low-latency, distributed systems, making thoughtful tradeoffs between consistency and availability when both are not possible
+build delightful user-facing applications that combine intuitive interfaces with rock-solid reliability
+build a platform with consistent, coherent service apis for internal and external customers
+build systems that manage sensitive customer data while holding square to the highest standards for security and compliance
+see the big picture to design fault tolerant systems so the team can be brave, move fast, and break things, without ever showing a negative impact to customers
+empower millions of small merchants to focus on their businesses and not their business technology
+innate curiosity and a desire to be responsible for all aspects of reliably moving millions of dollars in a small, highly focused team
+understanding and curiosity in creating highly available, scalable, low-latency, global systems
+track record of pursuing self directed side projects, research, or open source projects
+technologies we use:
+android, ios, and ember frontend development
+java and ruby backend development
+mysql and redis data storage
+protocol buffers, guice, jooq, rails.

@@ -1,0 +1,33 @@
+Uber 21--Mechanical-Engineer---San-Francisco--Ca---Uber---Uber.Txt
+
+
+
+
+
+the mechanical engineer's role is to develop the mechanical components and assemblies necessary for the incorporation of these technologies.
+design and develop atg mechanical components and assemblies
+work with internal and external (oem or supplier) groups to resolve all mechanical issues between atg content and the oem vehicles
+manage and resolve technical issues between atg content and oem vehicle during development, prototype builds and production launch
+engage with oem, suppliers and other partners on topics including product content, issue resolution and design changes
+engage internal cross-functional hardware/software engineers and experts as needed to implement mechanical design changes required to resolve cross-functional issues
+diagnose mechanical system interface issues and pinpoint areas that require resolution
+coordinate mechanical component and assembly testing and drive resolution of discovered issues
+define test plans required to prove out oem led mechanical content interfacing with atg hardware
+lead “change control” efforts to ensure compatibility
+
+bachelor's degree (b.s.) in mechanical engineering or related field
+minimum of five (5) years of experience as a developer of complex mechanical or electromechanical systems
+cad design experience in solidworks, catia, or similar
+knowledge in developing components using a variety of materials and processes including injection molding, machining, bending, stamping, casting, and/or forging
+strong technical depth in mechanical design, requirements definitions and testing
+demonstrated ability to work in a complex environment under challenging timing constraints
+results oriented, experienced launching technical projects into series production
+experience working with suppliers and external partners
+comfortable with a dynamic, fast-paced, global environment of a start-up
+effective oral and written communication skills
+willing to travel
+
+
+at the advanced technologies group (atg), we are building technologies that will transform the way the world moves. our teams in pittsburgh, san francisco, phoenix, and toronto are dedicated to mapping, software and hardware development, vehicle safety, and operations for self-driving technology. our teams are passionate about developing a self-driving system that will one day move people and things around more safely, efficiently, and cost effectively.
+
+our hardware team's role is to develop and integrate uber self-driving technologies into existing and future vehicle platforms of multiple oem's at scale.

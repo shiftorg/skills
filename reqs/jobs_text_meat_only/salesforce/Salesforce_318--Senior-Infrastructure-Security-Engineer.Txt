@@ -1,0 +1,21 @@
+Salesforce 318--Senior-Infrastructure-Security-Engineer.Txt
+
+
+
+
+sr.  infrastructure security engineer san francisco, ca. seattle, wa herndon, va job description trust is the #1 company value at salesforce. our infrastructure assurance team ensures the security of the platform and systems, which make salesforce run. we are a team of curious minds that specialize in secure design, assessment, research, and tool development.  we work in a challenging, large scale, multi-tenant environment that includes both private data-centers and public cloud solutions. your role will be to work side by side with teams throughout the company to solve challenging security design problems and provide feedback on proposed systems and architectures. the scale and complexity of salesforce's operation is massive; in order to provide the impact needed you should look to light tool development and automation as a primary tool in accomplishing your day-to-day work. you will work closely with a team of experienced security engineers and researchers to identify, assess, and communicate risk to the rest of the organization. you should have a willingness to collaborate and identify creative solutions to challenging security problems. we both break and help build. you should have a good understanding of networks, linux based operating systems, distributed systems, and modern service architectures. most importantly you should be curious and willing to learn and apply your understanding of security to new things. salesforce believes in contributing back to the security brain-trust by speaking about our work at conferences and open sourcing solutions that might benefit the community. you will have the opportunity to influence not only security at salesforce, but the state-of-the-art and industry at large. responsibilities
+perform security architecture, design, and component reviews for salesforce infrastructure perform black-box penetration testing and code reviews on a variety of tooling that will be introduced into salesforce's infrastructure participate in vulnerability assessment and remediation efforts help triage incoming work according to impact, risk, and urgency document and communicate discovered issues; work with teams to resolve them in a manner which improves security and encourages agility provide security guidance and oversight to engineering and operational teams by participating in design reviews and threat modeling research new security technologies and build new tools to make your (and everyone else's) life easier
+
+b.s. / m.s. in computer science/engineering or relevant experience experience collaborating with engineers to design secure applications/systems/infrastructure relevant experience and an interest in using tool development (python, ruby, etc.) to do your job better
+
+databases, we got ‘em operating systems, why pick just one? modern deployment technologies (containers, ci/cd pipelines, etc.) cloud based infrastructure (both private and public)
+  these founding principles have taken our company to great heights, including being named one of forbes's "world's most innovative company” six years in a row and one of fortune's "100 best companies to work for” nine years in a row. we are the fastest growing of the top 10 enterprise software companies, and this level of growth equals incredible opportunities to grow a career at salesforce.   *li-y
+
+
+
+
+
+
+
+
+

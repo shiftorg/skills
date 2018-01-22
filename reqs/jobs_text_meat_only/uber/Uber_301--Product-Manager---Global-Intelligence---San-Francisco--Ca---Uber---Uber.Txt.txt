@@ -1,0 +1,47 @@
+Uber 301--Product-Manager---Global-Intelligence---San-Francisco--Ca---Uber---Uber.Txt
+
+
+
+
+
+we're looking for a product manager to take uber's global intelligence team to the next level. global intelligence produces scalable (i.e. real-time, global) data to identify insights and make strategic recommendations that inform executive level decisions across uber. we are also pioneering new ideas to integrate this data into our core products to improve the rider and driver experience. as the pm on the gi applied intelligence team, you will lead a team of engineers and data scientists in generating and prioritizing a roadmap of ideas that leverage gi data to improve uber's business performance around the world. you will work closely with both product and ops teams across the company to design and run experiments to validate the impact of these ideas. you will also empower users across uber to leverage the data by providing dashboards and building tools that allow them to evaluate the impact of their tactics.
+
+the role demands a deep background in product management, machine learning, and lean product methodologies; ability to operate in a highly technical and data-oriented environment; leadership skills, and the ability to do user research and work collaboratively with executive level stakeholders.
+internalize and deeply understand uber's mission and strategies, as well as how the global intelligence team mission and objectives factor into the company strategy
+
+drive innovation, definition, deliverables planning (roadmap) and design of entirely new uber products and product features to deliver against team and company goals
+
+distill the vision and strategy for the team, generate enthusiasm across the cross-functional team
+
+generate and validate tactics and product ideas that maximize the business impact of the data we produce
+
+work closely with product and ops leadership across uber to maximize the business impact of our data and insights
+
+be incredibly truth-seeking. collect whatever data is necessary to inform product direction by soliciting and embracing critical feedback
+
+challenge members of cross-functional team (engineering, data science, etc.) to think boldly and creatively and then funnel that energy into concrete products and execution plans
+
+clearly communicate plans, insights, data and results to a spectrum of audiences including executives, other product teams, and other decision-makers across uber - both human and machine
+
+
+minimum of 5 years experience in product management delivering highly successful and innovative products with your fingerprints all over them — and you're extremely proud of what you've accomplished
+
+deep understanding and experience with lean testing methodologies, experience building products from zero to first release
+
+experience applying machine learning / statistical inference technologies to a variety of complex problems
+
+proven ability to work collaboratively with technical and non-technical team members up to and including the executive-level
+
+a "driver" personality - biased toward action, great collaborator and an excellent disambiguator/simplifier - constantly pushing toward clarity and delivery. you persevere when others give up
+
+focused on building businesses, not features. entrepreneurial experience building and leading businesses, including ownership and optimization of business performance metrics
+
+an undergraduate degree or equivalent in computer science or a quantitative domain plus hands-on software engineering and/or data science experience highly preferred.
+
+true passion for uber's mission and the company's hybrid technology / operations nature.
+
+a deep desire to grow and learn.
+
+
+
+the global intelligence team uses scalable (i.e. real-time, global) data and insights to inform decision-making across uber - both human and machine.

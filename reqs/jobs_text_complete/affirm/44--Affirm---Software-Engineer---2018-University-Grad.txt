@@ -1,0 +1,24 @@
+Software Engineer - 2018 University Grad
+ San Francisco, CA
+ Engineering
+ Full-Time
+ Apply for this job
+ As a recent university grad, you’ll contribute meaningfully to our top-notch engineering team. Recent grads in the past have built a real-time high-throughput data processing pipeline that ties our infrastructure together, built out our proprietary financial platform that is central to our long term company mission, and built out our extensive automated testing framework.
+ You’ll be building out new features on a team that fits your skillset and interests. We look for students that have a passion to change the consumer finance industry for the better. Past experience with some or all of the below requirements is a plus! 
+ What You'll Do
+ According to your interests and experience, you’ll work on the Backend/Platform team, the Infrastructure/Testing team, or the UX  team. We'll be in conversation during the entire interview process to determine which team bests matches your skill-set and interests. 
+ What We Look For
+ Experience with Python, C/C++ or Java
+ Continuous deployment and  automated testing frameworks
+ Frontend Experience with WebApp/JavaScript/AngularJS/React
+ Developer API development/documentationAWS or other PaS frameworks
+ Strong understanding of operating system internals
+ Passion and drive to change consumer banking for the better
+ Extensive experience with one of the following languages: Python, C/C++, Java, Javascript
+ ABOUT AFFIRM
+ At Affirm we are using technology to re-imagine and re-build core parts of financial infrastructure to enable friendlier and more transparent financial products and services that improve lives.
+ We believe the financial industry is fundamentally broken. Not only is the core infrastructure built with technology from the 1970s, but there are a dwindling number of people who say "I trust my bank to look out for me". It doesn’t have to be this way, and it’s our mission to fix this problem.
+ We are based in San Francisco; founded by Max Levchin (founding CTO of PayPal), Jeff Kaditz (CDO DeNA/ngmoco), and Nathan Gettings (founding CTO of Palantir); and building a team of exceptionally talented people to join us on our mission.
+ Apply for this job
+ Affirm Home Page
+ Jobs powered by 

@@ -1,0 +1,21 @@
+Salesforce 134--Sr.-Software-Engineer-(Full-Stack).Txt
+
+
+
+
+sr. software engineer (full-stack)  you are a full stack software engineer with a solid understanding of web technologies and a passion for data science and data in general. you want to build applications that interface algorithms with functional and elegant uis. you want to build services that enable data scientists and analysts to use the full potential of data with ease. you love to play around with different data visualization techniques, bar charts, pie charts, and scatter plots are just the beginning. we are looking for a software engineer who can build analytic applications and services; who not only keeps up with the latest, coolest technology but also understand what it takes to keep production systems running; who obsess with clean and elegant solutions but does not over engineer; who loves to solve new problems and push the boundaries of current technology. someone who thrives in a rapidly innovating space. your role:
+
+build software applications and services that:
+display data interact with data enable data
+design and implement interactive data visualizations driven by state of the art backend algorithmic solutions work with product manager to help shape data science products and offerings and offer technical inputs.
+your skills and qualifications: ​
+
+well-versed in building web applications with javascript frameworks such as angularjs and backend frameworks such as play framework at least bs in computer science or equivalent, ms or phd a plus familiar with several programming languages including scala, java or python obsess with clean and elegant solutions but do not over engineer ability to multi-task, and can quickly switch context and be able to work on multiple projects make things work and get things done like working and being part of an interdisciplinary team
+
+
+
+
+
+
+
+

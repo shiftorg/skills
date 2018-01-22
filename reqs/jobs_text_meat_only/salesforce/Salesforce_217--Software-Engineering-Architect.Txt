@@ -1,0 +1,76 @@
+Salesforce 217--Software-Engineering-Architect.Txt
+
+
+
+
+
+as an architect you will join the group responsible for architecting, developing and owning the distributed systems platform used for automating the fastest growing infrastructure for salesforce developers. you will collaborate with the engineers, managers and architects across the organization to develop a roadmap and subsequent projects to increase the team's ability to expand reach across all salesforce products, allow for a simple adoption method for the customer base and ensure self-serve capabilities to support the growing customer base.
+
+
+you will be a technical leader on cross-organizational initiatives with high visibility driving build automation, aws deployments and new test in production environments. this position will be responsible for overseeing the design of robust, autonomous system delivery and health mechanisms that will drive long-term operational reduction, improve consistent environment builds and remediation events. you will mentor an organization, of not just developers, through your knowledge sharing sessions which will guide and strengthen their knowledge.
+
+
+you should have a deep rooted knowledge of distributed systems and cloud architecture. you will need extensive development experience and are passionate about solving operational problems by creating innovative solutions not just with automation and orchestration but a full health mediated approach to service ownership. the service ownership model is your key to success.
+
+
+
+
+architect next version of a high demand virtualization engine that emulates complex infrastructure processes with high elastic scalability
+
+achieve high degree of parallelization in backend processes to reduce cycle times and improve machine throughput
+
+dexterously own balancing of production features support, feature delivery, and retirement of technical debt
+
+excited by building reliable, self-healing services with robust error handling
+
+experience designing, developing, debugging, and operating resilient distributed systems that run across thousands of compute nodes in multiple data centers
+
+capable of driving and delivering thin slices of end-to-end functionality on a regular cadence with data-driven feedback loops
+
+
+
+
+
+10+ years of software development experience
+
+strong programming skills (preferably in java) with specific focus on parallel and multithreaded programming
+
+experience with java / c# / c++ building distributed systems
+
+experience building restful web-services
+
+experience owning and operating multiple instances of mission critical service
+
+experience with agile development methodology and test-driven development
+
+experience using telemetry and metrics to drive operational excellence
+
+
+
+
+
+strong programming skills in java
+
+experience with aws, openstack or azure for scaling web and mobile application backend infrastructure
+
+knowledge of open source distributed automation frameworks (e.g. docker, rundeck, staf/stax, chef, puppet)
+
+knowledge of big data technologies (e.g. hbase, opentsdb, mongodb)
+
+experience with the salesforce application
+
+
+
+company overview
+
+
+
+  these founding principles have taken our company to great heights, including being named one of forbes's "world's most innovative company” six years in a row and one of fortune's "100 best companies to work for” nine years in a row. we are the fastest growing of the top 10 enterprise software companies, and this level of growth equals incredible opportunities to grow a career at salesforce.  *li-y
+
+
+
+
+
+
+
+

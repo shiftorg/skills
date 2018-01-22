@@ -1,0 +1,23 @@
+Salesforce 196--Network-Engineer.Txt
+
+
+
+
+salesforce is looking for a network engineer to join the global network operations team. this team is responsible for 24x7 follow-the-sun support of the salesforce environment. as a member of the global network operations team, you will be responsible for incident management on all aspects of the production network, to include performing break/fix and proactive maintenance to resolve outages and minimize the potential for future impact. provides hardware/software lifecycle management, network hygiene/standardization, runlist automation, as well as network monitoring improvements to proactively diagnose potential issues. you will provide third line support for network-related customer issues, and ensure that thorough root-cause analysis is completed on all customer-impacting problems. responsibilities
+ensure all network issues are resolved in a timely manner, with minimal impact on customers. perform high-level troubleshooting and analysis to determine the root-cause of network outages and implement workarounds and permanent solutions. isolate hardware and software problems on network devices and work with vendors to resolve issues as necessary.  perform break/fix maintenance, such as rmas, routing changes/traffic engineering, ddos mitigation, etc. perform proactive network maintenance, such as code upgrades, hardware refreshes, config updates, peering/transit turnups, cleanup/decoms work collaboratively with engineering teams to identify ways in which we can proactively improve the stability of the network and decrease the potential for future outages to occur. provide third line customer support and technical expertise for network-related issues. drive service ownership for the network cloud; assist in efforts to streamline problem and change management processes, improve alerting and incident handling, and increase automation.
+
+high level of proficiency and experience with tcp/ip networking, architecture and core technologies, such as mpls, bgp, ospf, dns, http, etc. high level of proficiency with cisco and juniper router and switch hardware installation and troubleshooting. experience deploying and managing large-scale distributed network environments. knowledge of firewalls and access-list configuration and troubleshooting. in-depth knowledge and experience working in a unix/linux environment. experience with performance analysis, systems software, and systems architecture. knowledge of system performance methodologies along with hands-on empirical monitoring and data-driven decision making. robust analytical approach to problem-solving and ability to troubleshoot complex issues quickly, while successfully handling multiple priorities. must work well as part of a team in a high-energy environment; must possess excellent written and verbal communication skills and exceptional time-management abilities.
+
+high level of proficiency and experience configuring and troubleshooting balancers, with emphasis on f5. highly skilled in packet analysis, network analysis tools, troubleshooting and analytical fault diagnosis. experience in deploying, customizing and scaling a network monitoring solution. proficiency in scripting/programming with python, perl, etc.
+other requirements
+
+ability to participate in an on-call rotation designed to provide network engineering support on the weekends. must be willing to work a 4x10 shift schedule that will include a weekend day.
+company overview: salesforce, the customer success platform, and world's #1 crm empowers companies to connect with their customers in a whole new way.  these founding principles have taken our company to great heights, including being named one of forbes's "world's most innovative company” five years in a row and one of fortune's "100 best companies to work for” eight years in a row. we are the fastest growing of the top 10 enterprise software companies, and this level of growth equals incredible opportunities to grow a career at salesforce. together, with our whole ohana (hawaiian for "family") made up of our employees, customers, partners, and communities, we are working to improve the state of the world. *li-y ​
+
+
+
+
+
+
+
+

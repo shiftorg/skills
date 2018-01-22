@@ -1,0 +1,22 @@
+Salesforce 180--Chief-Product-Architect.Txt
+
+
+
+
+chief product architect  accountable for the definition, design, and leadership on the development of product in the marketing cloud. reporting to the ceo of marketing cloud, this product leadership role will work on initiatives that drive team impact/goals and milestone prioritization, agile development, partnerships and deployment. the role will work across the organization to get to consensus on a strategy, make progress and have impact. the position includes helping the team understand what the user wants and what the business needs across the marketing cloud division as well as the corporate level. in this role, you will be responsible and accountable for:
+leading technical strategy for marketing cloud cross cloud integration, data architectures, moving to hosted service environment, etc. identifying and securing first and third party partners/customers and stakeholders as needed by the architecture. creating technical specifications, correspondence and documentation to ensure team alignment. reviewing, recommending and securing end-to-end verification testing strategy for agile quadrant testing. verifying strategy on ensuring quality, performance and stability of releases, pilots, and deployments. participating in strategic planning for and delivery of expansion of the marketing cloud into new and existing markets. requiring practical, real world problem solving skills, as this team moves fast, and your role will be to help unblock barriers. desiring to get their hands dirty-do the work, not just manage vendors or ftes. prioritizing and reprioritizing technical projects and initiatives based on new projects to our portfolio and cutting others.
+basic qualifications:
+
+10+ years of experience in product groups creating new products.
+preferred qualifications:
+
+experience building cloud-scale applications on cloud platforms like azure, aws or gce, should encompass the business acumen, organizational agility, and operational discipline of running a 24x7 global service. proven experience in building and driving execution on large complex projects. comfortable with a general-purpose programming language (c, c#, c++). proficiencies should include an advanced mix of skills engaging with engineering, product marketing, sales, service and support. strong customer first approach with ability to balance business needs versus customer requirements to deliver an optimized experience. excellent communication skills and the desire to collaborate in a multi-disciplinary team. experience with application development practices and version control systems. product design experience for enterprise software.
+  these founding principles have taken our company to great heights, including being named one of forbes's "world's most innovative company” six years in a row and one of fortune's "100 best companies to work for” nine years in a row. we are the fastest growing of the top 10 enterprise software companies, and this level of growth equals incredible opportunities to grow a career at salesforce. 
+
+
+
+
+
+
+
+

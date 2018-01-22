@@ -1,0 +1,26 @@
+Okta 27--Staff-Android-Software-Engineer-|-Okta.Txt
+
+
+
+craft our mobile user experiences through the okta mobile and okta verify apps. okta mobile provides web single sign on, native app single sign on, and user self-service mobile device management.  okta verify is our multi factor authentication using jwts to prove something the user has (their phone) in addition to their password when authenticating to okta.
+
+analyze/refine requirements with product management for administrator and end user web interfaces
+work with engineering management and other back-end teams to scope and plan engineering efforts and dependencies
+implement unit and functional tests
+design and code reviews
+develop ui for new product features
+develop reusable components to enable other teams to easily implement uis with rich and consistent look and feel​
+interface with qa, product management, technical support, documentation and ux
+
+
+strong enterprise development skills on android os. preferably submitted apps to the play store.
+experience building mobile device management applications.
+understanding of identity and access management protocols and architecture (sso, saml, oauth, federation, etc.)
+experience working in agile software development team leveraging continuous integration and deployment practices.
+ios app development experience is a plus
+java spring, javascript (backbone.js), and css (sass) web development experience a plus
+
+
+bachelor's degree in computer science or equivalent.
+6-10 years of software development experience. at least 2 years of development experience on android platform.
+

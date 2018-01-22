@@ -1,0 +1,28 @@
+Uber 482--Product-Manager---Rider-Seattle---Airports-&-Events---Seattle--Wa---Uber---Uber.Txt
+
+
+
+for the women and men who drive with uber, our app represents a flexible new way to earn money. for cities, we help strengthen local economies, improve access to transportation, and make streets safer.
+
+about the roles
+
+as pm lead of uber airports, you will envision and implement a product roadmap and strategy for making uber part of every airport experience and then lead the broader cross-functional team to success. your roadmap may span projects that range from purely technical to purely real-world, and any combination thereof.
+
+as pm for events, you will be challenged with building the foundation and experience of uber at events. this role will involve optimizing the complete rider and driver experience, from how riders and drivers find each other in high-density areas to how we grow ridership to and from events. this is challenging because events have characteristics not seen in normal market conditions. events have large demand spikes, uniform traffic congestion, and an operational system that hasn't changed in tens of years. you will be on the frontier of disrupting event transportation.
+
+your performance is measured both by the program's overall metrics and by your ability to build and lead a cohesive, motivated, nimble, and high-performing cross-functional team. you will work closely with counterparts in engineering, design, business development, data science, and operations.
+
+#li-pos
+
+• deep passion for travel and familiarity with the airport, venue, and/or rental car industry -- tell us where you've been and how uber can make that trip better!
+• experience building & leading businesses, including ownership of business performance metrics.
+• a computer science undergraduate degree or equivalent, preferably including hands-on software engineering experience. technical understanding must go from the highest abstractions down to the metal.
+• 7+ years experience delivering highly successful and innovative consumer internet products with your fingerprints all over them - you're extremely proud of what you've accomplished.
+• stellar design instincts and product taste.
+• a high bar across the board - from your own contributions to the people you work with to the products you work on.
+• a “driver” personality - biased toward action, great collaborator and master disambiguator/simplifier - constantly pushing toward clarity and delivery.
+• grittiness. you never hesitate to roll up your sleeves and tackle something hands-on, you persevere when others fall away.
+• finger-tippiness with data: you just go get the data you need with no muss/fuss and can whip it into an insightful story with no help. you know how to leverage data to make decisions without getting stuck in analysis paralysis.
+• rider-centricity - examples from your past of tough product challenges that you powered through because you were unwilling to make your problems your riders' problems.
+• true passion for uber's mission and the company's hybrid technology / operations nature.
+• a never-ending desire to grow and learn.

@@ -1,0 +1,21 @@
+Salesforce 64--Software-Architect-Search-(Lucene_Solr) .Txt
+
+
+
+
+software architect, search (lucene/solr)
+salesforce is one of the fastest growing enterprise software company worldwide. we are the 2017 leader in gartner magic quadrant for enterprise high productivity application platform.  as the most used functionality across salesforce's platform and products, search is a critical part of that success.  indexing hundreds of billions of documents, fielding millions of queries a day and running on thousands of servers worldwide, salesforce search is arguably the largest enterprise search implementation in the world.    the search team at salesforce  is seeking a seasoned search engine software architect to join our team to help us deliver groundbreaking search capabilities.  our ideal candidate is a lucene/solr industry expert, a veteran search and information retrieval technologist who has broad based consumer web scale search engine development experience, has led massive scale lucene based search engine deployments, has exceptional command on distributed systems, is a thought leader on search implementation and large scale elastic deployment of complex software systems, has a penchant for machine learning and embedding algorithmic solutions in the search stack, gets excited about software performance, uptime, high availability and is passionate about mentoring junior members of the team to become successful architects themselves. they thrive in working with and across product and engineering leadership as well as business executives.
+
+help architect elasticity into our extensive solr deployment. be the in-house expert on lucene/solr, guiding architectural choices for implementing different search use cases for b2b, b2c and internal salesforce applications.  help extend lucene/solr functionality to support specific customer use cases on the salesforce search platform. help devise and implement machine learning algorithmic solutions for search ranking, query and document understanding, spell correction etc on our solr based search stack. guide evolution of our search architecture into modular, componentized microservices as applicable. work closely with our technical architects across salesforce to develop containerized deployment solution for search. productively work in a highly collaborative agile team, coach junior team members, actively participate in knowledge sharing. represent salesforce in technical industry conferences and symposiums on search,  distributed systems and big data. drive a culture of quality, technical curiosity, continuous improvement, and evidence-based decision making in the organization.
+
+desired qualifications and requirements:
+
+bs/ms/ph.d. in computer science, software engineering, statistics, applied mathematics, economics, statistics, physics, or related quantitative fields. 10+ years of experience writing software with multiple teams of software engineers. 6+ years of experience in technically guiding teams who have expertise in search systems using solr/lucene or elastic search in a large web scale deployment. deep knowledge of inner workings of solr and lucene is highly desired, open source contributions to the lucene/solr code base is a strong plus. experience with a considerable subset of big data and distributed systems technologies like hadoop, spark, hbase, cassandra, zookeeper strongly desired. experience with container platforms such as kubernetes, docker, cloud foundry etc. impeccable attention to detail and strong ability to convert complex product requirements into elegant software solutions. strong presence at industry conferences in the areas of search, big data and distributed systems. strong interest and participation as a coach and a mentor to junior members of technical team.
+
+
+
+
+
+
+
+

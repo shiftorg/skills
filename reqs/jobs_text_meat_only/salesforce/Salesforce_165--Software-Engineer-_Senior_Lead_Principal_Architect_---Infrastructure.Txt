@@ -1,0 +1,22 @@
+Salesforce 165--Software-Engineer-(Senior_Lead_Principal_Architect)---Infrastructure.Txt
+
+
+
+
+software engineer (senior/lead/principal/architect) - infrastructure
+salesforce is seeking a skilled software engineer wants who to be part of growing the autonomous deployments team that is building the next generation of service management and deployments for microservices, containers, virtual machines and bare metal. about compute infrastructure the salesforce platform hosts web services and applications written by thousands of internal developers and tens of thousands of customers to provide the largest business automation cloud on the planet. we are building the next generation of web-scale, massively distributed core platforms and services that enable this innovation and value for the future. your impact
+
+build highly scalable backend infrastructure services using go, python, java and container technologies like docker / rkt build large scale distributed systems spanning dozens of data centers and tens of thousands of machines. developing tools to coordinate hundreds of thousands of machines across dozens of data centers. designing a system for autonomous deployments of software across the planet. work closely with the open-source community.
+
+minimum of 5+ years of development experience experience with one of (java, c++, python, go) in a linux/unix data center environment. experience with agile development methodology and test-driven development. experience building resilient services which utilize telemetry and metrics to drive operational excellence. bachelor's degree in cs or any engineering discipline.
+
+experience with ci/cd systems and large-scale deployment systems. familiarity with principles of building reliable, self-healing services on unreliable hardware. experience and ability in mentoring junior team members.
+company overview:   these founding principles have taken our company to great heights, including being named one of forbes's "world's most innovative company” six years in a row and one of fortune's "100 best companies to work for” nine years in a row. we are the fastest growing of the top 10 enterprise software companies, and this level of growth equals incredible opportunities to grow a career at salesforce.  *li-y
+
+
+
+
+
+
+
+

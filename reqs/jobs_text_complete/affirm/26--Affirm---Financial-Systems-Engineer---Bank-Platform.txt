@@ -1,0 +1,26 @@
+Financial Systems Engineer - Bank Platform
+ San Francisco, CA
+ Engineering
+ Full-Time
+ Apply for this job
+ Do you like accounting and finance?  Did you grow up with technology?  Do you find that accounting and finance haven’t kept up with changes in technology, but you wish they have?  Here at Affirm we are creating a modern banking infrastructure that is changing the face of lending, something that requires modern, accurate, and scalable financial systems.  Come join us and leverage both your deep domain expertise in finance & accounting as well as your engineering prowess to build modern financial systems for a brand consumers can trust.
+ What You'll Do
+ Work cross functionally to design and maintain a world class financial system of record which supports Accounting, Audit, Compliance and Servicing, and provide services to Underwriting as well as reporting for Investors, Merchants and Platform Partners
+ Specify and build robust APIs and tools for internal and external consumers of accounting information to present the data in understandable and storage-independent format
+ Drive the functional specifications for accounting and funding initiatives and work closely with Bank Platform engineers to translate requirements into platform features. Keep abreast of engineering-driven changes to ensure dependent systems are not broken by upstream changes. Curate Bank data models for downstream users requirements, such as Credit, Analytics and Capital Markets.
+ Draw upon your deep domain knowledge of financial systems to identify areas that need to be built or enhanced. Contribute to the Bank Platform roadmap by working with product managers and key stakeholders across departments to gather requirements, prepare a workplan with the Engineering Manager/Tech Lead, and see the tasks through to completion
+ What We Look For
+ Passion to drive the change in consumer banking for the better
+ 3-5 years of accounting experience; Audit experience a plus
+ 2-5 years of software engineering experience
+ CPA or accounting systems engineering experience a strong plus
+ Expert knowledge in a dynamically typed language, such as Python
+ Solid CS fundamentals
+ Experience developing systems in web application frameworks is a plus --internally we use Flask on top of Gunicorn
+ ABOUT AFFIRM
+ At Affirm we are using technology to re-imagine and re-build core parts of financial infrastructure to enable friendlier and more transparent financial products and services that improve lives.
+ We believe the financial industry is fundamentally broken. Not only is the core infrastructure built with technology from the 1970s, but there are a dwindling number of people who say "I trust my bank to look out for me". It doesn’t have to be this way, and it’s our mission to fix this problem. 
+ We are based in San Francisco; founded by Max Levchin (founding CTO PayPal), Jeff Kaditz (CDO DeNA/ngmoco), and Nathan Gettings (founding CTO of Palantir); and building a team of exceptionally talented people to join us on our mission.
+ Apply for this job
+ Affirm Home Page
+ Jobs powered by 

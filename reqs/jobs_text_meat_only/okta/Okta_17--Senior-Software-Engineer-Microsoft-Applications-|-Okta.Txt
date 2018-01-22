@@ -1,0 +1,27 @@
+Okta 17--Senior-Software-Engineer-Microsoft-Applications-|-Okta.Txt
+
+
+we are looking for an experienced software developer to work on our microsoft applications team. this team is responsible for building secure, scalable, and robust federated identity and user provisioning integration products for the microsoft applications including microsoft office 365, sharepoint, crm dynamics and yammer. the quality of these integrations is a strategic differentiator for okta and accounts for a huge share of how customers get value from our product.
+this is an opportunity to either leverage your experience developing highly scalable cloud applications while building new skills in identity and cloud platform development or to leverage your experience developing identity products while building new skills in cloud applications and platform development. you will get an opportunity to solve hard problems around hybrid enterprise use cases and scaling the most widely used and deployed applications in okta application network both by it admins and end users.  our elite team is fast, innovative and flexible; with a weekly, agile release cycle and individual ownership. we expect great things from our engineers and reward them with stimulating new projects, emerging technologies and the chance to have significant equity in a company that is about to change the cloud computing landscape forever.
+
+analyze/refine requirements with product management
+work with engineering management to scope and plan engineering efforts
+design and implement core, high-performance, scalable software components
+test-driven development, design and code reviews
+interface with qa, product management, technical support, documentation and ux teams
+
+
+5+ years of software development experience building highly-reliable, mission- critical software
+experience working with a system of scale
+excellent grasp of software engineering principles
+
+
+expertise in standard authentication and authorization protocols such as saml, ws-trust and ws-fed
+experience with java, spring and hibernate
+experience with high performance mysql environments
+experience with one or more of the following: directory services (e.g. ad/ldap)
+azure ad, microsoft azure management apis, adfs, office 365 or microsoft's directory synchronization tool
+
+
+b.s. computer science or related field
+

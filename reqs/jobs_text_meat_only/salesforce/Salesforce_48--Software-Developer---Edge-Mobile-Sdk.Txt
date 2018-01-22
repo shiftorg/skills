@@ -1,0 +1,18 @@
+Salesforce 48--Software-Developer---Edge-Mobile-Sdk.Txt
+
+
+
+
+salesforce.com is building network optimizations to improve customer experience as part of the edge service. the edge mobile sdk helps deliver optimizations and performance analytics to our portfolio of native mobile applications. we are looking for a developer to join our sdk development team. some of the desired attributes
+you have worked on android and ios native mobile applications you love building platforms and infrastructure code that are used by mobile app developers. you enjoy fine-tuning performance of the code and the end-to-end system. you have a deep familiarity mobile native platform facilities and patterns. you possess a good understanding of how computer networks work you are familiar with backend systems and can make headway with cross-layer problems that involve client and server systems.
+
+3+ years of software development experience experience with java, objective-c, swift, experience with android studio/eclipse, maven/gradle, xcode environments experience designing apis and shipping experience with agile and tdd experience using telemetry and metrics to drive operational excellence
+company overview: salesforce, the customer success platform, and world's #1 crm empowers companies to connect with their customers in a whole new way.  these founding principles have taken our company to great heights, including being named one of forbes's "world's most innovative company” five years in a row and one of fortune's "100 best companies to work for” eight years in a row. we are the fastest growing of the top 10 enterprise software companies, and this level of growth equals incredible opportunities to grow a career at salesforce. together, with our whole ohana (hawaiian for "family") made up of our employees, customers, partners, and communities, we are working to improve the state of the world. *li-y
+
+
+
+
+
+
+
+

@@ -1,0 +1,27 @@
+Square Web Front-End Engineer, Cash
+
+web front-end engineer, cash
+kitchener, canada
+we believe everyone should be able to participate and thrive in the economy. so we're building tools that make commerce easier and more accessible to all.  we started with a little white credit card reader but haven't stopped there. our new reader helps our sellers accept chip cards and nfc payments, and our cash app lets people pay each other back instantly.   we're empowering the independent electrician to send invoices, setting up the favorite food truck with a delivery option, helping the ice cream shop pay its employees, and giving the burgeoning coffee chain capital for a second, third, and fourth location.  let's shorten the distance between having an idea and making a living from it. we're here to help sellers of all sizes start, run, and grow their business—and helping them grow their business is good business for everyone.
+square cash is a quick, easy, and free way to send money. the cash frontend team is responsible for the code that powers our web app
+
+https://cash.me
+
+and the surrounding online products. we care about delivering a carefully designed experience that is fast and secure. our team strives to maintain a productive environment with shared ownership of our code. we build incrementally with small changes and we deploy to production almost daily.
+as a member of the cash frontend team, you'll collaborate with us to:
+build new features, flows, and experiences
+solve interesting design problems, working with designers
+helping scale our web code to our growing customer base
+unit/acceptance test everything
+providing input to server engineers on the design of data apis
+contribute to a variety of web technologies from payment flows, to oauth, to single page web apps
+share ownership of the product
+opportunities to contribute to the broader tech and open source communities
+strong desire to perform and grow as a frontend engineer
+bachelors degree in computer science or equivalent experience
+demonstrated initiative on previous projects
+technologies we use and teach:
+modern javascript frameworks like ember and react
+css (using frameworks like sass or less)
+es6 language features including classes, promises, and some functional concepts
+json and rest style communication

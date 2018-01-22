@@ -1,0 +1,23 @@
+Uber 541--Senior-Data-Scientist--Maps---San-Francisco--Ca---Uber---Uber.Txt
+
+
+
+
+
+
+a successful candidate will be able to drive their team's mission forward in a data-driven way: for example, through headroom analysis, impact evaluation, and development of production algorithms.  in this role you will be directly responsible for finding opportunities to scale our impact, and developing models to enhance product functionality.
+
+strong background in statistical concepts including experimental design.
+coding proficiency (for example in python or java).
+technical leadership skills
+consistently think of ways to improve our products and the business.
+effective communication skills. you can build the story and then tell it just as well.
+project management savvy. you demand the best from your peers to get joint projects done well.
+
+sample projects in each team are listed below:
+moving the needle in our most competitive markets through predictive modeling and end-to-end ownership of impact assessment
+development of novel machine learning algorithms for map search or travel time prediction
+analyzing our sensor data funnel to prioritize engineering effort
+
+
+the maps team builds the systems and services that provide the geospatial backbone of uber's functionality. our group's systems mediate our users' digital connection to their physical world through traffic modeling, travel time estimation, geospatial search, hotspot computation, and map display and navigation.

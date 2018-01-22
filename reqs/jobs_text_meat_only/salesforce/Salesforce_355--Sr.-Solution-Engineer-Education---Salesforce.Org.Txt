@@ -1,0 +1,18 @@
+Salesforce 355--Sr.-Solution-Engineer-Education---Salesforce.Org.Txt
+
+
+
+
+everyone who wants to change the world should have the tools and technology to do so. technology is the most powerful equalizer of our time, providing access to data, knowledge, and--above all--connections. salesforce.org gets our technology in the hands of nonprofits and educators so they can connect with others and do more good. as a social enterprise, the more missions our technology supports, the more we invest back into technology and communities, creating an endless circle of good. we're here to help; visit us at  salesforce.org . salesforce.org is committed to and focused on increasing the innovation and efficiency of higher education. to achieve this goal, we are building an enterprise to deliver salesforce.org's world class crm and technology platform solutions to the higher education market. we're looking for exceptional candidates to join the solution engineering team within salesforce.org. if you possess intellectual curiosity, great problem solving skills and an unwavering belief that the right technology can solve any problem including world hunger (no really, we mean it!) then you are the ideal candidate for the job. prior experience with technology and enterprise selling in the higher education space is highly desirable. excellent communication and presentation skills are a must. finally, the ability to take complex technology: explain it in a simple and easy to understand way to propel higher education institutions in achieving their mission. if you believe you have these skills, we want to talk to you.    typical day (or month or year) in the life of a salesforce.org se looks like...
+understand higher education customer goals and challenges and map those back into salesforce.org's product portfolio design innovative solutions to address these challenges, build those solutions on the salesforce.org platform and present customized demonstrations back to the customers present salesforce.org's technology infrastructure, including demonstrating deep familiarity with hardware, software, networking and security stack respond effectively to rfis and rfps participate in the right trainings and certifications to acquire and maintain the knowledge necessary to be effective attain quarterly and annual objectives that you will define collaboratively with your manager travel domestically (20%) function effectively in a fast-paced high-energy market segment and successfully balance multiple projects in a team-selling environment
+necessary skills
+ability to work as part of a team to solve business and technical problems in varied political environments solid verbal, written, presentation and interpersonal communication skills proven time management &amp; prioritization skills in a dynamic sales environment knowledge of related applications, relational databases, and web technology past or present experience programming in web based technologies b.s. computer science, software engineering, mis, mba, or equivalent work experience previous experience as a solutions engineer knowledge of the higher education market a plus
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,32 @@
+Uber 270--Machine-Learning-Algorithms-Engineer--Self-Driving---San-Francisco--Ca---Uber---Uber.Txt
+
+
+
+
+
+are you passionate about designing machine learning algorithms and applying them to solve real-world problems? do you specialize in computer vision or perception and deep neural networks? are you excited about using machine learning to make self-driving cars a reality? if you answered yes to one or more of these, this might be your dream job!
+
+as a machine learning algorithms engineer you will be designing supervised, semi-supervised, active learning, and unsupervised algorithms for solving perception, prediction, tracking, and motion planning problems to bring self-driving car features to life. this is your chance to develop cutting-edge technology that will help change the future of transportation around the world!
+what you'll do
+machine learning algorithms e.g., supervised methods like logistic regression, svms, random forests, deep learning & reinforcement learning and also semi-supervised & active learning approaches that leverage a human in the loop
+work with big data, processing millions of samples and billions of features for modeling
+build and owning production models, pipelines, and runtimes
+crowdsourcing and machine teaching technologies like crowdflower and mturk
+
+a bs in machine learning, computer vision, robotics, or related field
+a strong quantitative background
+excellent software development skills in one or more of c, c++, java, or python
+excellent presentation and communication skills
+minimum two years of experience in software design and development
+
+an ms or phd in machine learning, computer vision or robotics
+experience with spark, hadoop, pig, or other mapreduce paradigms
+experience in designing and building infrastructure and web services at large scale
+track record of building and shipping machine learning features in products
+minumum five years of experience in software design and development
+prior work in automotive applications
+
+
+at the advanced technologies group (atg), we are building technologies that will transform the way the world moves. our teams in pittsburgh, san francisco, phoenix, and toronto are dedicated to mapping, software and hardware development, vehicle safety, and operations for self-driving technology. our teams are passionate about developing a self-driving system that will one day move people and things around more safely, efficiently, and cost effectively.
+
+the machine teaching and interactive learning team is responsible for building "oracles" used for machine learning at the uber atg.

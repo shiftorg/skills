@@ -1,0 +1,33 @@
+Uber 99--Software-Engineer--Security---University-Grad---San-Francisco--Ca---Uber---Uber.Txt
+
+
+
+
+uber engineering is a high-performance culture marked by fearlessness and hyper productivity. we're looking for fantastic interns who can work harder, faster, and smarter without sacrificing technical excellence. our organizational challenges are unique, so you should be comfortable in uncharted territory and pumped to build systems that can support cities of 100,000 and 10 million people alike.
+
+uber's security team works to ensure the security of all code, systems and data used by our riders, drivers and partners. we build world class software solutions that tackle security concerns at scale.
+
+you will be relied upon to implement customer facing product features across mobile & web applications, as well as infrastructure services and components which ensure customer security and privacy. you will be working alongside team members with security, scalability and product expertise. you will have the opportunity to observe and build upon the ways a company of this scale monitors and mitigates security risks.
+
+what you'll be doing:
+ship product features across ios, android and web applications used by all of uber customers across all uber products
+develop scalable, reliable & secure backend services, infrastructure components and libraries
+collaborate with multiple product and engineering teams, to ensure customer security, privacy and seamless user experience for each product
+create automated tests to encourage and enforce security & reliability standards.
+ensure that identified security issues are prioritized and addressed in an appropriate timeframe.
+programming languages we use:
+go, javascript/node.js, java, swift/objectivec
+
+here are the kinds of skills we're looking for:
+you maintain a strong desire to build robust things
+you care deeply about user experience in all features you build
+experience developing across any of ios, android, web (react/redux/node.js) and/or backend services (using go/java/python/c++)
+familiarity or interest in any of security, privacy, cryptography, authentication, authorization, risk, machine learning or data science
+you are a fast and passionate learner and are always ready to ask thoughtful questions to ensure you are solving the right problems.
+excellent communication and collaboration skills.
+clear ability to prioritize and manage tasks.
+encourage feedback in order to consistently improve
+be sure to check out the
+uber engineering blog
+to learn more about the team.
+

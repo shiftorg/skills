@@ -1,0 +1,25 @@
+Square Software Engineer, Infrastructure Services
+
+software engineer, infrastructure services
+we believe everyone should be able to participate and thrive in the economy. so we're building tools that make commerce easier and more accessible to all.  we started with a little white credit card reader but haven't stopped there. our new reader helps our sellers accept chip cards and nfc payments, and our cash app lets people pay each other back instantly.   we're empowering the independent electrician to send invoices, setting up the favorite food truck with a delivery option, helping the ice cream shop pay its employees, and giving the burgeoning coffee chain capital for a second, third, and fourth location.  let's shorten the distance between having an idea and making a living from it. we're here to help sellers of all sizes start, run, and grow their business—and helping them grow their business is good business for everyone.
+as a software engineer on the infrastructure services team you'll be building the api and management features that make obtaining and managing the computers to run software at square a simple and straightforward process.
+we believe that reliable infrastructure and tooling has a tangible impact on overall productivity and profitability. you'll use your considerable skills in software development to make sure our ability to deliver robust infrastructure, from bare metal machines to cloud-based virtual machines, can be done in a highly robust and reliable manner.
+you should feel at home working in and around linux, and understand the subtle differences between managing bare metal and cloud based systems at large scales through software automation. you'll be working closely with square's deployment automation and data platform teams to ensure computational resources can be managed efficiently and effectively. you love building new systems from the ground up as much as you love tweaking existing systems to meet customers' changing needs.
+communicate with engineering teams to assess api needs and feature prioritization
+design, develop, and deploy software solutions that manage the lifecycle of machines in our data centers
+design and develop enhancements to host lifecycle management systems that extend our data center reach to cloud-based hosted solutions
+contribute to monitoring, stability, and security of existing tools
+participate in a team on-call rotation
+communicate technical designs in writing and in person to multiple technical audiences
+produce operating system environments for square's cloud based systems
+bachelor's degree in computer science or equivalent practical experience
+familiarity with the ruby programming language and the ruby on rails web application framework
+familiarity or an interest in learning the ins and outs of the linux operating system
+preferable experience managing large-scale cloud and bare metal data centers using software automation
+growth:
+build a deep understanding of the linux operating system and how to automate the lifecycle of linux-based systems at a large scale
+help define the future of immutable operating system operations at square
+design the software-first approach to scaling data centers as square continues to push into more markets around the world
+act as a strength multiplier for software deployment and scaling efforts by product engineering
+provide software development review and mentoring to multi-disciplinary engineering teams
+contribute to open source software projects

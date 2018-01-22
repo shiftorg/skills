@@ -1,0 +1,37 @@
+Okta 35--Salesforce.Com-Administrator-|-Okta.Txt
+
+
+
+job purpose : the salesforce.com administrator is responsible for the design and implementation of enhancements to our salesforce instance, and will perform the daily tasks necessary for financialforce.  the administrator will also be leading efforts to define and implement it sox controls.
+job duties & responsibilities:
+
+financialforce
+
+daily administration and support of financialforce including user setup, design and configuration of custom objects, profiles and roles, workflow/process builder, custom fields, validation rules
+develop reports, dashboards, and processes to continuously monitor data quality and integrity both within financialforce
+responsible for evaluating new features, communicating value with business, implementing and partnering with the release manager to deploy into production; manage financialforce releases and efficiently roll out new features
+partner with the professional services operations team acting as the consultative partner to providing timely remediation, support, and strategic mentorship to ensure business objectives are met
+
+sox
+
+partner with internal audit though all phases of itgc project for sfdc – analysis, design and implementation of sox control access, change management, interface and separation of duties.
+perform sox controls testing, document results, and provide detailed updates to compliance management and other internal stakeholders.
+identify potential control gaps and coordinate cross-functional team meetings to remediate and close the gaps
+assist with remediation of control deficiencies identified during the audit process
+support continuous improvement and scale in the team's processes
+
+salesforce
+
+engage with the rest of the go to market team to ensure long term health of our salesforce.com platform
+help business operations scale via automation and other enhancements
+
+
+required skills and experience
+
+minimum 3 years in a sfdc admin role configuring, deploying and supporting a financial force implementation
+extraordinary problem solver with the ability to cross between detailed data and high-level insights
+ability to communicate effectively cross functionally with both executive management and end users
+qualified candidates will have demonstrated experience prioritizing and delivering against multiple project deadlines and milestones
+experience working in a systems implementation practice, management consulting firm, or fast-growing startup environment, big 4 / public accounting background is a plus
+technology compliance and information security experience with a focus on compliance, risk, security and technology is a plus
+

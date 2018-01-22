@@ -1,0 +1,19 @@
+Salesforce 340--Software-Engineer---Storage_Ceph.Txt
+
+
+
+
+software engineer - storage/ceph the storage cloud team designs, develops, tests, and releases storage services that cater to different customer workloads ranging from low-latency databases to high-throughput backups in salesforce's web scale data centers. you will be part of a team that is responsible to drive innovation in persistent storage and create the next-gen scale-out distributed storage technology running in all salesforce data centers. we are looking to add distributed systems engineers who can step up and own big chunks of that vision. do the points below get you excited about the role? come and join us at salesforce!
+eat, sleep, and breathe services. you have experience balancing live-site management, feature delivery, and retirement of technical debt. have strong, heartfelt opinions on topics such as on-disk data placement formats, data consistency, availability, i/o performance, disaster recovery, etc. familiarity with crash-only and recovery-oriented software design. excited by building reliable, self-healing services on unreliable hardware and providing a robust monitoring and management framework for these services. experience designing, developing, debugging, and operating resilient distributed systems that run across thousands of compute nodes in multiple data centers. contribute to open source projects and present tech talks and papers at conferences. you haven't just used, but you have built and operated the distributed platforms that define cloud-scale infrastructure. you're passionate about having massive impact on customers and the business, and constantly strive to improve yourself, the tools and systems you work with, and the team and organization around you.
+requirements :
+
+6+ years of software development experience. experience with java, go, and/or c++ in a linux data center environment. experience owning and operating multiple instances of a mission critical service. experience with agile development methodology and test-driven development. experience using telemetry and metrics to drive operational excellence. bonus if you have experience building scale-out storage products.
+company overview:   these founding principles have taken our company to great heights, including being named one of forbes's "world's most innovative company” six years in a row and one of fortune's "100 best companies to work for” nine years in a row. we are the fastest growing of the top 10 enterprise software companies, and this level of growth equals incredible opportunities to grow a career at salesforce.  *li-y
+
+
+
+
+
+
+
+

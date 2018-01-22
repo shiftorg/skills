@@ -1,0 +1,76 @@
+Salesforce 228--Senior-Software-Engineer-(Backend)-Next-Generation-Platform---Salesforce.Org.Txt
+
+
+
+
+senior software engineer (campaign management, content curation, social media), next generation platform
+
+our team:
+
+everyone who wants to change the world should have the tools and technology to do so. technology is the most powerful equalizer of our time, providing access to data, knowledge, and--above all--connections. salesforce.org gets our technology in the hands of nonprofits and educators so they can connect with others and do more good. as a social enterprise, the more missions our technology supports, the more we invest back into technology and communities, creating an endless circle of good. we're here to help; visit us at  salesforce.org .
+
+we are building the next generation b2b2c platform. it will have the complexity of b2b and the scale and performance of b2c. we are looking for experienced hands-on software architects to define and implement our applications, platform, and core infrastructure.  everything we develop runs in real-time, at web scale, supporting hundreds of millions of requests through our api and our ui. this creates technical challenges that require innovation at scale.
+
+
+we're seeking a talented full stack engineer to join our team responsible for designing and developing the software, tools, and best practices for functionality associated with our b2b2c next generation platform serving 100+ million people, specialized in one of campaign management, content curation/personalization and social media. you will collaborate with product managers and top-notch software engineers to build the most scalable and extensible platform for b2b2c.
+
+
+design for scale - design, implement and ship features that can scale to hundreds of millions of users;
+
+design for performance - lead feature and architecture design with a major focus on performance, scalability;
+
+api first - have a passion for quality and writing clean, solid, readable code that scales and performs well;
+
+think mobile - adopt, embrace, and promote agile and test-driven practices;
+
+drive velocity - value team excellence over individual productivity;
+
+
+
+
+deep understanding of object-oriented design, programming concepts, data structures and common algorithms
+
+5+ years of experience with back-end (java, sql/nosql) software development and front-end web tier (javascript, ajax, html, css, and cross browser development)
+
+
+
+experience designing rest and/or soap based apis
+
+solid communication skills
+
+ability to learn quickly in a dynamic environment
+
+
+
+participated in building highly scalable applications involving high data volumes and transaction rates
+
+experience building secure software and have understanding of security techniques and algorithms
+
+experience with microservice architectures  and docker
+
+bachelor's degree in computer science or equivalent experience
+
+
+preferred qualifications:
+
+
+large-scale data processing experience
+
+knowledge of one or more of the following: statistical modeling, machine learning, information retrieval, and data mining
+
+experience in entity extraction, document classification, content clustering and graph algorithms
+
+experience in hadoop mapreduce, pig, oozie, hbase, hive, storm, spark, kafka
+
+experience in scripting languages such as python and statistical analysis using languages such as r
+
+
+​if hired, a form i-9, employment eligibility verification, must be completed at the start of employment. *li-y
+
+
+
+
+
+
+
+

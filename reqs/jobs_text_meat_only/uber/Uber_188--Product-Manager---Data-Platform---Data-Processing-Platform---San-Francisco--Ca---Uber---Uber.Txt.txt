@@ -1,0 +1,17 @@
+Uber 188--Product-Manager---Data-Platform---Data-Processing-Platform---San-Francisco--Ca---Uber---Uber.Txt
+
+
+
+
+
+uber is a technology company that is changing the way the world thinks about transportation. like our business, our data storage and analytics needs have also followed the same “up-and-to-the-right” curve.
+
+as a product manager on the data processing platform team, you will help redefine how data ingestion, modeling, compute, and data processing is done for uber's petabyte-scale data. your teams will create and own systems that enable end-to-end data pipelines that take data from event emission and ingestion all the way through to bi applications and other uber services built on top of our data. you will work closely with world-class engineering teams, product managers, technical program managers, data scientists, and designers. you will interface with nearly every aspect of the uber organization - from fraud to finance, from maps to marketplace. if successful, you will change the course of data at uber and create a world-class architecture that fuels and supports our unprecedented growth.
+computer science undergraduate degree or equivalent plus hands-on software engineering experience
+technical understanding must go from the highest abstractions down to the hardware
+experience in delivering solutions related to data platforms and infrastructure at scale
+familiarity with exciting and new data technologies, including hadoop, hive, flink, spark, data warehousing solutions, in-memory databases
+a personality that encourages action, great collaboration and excellent simplification for communication
+customer-centricity - you have many examples from your past of tough product issues that you persevered through to ensure customer satisfaction
+true passion for uber's mission and the company's hybrid technology/operations nature
+an entrepreneurial bent, and an unquenchable desire to help uber become the smartest company in the world

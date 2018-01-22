@@ -1,0 +1,94 @@
+Salesforce 103--Data-Science-Engineer.Txt
+
+
+
+
+data science @ salesforce
+
+
+hiring at senior level or above
+
+locations we are hiring in: san francisco and palo alto *relocation provided
+
+
+the role and your impact:
+
+salesforce is the #1 in crm in the world, and best known as the customer success platform.  as an industry leader in sales, service, and marketing, we have some of the most unique data sets in the world.  with our customers we are trailblazing new ways to bring ai to their customers.  whether it's service technicians triaging their most urgent support tickets, or helping retailers build deeper, more personalized relationships with each customer, or helping sales teams prioritize opportunities and win more deals.
+
+
+salesforce is looking for data scientists with hands on experience transforming unique data into amazing products. at scale.
+
+
+a typical day for you might include some of the following:
+
+develop machine learning software and models that can generalize across hundreds of thousands of salesforce customers, but can automatically adapt to each of their individual features.
+
+brainstorm data product ideas with the data scientists that built some of the most exciting data products that hundreds of millions people use every day.
+
+work with fellow engineers to build out other parts of the infrastructure, effectively communicating your needs and understanding theirs.
+
+meet with external customers and understanding their businesses and their challenges.
+
+work with internal product teams to transform and sprinkle machine learning fairy dust on their products.
+
+build intelligence into our services to make them run smarter.
+
+participate in meal conversations with your team members about really important topics, such as: should the cuteness of panda bears be a factor in their survivability? is love a decision tree or a regression model? how far ahead would society be today if we had 12 fingers instead of 10?
+
+
+what we care about:
+
+you have industry experience with writing code (e.g. spark, python, scala, r) and taking ml models to production. preference for 5+ years of industry experience (without phd); at least 2-3 years of industry experience with phd. this is not an entry level / new college graduate role.
+
+you have to love data - this is what we do. we are looking for people who are excited about different and unique data sets, and all the ways that they could be used in order to improve user experience.
+
+
+
+
+you share our values: trust, innovation, equality, and giving back
+
+2+ years of experience in distributed systems and architecture
+
+can write scalable code using java, scala, python, or other relevant programming language
+
+proven knowledge with applied statistics and probability/ predictability data outputs
+
+keep up to date with cutting-edge machine learning/ big data methods and techniques
+
+you are passionate about automating everything and applying scientific methods to solve business and engineering requirements
+
+shift quickly from deep thinking to implementing in production.
+
+can thrive in team environments; using agile methodology and interacting with product leaders, scientists and engineers to solve technology's greatest challenges
+
+learn quickly in a fast-paced, dynamic team environment
+
+completed a bachelor's and/or master's degree related to computer science, statistics or related major studying ai (artificial intelligence), ml (machine learning), nlp (natural language processing), data science or mathematics
+
+
+
+preferred qualifications:
+
+
+you have a ph.d. degree in a quantitative discipline
+
+extensive experience with experimentation, labs, case studies,
+
+publications to leading ai conferences (nips, icml, iclr) and associated citations related to nlp and/or machine learning
+
+taken a product from idea to launch to scale.
+
+track record of presenting technical ideas to audiences (academia, conferences, meetups, etc.)
+
+
+
+  these founding principles have taken our company to great heights, including being named one of forbes's "world's most innovative company” six years in a row and one of fortune's "100 best companies to work for” nine years in a row. we are the fastest growing of the top 10 enterprise software companies, and this level of growth equals incredible opportunities to grow a career at salesforce. 
+
+
+
+
+
+
+
+
+

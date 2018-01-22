@@ -1,0 +1,37 @@
+Uber 201--Lead-Test-Development-Engineer---Supply-Chain---San-Francisco--Ca---Uber---Uber.Txt
+
+
+
+
+
+we are seeking a highly-motivated lead test development engineer to develop test system architecture and overall test plans across multiple modules. this is a phenomenal opportunity to build, develop, and mentor a team of exceptional test engineers and manufacturing personnel looking to build the future.
+design, develop code, and/or enhance test programs, scripts, and procedures based on system requirements
+develop software, firmware, and rtl for laboratory data acquisition and control systems
+implement and debug designs on the bench using oscilloscopes logic analyzers, and other instruments
+test individual electrical components in the final production system to validate design and search for unexpected dependencies
+read pcb schematics and debug or quickly modify electrical test systems
+work with design engineers to define test and acquisition electronics
+support manufacturing by crafting systems to improve assembly test performance and yield tracking
+drive improvements in manufacturing test yield
+development and analysis of experiments to root- cause challenging electrical problems
+ability to coach, teach and mentor test development engineers and manufacturing personnel
+
+bs/ms in engineering or computer science
+minimum of 10 years in a test engineering environment
+strong experience in a scripting language such as, python or matlab, to automate instruments and analyze data.
+familiarity with integrated circuit design and testing such that the engineer is able to craft a test-plan from a data sheet or specifications document.
+experience of understanding and working at the boundary of vendor requirements to search for incorrect implementations.
+experience with tooling and fixture development.
+effective interpersonal skills and collaborative spirit
+willingness to travel 25%
+
+analog and mixed-signal ic design experience to predict challenging implementations and target tests
+software carpentry fundamentals; computer science training preferred
+familiarity with pcb design
+experience working with scaling manufacturing test operations
+experience with verilog and c
+
+
+at the advanced technologies group (atg), we are building technologies that will transform the way the world moves. our teams in pittsburgh, san francisco, phoenix, and toronto are dedicated to mapping, software and hardware development, vehicle safety, and operations for self-driving technology. our teams are passionate about developing a self-driving system that will one day move people and things around more safely, efficiently, and cost effectively.
+
+the global product operations group enables uber's world-class talent and optimizing technology for the future of mobility.

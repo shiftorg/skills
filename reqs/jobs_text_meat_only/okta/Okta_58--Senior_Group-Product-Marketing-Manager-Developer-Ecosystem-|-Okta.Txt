@@ -1,0 +1,26 @@
+Okta 58--Senior_Group-Product-Marketing-Manager-Developer-Ecosystem-|-Okta.Txt
+
+
+product description:
+from hailing a cab to collaborating with coworkers, modern web and mobile applications have redefined our expectations around world-class experiences.  developers building these applications are actively seeking out alternatives for directory and identity management instead of rolling their own or standing up a legacy product on premises. using okta's api products, developers can add authentication, authorization, and user management into their web or mobile apps within minutes.
+we're looking for  an entrepreneurial, creative and analytical product marketer to lead the adoption of our api products by developers. you'll be responsible for driving our go-to-market strategy across product, developer relations, demand generation, pr and content marketing teams. you'll also work with okta's sales teams to help convert developers using our self-service products into enterprise sales opportunities.
+
+customer intelligence  - conduct user research to understand developer personas and product evaluation criteria. analyze okta developer experience and customer satisfaction to drive product and messaging enhancements.
+strategic planning  - work with product and go-to-market teams to align on quarterly and annual goals based on customer, competitor and market analysis. use these inputs to define development roadmap, headcount and budget.
+positioning and messaging  -   connect market and technology trends with identity and security needs of developers to build compelling product positioning and relevant developer messages
+product launches  - work with pr, developer relations, and demand generation teams to amplify awareness for new product features.
+adoption and growth  -   partner with the developer relations and demand generation teams to improve the sign up and adoption of okta's developer products
+sales enablement  -  teach okta's sales team to "speak developer,” enabling them to qualify developer leads, articulate okta's developer value proposition, and resolve technical questions using internal resources.
+
+ba/bs degree or equivalent practical experience.
+5 years of marketing technical products; saas experience preferred
+ability to drive consensus and cross-departmental action
+creative thinker, ready to roll your sleeves up and experiment
+outstanding written and verbal communications skills, with the ability to simplify complex technical concepts
+data-driven approach to decision making
+
+preferred qualifications:
+
+a bachelor's degree in computer science, engineering or related field
+experience as an active participant in technical/developer communities, open source projects, or similar developer groups
+

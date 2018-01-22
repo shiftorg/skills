@@ -1,0 +1,191 @@
+Skip to main content
+ Back
+ Uber
+ Rides on demand
+ Install
+ Ride
+ Drive
+ Help
+ Sign In
+ What city are you in?
+ Become a driver
+ Ride
+ Overview
+ How it Works
+ Fare Estimator
+ Safety
+ Cities
+ Airports
+ Drive
+ Overview
+ Requirements
+ Driver App
+ Safety
+ Rewards
+ Eats and more
+ Uber Eats
+ Uber for Business
+ Uber Freight
+ What city are you in?
+ English
+ Follow Us
+ Facebook
+ Twitter
+ LinkedIn
+ Instagram
+ Enter keyword
+ All teams
+ All teams
+ Advanced Technologies Group
+ Business & Sales
+ Communications
+ Design
+ Engineering
+ Finance & Accounting
+ Global Community Operations
+ Legal
+ Marketing
+ Operations & Launch
+ People Operations
+ Product
+ Public Policy
+ Rentals & Leasing
+ Safety & Security
+ University
+ All subteams
+ All subteams
+ All countries
+ All countries
+ Argentina
+ Australia
+ Austria
+ Bangladesh
+ Brazil
+ Bulgaria
+ Canada
+ Chile
+ Colombia
+ Costa Rica
+ Denmark
+ Ecuador
+ Egypt
+ France
+ Germany
+ Hong Kong
+ India
+ Indonesia
+ Ireland
+ Italy
+ Japan
+ Kenya
+ Korea, Republic of
+ Lithuania
+ Malaysia
+ Mexico
+ Myanmar
+ Netherlands
+ Pakistan
+ Panama
+ Peru
+ Philippines
+ Poland
+ Portugal
+ Saudi Arabia
+ Singapore
+ South Africa
+ Spain
+ Sri Lanka
+ Sweden
+ Taiwan
+ Thailand
+ Ukraine
+ United Arab Emirates
+ United Kingdom
+ United States of America
+ Vietnam
+ All cities
+ All cities
+ Search open roles
+ Search
+ Careers
+ Search open roles
+ Open Roles
+ Full Stack Engineer - Developer Platform
+ Engineering in Amsterdam, Netherlands
+ Apply Now
+ Uber Engineering is rapidly growing as we take on exciting new opportunities in regions around the world. The need to have a reliable, scalable continuous integration infrastructure is paramount for Uber to continue to deliver a high quality application to millions of users around the world. To support these ambitions, the mobile developer productivity team is looking for talented, experienced backend engineers who can help us build the next generation of our continuous integration infrastructure and services.
+  
+ Our current set of services and infrastructure runs tens of thousands of build and validation jobs a day, but we need to build towards a future that runs 10x that. We are building the future generation of our CI systems and infrastructure that will provide availability, reliability and accuracy.
+  
+ To succeed in this position, you will have experience building highly available and concurrent backend services and a solid understanding of what it means to keep these service reliable. You are knowledgeable in today’s technologies and use strong engineering practices with relation to building distributed, RPC based web services. As this role is in an internal platform team, you should be passionate about making engineering teams work and stay productive and have a good understanding of concepts around continuous integration, continuous delivery and deployment.
+  
+ What you’ll do:
+  
+ Ensure we’re building the smartest and most efficient systems that enable rapid development of features for our mobile engineering workforce.
+ Help us shape the services required to support thousands of engineers and deliver our mobile applications to millions of users around the globe
+ Work closely with the design team and other groups within Uber
+ Job Requirements
+ Solid fundamentals in software engineering and concepts such as design patterns, testing, build systems and automation in the continuous delivery space
+ Played the role of technical lead (or similar) with evidence of successful delivery of solutions at scale.
+ At least 6+ years of experience build RPC based web services at scale.
+ Familiarity with continuous integration systems and concepts
+ Able to collaborate and communicate on a global scale with other teams to help determine gaps in our tooling and infrastructure and help drive solutions
+ Bachelor's degree in Computer Science/Software Engineering
+ Bonus points
+ Experience in the Devops space
+ Understanding and direct experience in mobile technologies and platforms (iOS and/or Android)
+ A lead role in pushing good engineering practices within engineering teams/organisations
+ Experience in other automated testing strategies such as stress, load and performance testing.
+ Apply Now
+ See our Candidate Privacy Statement
+ At Uber we don’t just accept difference—we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Uber is proud to be an equal opportunity workplace. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status.
+ Uber is in 0 cities worldwide
+ City Search
+ Go to Uber.com
+ SIGN UP TO RIDE
+ Become a driver
+ Enter your location
+ English
+ Help
+ Help
+ Facebook
+ Twitter
+ LinkedIn
+ Instagram
+ Ride
+ Drive
+ Cities
+ Fare Estimate
+ Food
+ Business Travel
+ How it Works
+ Airports
+ Countries
+ Safety
+ Careers
+ Helping Cities
+ Our Story
+ Blog
+ Newsroom
+ Media
+ Uber API
+ Gift Cards
+ Uber vs Driving Jobs
+ Top Cities
+ San Francisco
+ London
+ Los Angeles
+ Washington D.C.
+ Mexico City
+ Sao Paulo
+ Top Countries
+ USA
+ France
+ India
+ Spain
+ Mexico
+ Russia
+ © 2017 Uber Technologies Inc.
+ Privacy
+ Accessibility
+ Terms

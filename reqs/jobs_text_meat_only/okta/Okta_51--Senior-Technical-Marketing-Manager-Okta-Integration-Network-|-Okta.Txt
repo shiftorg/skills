@@ -1,0 +1,44 @@
+Okta 51--Senior-Technical-Marketing-Manager-Okta-Integration-Network-|-Okta.Txt
+
+
+okta's the foundation for secure connections between people and technology—and the okta integration network (oin) does the connecting. the oin is the industry's broadest and deepest catalog of pre-built connectors that integrate okta to all of the applications and devices that our customers use in their environments. we are seeking a senior technical marketing manager to understand customer challenges deeply and articulate how okta's most popular integrations can help solve them.
+what's this role all about?
+as a technical marketing manager, you'll be a member of okta's product team. you'll make sure that the technical enablement team has all of the content they need to keep the field teams up-to-date on what the product does and how it does it. and you'll partner with product management and product marketing to constantly assess the product-problem fit, ensuring that what was built, shipped, and sold exceeds our customer's expectations.
+what will you do?
+
+you will understand the technical details of how new okta integrations work and how to configure them. the tmm will run beta programs and work closely with customers and technical sales to understand and assess the ability of the okta product to meet the actual customer need.
+you will evangelize key integrations internally and externally. the tmm will draw from deep expertise of the product to clearly articulate how a given feature uniquely addresses customer use cases.
+you will enable technical audiences across okta to sell, deploy, support, train upon, or consult. the tmm will create proof-of-concept guides and other resources which ensure the customer a clean experience with the okta product at all engagement phases.
+you will contribute to critical product decision-making. customer insights will make the tmm invaluable when choosing in which direction the product should head.
+you will become the go-to expert on key competitors in the identity-as-a-service area. this tmm will research competitive solutions to understand the landscape deeply and build presentations and assets to share okta's differentiation.
+
+what do you need now?
+
+you must be able to write and speak clearly about technically complex integrations and use cases in a compelling way, without extensive use of jargon or acronyms.
+you must be able to build your own deliverables and collaborate across cross-functional teams on broad initiatives.
+you must have some experience creating technical documentation, e.g., deployment guides, configuration guides, technical sales and marketing collateral, blog posts.
+you must be a skilled researcher and a critical analyst. you will perform in-depth analysis of competitive products and technologies to compare them to okta, then train the field teams to understand and articulate okta's differentiated mission, vision and story.
+
+what will you get out of this role?
+
+you'll get to work with our awesome customers—bold companies who have partnered with okta to solve some of their most critical challenges.
+you'll become familiar with the entire product development lifecycle at one of the fastest-growing saas companies in the world—from ideation to adoption.
+you'll be at ground-zero of one of the most significant technology trends of our time: organizations reducing it friction by adopting the cloud.
+you'll work on a small team with a big impact, in a collaborative company with audacious goals.
+
+
+
+bachelor's degree in engineering or science
+5-8 years of technical marketing, product management, presales engineering, or customer-facing support experience required
+in-depth knowledge of software- and infrastructure-as-a-service technologies and a good understanding of how they are implemented in typical customer environments.
+ability to articulate technical concepts clearly and concisely with very strong written and verbal communication and presentation skills
+ability to manage multiple priorities and tasks in a dynamic environment with competing priorities
+
+preferred skills :
+
+familiarity with authentication and authorization protocols and products
+experience with enterprise saas solutions
+familiarity with the classic information technology (it) "stack", both hardware like networking equipment, and software like operating systems and business applications.
+mcp, mcse, cissp, ccsp will be a plus
+
+

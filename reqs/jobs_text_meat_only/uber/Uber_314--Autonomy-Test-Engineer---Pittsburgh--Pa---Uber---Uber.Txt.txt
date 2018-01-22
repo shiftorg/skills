@@ -1,0 +1,29 @@
+Uber 314--Autonomy-Test-Engineer---Pittsburgh--Pa---Uber---Uber.Txt
+
+
+we're changing the way people think about transportation. not that long ago we were just an app to request premium black cars in a few metropolitan areas. now we're a part of the logistical fabric of more than 600 cities around the world. whether it's a ride, a sandwich, or a package, we use technology to give people what they want, when they want it.
+
+
+as an autonomy test engineer, you will be part of a team responsible for analyzing driving events encountered by our vehicles on the road, identifying the underlying reasons for failures, and designing the scenarios that will simulate behavior of our vehicles and surrounding actors. you will be interpreting results and understanding areas of improvement to make autonomous technology ready for the road. you will support other atg efforts with clear and concise data that provides unambiguous feedback so autonomy engineering and technical leaders make the right choices. you will maintain awareness of new features and define the processes and mechanisms to verify performance of all relevant scenarios before the software releases.
+review events encountered by the vehicle on the road daily
+identify failure modes and assign severity levels to each driving event
+manage bugs through their entire lifecycle: filing, maintaining, closing
+design scenarios for simulating autonomous vehicle behavior
+remove ambiguity of what needs to be tested and how to interpret result data
+collaborate with autonomy engineers to refine scenario and metrics requirements
+participate in software discussions and stay on top of all new features
+compare on road performance to simulations generated using up-to-date software
+generate reports summarizing and communicating software performance
+
+bs/ms degree in
+computer science, systems engineering, mechanical engineering, electrical engineering, robotics or related stem field
+experience using software testing infrastructure and software simulation frameworks
+experience working with unix/linux systems and a familiarity working on the command line
+basic knowledge of vehicle motion models (braking distance, acceleration profiles, etc)
+able to work in an exciting environment and comfortable with ambiguity
+clear and succinct communication skills and ability to bridge the gap between product and technical groups
+empathy and passion for building relationships with other teams while effectively providing feedback
+
+at the advanced technologies group (atg), we are building technologies that will transform the way the world moves. our teams in pittsburgh, san francisco, phoenix, and toronto are dedicated to mapping, software and hardware development, vehicle safety, and operations for self-driving technology. our teams are passionate about developing a self-driving system that will one day move people and things around more safely, efficiently, and cost effectively.
+
+our team of autonomy test engineers on triage and scenario operations works directly with various autonomy teams to ensure the quality and performance of our software, and also with the rest of the simulation teams to ensure we can appropriately reproduce the real world in simulation.

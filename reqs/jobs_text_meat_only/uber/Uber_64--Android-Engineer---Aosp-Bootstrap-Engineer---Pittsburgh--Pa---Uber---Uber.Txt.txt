@@ -1,0 +1,32 @@
+Uber 64--Android-Engineer---Aosp-Bootstrap-Engineer---Pittsburgh--Pa---Uber---Uber.Txt
+
+
+
+
+in this role you will contribute to the creation, development and maintenance of the android os on custom-build hardware for use in uber's self-driving vehicles. this work is critical to uber achieving scale with a self-driving fleet. this hardware, and the software built on top of it, will play a critical role in shaping the customer experience of riding in a self-driving car.
+
+
+help uber's self-driving fleet scale up dramatically
+collaborate with an odm to bootstrap and then evolve android (aosp) on new custom hardware
+linux kernel hacking and writing and maintaining device drivers
+participate in rigorous, low-level security validations
+coordinate with and contribute to application-level android development
+
+
+a deep understanding of the android ndk and os-level components, system services, device drivers, etc.
+android (or linux) kernel hacking experience
+strong programming skills in platform-relevant languages (java & c/c++) and knowledge of modern software engineering best practices
+experience with, and devotion to, testing your code
+passion for software security - an ability to think like your enemy
+experience developing, releasing, and maintaining native android applications (point us to your apps on google play)
+communication abilities; you're a specialist, and need to be able to communicate your work to folks with different specialties
+perspective to understand how your work integrates into a larger, complex, heterogeneous system
+
+
+
+specific experience bootstrapping new hardware in the past
+experience developing for other deeply embedded or bare-metal platforms
+
+
+the human experience team is a multi-disciplinary team of devoted designers, mobile and robotics engineers working to deliver the highest quality user experience to vehicle operators and riders in uber's self-driving vehicles. our work touches everything from industrial design, to hardware/electrical engineering, systems engineering, security, and application engineering.
+

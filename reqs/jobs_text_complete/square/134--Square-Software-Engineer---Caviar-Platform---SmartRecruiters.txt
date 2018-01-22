@@ -1,0 +1,45 @@
+Software Engineer - Caviar Platform
+ San Francisco, CA
+ Full-time
+ Company Description
+ Caviar is changing the way businesses and consumers order food from restaurants. We believe that everyone should have access to the best eateries in their city without any hassles. Want your favorite burger joint, but hate the traffic and long lines? We're a team of passionate foodies solving that exact problem for your home and office. At Caviar, we believe in an environment that allows you to be creative and go beyond the call of duty. We're looking for exceptionally talented individuals who want to learn and grow with the company. Each and every day counts - you'll make a direct impact to the business starting from Day 1.
+ Job Description
+ The Caviar platform team is a small group of senior engineers with deep experience running applications in the cloud. We work together to make sure the rest of Caviar engineering has the tools and infrastructure to thrive. Roughly this means we own things like the build and deploy pipeline, metrics gathering and reporting, logging, aspects of production stability like EC2 instance auto-scaling and other tools that help the engineering teams build awesome things for the diners, couriers, and restaurants that use Caviar.
+ The things we do have direct impact on the people sitting next to us, so we hear the joy from our peers when something we build helps them and (less often) we also feel the pain of when our tools don't live up to expectations from the other teams.
+ Some of the things we've done in the past are:
+ Build a fully automated deploy pipeline so engineers only need to click 1 button to get their code into production
+ Migrated a rather janky homegrown analytics pipeline onto AWS DMS and made it super stable and near realtime in the process.
+ Moved all of Caviar's systems from Heroku to AWS
+ Currently we're focusing on code and infrastructure that can help the rest of engineering in their migration to a more microservices oriented architecture and are starting to assist other teams as they dive into incorporating ML into their applications.
+ We're looking for someone to work with us solve these types of problems. You'll be working pretty collaboratively with us, have influence on the work we take on and the direction of our platform.
+ Qualifications
+ You will..
+ Write code that is used by engineers sitting next to you and see your work enable others to build amazing things.
+ Solve problems that plague all of Caviar engineering.
+ Optimize and tune our production deployment (Docker on ECS) to make it more stable, faster, and cheaper to operate.
+ Own the build and deploy pipeline for all of Caviar engineering.
+ Design large-scale systems that keep things running smoothly.
+ Get a balanced, supportive, fun working environment, and career path.
+ Make hungry people happy.
+ You have..
+ 5+ years of solid, practical experience.
+ Experience running services in AWS or another cloud provider.
+ Expertise in at least one object-oriented language.
+ Strong knowledge of CS fundamentals and code organization.
+ Experience in or desire to learn Ruby, Rails, and the Caviar technology stack.
+ Even better..
+ You've run Docker on ECS before and know what auto-scaling is all about.
+ You know how databases (especially Postgres) work and how to monitor and tune them.
+ A real passion for good food, maybe even have worked in the food industry before!
+ Technologies we use:
+ Ruby, Python, Android, Javascript, Swift
+ AWS, Docker, ElasticSearch
+ Postgres, MySQL, Redis, Memcache
+ Rails
+ Additional Information
+ At Square, we value diversity and always treat all employees and job applicants based on merit, qualifications, competence, and talent. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status. We will consider for employment qualified applicants with criminal histories in a manner consistent with the requirements of the San Francisco Fair Chance Ordinance.
+ I'm interested
+ I'm interested
+ Refer a friend
+ share this job
+ Powered by

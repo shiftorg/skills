@@ -1,0 +1,21 @@
+Salesforce 227--Software-Engineer-(Senior_Lead_Principal)---Artifact-Repository-And-Distribution.Txt
+
+
+
+
+storage and distribution team this small entrepreneurial team is focused on providing core artifact repository and distribution services enabling the path to production for hundreds of services and thousands of developers at salesforce. our systems distribute artifacts to hundreds of thousands of application hosts in geographically dispersed datacenters while meeting aggressive latency and throughput slas. we also build and scale repository and package management services to meet the continuous integration needs of salesforce's worldwide engineering organization. position description: salesforce is looking for an experienced software engineers to join the storage and distribution team as we design the next generation delivery system for our release pipeline. we need engineers who are passionate about distributed systems and can design and code high-performance low latency services while maintaining the highest bar for security. your job will be to:
+
+work with developers, service owners and architects across the company to understand and define requirements drive the design and implementation of next generation delivery services for high throughput low latency transport of artifacts to thousands of production nodes build repository and package management solutions to support the full range of salesforce engineering and microservice teams
+position requirements:
+
+5 - 10+ years of industry experience including significant experience architecting, developing and supporting distributed services experience with peer-to-peer distribution systems like bittorrent a deep understanding of security concepts and distributed systems an understanding of the continuous integration/ continuous delivery space expert programming skills in golang or java experience with artifact repositories like artifactory or nexus familiarity with a number of packaging and dependency management systems (including rpm, maven, npm, rubygems, pypi, etc.) familiarity with docker and general containerization concepts / technologies
+
+company overview: salesforce, the customer success platform, and world's #1 crm empowers companies to connect with their customers in a whole new way.  these founding principles have taken our company to great heights, including being named one of forbes's "world's most innovative company" five years in a row and one of fortune's "100 best companies to work for" eight years in a row. we are the fastest growing of the top 10 enterprise software companies, and this level of growth equals incredible opportunities to grow a career at salesforce. together, with our whole ohana (hawaiian for "family") made up of our employees, customers, partners, and communities, we are working to improve the state of the world. *li-y
+
+
+
+
+
+
+
+

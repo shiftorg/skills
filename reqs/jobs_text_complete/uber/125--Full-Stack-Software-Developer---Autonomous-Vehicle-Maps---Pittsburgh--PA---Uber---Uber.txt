@@ -1,0 +1,196 @@
+Skip to main content
+ Back
+ Uber
+ Rides on demand
+ Install
+ Ride
+ Drive
+ Help
+ Sign In
+ What city are you in?
+ Become a driver
+ Ride
+ Overview
+ How it Works
+ Fare Estimator
+ Safety
+ Cities
+ Airports
+ Drive
+ Overview
+ Requirements
+ Driver App
+ Safety
+ Rewards
+ Eats and more
+ Uber Eats
+ Uber for Business
+ Uber Freight
+ What city are you in?
+ English
+ Follow Us
+ Facebook
+ Twitter
+ LinkedIn
+ Instagram
+ Enter keyword
+ All teams
+ All teams
+ Advanced Technologies Group
+ Business & Sales
+ Communications
+ Design
+ Engineering
+ Finance & Accounting
+ Global Community Operations
+ Legal
+ Marketing
+ Operations & Launch
+ People Operations
+ Product
+ Public Policy
+ Rentals & Leasing
+ Safety & Security
+ University
+ All subteams
+ All subteams
+ All countries
+ All countries
+ Argentina
+ Australia
+ Austria
+ Bangladesh
+ Brazil
+ Bulgaria
+ Canada
+ Chile
+ Colombia
+ Costa Rica
+ Denmark
+ Ecuador
+ Egypt
+ France
+ Germany
+ Hong Kong
+ India
+ Indonesia
+ Ireland
+ Italy
+ Japan
+ Kenya
+ Korea, Republic of
+ Lithuania
+ Malaysia
+ Mexico
+ Myanmar
+ Netherlands
+ Pakistan
+ Panama
+ Peru
+ Philippines
+ Poland
+ Portugal
+ Saudi Arabia
+ Singapore
+ South Africa
+ Spain
+ Sri Lanka
+ Sweden
+ Taiwan
+ Thailand
+ Ukraine
+ United Arab Emirates
+ United Kingdom
+ United States of America
+ Vietnam
+ All cities
+ All cities
+ Search open roles
+ Search
+ Careers
+ Search open roles
+ Open Roles
+ Full Stack Software Developer - Autonomous Vehicle Maps
+ Software Engineering, Advanced Technologies Group in Pittsburgh, PA
+ Apply Now
+ About Uber
+  
+ We’re changing the way people think about transportation. Not that long ago we were just an app to request premium black cars in a few metropolitan areas. Now we’re a part of the logistical fabric of more than 600 cities around the world. Whether it’s a ride, a sandwich, or a package, we use technology to give people what they want, when they want it.
+  
+ For the people who drive with Uber, our app represents a flexible new way to earn money. For cities, we help strengthen local economies, improve access to transportation, and make streets safer.
+  
+ And that’s just what we’re doing today. We’re thinking about the future, too. With teams working on autonomous trucking and self-driving cars, we’re in for the long haul. We’re reimagining how people and things move from one place to the next.
+ About the Role
+  
+ As a Full Stack Developer, you will specifically play a major role in designing, developing, deploying and supporting Uber’s map development technologies. You will have an opportunity to work on and develop your skills in information representation, algorithms and complex computations, UI design and, of course, developing web technologies; and the list is growing everyday. You will work on a specific project critical to Uber ATG’s needs with opportunities to switch teams and projects as you and our fast-paced business grow and evolve. We need our engineers to be versatile, display leadership qualities and be enthusiastic to take on new problems as we continue to push technology forward.
+ What You'll Do
+  
+ Experience building highly-reliable and scalable products in Full Stack JavaScript and had taken advantage of its features and flexibility
+ Experience building complex applications using technologies such as React, Ember, or Angular (we use React and Redux)
+ Experience with API designs, integration with databases and working in large datasets.
+ Research, design, document, implement, and test computer software systems, in conjunction with product development requirements, applying principles and techniques of computer science, engineering, and mathematical analysis
+ Develop capabilities using Python scripts to provide seamless integrated solutions across technologies.
+ Apply the appropriate standards, processes, procedures, and tools throughout the system development life cycle to support the generation of technical engineering products
+ Further advance the cutting-edge technology and contribute production quality code to open source projects.
+  
+ What You'll Need
+  
+ Web Technologies. You've built side projects or professionally utilize the latest stacks and libraries(we use React and Redux) such as Node.js, React, Angular, Rails, Ember, CSS frameworks etc. You are excited by the amazing pace that the web continues to evolve. You seek new methods and tools to make great web tools faster and better, both on the front-end and back-end. Familiarity with principles of architecture patterns and good user experience.
+ Action. You believe that speed and quality can be achieved at the same time. You've shown self-starter mentality, good judgement, shipping as fast as possible, products that are built in a responsible and sustainable way. You're willing to thrive in a fast and growing environment where all hands are on deck, and consider no obstacle too big or too small.
+ The drive to make teams stronger. You're excited to work with a team to the finish line or work hard on new opportunities. You work well in fast moving teams and have no problem in collaborating with others to resolve difficult problems. You support your team as much as your team supports you.
+ About the Team
+  
+ The AVMaps team at Uber Advanced Technologies Group (ATG) is a passionate, close-knit group of interdisciplinary thinkers and doers that craft forward-thinking software that enables self-driving vehicles. We develop technologies at fast pace while considering safety, legality and user experience. The team identifies map data and builds solutions to deliver reliable and high quality maps for faster autonomous development.
+ Apply Now
+ See our Candidate Privacy Statement
+ At Uber we don’t just accept difference—we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Uber is proud to be an equal opportunity workplace. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status.
+ Uber is in 0 cities worldwide
+ City Search
+ Go to Uber.com
+ SIGN UP TO RIDE
+ Become a driver
+ Enter your location
+ English
+ Help
+ Help
+ Facebook
+ Twitter
+ LinkedIn
+ Instagram
+ Ride
+ Drive
+ Cities
+ Fare Estimate
+ Food
+ Business Travel
+ How it Works
+ Airports
+ Countries
+ Safety
+ Careers
+ Helping Cities
+ Our Story
+ Blog
+ Newsroom
+ Media
+ Uber API
+ Gift Cards
+ Uber vs Driving Jobs
+ Top Cities
+ San Francisco
+ London
+ Los Angeles
+ Washington D.C.
+ Mexico City
+ Sao Paulo
+ Top Countries
+ USA
+ France
+ India
+ Spain
+ Mexico
+ Russia
+ © 2017 Uber Technologies Inc.
+ Privacy
+ Accessibility
+ Terms

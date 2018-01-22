@@ -1,0 +1,29 @@
+Salesforce 206--Senior-Lead-Or-Principal-Systems-Engineer---Big-Data-Services.Txt
+
+
+
+
+senior, lead, or principal systems engineer - big data services are you a systems engineer with the passion to build reliable, scalable infrastructure in datacenters across the globe? do you love devops and want to work on automation? we are looking for you! role: at salesforce we are scaling big data infrastructure, which stores petabytes of data and processes millions of requests across clusters ranging thousands of nodes. our big data infrastructure powers the storage and analytical needs of various customer-facing and internal use cases in salesforce. in this role,
+
+you will use your systems engineering skills to develop, optimize and operate the tools and processes that power the bigdata infrastructure. you are the service owner operating bigdata-as-a-service for all of salesforce consisting of open-source technologies including hadoop, hbase, spark, yarn, hive and zookeeper. you will get a chance to understand how things work with a large-scale production infrastructure with tons of servers across numerous datacenters. you will drive the automation efforts in shell/python/ruby/java to eliminate manual work involved in building clusters, performing releases and other operational work. you will develop plugins to monitor applications and implement self-healing mechanisms to auto-recover from outages. you will write puppet manifests and jenkins jobs to build, configure and tune systems for performance. perform various bigdata administration activities like running jobs and migrating data. you will get a chance to improve your communication and collaboration skills working with various other infrastructure teams across salesforce. you will be interacting with a highly innovative and creative team of developers, open-source committers and architects. you will evaluate new technologies to solve problems as needed, and also play a significant role in the architectural direction.
+
+requirements: following qualities will make you successful at this role,
+
+strong working experience with linux systems administration and troubleshooting. good knowledge of linux internals. good experience in any of the scripting/programming languages: shell, perl, python, golang, java etc ., basic knowledge of networking protocols and components: tcp/ip stack, switches, routers, load balancers. experience or solid interest in maintaining a highly available service on production scale. experience in any of puppet, chef, ansible or other devops tools. experience in any of the monitoring tools like nagios, graphite, zabbix etc., experience working with any of: java applications (jvm), apache, mysql, postgresql, kerberos, ldap, tomcat, jetty, mongodb etc., a continuous learner and a critical thinker a team player with great communication skills
+nice to haves:
+
+experience in managing large scale web applications in production experience in working with any of the build tools like jenkins, ant, maven, git etc., experience with docker, splunk, aws knowledge of big data technologies is considered a plus (not mandatory)
+
+
+culture: you'll be joining one of the best companies to work for! we take pride in our ohana culture at salesforce.
+
+we strive to make the world a better place we build delightful products that makes our customers happy we empower people to bring the best out of them. we believe in trust, customer success, innovation, giving back, equality for all, wellness, transparency and fun
+company overview   these founding principles have taken our company to great heights, including being named one of forbes's "world's most innovative company” five years in a row and one of fortune's "100 best companies to work for” eight years in a row. we are the fastest growing of the top 10 enterprise software companies, and this level of growth equals incredible opportunities to grow a career at salesforce.    *li-y
+
+
+
+
+
+
+
+

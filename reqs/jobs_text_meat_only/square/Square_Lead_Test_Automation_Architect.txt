@@ -1,0 +1,35 @@
+Square Lead Test Automation Architect
+
+lead test automation architect
+we believe everyone should be able to participate and thrive in the economy. so we're building tools that make commerce easier and more accessible to all.  we started with a little white credit card reader but haven't stopped there. our new reader helps our sellers accept chip cards and nfc payments, and our cash app lets people pay each other back instantly.   we're empowering the independent electrician to send invoices, setting up the favorite food truck with a delivery option, helping the ice cream shop pay its employees, and giving the burgeoning coffee chain capital for a second, third, and fourth location.  let's shorten the distance between having an idea and making a living from it. we're here to help sellers of all sizes start, run, and grow their business—and helping them grow their business is good business for everyone.
+our newest product, square register, conveys that our small and lean hardware team has an insatiable appetite to take on bigger challenges.   we need an embedded software test engineering technical lead to help build our tools and processes to enable our small team to deliver more high-quality products, faster.
+the challenge will lie in creating a quality product and great customer experience which is directly influenced by the integration of firmware, drivers, app/ui, backend services, and ui.
+as the lead test automation architect you will be responsible for planning and executing integrated system testing with an emphasis on hardware-centric software risks for new and existing payment device projects. this includes cross-functional work with developers, qa engineers, and product managers, to identify risk areas, testing responses and ensure total quality.
+you should have an engineering background consisting of software development, manual testing and automating existing manual testing. you have a strong aptitude for learning new technologies with a good instinct for discovering defects in software and hardware. you are a leader, communicator, focused, responsible, and a team-player who thrives under pressure.
+own the test automation strategy for the software that ships on our hardware devices
+constantly drive our small team to focus on the tests that give the greatest insight into our product's core quality
+work directly with developer teams to understand the strengths and limitations of their current ci systems and create a qa test strategy that complements those
+actively build partnerships with teams outside of hardware to ensure that the entire customer experience is covered efficiently
+champion good test and quality practices throughout the product lifecycle
+negotiate test apis that remove friction from adding new tests, while maintaining the security that our merchants need to trust their business to square
+partner with developers to build more test coverage into their own development chain.
+work with product owners to refine our process of defining new features and confirming that they are done
+write python scripts to bend our hardware, firmware, apps and payment cards to your will
+design and develop core test infrastructure to unlock the abilities of all our test engineers and developers
+create, modify and execute tests for validation of square's hardware and software features at the system-level (including user scenario and interoperability)
+build automated test tools & reporting mechanisms
+be a vocal proponent for quality (internally and externally) in every phase of the development process
+7+ years of test development and/or software engineering experience, preferably on consumer-facing hardware/software products
+bs/ms ee/cs or technical degree with relevant experience
+a broad tool box and a proven ability to pick the right one for the job
+natural instinct to look at products as our customers will
+knowledge of continuous integration systems
+experience in developing automation using scripting or other languages (c/c++, perl, python, ruby, javascript, objective-c, etc.)
+demonstrated ability to own a complete functional area of an application or product
+good understanding of sqa methodologies & practices, including leveraging jira to track and drive issues to resolution
+experience shipping embedded and mobile devices
+mix of big company and small company experience
+even better:
+experience testing ble or wi-fi
+experience testing smart payment systems
+in-depth understanding of os x, windows, unix, ios

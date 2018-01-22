@@ -1,0 +1,25 @@
+Okta 25--Sr.-Server-Software-Engineer-|-Okta.Txt
+
+
+
+develop the okta cloud service for mobile and device trust access management. this service ensures that our customers cloud services are only accessed from trusted devices that meet company policy for security. trust is achieved by using jwt challenges during oauth with okta, mutual tls client certificates, or other technologies to attest to the devices security posture.
+
+analyze/refine requirements with product management for administrator and end user web interfaces
+work with engineering management and other back-end teams to scope and plan engineering efforts and dependencies
+implement unit and functional tests
+design and code reviews
+develop apis for new product features and use cases
+iterate on designs to scale services to significant usage
+interface with qa, product management, technical support, documentation and ux
+
+
+experience developing highly available and scalable saas system. knowledge of java spring / hibernate for server-side development. comfortable programming in the linux environment.
+understanding of identity and access management protocols and architecture (sso, saml, oauth, federation, etc.). understanding of pki architecture and concepts.
+experience building mobile device management products.
+experience working in agile software development team leveraging continuous integration and deployment practices.
+understanding of ui framework / javascript is a plus.
+
+
+bachelor's degree in computer science.
+6-10 years of software development experience. at least 2 years of development experience building high scalable backend applications.
+

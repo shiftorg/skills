@@ -1,0 +1,36 @@
+Software Engineer - Data Privacy
+ San Francisco, CA, USA
+ Full-time
+ Company Description
+ We started with a simple idea—that everyone should be able to accept credit cards—and we’ve been rethinking buying and selling ever since.
+ For sellers, we’re creating one cohesive service to run your entire business, from a register in your pocket to analytics on your laptop. For buyers, we’re making it faster to order from the businesses you love and more fun to pay your friends back.
+ Buying and selling sound like simple things—and they should be. Somewhere along the way, they got complicated. We’re working hard to make commerce easy for everyone.
+ Job Description
+ Information privacy and security has become a critical issue for consumers as well as companies. 
+ GDPR requires substantial investment by companies with European customers  Doing so in a manner that minimizes disruption to product development and risk analysis is critical to Square's future in the EU.
+ As the founding engineer for the GDPR effort, you’ll be the nexus for all GDPR related engineering efforts.  You will influence the roadmap for products affected by GDPR and review designs and implementations from teams to validate GDPR conformance.  As the GDPR and other privacy efforts increase you may be responsible for managing a team of engineers. 
+ Qualifications
+ You will:
+ Work directly with teams at Square building products for use in the EU.
+ Help product teams understand the effects of GDPR and how to minimize disruption from the requirements.
+ Work with the Information Security team to insure appropriate safeguards are in place for private data.
+ Work with the Chief Privacy Officer and legal team to understand the ongoing requirements and impacts of GDPR
+ Communicate and collaborate with others in the industry to stay on the leading edge.
+ Attend conferences to understand current industry best practices as well as represent Square's interests.
+ You have:
+ At least 3-6 years of software development experience.
+ Programming experience in one or more object-oriented languages, including C, C++, Objective-C, Java, Ruby, Scala, Go, and/or Python.
+ Experience working with MySQL or similar DB
+ Experience with data warehousing technologies is a plus
+ A demonstrated ability to learn new technologies quickly
+ An ability to communicate well with a wide variety of people and product areas
+ Unwavering commitment to customer experience and product quality
+ Eagerness to share your own ideas, and openness to those of others
+ A record of self-directed side projects, research, or open source participation are a plus!
+ Additional Information
+ At Square, we value diversity and always treat all employees and job applicants based on merit, qualifications, competence, and talent. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status. We will consider for employment qualified applicants with criminal histories in a manner consistent with the requirements of the San Francisco Fair Chance Ordinance.
+ I'm interested
+ I'm interested
+ Refer a friend
+ share this job
+ Powered by

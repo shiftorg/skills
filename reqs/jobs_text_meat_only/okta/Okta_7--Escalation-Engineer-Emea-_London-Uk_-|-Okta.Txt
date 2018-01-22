@@ -1,0 +1,35 @@
+Okta 7--Escalation-Engineer-Emea-(London-Uk)-|-Okta.Txt
+
+
+job purpose:
+our escalation engineers are passionate about making okta's customers wildly successful. in this role you will be an articulate and a seasoned technical guru with strong business insight and executive presence. you should be equally comfortable working with customers to solve complex technical issues as you are at handling executive-level customer communications.
+duties and responsibilities:
+
+serve as internal and external point of contact on customer escalations and ensure customer issues are resolved as expediently as possible.
+triage and resolve customer support escalations from multiple inbound channels.
+represent customer support while engaging with cross-functional teams to drive resolution of escalated issues.
+meet or exceed customer expectations on response quality, timeliness of responses and overall customer experience.
+manage technical and executive level updates.
+provide technical and soft-skills mentoring to tier 2 support engineers.
+participate in technical escalation on-call rotation.
+
+
+ba ba/bs/ms in computer science, management information systems, or related discipline.
+demonstrated enterprise technical support, system administration, professional services or related customer facing role, with experience in a senior technical role.
+excellent relationship management, customer service and communication skills.
+ability to remain calm, composed and articulate when dealing with diﬃcult customer situations.
+passion for solving customer issues and advocating for their success, in a fast-paced, highly technical environment.
+ability to quickly and accurately assess the technical aspects of a problem
+ability to work independently with little direct supervision and as a part of a team.
+excellent analytical and organizational abilities.
+
+strongly desired skills:
+
+expertise in core microsoft product stack, including windows server, windows workstation, active directory, dns, dhcp, group policies and iis.
+experience supporting identity access management solutions.
+experience supporting, sso, saml, or ws federation.
+experience supporting cloud applications such as oﬃce 365, google apps, salesforce, workday, netsuite, box, etc.
+experience supporting n-tier web applications.
+experience supporting rest apis.
+
+

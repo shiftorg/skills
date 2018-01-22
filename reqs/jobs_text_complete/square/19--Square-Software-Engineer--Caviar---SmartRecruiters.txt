@@ -1,0 +1,39 @@
+Software Engineer, Caviar
+ San Francisco, CA
+ Full-time
+ Company Description
+ Caviar is changing the way businesses and consumers order food from restaurants. We believe that everyone should have access to the best eateries in their city without any hassles. Want your favorite burger joint, but hate the traffic and long lines? We're a team of passionate foodies solving that exact problem for your home and office. At Caviar, we believe in an environment that allows you to be creative and go beyond the call of duty. We're looking for exceptionally talented individuals who want to learn and grow with the company. Each and every day counts - you'll make a direct impact to the business starting from Day 1.
+ Job Description
+ Our software powers the entire delivery experience: we have close relationships with the best restaurants in every city, a network of Caviar Couriers and customer ordering products on 3 platforms.
+ Qualifications
+ You will..
+ Work closely with product management, design, and internal teams to understand customer needs.
+ Write concise code and sensible tests.
+ Own and develop new features that ...
+ Have the opportunity to explore and build features across the entire technical stack, from the database all the way to the clients.
+ Design large-scale systems that keep things running smoothly.
+ Get a balanced, supportive, fun working environment, and career path.
+ Make hungry people happy.
+ You have..
+ 6+ years of solid, practical experience.
+ Strong knowledge of CS fundamentals and code organization.
+ Experience in or desire to learn Javascript, Rails, React, Python, iOS, and/or Android.
+ A Computer Science or other technical degree.
+ Expertise in at least one object-oriented language, and associated web framework. Don't worry about which one—we'll train you in Ruby (and Rails).
+ Even better..
+ Past experience integrating with external APIs and providing APIs for third parties.
+ You have worked in real-time logistics or restaurant facing tools.
+ A real passion for good food.
+ Technologies we use:
+ Ruby, Python, Java, Javascript, Objective-C, Swift
+ AWS, Docker, ElasticSearch
+ Postgres, MySQL, Redis
+ Rails, jQuery, DropWizard, RxJava, RxSwift, Typhoon, Ember.js, React, Sass
+ Scikit-Learn, OSRM
+ Additional Information
+ At Square, we value diversity and always treat all employees and job applicants based on merit, qualifications, competence, and talent. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status. We will consider for employment qualified applicants with criminal histories in a manner consistent with the requirements of the San Francisco Fair Chance Ordinance.
+ I'm interested
+ I'm interested
+ Refer a friend
+ share this job
+ Powered by

@@ -1,0 +1,20 @@
+Square Software Engineer, Developer Platform (Server)
+
+software engineer, developer platform (server)
+the developer platform team is responsible for apis that external developers use to build apps on square's platform. we provide developers with the tools to create solutions for both existing square merchants and entirely new customers.
+we are a small, focused, and rapidly growing team with an abundance of growth and impact opportunities. our products and responsibilities include:
+apis and sdks for ecommerce and the register point of sale
+building infrastructure that makes it easy, scalable, and consistent to expose square's products to external developers
+an app marketplace that helps millions of merchants integrate solutions for their business, and helps developers reach a technology companies building entire businesses on top of the square platform
+maintaining the availability, growth, architecture, and scalability of all public apis
+as a software engineer on the developer platform team, you will be responsible for designing, building, and owning the services and infrastructure for all of the above. we have positions for product and infrastructure oriented engineers. you can choose be deeply involved in the technical details of building services (mostly golang) or growing our mobile ios, android teams. you will impact the growth of our products for our merchants, buyers, and developers all over the world.
+build our developer platform, for use by millions of square merchants and a key strategic asset of square.
+own every facet of square's apis, including developer sdks, the square developer portal, and api documentation.
+design and implement high-throughput, low-latency, consistent apis, making thoughtful tradeoffs between consistency and availability when both are not possible.
+work cross-functionally with our product teams, *many* other engineering teams, and partner developers to design and implement square's global developer platform.
+build systems that maintain customers' sensitive data and hold square to the highest standards for security and compliance.
+see the big picture to design fault tolerant systems so the team can be brave, move fast, and break things, without ever showing a negative impact to customers.
+innate curiosity and a desire to be responsible for all aspects of building square's developer platform in a small, highly focused, and very rapidly growing team.
+understanding and curiosity in creating well thought out, scalable, low-latency, global systems.
+track record of pursuing self directed side projects, research, or open source projects.
+you must deeply enjoy writing and shipping production software.

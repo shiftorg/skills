@@ -1,0 +1,18 @@
+Uber 413--Backend-Software-Engineer---Ubereverything-(Nyc)---New-York-City--Ny---Uber---Uber.Txt
+
+
+
+
+
+about the role
+
+ubereverything will collapse the time and distance between everyone and everything they want. our nyc office focuses on building highly efficient and reliable logistics solutions that span across food delivery (ubereats), e-commerce, and more. we are working to define and build the next generation of uber's logistics platform.  you can be a part of that future and build it with us.
+
+uber is an established company with a well known brand, but our engineering efforts in new york are just getting started. help shape the culture here, and get in on the ground floor of something big.
+have deep domain knowledge and experience with relevant tools, languages and frameworks (go, node or python preferred)
+demonstrated experience shipping high-quality product features on schedule
+experience in working on large-scale distributed systems
+data-driven architecture and systems design
+
+a github account with a great project
+excellent communication skills and a collaborative approach to problem-solving

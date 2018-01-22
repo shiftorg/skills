@@ -1,0 +1,31 @@
+Salesforce 332--Lead-Technical-Writer-Infrastructure-Planning-Design-And-Operations.Txt
+
+
+
+
+
+apply your passion for data science to help salesforce scale its world-class data center infrastructure. you'll work closely with teams across the infrastructure planning, design, & operations cloud to create and maintain new doc sets that drive the use of data across our entire organization to influence key design and business decisions. you'll work not only with data scientists, but hardware engineers, capacity planners, and business analysts to help our teams reduce cost-to-serve for the entire company.
+
+role overview we're a great team of writers who work collaboratively with engineers and project managers to document and scale the salesforce infrastructure. you're a problem solver with excellent people skills who knows the needs of business analysts and engineers and will write easy-to-understand process and analysis documentation that supports infrastructure strategy decisions. you will manage a large portfolio of diverse writing projects, such as hardware configuration, diagrams, and documentation for internal processes. you have the right mix of technical knowledge, technical writing skills, web skills, and creativity to deliver this documentation in the format best suited for various audiences.
+
+
+required experience/skills:
+
+​6+ years of experience writing developer-focused documentation for software development audiences, or equivalent experience writing or testing code and at least 2+ years of writing documentation ability to meet tight deadlines with multiple deliverables experience with ides, web services technologies, apis, sdks, or object-oriented programming great people and communication skills focus on quality and details ability to learn new technologies quickly excellent problem solver strong team player customer advocate bachelor's degree in a technical or communications field, computer science, engineering or related field
+
+
+desired experience/skills:
+
+​experience documenting enterprise-class client/service software ability to read code, write your own code examples, and develop your own apps experience with confluence ability to work with management to establish goals and priorities experience with video and image editing software
+
+
+
+
+
+
+
+
+
+
+
+

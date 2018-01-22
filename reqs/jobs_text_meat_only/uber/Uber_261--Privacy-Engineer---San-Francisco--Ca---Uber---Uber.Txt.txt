@@ -1,0 +1,33 @@
+Uber 261--Privacy-Engineer---San-Francisco--Ca---Uber---Uber.Txt
+
+
+
+
+we are seeking experienced and passionate engineers with product intuition to join our privacy engineering effort in san francisco, focusing on building both the user-facing features and internal services that give our users choice around their data, build trust, advance data privacy, and enable our business.
+our ultimate goal is to ensure that every single experience with uber is simple, secure, and safe. we need your skills and passion to help make it happen!
+
+
+as an engineer on our team, your technical expertise will have a direct impact on the privacy experience for our users.
+your work will help uber maintain and grow user trust as we deliver features that allow them to control their account, enable/disable features, and make informed choices about their data.
+you will build software solutions to address real world privacy concerns.
+you should be comfortable in uncharted territory and excited to design and build city-scale systems based on research and data.
+
+
+security or privacy depth.
+you have knowledge and experience in approaches to securing user data and keeping it private. you have broad knowledge of integrating privacy principles in the systems and product design process.
+privacy pragmatism.
+you have lofty ideals for user privacy and can apply them in a business environment. you're able to build and advocate for suitable security practices to enhance privacy.
+expertise.
+you have experience with building and deploying high-tier internal infrastructure at scale. you can take the lead and have a great sense of what doing ‘the right thing' is. you might have deep knowledge of privacy enhancing technologies, e.g. data anonymization or differential privacy.
+architecture skills.
+you know how to build highly scalable, robust, and fault-tolerant services that support our unique rate-of-growth. you stay up-to-date with the latest architectural advancements. you understand how architecture impacts privacy and security.
+versatility.
+in addition to having an intimate knowledge of the stack, you see how it all fits together and can navigate both typical and complex privacy pitfalls.
+ability to learn on the go.
+you flourish with new technologies and don't believe in one-size-fits-all solutions. you can adapt to meet the needs of our massive scale, growth, and evolving business environment.
+passion.
+you feel ownership over everything you ship. you'd never call code "released" until you're satisfied it's well implemented and tested. you pride yourself on efficient monitoring, thorough documentation, and proper test coverage.
+a great teammate.
+you believe that you can achieve more on a team; that the whole is greater than the sum of its parts. you rely on others' candid feedback for continuous improvement. you seek ways to mentor others and share your deep privacy expertise with the team.
+design and business sense.
+whether you're working on an api used by other developers, an internal tool consumed by our operation teams, or a feature used by millions of customers, your attention to details results in a delightful user experience.

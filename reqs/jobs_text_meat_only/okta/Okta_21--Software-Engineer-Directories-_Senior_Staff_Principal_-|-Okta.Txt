@@ -1,0 +1,26 @@
+Okta 21--Software-Engineer-Directories-(Senior_Staff_Principal)-|-Okta.Txt
+
+
+we are looking for an experienced software engineer that is passionate about building large-scale, mission-critical software in a fast-paced agile environment. you will share our passion and great pride in the simplistic elegance and usability of our solution and will join an engineering team that strongly believes in automated testing, ux design and an iterative process to build high-quality next generation enterprise software.
+our elite team is fast, innovative and flexible; with a weekly release cycle and individual ownership we expect great things from our engineers and reward them with stimulating new projects, emerging technologies and the chance to have significant equity in a company that is about to change the cloud computing landscape forever.
+
+analyze/refine requirements with product management
+work with engineering management to scope and plan engineering efforts
+design and implement core, high-performance, scalable software components
+test-driven development, design and code reviews
+interface with qa, product management, technical support, documentation and ux team
+
+
+3+ years of strong software development experience building highly-reliable, mission-critical software
+in-depth understanding of multithreading, garbage collection, memory management and multiplatform java development
+experience with web application frameworks, mysql & tomcat
+good understanding of network security, encryption, authentication and authorization
+experience with selenium, jquery, .net, windows development and javascript a plus
+
+
+experience in integrating with on-prem directories such as active directory, ldap is a major plus.
+knowledge and understanding of identity management technologies is a plus
+
+
+b.s. computer science or related field (ms/phd a plus)
+

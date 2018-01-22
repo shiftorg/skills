@@ -1,0 +1,69 @@
+Salesforce 317--Architect.Txt
+
+
+
+
+architect - service cloud
+
+
+are you excited about the opportunity to influence the software industry by being involved with visionary technologies and business ideas like apex, paas (platform as a service), and the app exchange? do you want to work on consumer facing, but enterprise grade services? do you like a start-up style delivery, with the vastly powerful customer success platform? if your answer is yes to any of these questions, this is your opportunity to join a dynamic technology team at salesforce, the market leader in cloud computing. top technologists across the world join us for our "change the world” mentality; the opportunity to excel in a fast-paced, performance-based environment and the chance to be surrounded by peers and leaders that inspire, motivate, and innovate.
+
+
+this opportunity is for a product called field service lightning(fsl). fsl is a new strategic product that salesforce is investing in heavily to disrupt the multi-billion dollar field service market. you will have an opportunity to build this product from ground-up in a start up mode with various technologies that include frontend, backend, ai and big data.
+
+
+
+
+
+architect, design, and implement field service product applications
+
+master our development process, culture and code base, and then improve it
+
+lead by example by contributing high quality, production code that powers critical pieces of our services and products
+
+work closely with a team of product managers, user experience experts, quality and performance engineers to build new features our customers will love, adopt and use while keeping our trusted platform stable and scalable
+
+drive execution on said long term plan taking into account performance, scalability and usability of your solutions.
+
+value team excellence over individual productivity
+
+adopt, embrace, and promote agile and test-driven practices with your peers
+
+mentor others in development technologies, tools, and processes
+
+develop test strategies and frameworks to drive up code coverage and automation metrics
+
+contribute to the analysis of functional requirements
+
+participate and promote architectural initiatives, balancing long-term velocity with short-term customer needs
+
+
+
+
+
+12+ years of software development experience.
+
+excellent communications skills and ability to drive consensus within the company.
+
+results oriented, adaptable and comfortable dealing with ambiguity.
+
+collaborative and team oriented.
+
+experience building multi-tier scalable web applications.
+
+strong knowledge of object oriented programming languages.
+
+strong knowledge of sql and understanding of relational database schema design.
+
+bachelor's degree or masters in computer science or equivalent experience.
+
+
+  these founding principles have taken our company to great heights, including being named one of forbes's "world's most innovative company” six years in a row and one of fortune's "100 best companies to work for” nine years in a row. we are the fastest growing of the top 10 enterprise software companies, and this level of growth equals incredible opportunities to grow a career at salesforce.  *-li-y
+
+
+
+
+
+
+
+

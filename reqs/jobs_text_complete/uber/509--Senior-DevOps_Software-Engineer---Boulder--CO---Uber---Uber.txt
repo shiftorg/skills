@@ -1,0 +1,205 @@
+Skip to main content
+ Back
+ Uber
+ Rides on demand
+ Install
+ Ride
+ Drive
+ Help
+ Sign In
+ What city are you in?
+ Become a driver
+ Ride
+ Overview
+ How it Works
+ Fare Estimator
+ Safety
+ Cities
+ Airports
+ Drive
+ Overview
+ Requirements
+ Driver App
+ Safety
+ Rewards
+ Eats and more
+ Uber Eats
+ Uber for Business
+ Uber Freight
+ What city are you in?
+ English
+ Follow Us
+ Facebook
+ Twitter
+ LinkedIn
+ Instagram
+ Enter keyword
+ All teams
+ All teams
+ Advanced Technologies Group
+ Business & Sales
+ Communications
+ Design
+ Engineering
+ Finance & Accounting
+ Global Community Operations
+ Legal
+ Marketing
+ Operations & Launch
+ People Operations
+ Product
+ Public Policy
+ Rentals & Leasing
+ Safety & Security
+ University
+ All subteams
+ All subteams
+ All countries
+ All countries
+ Argentina
+ Australia
+ Austria
+ Bangladesh
+ Brazil
+ Bulgaria
+ Canada
+ Chile
+ Colombia
+ Costa Rica
+ Denmark
+ Ecuador
+ Egypt
+ France
+ Germany
+ Hong Kong
+ India
+ Indonesia
+ Ireland
+ Italy
+ Japan
+ Kenya
+ Korea, Republic of
+ Lithuania
+ Malaysia
+ Mexico
+ Myanmar
+ Netherlands
+ Pakistan
+ Panama
+ Peru
+ Philippines
+ Poland
+ Portugal
+ Saudi Arabia
+ Singapore
+ South Africa
+ Spain
+ Sri Lanka
+ Sweden
+ Taiwan
+ Thailand
+ Ukraine
+ United Arab Emirates
+ United Kingdom
+ United States of America
+ Vietnam
+ All cities
+ All cities
+ Search open roles
+ Search
+ Careers
+ Search open roles
+ Open Roles
+ Senior DevOps/Software Engineer
+ Engineering in Boulder, CO
+ Apply Now
+ About
+  
+ Uber:
+ We’re changing the way people think about transportation. Not that long ago we were just an app to request premium black cars in a few metropolitan areas. Now we’re a part of the logistical fabric of more than 500 cities around the world. Whether it’s a ride, a sandwich, or a package, we use technology to give people what they want, when they want it.
+  
+ For the women and men who drive with Uber, our app represents a flexible new way to earn money. For cities, we help strengthen local economies, improve access to transportation, and make streets safer.
+  
+ And that’s just what we’re doing today. We’re thinking about the future, too. With teams working on autonomous trucking and self-driving cars, we’re in for the long haul. We’re reimagining how people and things move from one place to the next.
+ About the Role:
+ This role involves a wide variety of technologies across large number of disciplines. You will be expected to jump in and develop strong solutions at scale. We do not have responsibilities set in stone, and are always looking for talented individuals to push us forward. We value the input of all our teammates, and it is important that you can contribute right away both with ideas and hands on engineering. You will have an opportunity to make an immediate impact that improves the quality of our infrastructure.
+ What You’ll Do:
+ Design, build & support systems to detect, alert and remediate or escalate on DC hardware and perf events 
+ Troubleshoot systems issues to quickly resolve and remediate issues. Linux, code issues, puppet, hardware, platform automation
+ Design and build systems to provide improved insight into the operation of the datacenter: perf/event data reporting, visualization, capacity planning, DC infra, & config management tools
+  
+ What You'll need:
+ Coding skills. 
+ You don’t need to be a C++ wizard, but you should at least have a strong background in one or more high level scripting language. (ruby/python/bash)
+ Operating Systems.
+  You should have strong experience in the Linux environment and a solid understanding of its fundamentals, such as DHCP, PXE, DNS, various imaging solutions, packaging, kernel tuning, troubleshooting, etc.
+ Configuration management. 
+ You should have real world experience with something like Puppet, Chef, and/or Ansible.
+ Team player.
+  We have internal customers whom we want to serve to the best of our ability. You should have customer service skills and be able to develop solutions that span multiple teams.
+ Networking.
+  Good working knowledge of TCP/IP is crucial.
+ Hardware.
+  Understanding of enterprise hardware standards, trends, and best practices. Managing the specing out and order of new hardware.
+ Web and proxy management.
+  Nginx, Apache, caching knowledge and experience is a big plus.
+ Bonus points if:
+ You’re a Puppet expert
+ You have large scale datacenter monitoring tool building experience
+  
+ About the team:
+ Uber is looking for top-notch Engineers to automate and build compute infrastructure at scale. We are a team of generalists with strong backgrounds and varying expertise across all parts of the stack at scale.
+ We actively challenge existing hardware trends and are always seeking the best solution to a problem. Not only are we solving our own problems, but because of our scale, we are solving problems that other companies have not yet had. This means we work closely with vendors and help shape their roadmaps to solve these problems.
+ Apply Now
+ See our Candidate Privacy Statement
+ At Uber we don’t just accept difference—we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Uber is proud to be an equal opportunity workplace. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status.
+ Uber is in 0 cities worldwide
+ City Search
+ Go to Uber.com
+ SIGN UP TO RIDE
+ Become a driver
+ Enter your location
+ English
+ Help
+ Help
+ Facebook
+ Twitter
+ LinkedIn
+ Instagram
+ Ride
+ Drive
+ Cities
+ Fare Estimate
+ Food
+ Business Travel
+ How it Works
+ Airports
+ Countries
+ Safety
+ Careers
+ Helping Cities
+ Our Story
+ Blog
+ Newsroom
+ Media
+ Uber API
+ Gift Cards
+ Uber vs Driving Jobs
+ Top Cities
+ San Francisco
+ London
+ Los Angeles
+ Washington D.C.
+ Mexico City
+ Sao Paulo
+ Top Countries
+ USA
+ France
+ India
+ Spain
+ Mexico
+ Russia
+ © 2017 Uber Technologies Inc.
+ Privacy
+ Accessibility
+ Terms

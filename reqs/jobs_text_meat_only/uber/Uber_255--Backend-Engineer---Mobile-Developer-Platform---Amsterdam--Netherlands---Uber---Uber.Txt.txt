@@ -1,0 +1,25 @@
+Uber 255--Backend-Engineer---Mobile-Developer-Platform---Amsterdam--Netherlands---Uber---Uber.Txt
+
+
+
+for the women and men who drive with uber, our app represents a flexible new way to earn money. for cities, we help strengthen local economies, improve access to transportation, and make streets safer.
+
+the mobile developer platform team is building a reliable, scalable continuous delivery platform to support the growth of uber's mobile engineering team. this platform will process hundreds of thousands of jobs a day as we ship new versions of our app regularly to our end users. to support this scale, the mobile developer platform team is looking for experienced backend engineers who can help us in building this new platform and the set of services that will power it.
+to succeed in this position, you will have experience building highly available and concurrent backend services and a solid understanding of what it means to keep these service reliable. you are familiar with containers and the ecosystem of technologies. you are knowledgeable in today's technologies and use strong engineering practices with relation to building rpc based web services. continuous integration systems like jenkins and their concepts are familiar to you and you have an interest in developing tooling that engineers will use everyday.
+
+build highly scalable backend systems that will power the continuous delivery of our mobile applications
+optimise the build pipeline for latency and throughput
+work from the physical layer to the application layer to help us build a system that will process hundreds of thousands of build jobs a day
+job requirements
+solid fundamentals in software engineering and concepts such as design patterns, testing, build systems and automation in the continuous delivery space
+played the role of technical lead (or similar) with evidence of successful delivery of solutions at scale.
+at least 6+ years of experience build rpc based web services at scale.
+familiarity of container technologies like docker and scheduling systems like mesos
+familiarity with continuous integration systems and concepts
+able to collaborate and communicate on a global scale with other teams to help figure out gaps in our tooling and infrastructure and help drive solutions
+bachelor's degree in computer science/software engineering
+experience in the devops space
+understanding and direct experience in mobile technologies and platforms (ios and/or android)
+a lead role in pushing good engineering practices within engineering teams/organisations
+performance analysis and optimisation using common linux or mobile tooling
+

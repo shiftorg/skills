@@ -1,0 +1,30 @@
+Salesforce 276--Senior-It-Systems-Security-Architect.Txt
+
+
+
+
+job title: senior it systems security architect location: san francisco salesforce is seeking a professional to join its information security team. this is a technical hands-on director-level ic role which will work closely with business partners across it to: review security requirements, recommend architecture, and offer practical solutions.   as a sr. it security architect, you will be partnering with various business units in architectural design reviews to ensure the solution have adequate protection to mitigate security risks. domain specific requirements: a successful candidate will have 5+ years security experiences in managing and monitoring of a large array of commercial and open source security management systems expectations of this role are to:
+
+provide directions, guidance, and support to engineering teams on design and implementation of commercially off the shelf (cots) and open source security tools (eg. ossec, osquery), to create scalable, best-of-breed, security services. provide architectural design guidance to ensure user acceptance, cost-effectiveness, and scalability. developed secure integration security frameworks and standards enumerate controls to satisfy compliance obligations and security configuration monitoring. maintain knowledge of security products, industry practice and standards
+
+general requirements:
+
+interpersonal skills to work closely with business units and ensure that security practices are integrated within their technology domains. background in securing multi-tenant services, and/or architecting separation controls in cloud systems. able to provide architectural guidance from high-level design to detailed (hands-on) implementation of security controls. assist in drafting and reviewing company-wide it security strategy and action plans based on security risk and potential threats. understanding of global security and privacy regulation (pci, iso, fedramp, hipaa, cjis, etc.)
+
+qualifications / experiences:
+
+9+ years of relevant work experience, including hands-on technical advisory and coding skills, and proven ability to contribute at both strategic and operational levels. demonstrated technicality across a range of security disciplines. ability to translate technical concepts into language for audiences. a proven ability to build relationships with key stakeholders and business leaders. bachelors in computer science or engineering with an emphasis in information security or a related field, or equivalent experience.
+
+desired skills / experiences:
+
+cissp (certified information system security professional) or equivalent certification and/or expert experience in a major operating system. proficiency in scripting languages: perl, python, powershell, ruby, etc knowledgeable in security trends, products and tooling
+
+  these founding principles have taken our company to great heights, including being named one of forbes's "world's most innovative company” six years in a row and one of fortune's "100 best companies to work for” nine years in a row. we are the fastest growing of the top 10 enterprise software companies, and this level of growth equals incredible opportunities to grow a career at salesforce. *li-y
+
+
+
+
+
+
+
+

@@ -1,0 +1,96 @@
+Salesforce 232--Senior-Software-Security-Developer-Infrastructure-Security.Txt
+
+
+
+
+
+
+the security team at salesforce is building a brand new platform for network segmentation and access control of inter-service communication. we are looking at a state-of-the-art framework that provides automated translation from user specifications of service access rules to various access control points in our cloud infrastructure where these rules are enforced. this control platform spawns different networking layers (from containers, vms, physical servers and networking devices) and technologies (network segmentation, firewalls, hypervisor
+
+and tenants controls).
+
+
+this is a great opportunity for engineers that want a comprehensive technical growth as it involves developing skills on three coordinates:
+
+- security: experimenting with access control/packet filtering techniques and kernel modules, managing and monitoring communication among services.
+
+- networking: exploring and implementing solutions at various osi layers and devices, from physical hosts to containers to network switches.
+
+- development: architecting and coding solutions at kernel/hypervisor level, as well as microservices in ooo languages (golang, python, etc.).
+
+
+
+
+designing and implementing networking access management solutions (software or hardware-based) across different technological stacks (physical devices, bare metal os, hypervisors, vms, docker containers) in salesforce's private and public clouds
+
+optimizing access control management from policy declaration to enforcement points (network acls, host and device-based firewalls, etc.)
+
+researching and implementing new networking security solutions and platforms for service communication and access management (intra and inter-clouds, wan)
+
+performing datacenter network architecture security assessments and architecting iaas/paas platforms to harden security and availability posture
+
+developing and managing production services that support network security infrastructure in a full devops model
+
+
+8+ years of technical experience, including:
+
+
+3+ years experience in network security development
+
+3+ years experience in a high-availability 24x7x365 environment (cloud platforms are a plus)
+
+
+hands-on expertise in network security development, at one or more levels
+
+
+linux kernel: netfilter, nftables/iptables, bpf, xdp, netmap, ipsec
+
+hypervisor/container controls: kvm modules, openstack (neutron, calico), docker cnm
+
+security platforms: ddos prevention, rbac, vpc, vpn, ids
+
+hardware: switch acls, stateful firewalls, network segmentation, security zones
+
+
+proficiency in unix/linux systems (e.g., centos, rhel, or similar) 	 	 	 desired skills/experience
+
+m.sc/m.eng in computer science/engineering or b.a/b.sc. in same disciplines with equivalent years of experience
+
+expertise in osi model, networking investigations and tools (transport, routing and discovery protocols, packet inspection and flow troubleshooting)
+
+hands-on proficiency in building datacenter (security) network infrastructure, especially for large cloud iaas (host bootstrap to data lifecycle, clos architecture, pops)
+
+competence in software-based network technologies (slb, sdn, vxlan, vpn)
+
+experience working with systems from one or more of the following platforms:
+
+
+software: openstack, docker, vmware, illumio
+
+hardware: palo alto, fortinet, arista, cisco systems, juniper networks, force 10, f5 networks, gigamon.
+
+
+proven track of building large-scale paas/iaas, leveraging well-known distributed systems technologies (paxos, raft, zookeeper, kafka, rabbitmq, mongodb, etc.)
+
+command over high-availability design, including multi-site routing, peering, and disaster recovery applications and network architectures
+
+devops mindset and full code ownership (design, code, test, deploy, monitor, maintain)
+
+automation/scripting skills for configuration management/monitoring (puppet, bash )
+
+competence in networking programming and debugging
+
+proficiency in at least one of the following programming languages: golang, java, c/c++, python
+
+
+company overview:   these founding principles have taken our company to great heights, including being named one of forbes's "world's most innovative company” five years in a row and one of fortune's "100 best companies to work for” eight years in a row. we are the fastest growing of the top 10 enterprise software companies, and this level of growth equals incredible opportunities to grow a career at salesforce.      *li-y
+
+
+
+
+
+
+
+
+
+

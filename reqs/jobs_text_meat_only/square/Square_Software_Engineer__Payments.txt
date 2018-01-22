@@ -1,0 +1,20 @@
+Square Software Engineer, Payments
+
+software engineer, payments
+atlanta, ga, usa
+the payments team enables square to move money. from developing infrastructure to working with external partners, we find the best ways to move money across different networks and countries in a way that is cost-effective, available, scalable, secure, and forward-looking.
+as a software engineer on the payments team, you will be responsible for designing, building, and maintaining the payments platform services and infrastructure that move money for square. you will be deeply involved in the technical details of building highly available and reliable services, while also working with product teams to enable square to rapidly build new capabilities for our merchants and buyers all over the world.
+build our payments platform, used by the rest of the organization and a key strategic asset of square
+design and implement high-volume, low-latency, distributed transaction processing systems, making thoughtful tradeoffs between consistency and availability when both are not possible
+abstract away the legacy apis of the financial world into consistent, coherent service apis for square's products to build upon
+build systems that manage customers' sensitive data and hold square to the highest standards for security and compliance
+work cross-functionally with our product, business, and finance teams to develop square's global payments strategy
+see the big picture to design fault tolerant systems so the team can be brave, move fast, and break things, without ever showing a negative impact to customers
+innate curiosity and a desire to be responsible for all aspects of reliably moving billions of dollars in a small, highly focused team
+understanding and curiosity in creating highly available, scalable, low-latency, global systems
+track record of pursuing self directed side projects, research, or open source projects
+interest in changing the payments landscape in the us and globally
+technologies we use:
+java, ruby, go
+guice, guava, protocol buffers, grpc, hibernate, jooq, rails
+mysql, redis, kafka, elasticsearch, hadoop, hive, vertica, airflow

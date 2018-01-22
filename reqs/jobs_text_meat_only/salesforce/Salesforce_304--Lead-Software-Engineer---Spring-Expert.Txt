@@ -1,0 +1,27 @@
+Salesforce 304--Lead-Software-Engineer---Spring-Expert.Txt
+
+
+
+
+lead software engineer, tools team - spring expert
+location:  san francisco, ca salesforce is already recognized for its innovation in the industry. in today's world, our engineers demand amazing tools, which make it extremely simple and fast to further develop and produce cutting edge products. amazingly, this team has been able reduce the app startup times by 2x, optimize artifact downloading and contribute back to numerous open source projects. come join this fantastic team developing tools, frameworks and processes that will impact every engineer and the entire software lifecycle at salesforce! we are seeking developers with deep understanding of java development processes and exposure to building and operating engineering tools and services. drive determinism in to large complex systems and enforce it. the ideal candidate has experience building robust tools and/or frameworks enabling and enhancing a developer's experience while helping to reduce the overall complexities of the software lifecycle. this role is for an experienced software developer with a minimum of 7 years experience.
+
+build a platform that powers your customers — write scalable, performant code that customers love. negotiate and honor cross-team agreements on architecture and delivery take responsibility for your code and features from working with product management all the way through to deployment and support analyze, design and develop test cases and implement automated functional and system test suites value customer and team success over individual productivity master our development process and culture, and then improve it resolve complex technical issues in existing applications to continually learn, improve, and model good citizenship in the organization and code base
+
+
+deep knowledge of spring framework
+when and where would you use aop? how does aop work at runtime? how would you control how others would use aop?
+deep knowledge of design patterns
+how you would implement design patterns for reuse in an ioc container?
+deep knowledge of testing frameworks
+ability to achieve deterministic test results on whole system tests.
+able to describe differing type of couplings in all of the above and how you would avoid them. be able to describe the pitfalls of ioc containers, and spring, and how to avoid them. design technology that encouraged high quality code be produced by our 2000 developers. build tools (e.g. ant, maven) ides (e.g. eclipse, m2e, intellij) exceptional server side programming skills in java demonstrated experience in building high-volume, scalable, multitiered systems demonstrated leadership and communication skills: technical, team, and cross-team bachelor's degree in computer science or equivalent experience 7+ years of experience in engineering understanding of agile/scrum methodology and working experience in agile environment is strongly desired. experience with performance testing is desired
+  these founding principles have taken our company to great heights, including being named one of forbes's "world's most innovative company” six years in a row and one of fortune's "100 best companies to work for” nine years in a row. we are the fastest growing of the top 10 enterprise software companies, and this level of growth equals incredible opportunities to grow a career at salesforce.  *li-y
+
+
+
+
+
+
+
+

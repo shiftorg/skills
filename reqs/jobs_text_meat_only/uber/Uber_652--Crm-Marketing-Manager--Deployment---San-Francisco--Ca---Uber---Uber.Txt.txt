@@ -1,0 +1,35 @@
+Uber 652--Crm-Marketing-Manager--Deployment---San-Francisco--Ca---Uber---Uber.Txt
+
+
+
+
+
+
+this is a unique opportunity to be a part of uber's growing email marketing team. with this role, you'll have the opportunity to join a small team with an ability to make a big impact.
+you will implement and deploy email marketing strategies on uber's internal email platform tools.
+
+you'll collaborate and work closely with various teams and stakeholders from email developers, data analysts, engineers, to crm strategists to ensure all requirements including business rules and logic are brought together to deliver the right email to the right audience at the right time.
+build complex, multi-layer email programs and campaigns on uber's internal email platform tools
+execute a/b testing
+integrate business logic in
+deployment
+to meet marketing strategy requirements
+create relational data tables to drive personalization
+write sql to manage data tables
+communication to stakeholders regarding status updates, launch confirmations, etas, blockers, etc
+perform qa to ensure magnificent email
+deployment
+trouble shoot when issues arise and provide postmortem report
+
+email deployment experience in esp's such as exacttarget, marketo, etc
+familiarity with scripting languages and basic concepts
+solid knowledge of html
+solid knowledge of sql
+some experience with building relational data tables
+high technical aptitude with ability to quickly ramp up against high learning curve
+high attention to detail
+deadline oriented
+ability to collaborate with various teams
+critical thinker with creative solutions to solve challenges and meet business requirements
+strong passion to learn and grow and takes initiative to succeed
+bachelor's degree or equivalent experience

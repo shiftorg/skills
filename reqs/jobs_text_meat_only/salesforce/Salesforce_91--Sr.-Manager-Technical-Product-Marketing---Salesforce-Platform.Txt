@@ -1,0 +1,50 @@
+Salesforce 91--Sr.-Manager-Technical-Product-Marketing---Salesforce-Platform.Txt
+
+
+
+
+sr. manager, technical product marketing, salesforce platform
+
+at salesforce, our world class product marketers create and tell inspirational stories to people around the world.  we develop product messaging and positioning, go to market programs, campaigns, events, and sales enablement. we measure our success by our ability to develop creative and innovative marketing strategies and gain c-level, it director and key buyers' mindshare.
+
+the salesforce platform is at the core of everything salesforce delivers. as a sr. manager on the platform product marketing team, you will be responsible for defining a strategic platform narrative through the lens of customer stories, deep product content, and thought leadership. you will live the customer journey and help inform and retell the magic of how salesforce has helped companies transform. you will align customer storytelling to position against the competition. successful candidates will have a passion for taking the complex and making it simple and for marketing through compelling stories. and the sales team will be one of your most important and strategic internal customers. you will find ways to delight sales and deliver compelling assets to help them over-achieve on their sales goals.
+
+one of the key parts of the salesforce platform that you will be responsible for is heroku, a transformational service that extends the platform capabilities of salesforce. heroku's mission is to make the work of building and deploying applications as seamless and elegant as possible, radically changing the world of app development for the better. you will be responsible for providing a comprehensive view of the cloud native application development market, driving thought leadership strategies and competitive positioning for it leaders. you will also support sales enablement strategies and demand generation spanning events, campaigns, social media programs, references and case studies, and press and analyst relations. successful candidates will have a passion for taking the complex and making it simple and motivating and enabling field selling organizations.
+
+this role requires a strong technical acumen to partner closely with the product management and engineering organization and act as a product advocate and technology evangelist for marketing activities, translating product capabilities into compelling messaging and positioning and developing customer facing materials and use cases that clearly articulate our product value.
+
+required skills/experience :
+
+
+passion for cloud computing including platform as a service and software as a service and how cloud will revolutionize it.
+
+at least 3 years experience in cloud computing (iaas, paas).
+
+5+ years experience in product marketing at an enterprise software or platform company, with a deep understanding of it organizations. extensive background in one or more technology and platform solutions such as mobility, application development, databases, business intelligence or integration.
+
+strong domain knowledge of public cloud vendors (aws, azure, google cloud platform)
+
+strong affinity for app dev as a target market, with a deep understanding of the developer community and the landscape of tools and technologies developers use to bring products to market, including platform-as-a-service, ci/cd, team collaboration, devops, containers, and data services
+
+ability to engage with and earn the respect of both deeply technical it leaders and business leaders. if you have developer cred and experience, that's a big bonus.
+
+strong public speaking skills and ability to develop compelling customer-facing presentations.
+
+ability to sell ideas well through creative & innovative cohesive presentations.
+
+creative thinker that can generate innovative marketing ideas and lead a cross-functional team of stakeholders to drive execution.
+
+proven track record in performing well in a fast-paced environment and organizational skills to manage multiple projects with tight deadlines effectively.
+
+bachelor's degree required, computer science or commensurate experience strongly preferred. mba a plus, but not required.
+
+
+ we are the fastest growing of the top 10 enterprise software companies, the world's most innovative company according to forbes, and one of fortune's 100 best companies to work for six years running. the growth, innovation, and aloha spirit of salesforce are driven by our incredible employees who thrive on delivering success for our customers while also finding time to give back through our 1/1/1 model, which leverages 1% of our time, equity, and product to improve communities around the world. salesforce is a team sport, and we play to win. join us! *li-y
+
+
+
+
+
+
+
+

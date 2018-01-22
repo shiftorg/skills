@@ -1,0 +1,25 @@
+Square Android Engineer, Invoices
+
+android engineer, invoices
+we started with a simple idea—that everyone should be able to accept credit cards—and we've been rethinking buying and selling ever since.
+for sellers, we're creating one cohesive service to run your entire business, from a register in your pocket to analytics on your laptop. for buyers, we're making it faster to order from the businesses you love and more fun to pay your friends back.
+buying and selling sound like simple things—and they should be. somewhere along the way, they got complicated. we're working hard to make commerce easy for everyone.
+the invoices team is helping service professionals succeed and empowering them to run their entire business on square. we build mobile-first products that small businesses depend on, so they can compete in today's digital landscape.  we're a customer focused product team that iterates quickly on features using the build-measure-learn approach.
+our products span the gamut of buyer (customer) and seller (merchant) tools.  we work closely with square's world class design and product team to make the impossible a reality.  much of our work is focused around merchants who provide a service, need help managing time, and have complex workflows.  we regularly work with other teams to help our products come alive and there are great opportunities to mentor, coach and lead engineers.
+do you like helping merchants start, run and grow their business? are you interested in building products that millions of merchants depend on?  mobile is the fastest growing platform for the invoices product, while still in it's early days we've received great customer feedback and see it as an opportunity to change how merchants manage and grow their business.  we're looking for someone to come and help drive the mobile product across the android platform.
+work with our world-class android engineers in a beautiful, ever evolving code base.
+own and drive improvements on app architecture
+learn how to solve challenging software and product problems related to payments, scheduling, distributed systems, and mobile engineering.
+iterate quickly with world class product managers and designers.
+be responsible for the entirety of your features including client structure, server interactions, api design, implementation and automated testing.
+contribute to the broader tech and open source communities.
+build products in a way so we can be brave and move fast without breaking the products that millions of small businesses depend on.
+a strong desire to perform and grow as an engineer.
+an attitude of testing - both unit and instrumentation tests.
+desire to solve hard and engaging engineering problems.
+a bachelor's degree in computer science or equivalent degree.
+2-5 years of software development experience, preferably in java.
+technologies we use and teach:
+android development with java and kotlin
+dependency injection with dagger2
+buck and gradle

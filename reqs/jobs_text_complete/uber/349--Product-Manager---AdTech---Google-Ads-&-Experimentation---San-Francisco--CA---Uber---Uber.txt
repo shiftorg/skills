@@ -1,0 +1,212 @@
+Skip to main content
+ Back
+ Uber
+ Rides on demand
+ Install
+ Ride
+ Drive
+ Help
+ Sign In
+ What city are you in?
+ Become a driver
+ Ride
+ Overview
+ How it Works
+ Fare Estimator
+ Safety
+ Cities
+ Airports
+ Drive
+ Overview
+ Requirements
+ Driver App
+ Safety
+ Rewards
+ Eats and more
+ Uber Eats
+ Uber for Business
+ Uber Freight
+ What city are you in?
+ English
+ Follow Us
+ Facebook
+ Twitter
+ LinkedIn
+ Instagram
+ Enter keyword
+ All teams
+ All teams
+ Advanced Technologies Group
+ Business & Sales
+ Communications
+ Design
+ Engineering
+ Finance & Accounting
+ Global Community Operations
+ Legal
+ Marketing
+ Operations & Launch
+ People Operations
+ Product
+ Public Policy
+ Rentals & Leasing
+ Safety & Security
+ University
+ All subteams
+ All subteams
+ All countries
+ All countries
+ Argentina
+ Australia
+ Austria
+ Bangladesh
+ Brazil
+ Bulgaria
+ Canada
+ Chile
+ Colombia
+ Costa Rica
+ Denmark
+ Ecuador
+ Egypt
+ France
+ Germany
+ Hong Kong
+ India
+ Indonesia
+ Ireland
+ Italy
+ Japan
+ Kenya
+ Korea, Republic of
+ Lithuania
+ Malaysia
+ Mexico
+ Myanmar
+ Netherlands
+ Pakistan
+ Panama
+ Peru
+ Philippines
+ Poland
+ Portugal
+ Saudi Arabia
+ Singapore
+ South Africa
+ Spain
+ Sri Lanka
+ Sweden
+ Taiwan
+ Thailand
+ Ukraine
+ United Arab Emirates
+ United Kingdom
+ United States of America
+ Vietnam
+ All cities
+ All cities
+ Search open roles
+ Search
+ Careers
+ Search open roles
+ Open Roles
+ Product Manager - AdTech - Google Ads & Experimentation
+ Product Management, Product in San Francisco, CA
+ Apply Now
+ About Uber 
+  
+ We’re changing the way people think about transportation. Not that long ago we were just an app to request premium black cars in a few metropolitan areas. Now we’re a part of the logistical fabric of more than 600 cities around the world. Whether it’s a ride, a sandwich, or a package, we use technology to give people what they want, when they want it.
+  
+ For the people who drive with Uber, our app represents a flexible new way to earn money. For cities, we help strengthen local economies, improve access to transportation, and make streets safer.
+  
+ And that’s just what we’re doing today. We’re thinking about the future, too. With teams working on autonomous trucking and self-driving cars, we’re in for the long haul. We’re reimagining how people and things move from one place to the next.
+ About the Role
+  
+ AdTech uses data and insights to optimize advertising spend and grow Uber’s business. In this role, you will be building products to (1) optimize Uber’s ad spend on Google Search/Display/Youtube (2) enable large-scale experimentation for the ads organization.
+ What You’ll Do
+  
+ Understand Google Search Campaign structure, keywords, budget, and bids
+ Understand other campaign types such Universal App Campaigns, YouTube
+ Develop products to optimize bids, targeting, creatives, and landing pages across all Google campaigns
+ Lead the development of an experimentation platform that will be used for evaluating launch candidates across all ads products and channels
+ Use data to ship adtech products that translate into scalable and global business impact
+ Drive cross-functional team to set qualitative objectives and quantitative goals
+ Develop a vision and roadmap, plan deliverables, design and launch products
+ Clearly communicate plans, insights, data and results to executives, other product teams, cross-functional teams such as marketing, operations, finance
+ Evangelize products within global organizations including marketing, ops, finance
+ Monitor and measure launched products and use data for product refinement
+ Internalize Uber’s mission and AdTech team’s mission and objectives
+ Collect data, evaluate opportunities and make prioritization
+ Work with cross-functional team (engineering, data science, etc.) to ship quality products
+  
+ What You’ll Need
+ Minimum of 6 years of Product Management, Operations, Technical Program Management, or Marketing
+ Experience building products from zero to first release
+ Experience applying Machine Learning / statistical inference technologies to a variety of complex problems is highly preferred
+ Understanding of big-data processing pipelines (over Hadoop or similar technologies), distributed data stores, and distributed file systems
+ Prior working experience building a ad targeting platform
+ Knowledge of database architecture / schema
+ Computer science undergraduate degree
+ SQL proficiency
+ Deep analytical expertise
+ Bonus Points If
+  
+ Prior experience working in or with marketing technologies
+ Prior experience working on global projects, or in an international setting
+  
+ About the Team
+  
+ The AdTech team helps Uber spend global marketing budget to maximize impact on Uber’s business. 
+ Apply Now
+ See our Candidate Privacy Statement
+ At Uber we don’t just accept difference—we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Uber is proud to be an equal opportunity workplace. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status.
+ Uber is in 0 cities worldwide
+ City Search
+ Go to Uber.com
+ SIGN UP TO RIDE
+ Become a driver
+ Enter your location
+ English
+ Help
+ Help
+ Facebook
+ Twitter
+ LinkedIn
+ Instagram
+ Ride
+ Drive
+ Cities
+ Fare Estimate
+ Food
+ Business Travel
+ How it Works
+ Airports
+ Countries
+ Safety
+ Careers
+ Helping Cities
+ Our Story
+ Blog
+ Newsroom
+ Media
+ Uber API
+ Gift Cards
+ Uber vs Driving Jobs
+ Top Cities
+ San Francisco
+ London
+ Los Angeles
+ Washington D.C.
+ Mexico City
+ Sao Paulo
+ Top Countries
+ USA
+ France
+ India
+ Spain
+ Mexico
+ Russia
+ © 2017 Uber Technologies Inc.
+ Privacy
+ Accessibility
+ Terms

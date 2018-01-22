@@ -1,0 +1,20 @@
+Uber 627--Data-Engineer---Location--Sensing-&-Perception---San-Francisco--Ca---Uber---Uber.Txt
+
+
+
+
+are you excited by the idea of using bits to move atoms? are you excited to directly impact logistics and transportation in hundreds of cities? are you excited to help move people and things more efficiently around the world? if you have answered yes to any of these questions, you might be a great fit for this team at uber!
+
+we are focused on building robust sensor processing infrastructure that can scale to our explosive growth. our data pipelines and extract signal from vast amounts of sensor data to provide insight to all of uber's downstream services.
+we are looking for an engineer who is excited to make an impact and has the skills to match. if you join our team, you will be working on some of the most interesting and challenging problems with a world class team that values growth and camaraderie.
+
+here are the kinds of skills we're looking for:
+architecture chops. you should have opinions on constructing software systems and good knowledge of the principles of fault-tolerance, reliability and durability.
+experience designing and deploying high performance production services with robust monitoring and logging practices.
+capacity for courageously evaluating tradeoffs between correctness, robustness, performance, space, and time.
+ability to build and interact with very large data processing pipelines, distributed data stores, and distributed file systems.
+strong programming and algorithmic skills (we mainly use java & python).
+experience in the following is a plus but not required: hdfs, s3, kafka, storm, samza, spark, emr, java, or python
+be sure to check out the
+uber engineering blog
+to learn more about the team.

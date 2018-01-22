@@ -1,0 +1,18 @@
+Salesforce 102--Security-Architect-_-Detection-&-Response.Txt
+
+
+
+
+security is our #1 priority. "nothing is more important than the security of our service and customer data." we're looking for a security architect that has demonstrated a strong ability to create and execute upon a vision and strategy across cloud security services. large scale, cloud based technology and deep security experience is a must for this role. the architect leading this area will drive the strategic direction and execution for end-to-end security to support the scale and reliability needed for the continued growth of our customer base, the evolving security and regulatory landscape and the protection of our customer's data against adversaries. responsibilities:
+design and implement architectural roadmaps for security of our cloud infrastructure architect solutions to enhance security incidents detection, correlation and response capabilities partner with security engineering team in building next generation detection and response platform. build a cohesive plan for advanced detection techniques using behavior analytics and machine learning. plays very exciting and major roles in modernizing security technologies such as nids, ips, end point detection, anti-malware detection (amd), event, file & db logging & monitoring(siem), threat hunting and solutions. create security reference architectures that will serve as a template for existing and future solutions deliver long range plans that clearly demonstrate customer value and exceed customer expectations establish credibility as a trusted advisor to stakeholders including customers, executives, peers, and employees
+
+demonstrated success and influence in the cloud services technology security space experience architecting solutions and systems in the cloud security services space familiar with threat models for large, distributed systems and cloud-based infrastructure 10+ years experience in technology security (related to detection & response and other areas as needed) demonstrated experience creating effective security strategies strong influencing, communication and general interpersonal skills driven customer advocate knowledge of secure infrastructure architectures, application architectures, compliance, government cloud, encryption and broader security technologies knowledge of a broad range of attack vectors and exploits computer science degree
+ we are the fastest growing of the top 10 enterprise software companies, the world's most innovative company according to forbes, and one of fortune's 100 best companies to work for six years running. the growth, innovation, and aloha spirit of salesforce are driven by our incredible employees who thrive on delivering success for our customers while also finding time to give back through our 1/1/1 model, which leverages 1% of our time, equity, and product to improve communities around the world. salesforce is a team sport, and we play to win. join us! *li-y
+
+
+
+
+
+
+
+

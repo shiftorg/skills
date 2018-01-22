@@ -1,0 +1,40 @@
+Uber 499--Frontend-Developer--Uber-Freight---San-Francisco--Ca---Uber---Uber.Txt
+
+
+
+
+about the role
+
+we're looking for experienced, passionate frontend developers to work on our team. specifically, we organize our efforts into four cross-functional teams focused on the app experience, the operations experience, tools for shippers and finally marketplace dynamics.
+
+carrier experience
+the carrier experience team is a cross-functional team where backend, android and ios engineers work together with design to build products we feel will provide better opportunities for truck drivers to maximize their revenue and flexibility. our flagship product is a mobile application (available on ios and android) that helps uber freight's primary goal of automating the freight industry by giving drivers the ability to book their own loads and control their own schedules. we are a #driverobsessed team, and care deeply about our users and continually look for opportunities to improve their lives.
+
+operations experience
+the operations experience group aims to make every uber freight operations person a superhero. this means building fast, informative tools to speed up the workflows around creating, selling, and booking freight; it means becoming automation obsessed to maintain a lean, quality-obsessed organization even as we scale dramatically; it means building predictive models and alerting mechanisms so we can address loads at risk of operational failure before the problems ever happen.
+
+marketplace dynamics
+the marketplace dynamics  group is all about the intersection of market signals and business strategy. its mission is to ensure that uber freight has the data, processes, and tools to build and maintain a healthy marketplace. that means building intelligent pricing engine and quoting tools so that our operations teams can bid and sell with confidence
+
+at scale
+; that means building data structures to track the buy-offer-sell spreads of our freight; that means building a dynamic optimally  priced marketplace to ensure that our drivers are the most fairly paid in the industry.
+
+shipper experience
+the shipper experience team is building tech to scale the demand for uber freight's marketplace. the team is challenged with addressing diverse needs from the world's largest shippers to the smallest, and we are focused on replacing antiquated industry technology with open apis, intelligent analytics, and reliable supply chain management and transparency.
+
+come help us shape the future of one of the largest industries in the world.
+
+as a frontend engineer on the uber freight team, you will write client-side code for web applications used across the world to improve uber's core logistics brokerage experience. at uber, our teams operate our business through amazing web experiences built specifically to deliver value to customers, whether on the supply or demand side of our market. working with backend and mobile engineers, you will create and maintain impactful tools critical to keeping uber exciting and new, delivering value to both riders and drivers across the globe. we need people who are passionate about developing impactful, high performance web applications using up-to-date technologies and patterns.
+bs/ms/phd in computer science or related field
+consistent record of shipping high-quality features
+expertise in javascript, html, css, and experience with libraries like sass, less
+knowledge of javascript frameworks like react, angular, backbone
+experience with node.js, grunt, gulp, or other server-side javascript technologies and tools
+familiarity with principles of good user experience
+knowledge of the principles of accessibility and ability to create products that are accessible to users with disabilities, a plus
+
+about the team
+
+trucks move everything you buy, why shouldn't booking a truck be as seamless as booking an uber?
+
+uber freight connects shippers with carriers / truck drivers, much like the way the uber connects riders and drivers. the uber freight team believes that empowering truck drivers will bring more open, efficient, and increasingly safer transportation to our roads. we are a team of sharp, entrepreneurial individuals who are redefining the movement of goods around the world. we are currently looking for candidates to join our growing team who share our enthusiasm for tackling today's toughest challenges in transportation.

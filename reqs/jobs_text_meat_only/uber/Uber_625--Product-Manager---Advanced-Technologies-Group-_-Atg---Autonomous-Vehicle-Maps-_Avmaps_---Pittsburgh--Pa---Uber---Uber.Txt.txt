@@ -1,0 +1,23 @@
+Uber 625--Product-Manager---Advanced-Technologies-Group-_-Atg---Autonomous-Vehicle-Maps-(Avmaps)---Pittsburgh--Pa---Uber---Uber.Txt
+
+
+
+
+
+self-driving vehicles have the potential to make our roads safer, more connected, and less congested and at uber atg, we are building the technologies and teams to bring these benefits to the world.  as an uber atg pm, you will help technical teams of engineers, data scientists, and designers develop and scale software platforms that are critical to autonomous cars, helping deliver on uber's mission of “transportation as reliable as running water for everyone, everywhere.”
+
+maps are at the core of getting self-driving vehicle software operating in the real world, enabling self-driving ubers to know where they are in the world, in a city block, in a lane...to the centimeter.  beyond this, our maps also encode critical information about static objects including traffic lights, stop signs, etc. because our self-driving vehicles can't operate where there is no avmap, this team is near the “tip of the spear” in terms of where our vehicles can be deployed. as such, avmaps is the team that will fundamentally accelerate deployment of driverless technology at scale.  this means producing thousands of miles of maps per month, with near real-time, scalable awareness of current issues as well as efficient updates & fixes.
+
+
+as the pm for avmaps, you will be the product champion for making mapping truly “push button” by developing, improving, and shipping highly efficient tools and processes needed to produce and release maps.  you will be responsible for facilitating the feedback flow between map production operators, operations, design and engineering, in order to ensure impactful product improvements.  lastly, you will always truth-seek to new opportunities to accelerate high quality development & deployment of av maps at uber atg.
+
+this is a ground-zero opportunity to usher in a fundamental paradigm shift in transportation and technology, to solve really hard problems, and to experience explosive professional growth with the smartest minds in the industry. we hope you're as excited about it as we are.
+
+
+strong product judgment, vision, focus, and a bias towards action for your teams
+deep background in building scalable systems.
+computer science undergraduate degree or equivalent plus hands-on software engineering experience. technical understanding must go from the highest abstractions down to the metal.
+5+ years experience delivering highly successful and innovative software products with your fingerprints all over them - you're extremely proud of what you've accomplished
+a high bar across the board - from your own contributions to the people you work with to the products you work on.
+grittiness. you never hesitate to roll up your sleeves and tackle something hands-on, you persevere when others fall away.
+true passion for uber's mission and self-driving vehicles

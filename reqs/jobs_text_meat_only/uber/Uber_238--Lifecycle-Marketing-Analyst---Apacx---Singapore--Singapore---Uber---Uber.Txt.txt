@@ -1,0 +1,26 @@
+Uber 238--Lifecycle-Marketing-Analyst---Apacx---Singapore--Singapore---Uber---Uber.Txt
+
+
+
+as a lifecycle marketing analyst, you will leverage our datasets to guide lifecycle programs for onboarding, engagement, churn prevention and reactivation.  by consulting our teams to optimize spend and maximize customer life stage migration, you will get the opportunity for in country, regional and global collaboration.
+
+take a data driven approach to plan, analyze and optimize rider, driver and eaters activation, engagement and reactivation campaigns
+develop analytical frameworks and metrics to measure ongoing business performance, understand key drivers, and improve campaign effectiveness
+create campaign performance dashboards to report key metrics with the ability to drill down by city and segment level performance
+identify actionable insights and recommendations to support strategic decision making
+provide technical expertise in campaign flow design, data mining and business performance measurement using advanced database engineering
+
+
+a bs/ms in engineering, finance, marketing, computer science, mathematics, economics, statistics, or equivalent experience.
+minimum of 2 years of analytical and database experience.
+excellent in sql, python, r, hive skills.
+excellent data visualization skills.
+experience creating dashboard reporting in tableau, d3 or a similar visualization tool.
+the ability to balance attention to detail with swift execution.
+
+
+marketing analytics or consulting experience is a plus.
+
+
+the data and analytics team plays an important role in defining overall modeling methodologies, project priorities and business direction. as we continue to strive for efficiency, the team's ability to collaborate with marketers, engineers and product leads alike adds value at every stage of our growth.  from testing campaigns to identifying targeting models for implementation, our analysts continue to have visible impact on the success of our various products and markets in apac.
+

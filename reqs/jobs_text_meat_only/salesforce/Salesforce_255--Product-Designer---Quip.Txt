@@ -1,0 +1,20 @@
+Salesforce 255--Product-Designer---Quip.Txt
+
+
+
+
+product designer - quip quip, a salesforce company, is on a mission to change the way teams work together. we're doing this by building a new class of productivity tool that every person at every company enjoys using every single day. we're looking for a hard-working, critically-thinking, and self-motivated product designer to join the small and passionate quip design team. this designer must excel at visual design work (both working within visual systems and inventing new visual systems), possess proven interaction design experience, and be confident and comfortable navigating all aspects of the design process. the ideal candidate has significant experience designing beautiful, effective web, mobile, and desktop applications with user-focus, a creative mindset, and pixel-perfect attention to detail. this person must be able to understand the underlying business objectives, rapidly problem solve though mockups and prototypes, and positively respond to creative feedback. we're looking for someone who is comfortable with autonomy and ambiguity, capable of providing product direction, and driving consensus on their team, while working collaboratively with product managers, engineers, and executive stakeholders. responsibilities:
+transform complex ideas into proposals for simple and elegant user-friendly designs rapidly create full-fidelity mockups and prototype interactive features for new quip product functionality participate in design critiques, presenting your work with variations and rationale, as well as feedback for others' compellingly communicate your ideas to, and incorporate the ideas of, a wide variety of teammates and stakeholders generate detailed specifications and export engineering-ready assets of final designs work side-by-side with engineers to ensure your work functions as well in production as it does in your design
+
+a portfolio of visual and interactive application design work that includes process work with variations, rationale, prototyped interactive explorations, and lessons learned knowledge of design fundamentals including layout, color, typography, and tone experience working closely with software engineers and a basic understanding of how things are built humility, a sense of humor, and the ability to give creative feedback
+nice to have:
+
+technical expertise including html, css, javascript, swift, objective-c, etc. and framework awareness print design work and a traditional graphic design background including a degree in graphic design, visual communication design, interaction design, human-computer interaction, or similar program side projects and branding work
+
+
+
+
+
+
+
+

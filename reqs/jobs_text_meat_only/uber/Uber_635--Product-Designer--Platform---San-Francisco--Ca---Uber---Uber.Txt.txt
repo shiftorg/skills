@@ -1,0 +1,22 @@
+Uber 635--Product-Designer--Platform---San-Francisco--Ca---Uber---Uber.Txt
+
+
+
+
+uber is seeking designers experienced in systems design to join our team. come shape and invent ways to scale the design ecosystem at uber.
+
+the design platform team is looking for a team-member with significant experience designing systems - someone who is a systems thinker at heart, is equally amazing in interaction design, visual design, and prototyping, and has experience establishing and evolving design patterns at scale. in this role you will be working collaboratively with product management, design, and engineering teams to execute designs that will inform the global design system by which our various web apps are designed and built on.
+
+you are an excellent communicator, comfortable in a fast-paced, growing environment, and passionate about scaling design systems to achieve consistent, high-quality experiences while developing the uber digital brand. this position is full-time and based in san francisco. the role requires great execution, bold innovation, passion for quality, and optimism to be inspired by the unknown and never settle, solving problems with creativity while keeping the user in mind and aspiration to take projects to the finish line.
+
+learn more about the design team and the work being done here
+https://www.uber.design
+.
+
+to be a champion of consistency, quality, and efficiency. you understand the benefits of recycling design patterns but know when it's time to improve their design for broader use cases, effectiveness or consistency with the system at large.
+to have shipped product. you've weathered release cycles and know what details matter at each stage, how to motivate engineers to get the fit and finish right, how to translate insights from user studies into meaningful action, and what's most likely to go afoul at each stage. you can share several shining examples of real work you've shipped, and what you learned along the way.
+speed, resourcefulness, and go-getter attitude. you are a self starter and able to lean in when necessary to push a project over the finish line. you come up with creative solutions to completing projects in less-than-ideal situations. a lack of resources doesn't stop you. you enjoy the opportunity of finding ways to get it done.
+prototyping as a key part of your toolset. you've prototyped on multiple platforms. you've made last-minute tweaks between user studies. you know how to be all kinds of quick and dirty, but dream of better prototyping tools.
+you believe in craftsmanship and create elegant and compelling designs, over and over. your portfolio is eye-wateringly beautiful. you have deep knowledge of microinteractions in use (on mobile, web, desktop, etc), and have nuanced views on how to make many of them even better. your standards are very high, and you constantly strive to elevate your abilities.
+technical abilities. you don't necessarily have to be able to build your own web app but you're fluent in the technologies needed to create the framework. bonus points if you're savvy in html/css.
+cross-platform skills. you've shipped something across several platforms. you know what translates from desktop and what doesn't, or why you'd opt for one solution for ios and another on android. while this role is mobile-specific, you'll be designing for a system with touchpoints across all platforms, and understanding the nuances of each is important.

@@ -1,0 +1,25 @@
+Square Compliance Data Manager
+
+compliance data manager
+we believe everyone should be able to participate and thrive in the economy. so we're building tools that make commerce easier and more accessible to all.  we started with a little white credit card reader but haven't stopped there. our new reader helps our sellers accept chip cards and nfc payments, and our cash app lets people pay each other back instantly.   we're empowering the independent electrician to send invoices, setting up the favorite food truck with a delivery option, helping the ice cream shop pay its employees, and giving the burgeoning coffee chain capital for a second, third, and fourth location.  let's shorten the distance between having an idea and making a living from it. we're here to help sellers of all sizes start, run, and grow their business—and helping them grow their business is good business for everyone.
+the compliance team at square is looking for an extraordinary individual to join our team as our compliance data manager.
+as part of the compliance product and strategy team,
+you will be responsible for driving the analysis for key decisions and insight across the compliance organization. you will build and automate actionable reporting for key compliance processes, improving compliance infrastructure and platforms.
+build and automate actionable reporting for key compliance processes
+develop a deep understanding of data quality across many of square's systems, consolidating data from many disparate sources to create analytical framework, roadmaps, and metrics for the broader compliance organization (for example: supply and demand modeling, kpi reporting, and machine learning recommendations)
+work with engineering teams to understand the intricacies of legacy data
+partner and develop strong relationships with the compliance team to understand and synthesize the ways in which compliance utilizes data and uncover ways to optimize operational processes
+provide regular, timely reporting and performance monitoring to compliance leads and other key business stakeholders
+lead and project manage technical work and analyses produced by the compliance analytics team and mentor junior members of the team
+at least 5 years experience in an analytics role
+expert in sql (experience with vertica a plus)
+excellent communication skills
+b.a. or b.s. in quantitative field (i.e. mathematics, statistics, economics, computer science, engineering sciences) – master's or phd degree is a big plus
+experience working cross-functionally across all areas in a company
+strong sense of ownership for your work
+exceptional problem-solving skills
+previous management experience
+experience in looker, airflow, python, git
+consumer financial product/
+payments/fintech experience a plus
+machine learning, statistical modeling or data mining expertise

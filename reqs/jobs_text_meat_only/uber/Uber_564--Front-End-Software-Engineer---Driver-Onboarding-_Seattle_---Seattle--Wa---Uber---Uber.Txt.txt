@@ -1,0 +1,23 @@
+Uber 564--Front-End-Software-Engineer---Driver-Onboarding-(Seattle)---Seattle--Wa---Uber---Uber.Txt
+
+
+
+
+the driver growth team at uber is one of the fastest growing, most critical teams working on growing the number of partners in uber's two-sided marketplace. our goal is to help our driver-partners across the world join the uber platform efficiently and at scale, and create tools and products that help them improve their earnings and ultimately drive long-term growth and loyalty.
+
+our team develops the engine that powers hundreds of thousands signups every month, works on creative product solutions to drive engagement and delight, leverages social elements to cultivate an excellent partner network and above all, make driving with uber a fun and fulfilling experience.
+
+as a front end engineer you will make an impact in the real world using exciting and new technology. you will work in small, multidisciplinary teams, releasing code to people as fast as possible. your passion and expertise in all things html, css, and javascript, and your ability to work closely with designers will bring the best experiences possible without being hindered by legacy browsers in an exciting environment.
+
+web technologies.
+you've built side projects or professionally utilize the latest stacks and libraries such as node.js, react, angular, rails, less, sass, coffeescript, etc. you are excited by the amazing pace that the web continues to evolve. you seek new methods and tools to make great websites faster and better, both on the front-end and back-end.
+action.
+you believe that speed and quality can be achieved at the same time. you've shown good judgement, shipping as fast as possible, products that are built in a responsible and sustainable way. you're willing to make mistakes along the way because you learn from them.
+make teams better.
+you're excited to lead a team to the finish line or work hard on new opportunities. you work well in fast moving teams and have no problem working with others to resolve difficult problems. you support your team as much as your team supports you.
+
+be sure to check out the uber engineering
+blog
+to learn more about the team.
+
+

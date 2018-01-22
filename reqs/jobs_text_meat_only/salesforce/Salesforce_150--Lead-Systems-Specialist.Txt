@@ -1,0 +1,75 @@
+Salesforce 150--Lead-Systems-Specialist.Txt
+
+
+
+
+
+
+job title: lead systems specialist - salesforce on salesforce location: san francisco
+
+
+ we are the fastest growing of the top 10 enterprise software companies, the world's most innovative company according to forbes, and one of fortune's 100 best companies to work for six years running. the growth, innovation, and aloha spirit of salesforce are driven by our incredible employees who thrive on delivering success for our customers while also finding time to give back through our 1/1/1 model, which leverages 1% of our time, equity, and product to improve communities around the world. salesforce is a team sport, and we play to win. join us!
+
+
+description:
+
+the platform enablement team within the it enterprise operations organization focus on the internal success of salesforce on salesforce. the team collaborates with r&d leadership to evaluate new product features and champion the adoption within our internal salesforce instances. as the lead system specialist, salesforce on salesforce, the person will be responsible for the operation of enabling new product features for the 3 times a year major releases and provide oversight of the adoption of emerging technologies on einstein and lightning platform. this individual contributor role will be a key contributor in the strategic salesforce on salesforce program which will enable salesforce to showcase our internal usage of salesforce platform on the latest technologies.
+
+
+
+establish and run the standard operations for assessing and enabling new product features
+
+establish process and tools to proactively monitor the usage of new product features
+
+maintain new feature enablement dashboard with progress and status update, leveraging tool such as smartsheet
+
+maintain inventory of product feature gaps and target resolution date
+
+compile user adoption metrics for new product features through einstein analytics
+
+lead knowledge sharing and establish process for project hand-off and knowledge transfer
+
+manages project delivery in a fast-paced support environment, driving all issues to resolution with a strong focus on customer satisfaction and efficient task execution
+
+
+
+
+4+ years of experiences as salesforce program manager in large, complex environment (10,000+ seats)
+
+10+ years of experiences as crm analyst or project manager
+
+solid knowledge and experience of salesforce products (sales cloud and service cloud)
+
+ability to coordinate with large cross functional business stakeholders
+
+experience with collaborating with salesforce r&d groups to rollout new product features in a large complex customer org
+
+experience with communicating with business and r&d partners to prioritize demands for the team
+
+excellent verbal communication skills in articulating the functional and technical aspects of the new product feature
+
+champion of salesforce it ohana culture with a focus of can do attitude
+
+
+
+
+experiences with rollout out emerging technologies such as lightning, salesforce1, wave, and einstein
+
+experiences with managing the salesforce platform in a multi-org environment
+
+experience in it change management process
+
+experience in user change management
+
+  these founding principles have taken our company to great heights, including being named one of forbes's "world's most innovative company” six years in a row and one of fortune's "100 best companies to work for” nine years in a row. we are the fastest growing of the top 10 enterprise software companies, and this level of growth equals incredible opportunities to grow a career at salesforce. 
+
+
+
+
+
+
+
+
+
+
+

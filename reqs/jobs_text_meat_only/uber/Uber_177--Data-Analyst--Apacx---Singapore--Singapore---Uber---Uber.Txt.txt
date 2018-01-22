@@ -1,0 +1,27 @@
+Uber 177--Data-Analyst--Apacx---Singapore--Singapore---Uber---Uber.Txt
+
+
+
+
+
+we are looking for a data analyst/scientist to join uber's operations team to drive analytical insights for our apac cities. in this role, you will leverage our immense datasets (i.e mobile event, rider and driver behavior, geolocation, payment) and work with city teams, product managers, and engineers to drive decision making at the city, regional and global level.
+
+this role is a great fit for candidates who have a strong data science background and are interested in turning their analysis skills toward solving operational and strategic problems.
+
+
+dig through our extensive datasets to find actionable insights for city teams
+run experiments across the world to help continuously improve our business
+build machine learning models to help optimize our operations globally
+work with data teams across the company (i.e. product, engineering, finance) on cross-functional projects
+
+
+extensive experience with common analysis tools - sql, r, python, julia or similar. demonstrable familiarity with programming concepts.
+2+ years experience in quantitative analytical roles
+highly analytical and able to extract key insights from data then communicate them clearly and effectively to stakeholders
+advanced knowledge of experimentation and statistical methods
+ability to work in high growth, ambiguous environment
+graduate degrees are a plus
+
+
+the apac analytics & insights team works with regional partners across functions to drive data-driven strategic and operational decision-making. we do this by developing high-impact tools and analyses as well as performing deep dives and quantitative research on different areas of the business.
+the team ensures consistent analytical rigor and fosters synergy across business lines by being embedded within the transport, eats, marketing, strategy, and commops businesses.

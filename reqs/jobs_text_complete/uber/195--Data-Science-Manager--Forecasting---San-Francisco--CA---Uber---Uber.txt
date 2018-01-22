@@ -1,0 +1,189 @@
+Skip to main content
+ Back
+ Uber
+ Rides on demand
+ Install
+ Ride
+ Drive
+ Help
+ Sign In
+ What city are you in?
+ Become a driver
+ Ride
+ Overview
+ How it Works
+ Fare Estimator
+ Safety
+ Cities
+ Airports
+ Drive
+ Overview
+ Requirements
+ Driver App
+ Safety
+ Rewards
+ Eats and more
+ Uber Eats
+ Uber for Business
+ Uber Freight
+ What city are you in?
+ English
+ Follow Us
+ Facebook
+ Twitter
+ LinkedIn
+ Instagram
+ Enter keyword
+ All teams
+ All teams
+ Advanced Technologies Group
+ Business & Sales
+ Communications
+ Design
+ Engineering
+ Finance & Accounting
+ Global Community Operations
+ Legal
+ Marketing
+ Operations & Launch
+ People Operations
+ Product
+ Public Policy
+ Rentals & Leasing
+ Safety & Security
+ University
+ All subteams
+ All subteams
+ All countries
+ All countries
+ Argentina
+ Australia
+ Austria
+ Bangladesh
+ Brazil
+ Bulgaria
+ Canada
+ Chile
+ Colombia
+ Costa Rica
+ Denmark
+ Ecuador
+ Egypt
+ France
+ Germany
+ Hong Kong
+ India
+ Indonesia
+ Ireland
+ Italy
+ Japan
+ Kenya
+ Korea, Republic of
+ Lithuania
+ Malaysia
+ Mexico
+ Myanmar
+ Netherlands
+ Pakistan
+ Panama
+ Peru
+ Philippines
+ Poland
+ Portugal
+ Saudi Arabia
+ Singapore
+ South Africa
+ Spain
+ Sri Lanka
+ Sweden
+ Taiwan
+ Thailand
+ Ukraine
+ United Arab Emirates
+ United Kingdom
+ United States of America
+ Vietnam
+ All cities
+ All cities
+ Search open roles
+ Search
+ Careers
+ Search open roles
+ Open Roles
+ Data Science Manager, Forecasting
+ Data Science, Engineering in San Francisco, CA
+ Apply Now
+ About Uber 
+  
+ We’re changing the way people think about transportation. Not that long ago we were just an app to request premium black cars in a few metropolitan areas. Now we’re a part of the logistical fabric of more than 600 cities around the world. Whether it’s a ride, a sandwich, or a package, we use technology to give people what they want, when they want it.
+  
+ For the people who drive with Uber, our app represents a flexible new way to earn money. For cities, we help strengthen local economies, improve access to transportation, and make streets safer.
+  
+ And that’s just what we’re doing today. We’re thinking about the future, too. With teams working on autonomous trucking and self-driving cars, we’re in for the long haul. We’re reimagining how people and things move from one place to the next.
+  
+ About the role
+ The Marketplace team is looking for an experienced, passionate data science manager to lead and scale a functional team devoted to supply and demand forecasting.  Forward projections of drivers and riders, across multiple timescales and varying levels of spatial granularity, are crucial building blocks for Uber’s pricing and supply positioning systems.  Creating and updating these forecasts in response to a rapidly changing world is a fascinating and challenging problem, which must be solved in real time leveraging enormous data sets.
+ About the Team
+ Within Uber, the Marketplace organization focuses on achieving market balance, matching the supply of drivers with demand from riders, and building the technology to optimize the reliability and availability of Uber's trip fulfillment.  We are the brain of Uber, tackling the company’s most challenging quantitative problems: optimizing Uber's dynamic pricing system; providing real time positioning guidance to drivers; optimizing dispatches of drivers and couriers to incoming requests; matching riders together for UberPool, and many more.
+  
+ What You'll Need
+ Excellent educational background in statistics, applied math, computer science, operations research, economics, or a related field.  Masters or PhD degree preferred.
+ At least 5 years industry experience in time series modeling or machine learning, with significant personal experience as a technical contributor.  Experience working with large data sets; experience with spatial data a plus.
+ At least 3 years experience as a frontline manager, leading teams of 5 or more.  As manager, you will manage several direct reports initially and will have the opportunity to create, scale and nourish a team of experienced professionals.
+ Entrepreneurial. Everywhere you go, you can't help but mobilize people, create things, resolve problems, roll up your sleeves, collaborate, go above and beyond. You are an insatiable doer and motivator of others.
+ Excellent execution and organization. This team will be working with engineers and product leads at the forefront of the development cycle. To excel in this role, you should be comfortable executing with little oversight and be able to adapt to problems quickly.
+ Strategic mindset - you're comfortable thinking a few steps ahead of where the team is now and foreseeing new opportunities and challenges before others see them.
+ Experience with common analysis tools - SQL, R, and Python. Demonstrable familiarity with code and programming concepts.
+ Apply Now
+ See our Candidate Privacy Statement
+ At Uber we don’t just accept difference—we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Uber is proud to be an equal opportunity workplace. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status.
+ Uber is in 0 cities worldwide
+ City Search
+ Go to Uber.com
+ SIGN UP TO RIDE
+ Become a driver
+ Enter your location
+ English
+ Help
+ Help
+ Facebook
+ Twitter
+ LinkedIn
+ Instagram
+ Ride
+ Drive
+ Cities
+ Fare Estimate
+ Food
+ Business Travel
+ How it Works
+ Airports
+ Countries
+ Safety
+ Careers
+ Helping Cities
+ Our Story
+ Blog
+ Newsroom
+ Media
+ Uber API
+ Gift Cards
+ Uber vs Driving Jobs
+ Top Cities
+ San Francisco
+ London
+ Los Angeles
+ Washington D.C.
+ Mexico City
+ Sao Paulo
+ Top Countries
+ USA
+ France
+ India
+ Spain
+ Mexico
+ Russia
+ © 2017 Uber Technologies Inc.
+ Privacy
+ Accessibility
+ Terms

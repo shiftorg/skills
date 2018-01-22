@@ -1,0 +1,52 @@
+Square Software Engineer Intern (Atl)
+
+software engineer intern (atl)
+atlanta, ga, usa
+intern
+we started with a simple idea - that everyone should be able to accept credit cards - and we've been rethinking buying and selling ever since. for sellers, we're building one cohesive service to run your entire business, from a register in your pocket to analytics on your laptop. for buyers, we're making it faster to order from the businesses you love and more fun to pay your friends back. buying and selling sound like simple things - and they should be. somewhere along the way, they got complicated. we're working hard to make commerce easy for everyone.
+this job posting is for the
+atlanta
+office only.
+our interns in software engineering are responsible for keeping square simple and making our users faster and smarter by giving them a designed payments experience and rich data surrounding each transaction. we're looking for smart engineers of all shapes and sizes, capable and passionate about building extraordinary software and solving hard problems. our challenges span many technologies, from web and mobile applications (ios, android) to server-side development (java and/or ruby). our engineers work on small teams with people across engineering, product, and creative, building reliable, fast, responsive, and beautiful software.
+design: implement pixel perfect designs that defy user expectations.
+reliability: ensure square works right, every time, by using testing, continuous integration, and in-depth code reviews.
+security: build interactions and apis that reinforce trust, increase security, and make it harder to do the wrong thing.
+analytics: collect all the data around every transaction and turn it into tools that help our users.
+products: envision entire new products, features, and flows that are inspired, considered, and magical.
+fraud: make quick decisions on millions of dollars which require good judgment, through diligence, and passion for detecting bad actors and preventing loss.
+machine learning: build and refine powerful machine learning models that automate decisions, prioritize our work, and change the behavior of square's products in real time.
+teams
+below are the descriptions of square's engineering teams that are in atlanta.
+billing
+
+- square's billing team is responsible for building out square's internal billing system - this enables square to automatically bill merchants for their subscription to square services such as payroll, appointments, or employee management.
+
+as a software engineer on the billing team, you will be responsible for designing, building, and maintaining services that ensure square merchants are accurately billed. you will be deeply involved in the technical details of building highly available and reliable services, while also working with product teams to enable square to rapidly build new tools for our merchants and buyers all over the world.
+catalog
+
+- the catalog team manages the items and inventory software that square merchants use to track and sell their products. items and inventory support all types of merchants, from food trucks with just a few menu items to retail stores with thousands of skus. our full-stack team maintains the backend services and database that stores items, the web interface that edits items, and the android and ios apps that ring up products at the point of sale.
+
+identities
+
+- the identities team maintains both the data store that represents square's core merchant model and the authentication system merchants use to access square services. we curate merchant data (i.e. merchants, locations, employees, devices), provide authentication services (login, two-step verification, ddos protection), all with highly availability while handling thousands of queries per second.
+
+as a software engineer on the identities team, you will be responsible for designing, building, and improving the merchant model or authentication system. you will be deeply involved in the technical details of building highly available and reliable services, while also working with product teams to enable square to service a wider range of merchants across the globe.
+
+orders
+
+- the orders team builds platform software that coordinates transaction flow logic across square's products. we represent the agreement between a buyer and a seller, and facilitate the execution of that agreement by orchestrating the exchange of goods, services, and funds. we are a new team that will ultimately tie together many software components across square, allowing developers to quickly combine new and existing components to build out new features on top of square's platform.
+payments
+
+- as a software engineer on the payments team, you will be responsible for designing, building, and maintaining the payments platform services. this involves interacting with payment gateways and ensuring that payments continue to flow through square systems into banks and vice versa. you will be deeply involved in the technical details of building highly available and reliable products and services for our sellers all over the world.
+pursuing a degree in computer science, electrical engineering, math or related technical field, graduating between december 2018 and june 2021.
+square internships are 12-weeks.
+programming experience in one or more object-oriented languages, including c, c++, objective-c, java, ruby, scala, go, and/or python.
+perks
+education / foundational / social events
+lunch
+
+‘n
+
+learn workshops
+tons of internal social clubs to get plugged in ( latinx, squeers, womeng, new grads!, etc.)
+fully stocked micro-kitchens

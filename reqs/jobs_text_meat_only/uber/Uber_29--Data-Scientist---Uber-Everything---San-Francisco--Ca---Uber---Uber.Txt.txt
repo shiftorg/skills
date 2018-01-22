@@ -1,0 +1,24 @@
+Uber 29--Data-Scientist---Uber-Everything---San-Francisco--Ca---Uber---Uber.Txt
+
+
+
+
+
+
+are you interested in working at the intersection of applied quantitative research, engineering development, and data science? do you have interest in developing and applying quantitative solutions related to uber's uniquely challenging problems? if so, then this is the job for you.
+
+
+
+
+uber everything data scientists help solve the most challenging problems related to uber's ambitious initiatives in the logistics delivery space, such as uber eats and uber rush. these fascinating and difficult problems include personalized search and recommendation, travel and food preparation time prediction, text mining and natural language processing, demand and supply forecasting, growth and spend optimization, dynamic pricing, dispatch and routing optimization, and many more. to solve these problems, data scientists leverage unique data sources diverse in both geographical and temporal dimensions and in both structured (data from app sessions, trips, etc.) and unstructured (menu descriptions, food photos, support contacts, etc.) forms.
+
+since uber everything data scientists focus on the mathematics and engineering related to optimizing the growth and economics of uber's logistics delivery marketplace, particular preference is given to candidates with backgrounds in ai & machine learning, statistics, operations research, economics, or similar.
+
+
+we are looking for people with advanced quantitative degrees who are comfortable enough with research methodologies that they can address abstract business and product problems with extreme precision, and who have the enthusiasm and initiative necessary to deliver those answers at uber's fast pace. you should also have demonstrable programming skills and be comfortable with engineering development process.
+
+prior research, data science modeling, or engineering experience in the aforementioned domains
+superb quantitative background: phd preferred
+familiarity with technical tools for analysis - python (with pandas, etc.), r, sql, etc.; previous software engineering background a plus
+research mindset with bias towards action - able to structure a project from idea to experimentation to prototype to implementation
+passionate and attentive self-starters, great communicators, amazing follow-through - you have a great work ethic and love the responsibility of being personally

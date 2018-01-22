@@ -1,0 +1,41 @@
+Uber 566--Android-Software-Engineer---Payments-(Amsterdam)---Amsterdam--Netherlands---Uber---Uber.Txt
+
+
+
+and that's just what we're doing today.
+
+we're thinking about the future, too. with teams working on autonomous trucking and self-driving cars, we're in for the long haul. we're reimagining how people and things move from one place to the next.
+
+uber's payments team is based in amsterdam, at the heart of our international engineering efforts. as a member of our team, you will dig into the complex but rewarding world of money, and work to enhance the platform with third-party payment integrations.
+
+
+take a full-stack approach. each integration is unique and often requires a back-end, mobile and web component. you will be part of a cross-functional team which is developing the overall experience and architecture.
+contribute at a global scale. despite being based in amsterdam, we work on integration for the overall uber platform. those integrations include alipay (300m users in china) and paypal (173m users). our systems support the entirety of uber's rider payments platform worldwide.
+manage scale & reliability. our solutions support uber's always-on marketplace. maintaining this platform at scale requires constant investment in security, reliability and monitoring tooling.
+innovate. we create platforms: payments is a central initiative for uber, and we are constantly innovating in this field.
+
+
+in-depth knowledge of the android application framework
+advanced knowledge of at least one programming language, and of oop patterns
+proficient writing unit/functional tests
+fluent with java 7 and have an in-depth knowledge of the android sdk
+experience working with test automation frameworks
+commitment to quality, performance, and efficiency
+experience in taking ownership
+design and business insight
+
+
+experience with other mobile platforms and ios in particular
+full-stack development experience, including backend api design and applications development
+experience working in systems handling high volume financial transactions
+open source profile (such as github) with some interesting projects
+
+
+visit
+our engineering website
+and
+watch this video
+to hear from our engineers what it's like to work at uber
+be sure to check out the uber engineering
+blog
+to learn more about the team.

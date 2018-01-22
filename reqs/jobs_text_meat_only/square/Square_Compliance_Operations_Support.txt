@@ -1,0 +1,24 @@
+Square Compliance Operations Support
+
+compliance operations support
+st. louis, mo
+we believe everyone should be able to participate and thrive in the economy. so we're building tools that make commerce easier and more accessible to all.  we started with a little white credit card reader but haven't stopped there. our new reader helps our sellers accept chip cards and nfc payments, and our cash app lets people pay each other back instantly.   we're empowering the independent electrician to send invoices, setting up the favorite food truck with a delivery option, helping the ice cream shop pay its employees, and giving the burgeoning coffee chain capital for a second, third, and fourth location.  let's shorten the distance between having an idea and making a living from it. we're here to help sellers of all sizes start, run, and grow their business—and helping them grow their business is good business for everyone.
+the mission of the compliance operations team at square is to perform the day-to-day operational tasks associated with regulatory, payment network, and partnership requirements. the team actively engages in monitoring cash app activity for anti-money laundering activity and misuse of the square peer to peer system, along with enforcing square's seller agreement. other areas of responsibility include sanctions and watchlist reviews, fraud reporting, liaising with law enforcement agencies and interactions with government regulators, corporate partners, and the credit card payment networks.
+monitor and act upon compliance-related alerts, including reviewing:
+possible suspicious activity
+activity that violates square's rules
+conduct source of funds analysis utilizing various services and tools
+use detective-like mentality to investigate and escalate potentially suspicious activity such as money laundering
+verify merchant information as part of identity verification and conduct due diligence reviews for anti-money laundering purposes
+interact with square customers to ensure full compliance with all applicable laws and policies
+work cross-functionally with support, risk, and other operations teams within square
+occasionally attend compliance-related seminars to stay abreast of the compliance industry
+communicate with customers via crm and email
+previous experience reviewing unusual activity relating to peer-to-peer transmissions
+passion for square, and a strong interest in technology/knowledge of the industry
+a strong operations mindset involving time sensitive directives and ability to self-manage workflow across competing priorities
+adept communication skills when dealing with possible bad actors with a detective-like mentality
+an ability to work in a fast-paced and dynamic environment with a drive to deliver outstanding results
+excellent verbal and written communication skills—previous crm experience in a customer-facing role a plus
+previous experience in compliance or legal work with a financial institution or payment-focused company preferred
+4-year undergraduate degree

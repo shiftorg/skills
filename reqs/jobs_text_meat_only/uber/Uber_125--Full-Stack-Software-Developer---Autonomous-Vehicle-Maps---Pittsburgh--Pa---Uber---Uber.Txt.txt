@@ -1,0 +1,22 @@
+Uber 125--Full-Stack-Software-Developer---Autonomous-Vehicle-Maps---Pittsburgh--Pa---Uber---Uber.Txt
+
+
+
+
+
+as a full stack developer, you will specifically play a major role in designing, developing, deploying and supporting uber's map development technologies. you will have an opportunity to work on and develop your skills in information representation, algorithms and complex computations, ui design and, of course, developing web technologies; and the list is growing everyday. you will work on a specific project critical to uber atg's needs with opportunities to switch teams and projects as you and our fast-paced business grow and evolve. we need our engineers to be versatile, display leadership qualities and be enthusiastic to take on new problems as we continue to push technology forward.
+
+experience building highly-reliable and scalable products in full stack javascript and had taken advantage of its features and flexibility
+experience building complex applications using technologies such as react, ember, or angular (we use react and redux)
+experience with api designs, integration with databases and working in large datasets.
+research, design, document, implement, and test computer software systems, in conjunction with product development requirements, applying principles and techniques of computer science, engineering, and mathematical analysis
+develop capabilities using python scripts to provide seamless integrated solutions across technologies.
+apply the appropriate standards, processes, procedures, and tools throughout the system development life cycle to support the generation of technical engineering products
+further advance the cutting-edge technology and contribute production quality code to open source projects.
+
+
+web technologies. you've built side projects or professionally utilize the latest stacks and libraries(we use react and redux) such as node.js, react, angular, rails, ember, css frameworks etc. you are excited by the amazing pace that the web continues to evolve. you seek new methods and tools to make great web tools faster and better, both on the front-end and back-end. familiarity with principles of architecture patterns and good user experience.
+action. you believe that speed and quality can be achieved at the same time. you've shown self-starter mentality, good judgement, shipping as fast as possible, products that are built in a responsible and sustainable way. you're willing to thrive in a fast and growing environment where all hands are on deck, and consider no obstacle too big or too small.
+the drive to make teams stronger. you're excited to work with a team to the finish line or work hard on new opportunities. you work well in fast moving teams and have no problem in collaborating with others to resolve difficult problems. you support your team as much as your team supports you.
+
+the avmaps team at uber advanced technologies group (atg) is a passionate, close-knit group of interdisciplinary thinkers and doers that craft forward-thinking software that enables self-driving vehicles. we develop technologies at fast pace while considering safety, legality and user experience. the team identifies map data and builds solutions to deliver reliable and high quality maps for faster autonomous development.

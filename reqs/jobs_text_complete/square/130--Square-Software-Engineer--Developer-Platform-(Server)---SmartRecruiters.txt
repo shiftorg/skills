@@ -1,0 +1,33 @@
+Software Engineer, Developer Platform (Server)
+ San Francisco, CA, USA
+ Full-time
+ Company Description
+ We believe everyone should be able to participate and thrive in the economy. So we’re building tools that make commerce easier and more accessible to all. We started with a little white credit card reader but haven’t stopped there. Our new reader helps our sellers accept chip cards and NFC payments, and our Cash app lets people pay each other back instantly. We’re empowering the independent electrician to send invoices, setting up the favorite food truck with a delivery option, helping the ice cream shop pay its employees, and giving the burgeoning coffee chain capital for a second, third, and fourth location. Let’s shorten the distance between having an idea and making a living from it. We’re here to help sellers of all sizes start, run, and grow their business—and helping them grow their business is good business for everyone.
+ Job Description
+ The Developer Platform team is responsible for APIs that external developers use to build apps on Square's platform. We provide developers with the tools to create solutions for both existing Square merchants and entirely new customers.
+ We are a small, focused, and rapidly growing team with an abundance of growth and impact opportunities. Our products and responsibilities include:
+ APIs and SDKs for eCommerce and the Register point of sale
+ Building infrastructure that makes it easy, scalable, and consistent to expose Square's products to external developers
+ An App Marketplace that helps millions of merchants integrate solutions for their business, and helps developers reach a technology companies building entire businesses on top of the Square Platform
+ Maintaining the availability, growth, architecture, and scalability of all public APIs
+ As a software engineer on the Developer Platform team, you will be responsible for designing, building, and owning the services and infrastructure for all of the above. We have positions for product and infrastructure oriented engineers. You can choose be deeply involved in the technical details of building services (mostly Golang) or growing our mobile iOS, Android teams. You will impact the growth of our products for our merchants, buyers, and developers all over the world.
+ You will:
+ Build our Developer Platform, for use by millions of Square Merchants and a key strategic asset of Square.
+ Own every facet of Square’s APIs, including developer SDKs, the Square developer portal, and API documentation.
+ Design and implement high-throughput, low-latency, consistent APIs, making thoughtful tradeoffs between consistency and availability when both are not possible.
+ Work cross-functionally with our product teams, *many* other engineering teams, and partner developers to design and implement Square’s global developer platform.
+ Build systems that maintain customers’ sensitive data and hold Square to the highest standards for security and compliance.
+ See the big picture to design fault tolerant systems so the team can be brave, move fast, and break things, without ever showing a negative impact to customers.
+ Qualifications
+ You have:
+ Innate curiosity and a desire to be responsible for all aspects of building Square's developer platform in a small, highly focused, and very rapidly growing team.
+ Understanding and curiosity in creating well thought out, scalable, low-latency, global systems.
+ Track record of pursuing self directed side projects, research, or open source projects.
+ You must deeply enjoy writing and shipping production software.
+ Additional Information
+ At Square, we value diversity and always treat all employees and job applicants based on merit, qualifications, competence, and talent. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status. We will consider for employment qualified applicants with criminal histories in a manner consistent with the requirements of the San Francisco Fair Chance Ordinance.
+ I'm interested
+ I'm interested
+ Refer a friend
+ share this job
+ Powered by

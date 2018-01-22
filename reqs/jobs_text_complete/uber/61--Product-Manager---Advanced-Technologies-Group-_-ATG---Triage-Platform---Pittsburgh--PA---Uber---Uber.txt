@@ -1,0 +1,199 @@
+Skip to main content
+ Back
+ Uber
+ Rides on demand
+ Install
+ Ride
+ Drive
+ Help
+ Sign In
+ What city are you in?
+ Become a driver
+ Ride
+ Overview
+ How it Works
+ Fare Estimator
+ Safety
+ Cities
+ Airports
+ Drive
+ Overview
+ Requirements
+ Driver App
+ Safety
+ Rewards
+ Eats and more
+ Uber Eats
+ Uber for Business
+ Uber Freight
+ What city are you in?
+ English
+ Follow Us
+ Facebook
+ Twitter
+ LinkedIn
+ Instagram
+ Enter keyword
+ All teams
+ All teams
+ Advanced Technologies Group
+ Business & Sales
+ Communications
+ Design
+ Engineering
+ Finance & Accounting
+ Global Community Operations
+ Legal
+ Marketing
+ Operations & Launch
+ People Operations
+ Product
+ Public Policy
+ Rentals & Leasing
+ Safety & Security
+ University
+ All subteams
+ All subteams
+ All countries
+ All countries
+ Argentina
+ Australia
+ Austria
+ Bangladesh
+ Brazil
+ Bulgaria
+ Canada
+ Chile
+ Colombia
+ Costa Rica
+ Denmark
+ Ecuador
+ Egypt
+ France
+ Germany
+ Hong Kong
+ India
+ Indonesia
+ Ireland
+ Italy
+ Japan
+ Kenya
+ Korea, Republic of
+ Lithuania
+ Malaysia
+ Mexico
+ Myanmar
+ Netherlands
+ Pakistan
+ Panama
+ Peru
+ Philippines
+ Poland
+ Portugal
+ Saudi Arabia
+ Singapore
+ South Africa
+ Spain
+ Sri Lanka
+ Sweden
+ Taiwan
+ Thailand
+ Ukraine
+ United Arab Emirates
+ United Kingdom
+ United States of America
+ Vietnam
+ All cities
+ All cities
+ Search open roles
+ Search
+ Careers
+ Search open roles
+ Open Roles
+ Product Manager - Advanced Technologies Group / ATG - Triage Platform
+ Product Management, Product in Pittsburgh, PA
+ Apply Now
+ About Uber 
+  
+ We’re changing the way people think about transportation. Not that long ago we were just an app to request premium black cars in a few metropolitan areas. Now we’re a part of the logistical fabric of more than 600 cities around the world. Whether it’s a ride, a sandwich, or a package, we use technology to give people what they want, when they want it.
+  
+ For the people who drive with Uber, our app represents a flexible new way to earn money. For cities, we help strengthen local economies, improve access to transportation, and make streets safer.
+  
+ And that’s just what we’re doing today. We’re thinking about the future, too. With teams working on autonomous trucking and self-driving cars, we’re in for the long haul. We’re reimagining how people and things move from one place to the next.
+ About the Role
+  
+ At Uber ATG, we employ a variety of testing methodologies to make our vehicles as safe as possible, including on-road testing, structured testing on the track, and virtual simulations. When the technology doesn’t meet our expectations for any reason, your products enable the organization to understand what happened. From root cause introspection to diagnosis and synthesis for the autonomy development teams, your products form the tip of the spear in improving safety and comfort of our self-driving vehicles.  As the PM for Triage, you will work closely with technical teams of engineers, data scientists, and designers to develop and scale software platforms that are critical towards launching the world’s safest autonomous vehicles.
+ What You’ll Do
+ Own the vision for Triage Platform, conceptualizing impactful and innovative products that bridge your customer obsession with our business strategy
+ Execute on that product vision with clear product requirements, a strong bias to action, perseverance, and teamwork
+ Inspire your colleagues and leadership team to take on big, bold bets with effective storytelling
+ Design solutions with our engineering, UX design, and data science teams, creatively solving problems to build magical products
+ What You’ll Need
+ Experience building simulation software
+ Computer science undergraduate degree or equivalent
+ Minimum 8 years product management experience delivering highly successful, innovative, and delightful software products
+ Exceptional verbal and written communication skills, with experience leading presentations to executives and large groups of people
+ Experience leading, recruiting, and mentoring teams of product managers
+ Experience with a variety of development processes, including agile / lean startup
+ Deep passion for Uber’s mission and self-driving vehicles
+ Bonus Points If
+ Professional software engineering experience
+ Experience building machine learning based products, especially in the context of systems with humans in the loop
+ Familiarity with content management systems, analytics tools, and data visualization
+ Understanding of modern data technologies
+ About the Team
+  
+ Self-driving vehicles have the potential to make our roads safer, more connected, and less congested. At Uber ATG, we are building the technologies, teams, and products to bring these benefits to the world. 
+ Apply Now
+ See our Candidate Privacy Statement
+ At Uber we don’t just accept difference—we celebrate it, we support it, and we thrive on it for the benefit of our employees, our products and our community. Uber is proud to be an equal opportunity workplace. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status.
+ Uber is in 0 cities worldwide
+ City Search
+ Go to Uber.com
+ SIGN UP TO RIDE
+ Become a driver
+ Enter your location
+ English
+ Help
+ Help
+ Facebook
+ Twitter
+ LinkedIn
+ Instagram
+ Ride
+ Drive
+ Cities
+ Fare Estimate
+ Food
+ Business Travel
+ How it Works
+ Airports
+ Countries
+ Safety
+ Careers
+ Helping Cities
+ Our Story
+ Blog
+ Newsroom
+ Media
+ Uber API
+ Gift Cards
+ Uber vs Driving Jobs
+ Top Cities
+ San Francisco
+ London
+ Los Angeles
+ Washington D.C.
+ Mexico City
+ Sao Paulo
+ Top Countries
+ USA
+ France
+ India
+ Spain
+ Mexico
+ Russia
+ © 2017 Uber Technologies Inc.
+ Privacy
+ Accessibility
+ Terms

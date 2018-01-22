@@ -1,0 +1,22 @@
+Salesforce 294--Senior-Systems-Security-Engineer.Txt
+
+
+
+
+salesforce is looking to add to our expanding infrastructure security team. to join this team, you'll need to have a passion for security, and love hands-on systems administration/automation. as a senior systems security engineer, you understand unix/linux or similar systems, have confidence in general networking knowledge, and have an interest in growing as a cybersecurity professional. as a key member of our team, the senior systems security engineer will work on the 'front lines' of the salesforce production environment, the largest saas platform on the planet, protecting our critical infrastructure and proactively defending our customers' data. the sr. systems security engineer is responsible for enhancing the security of our production systems, developing the tools to help us maintain and report on our security posture, ensuring that we maintain our external security certifications, and deploying and maintaining the security systems in our production data centers. responsibilities:
+
+management/review of systems host security configurations system vulnerability assessments and remediation, including the assessment/deployment of vendor security updates support ongoing and new security/compliance initiatives security incident response in coordination with other teams across the company and/or externally as required deploy and manage system security, remote access, and identity access management & authentication systems, privilege access management systems.  design and development of tools to automate security or security reporting tasks
+
+demonstrated understanding of general unix/linux systems administration (or similar, e.g. ubuntu, solaris, etc.) knowledge of host-based security working knowledge of standard unix infrastructure tools/protocols. (dhcp, dns, ntp, syslog, ssh, ipsec etc.) familiarity with osi model. basic cross-functional understanding of network engineering concepts and protocols (e.g., tcp, udp, ssl, vlan, etc.) experience with production and customer-facing data center environments experience with writing scripts and automation (python, perl, c, shell etc) familiarity with linux authentication and authorization methodologies, such as kerberos, ldap, nis, sudo, 2fa etc. knowledge of hsms, pki and key management work, such as having created csr's, managing certificates, understanding of pki and key management infrastructure, etc. configuration management with open-source tools, such as puppet, chef, salt, or ansible experience with public cloud platforms such as aws, gpc etc.
+
+host-based firewall security experience (access control list (acl) management., secure remote management practices, ids, etc experience undergoing audit and implementing new controls standards including fedramp, dod srg, pci, soc, iso host-based security to include hids/hips, system auditing frameworks, etc. working in high-availability, 24x7x365 large-scale multi-data center environment tacacs+, radius, multi factor authentication systems (securid, yubikey, etc.) cloud infrastructure experience saas securing multi-tiered applications strong communication skills security based credentials highly desired (sscp, giac gcux, gsec, gced,gcih,gcia, etc) bs/ba degree, or equivalent work experience
+
+you agree to complete a minimum background investigation (mbi) for a moderate public trust position or other clearances as deemed appropriate for the role company overview   these founding principles have taken our company to great heights, including being named one of forbes's "world's most innovative company" five years in a row and one of fortune's "100 best companies to work for" eight years in a row. we are the fastest growing of the top 10 enterprise software companies, and this level of growth equals incredible opportunities to grow a career at salesforce.  *li-y
+
+
+
+
+
+
+
+

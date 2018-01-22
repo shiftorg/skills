@@ -1,0 +1,77 @@
+Salesforce 212--Physical-Security-Sr.-Manager.Txt
+
+
+
+
+senior manager, global data center physical security san francisco, ca about salesforce:   these founding principles have taken our company to great heights, including being named one of forbes's "world's most innovative company” six years in a row and one of fortune's "100 best companies to work for” nine years in a row. we are the fastest growing of the top 10 enterprise software companies, and this level of growth equals incredible opportunities to grow a career at salesforce.  description: corporate security  and safety protects the people, facilities, and assets of salesforce across the globe. to accomplish our mission, we are seeking a senior manager, global data center physical security, based in san francisco, ca or bellevue, wa, and managing global physical security and safety standards, design, integration, and auditing for salesforce data centers. qualified candidates must be able to interact positively with stakeholders across the full spectrum of business unit owners and demonstrate ownership of deliverables. ability to build and maintain rapport, understand and adapt to nuances of different internal customers, and adapt rapidly to dynamic business requirements is critical. the senior manager, global data center physical security reports to the director, global security standards and technology, and will be responsible for all aspects of establishing and then maintaining data center physical security and safety standards, design, integration and audit, including but not limited to;
+
+
+
+improve, adapt and where needed create standards, conduct a gap analysis, and then design and project manage a roadmap to full compliance
+
+plan, direct, and execute physical security system design and integration efforts
+
+implement and audit global health and safety programs at data centers (e.g. lockout tagout, electrical safety, hearing protection, etc…)
+
+participate in strategic planning for data centers and effectively advocate on behalf of the corporate security & safety department and our customers
+
+effectively influence management, stakeholders and 3rd party providers to prioritize remediation of security and safety issues
+
+partner closely with the mergers and acquisitions team to integrate and ensure security compliance at newly acquired companies
+
+act as a conduit between data center teams and the corporate security & safety teams, maintaining constant contact between the two organizations
+serve as a subject matter expert on physical security, providing consultation to data center engineering teams and other key stakeholders
+
+the global security standards & technology program is part of the corporate security & safety team, which is responsible for the safety, security, business continuity, and crisis response programs of salesforce.
+
+
+primary responsibilities:
+
+
+design, set and drive adoption of physical security and safety standards for datacenters and other critical locations across the company
+
+work with other stakeholder teams to ensure security needs are part of the earliest phases of data center design
+
+provide guidance and oversight to data center engineering teams including participation in design reviews and threat modeling
+
+work with newly acquired companies to incorporate their unique requirements into our standards while also bringing them into alignment
+
+assess selected sites against standards and provide a written risk and standards compliance assessment to management
+
+perform physical security assessments of 3rd party and salesforce owned facilities
+
+partner with peers in the security standards & technology program to explore new security technologies, assess their strengths, weaknesses and suitability
+
+work with providers and vendors to discover and remediate vulnerabilities in security technologies
+
+influence management, stakeholders and 3rd party providers to prioritize remediation of security issues
+
+design and implement anomaly detection and alarm tracking/correlation in concert with enterprise-wide systems
+
+adapt standards and design compensating controls to work within local laws and regulations for various domestic and international jurisdictions
+
+periodic travel to company and 3rd party locations, in rare cases with minimal notice,  is required
+
+
+
+
+leadership qualities:
+
+
+thinks strategically – knows what it takes to maintain a vantage point with a comprehensive view of the company, its clients, and their shared interests
+
+makes smart decisions – analyzes and synthesizes broad, cross-business or cross-discipline information that leads to breakthroughs or significant insight. makes a company-wide impact
+
+collaborates & communicates – works well within a team environment with dynamic professionals from broad backgrounds. writes and presents effectively in 1:1 and large group situations
+
+drives results – works independently and collectively to attack problems and analyzes root cause. implements appropriate changes to ensure delivery of services that exceed customer expectations 	 	  these founding principles have taken our company to great heights, including being named one of forbes's "world's most innovative company” six years in a row and one of fortune's "100 best companies to work for” nine years in a row. we are the fastest growing of the top 10 enterprise software companies, and this level of growth equals incredible opportunities to grow a career at salesforce.  	 	*li-y
+
+
+
+
+
+
+
+
+
+

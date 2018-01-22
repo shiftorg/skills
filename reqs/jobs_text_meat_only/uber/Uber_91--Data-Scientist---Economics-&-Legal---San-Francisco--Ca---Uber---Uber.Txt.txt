@@ -1,0 +1,20 @@
+Uber 91--Data-Scientist---Economics-&-Legal---San-Francisco--Ca---Uber---Uber.Txt
+
+
+
+
+this data science and economics team works with the legal team on uber's most important legal issues. we work with the legal team to develop analyses and arguments—based on data, economics, and the law—to defend uber against risks in litigation and provide regulators answers to their requests for information.
+data scientists on the this team work at the intersection of data science, economics, and the law. the data analyst is responsible for developing a deep understanding of uber's databases and their quirks as well as assembling, analyzing, and telling compelling stories with data.
+describe and explain uber's data to lawyers, regulators, and other key stakeholders
+generate ideas for analyses to advance uber's legal goals
+design queries of our databases that can be replicated to satisfy uber's legal data reporting requirements
+collaborate with cross-functional teams across disciplines such as business development and engineering
+requirements
+2-4 years of experience and a bachelor's or master's degree in math, economics, statistics, engineering, computer science, or other quantitative field preferred
+strong data skills and a shown ability to use tools such as sql, python, and r to work efficiently at scale
+balance attention to detail with swift execution, including the ability to deliver on tight timelines
+hustle is critical, as moving quickly and executing to allow for continual iteration is a strength of our team
+self-motivated with the ability to work independently
+strong communication and organization skills
+experience working with a legal group or interest in uber's global legal and policy issues is a plus
+ideally you are not only fluent in the language of data but are also an adept written and verbal communicator. you should have the ability to get through to external parties and help them understand the nuances of our arguments. fluency in english, both oral and written, is critical.
