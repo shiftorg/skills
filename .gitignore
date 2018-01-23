@@ -1,0 +1,11 @@
+
+# python stuff
+*.ipnyb_checkpoints
+*.pyc
+
+# misc nonsene
+*.DS_Store
+*.csv
+*.pdf
+*.docx
+*.pptx
