@@ -3,7 +3,7 @@ Skill Recommendation and Salary Projection
 
 > Goal: `pip`-installable library that makes skill and salary recommendations
 
-![Which skills should I pick up?](./assets/illustration_map.png "Which skills should I pick up?")
+![Which skills should I pick up?](./illustration_map.png "Which skills should I pick up?")
 
 Career progression is fraught with uncertainty. Especially if you’re transitioning from another industry, it’s not clear where to start out. The internet is, of course, littered with listicles on this topic (“Top ten hottest tech skills to pick up!”).
 

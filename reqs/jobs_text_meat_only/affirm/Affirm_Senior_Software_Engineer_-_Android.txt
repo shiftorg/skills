@@ -1,9 +1,0 @@
-Affirm Senior Software Engineer - Android
-
-as we extend the reach of our transparent financial products to a broader populace, we re seeking an experienced android engineer to construct beautiful mobile applications, as well as lead and help grow out our budding android team. the android apps along with the companion ios apps will introduce an unprecedented level of freedom over one s personal finances.
-work closely with our product and design team to build innovative consumer financial products for the android platform
-implement custom native user interfaces using the latest android programming techniques
-enhance our existing platform for an optimal mobile experience
-passion and drive to change consumer banking for the better
-a track record and obsession for shipping exceptional native mobile user experiences on the android platform
-experience designing mobile optimized apis and backend systems

@@ -9,3 +9,6 @@
 *.pdf
 *.docx
 *.pptx
+
+# Data files
+data/
