@@ -1,0 +1,23 @@
+version: '3'
+services:
+  flaskapp:
+    build: 
+      context: ./ui
+      dockerfile: Dockerfile-ui
+    ports:
+      - "5090:5090"
+    networks:
+      - web_nw
+  nginx:
+    image: "nginx:1.13.5"
+    ports:
+      - "8080:80"
+    volumes:
+      - ./nginx:/etc/nginx/conf.d
+    networks:
+      - web_nw
+    depends_on: 
+      - flaskapp
+networks:
+  web_nw:
+    driver: bridge
