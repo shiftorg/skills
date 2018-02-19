@@ -1,0 +1,5 @@
+FROM python:3
+MAINTAINER James Lamb <jaylamb20@gmail.com>
+
+# TODO (jaylamb20@gmail.com):
+# Implement raw data ingestion service to write to S3

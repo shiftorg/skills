@@ -8,6 +8,13 @@ services:
       - "5090:5090"
     networks:
       - web_nw
+  playground:
+    image: "jupyter/scipy-notebook"
+    ports:
+      - "5088:8888"
+    command: "start-notebook.sh --NotebookApp.token=''"
+    networks:
+      - web_nw
   nginx:
     image: "nginx:1.13.5"
     ports:
@@ -25,6 +32,8 @@ services:
       - "xpack.security.enabled=false"
     ports:
       - "9200:9200"
+    networks:
+      - web_nw
 networks:
   web_nw:
     driver: bridge
