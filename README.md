@@ -1,17 +1,26 @@
 # skills
-Skill Recommendation and Salary Projection
 
-> Goal: `pip`-installable library that makes skill and salary recommendations
+## Overview
+
+This repo holds code for a project created for the Capstone course of UC Berkeley's Masters of Information in Data Science program. The application seeks to answer this question:
+
+> “As someone transitioning into or within the tech industry, which skills should I prioritize learning in order to achieve my career goals?”
 
 ![Which skills should I pick up?](./illustration_map.png "Which skills should I pick up?")
 
+#### Table of Contents
+
+1. [Background](#background)
+2. [Initial Proposal](#proposal)
+
+## Background <a name="background"></a>
+
 Career progression is fraught with uncertainty. Especially if you’re transitioning from another industry, it’s not clear where to start out. The internet is, of course, littered with listicles on this topic (“Top ten hottest tech skills to pick up!”).
 
-A pip-installable package should exist that can make empirical, consistent, and personalized skill recommendations that can answer the following basic questions:
-1. Given my current skills and career aspirations, which skills are the most valuable for me to learn right now?
-2. Which skills should yield the highest ROI in terms of salary increases?
+We've attempted to build an application which uses publicly available job listings, unsupervised learning, and our team's domain expertise to intelligently recommend skills to job-seekers.
 
-### Initial Proposal
+## Initial Proposal <a name="proposal"></a>
+
 - [Google Slides](https://goo.gl/Z1ZWPf)
 
 #### Data:
