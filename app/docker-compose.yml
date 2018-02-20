@@ -1,0 +1,30 @@
+version: '3'
+services:
+  flaskapp:
+    build: 
+      context: ./ui
+      dockerfile: Dockerfile-ui
+    ports:
+      - "5090:5090"
+    networks:
+      - web_nw
+  nginx:
+    image: "nginx:1.13.5"
+    ports:
+      - "8080:80"
+    volumes:
+      - ./nginx:/etc/nginx/conf.d
+    networks:
+      - web_nw
+    depends_on: 
+      - flaskapp
+  elasticsearch:
+    image: "docker.elastic.co/elasticsearch/elasticsearch:5.4.3"
+    environment:
+      - "discovery.type=single-node"
+      - "xpack.security.enabled=false"
+    ports:
+      - "9200:9200"
+networks:
+  web_nw:
+    driver: bridge
