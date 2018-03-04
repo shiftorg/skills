@@ -12,3 +12,8 @@
 
 # Data files
 data/
+
+# Application files
+app/ui/frontend/package-lock.json
+app/ui/frontend/node_modules/
+app/ui2/

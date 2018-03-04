@@ -1,19 +1,28 @@
-
 from flask import Flask
 from flask import render_template
+from flask import jsonify
+from random import *
+from flask_cors import CORS
+
+app = Flask(__name__,
+            static_folder="./frontend/dist/static",
+            template_folder="./frontend/dist")
+
+cors = CORS(app, resources={r"/api/*": {"origins": "*"}})
 
 
-app = Flask(__name__)
+@app.route('/api/data')
+def get_data():
+    response = {
+        'randomNumber': randint(1, 100)
+    }
+    return jsonify(response)
 
 
-@app.route("/", methods=('GET', 'POST'))
-def signup():
-    return render_template('app.html')
-
-
-@app.route("/success")
-def success():
-    return "Thank you for signing up!\n"
+@app.route('/', defaults={'path': ''}, methods=['GET', 'POST'])
+@app.route('/<path:path>')
+def catch_all(path):
+    return render_template("index.html")
 
 
 if __name__ == '__main__':
