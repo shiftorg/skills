@@ -1,5 +1,14 @@
-FROM python:3
+FROM node:8
 MAINTAINER James Lamb <jaylamb20@gmail.com>
+
+
+# Add Python 3 to this thang
+RUN apt-get update && \
+  apt-get install -y python3-pip python3-dev && \
+  cd /usr/local/bin && \
+  ln -s /usr/bin/python3 python && \
+  pip3 install --upgrade pip && \
+  rm -rf /var/lib/apt/lists/*
 
 ENV PYTHONUNBUFFERED 1
 
@@ -9,9 +18,18 @@ ADD . /opt/services/flaskapp/src/
 EXPOSE 5090
 
 # Install deps
-RUN pip install Flask
+RUN pip install \
+    Flask \
+    flask_cors
 
 # Change dirs to wherever the flask code is
 WORKDIR /opt/services/flaskapp/src
+
+# Build the application
+RUN cd frontend/ && \
+    npm install && \
+    npm run build && \
+    rm -rf node_modules && \
+    cd ..
 
 CMD python /opt/services/flaskapp/src/app.py
