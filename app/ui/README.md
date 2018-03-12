@@ -12,3 +12,4 @@ References:
 - [Single page apps with Vue and Flask](http://stackabuse.com/single-page-apps-with-vue-js-and-flask-setting-up-vue-js/)
 - [How to deploy Vue JS apps](https://www.codementor.io/artemgolovin/how-to-deploy-vue-js-app-in-one-line-with-docker-amp-digital-ocean-9sz8x46w3)
 - [An example Flask and Vue app](https://github.com/oleg-agapov/flask-vue-spa)
+- [making HTTP requests in Vue](https://www.youtube.com/watch?v=btDfVBPYI-U)

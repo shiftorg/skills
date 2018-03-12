@@ -1,7 +1,7 @@
 // Sample job data
 // TODO (jaylamb20@gmail.com): Replace this stuff
 // with actual calls to ES
-const jobs = [
+const job_data = [
   {  
     id: 1,
     job_title: 'Sr. Software Engineer',
@@ -16,7 +16,7 @@ const jobs = [
   }, 
   {
     id: 3,
-    job_title: 'QA Engineer',
+   job_title: 'QA Engineer',
     skills: ['Jenkins CI', 'Groovy', 'Go'],
     match: "82.5%"
   },
@@ -34,6 +34,7 @@ const jobs = [
   }
 ]
 
+
 // Function to go get the data. Could be replaced with
 // ES calls later
 // NOTE: exporting like this makes it available to our
@@ -41,7 +42,7 @@ const jobs = [
 export function fetchJobDescriptions(num_jobs= 3) {  
   return new Promise((resolve, reject) => {
     setTimeout(() => {
-      resolve(jobs.slice(0, num_jobs))
+      resolve(job_data.slice(0, num_jobs))
     }, 300)
   })
 }
