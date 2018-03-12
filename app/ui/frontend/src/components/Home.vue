@@ -2,8 +2,12 @@
 <div>
   <section class="section">
     <div class="container">
+
+      <button v-on:click.prevent="get_data">Explore Jobs</button>
+      <br><br>
+
       <div class="card-deck">
-        <div class="card" v-for="job in jobs" v-bind:key="job.id">
+        <div class="card" v-for="job in jobs" v-bind:key="job.id" style="width: 24rem;">
 
           <div class="card-block">
             <h4 class="card-title">{{ job.job_title }}</h4>
@@ -38,6 +42,15 @@ export default {
     fetchJobDescriptions(3).then(response => {
       this.jobs = response
     })
+  },
+  methods: {
+    get_data: function(){
+      this.$http.get("/api/data")
+      .then(function(data) {
+        console.log(data);
+        this.jobs = JSON.parse(data.bodyText).job_data;
+      })
+    }
   }
 }
 </script>
