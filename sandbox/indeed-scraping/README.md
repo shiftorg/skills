@@ -37,17 +37,30 @@ indeed.com has 2 types of urls - "classic" and "mobile" (which have a "/m/" in t
 
 
 ## Next steps
-Run the script with these search queries - please add to this list and we can run this from different machines to parallelize the scraping.
-Technical Product Manager
-Technical Sales Engineer
-Technical Support Engineer
-Technical Product Marketing Manager
-Software Development Engineer
-Backend Software Engineer
-Frontend Software Engineer
-UX Researcher
-Database Administrator
+The job titles we scraped so far are:
 Data Scientist
 Data Analyst
-Software Engineering Manager
+UX Engineer
+Product Manager
+Software Manager
+Software Engineer
+Database Administrator
+UX Designer	
+Software Test Engineer
+Devops
+Sales Engineer
+Mobile Engineer
+Software Developer
+Software Architect
+QA Engineer
+Quality Assurance Engineer
+App Developer
 Technical Sales
+Frontend Engineer
+Data Engineer
+Hardware Engineer
+Technical Program Manager
+Software Consultant
+Professional Services
+
+If we need to scrape latest jobs for any of these titles OR any other job titles, we can run the script again.
