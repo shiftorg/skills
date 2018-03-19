@@ -1,0 +1,28 @@
+{
+  "mappings": {
+    "salary": {
+      "properties": {
+        "company": {
+          "type": "keyword",
+          "store": false,
+          "index": true
+        },
+        "jobTitle": {
+          "type": "text",
+          "store": false,
+          "index": true,
+          "fields": {
+            "raw": {
+              "type": "keyword"
+            }
+          }
+        },
+        "meanPay": {
+          "type": "float",
+          "store": true,
+          "index": true
+        }
+      }
+    }
+  }
+}
