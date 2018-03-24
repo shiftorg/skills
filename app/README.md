@@ -20,7 +20,16 @@ Kick up the app:
 docker-compose up -d
 ```
 
-Then check it out on `localhost:5090` in your browser.
+Ingest data:
+
+```
+cd ingestion
+bash seed_es.sh
+```
+
+Wait a few minutes, then you can confirm that data have been loaded into ES by navigating to `localhost:9200/_cat/indices` in your browser.
+
+To view the application front end, check out `localhost:5090` in your browser.
 
 Whenever you're done, shut down the app:
 

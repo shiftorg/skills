@@ -7,8 +7,8 @@ export ES_HOST="localhost:9200"
 
 # Upload mappings
 echo "Setting up mappings"
-curl --silent -X PUT "http://${ES_HOST}/job_descriptions" -d @jd_mapping.json
-curl --silent -X PUT "http://${ES_HOST}/salaries" -d @salary_mapping.json
+curl -X PUT "${ES_HOST}/job_descriptions" -d @jd_mapping.json
+curl -X PUT "${ES_HOST}/salaries" -d @salary_mapping.json
 echo "Done configuring mappings"
 
 # ingest data from S3 via logstash
