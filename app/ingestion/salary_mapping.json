@@ -3,9 +3,15 @@
     "salary": {
       "properties": {
         "company": {
-          "type": "keyword",
+          "type": "text",
           "store": false,
-          "index": true
+          "index": true,
+          "fields": {
+            "raw": {
+              "type": "keyword",
+              "ignore_above": 256
+            }
+          }
         },
         "jobTitle": {
           "type": "text",
@@ -13,7 +19,8 @@
           "index": true,
           "fields": {
             "raw": {
-              "type": "keyword"
+              "type": "keyword",
+              "ignore_above": 256
             }
           }
         },

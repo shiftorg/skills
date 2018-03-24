@@ -3,14 +3,24 @@
     "job_description": {
       "properties": {
         "companyName": {
-          "type": "keyword",
+          "type": "text",
           "store": false,
-          "index": true
+          "index": true,
+          "fields": {
+            "raw": {
+              "type": "keyword",
+              "ignore_above": 256
+            }
+          }
         },
         "location": {
           "type": "text",
-          "index": true,
-          "store": true
+          "fields": {
+            "raw": {
+              "type": "keyword",
+              "ignore_above": 256
+            }
+          }
         },
         "scrapeTime": {
           "type": "date",
