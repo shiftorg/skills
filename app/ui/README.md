@@ -13,3 +13,5 @@ References:
 - [How to deploy Vue JS apps](https://www.codementor.io/artemgolovin/how-to-deploy-vue-js-app-in-one-line-with-docker-amp-digital-ocean-9sz8x46w3)
 - [An example Flask and Vue app](https://github.com/oleg-agapov/flask-vue-spa)
 - [making HTTP requests in Vue](https://www.youtube.com/watch?v=btDfVBPYI-U)
+- [working with Vue router](https://router.vuejs.org/en/essentials/named-views.html)
+- [more on vue router](https://www.reddit.com/r/vuejs/comments/6al40a/multiple_single_file_components_on_one_web_page/)
