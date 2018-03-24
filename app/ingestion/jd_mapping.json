@@ -1,0 +1,53 @@
+{
+  "mappings": {
+    "job_description": {
+      "properties": {
+        "companyName": {
+          "type": "text",
+          "store": false,
+          "index": true,
+          "fields": {
+            "raw": {
+              "type": "keyword",
+              "ignore_above": 256
+            }
+          }
+        },
+        "location": {
+          "type": "text",
+          "fields": {
+            "raw": {
+              "type": "keyword",
+              "ignore_above": 256
+            }
+          }
+        },
+        "scrapeTime": {
+          "type": "date",
+          "format": "epoch_second",
+          "index": true
+        },
+        "summary": {
+          "type": "text",
+          "index": true,
+          "store": true
+        },
+        "title": {
+          "type": "text",
+          "store": false,
+          "index": true,
+          "fields": {
+            "raw": {
+              "type": "keyword"
+            }
+          }
+        },
+        "url": {
+          "type": "keyword",
+          "index": false,
+          "store": true
+        }
+      }
+    }
+  }
+}
