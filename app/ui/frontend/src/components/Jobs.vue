@@ -32,6 +32,11 @@
 <script>
 import { fetchJobDescriptions } from '@/api'
 
+// [data]
+//  - jobs: an array of jobs and skills to be showin in KPI cards
+// [methods]
+//  - get_data: hit the server and ask for relevant jobs. Will
+//              be deprecated soon in favor of response to a resume
 export default {
   data() {
     return {
@@ -47,7 +52,6 @@ export default {
     get_data: function(){
       this.$http.get("/api/data")
       .then(function(data) {
-        console.log(data);
         this.jobs = JSON.parse(data.bodyText).job_data;
       })
     }

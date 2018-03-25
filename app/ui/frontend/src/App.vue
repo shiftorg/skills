@@ -1,7 +1,7 @@
 <template>
   <div id="app">
-    <router-view name="jobs"></router-view>
     <router-view name="resume_form"></router-view>
+    <router-view name="jobs"></router-view>
   </div>
 </template>
 
