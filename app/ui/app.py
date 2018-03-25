@@ -2,7 +2,7 @@ from flask import Flask
 from flask import render_template
 from flask import jsonify
 from flask_cors import CORS
-import requests
+from flask import request
 import random
 
 app = Flask(__name__,
@@ -10,6 +10,19 @@ app = Flask(__name__,
             template_folder="./frontend/dist")
 
 cors = CORS(app, resources={r"/api/*": {"origins": "*"}})
+
+
+@app.route('/api/resume', methods=['POST'])
+def handle_resume():
+    """
+    This method accepts resume text and routes it to
+    the appropriate location.
+    """
+
+    # Convert to string
+    resume_txt = request.data.decode('utf-8').rstrip().replace('\n', ' ')
+    tokens = resume_txt.replace('  ', ' ').split(' ')
+    return(jsonify({"tokenized_resume": tokens}))
 
 
 # TODO (jaylamb20@gmail.com):

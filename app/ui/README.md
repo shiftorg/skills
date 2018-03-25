@@ -15,3 +15,6 @@ References:
 - [making HTTP requests in Vue](https://www.youtube.com/watch?v=btDfVBPYI-U)
 - [working with Vue router](https://router.vuejs.org/en/essentials/named-views.html)
 - [more on vue router](https://www.reddit.com/r/vuejs/comments/6al40a/multiple_single_file_components_on_one_web_page/)
+- [handling forms](https://012.vuejs.org/guide/forms.html)
+- [text input forms](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/text)
+- [handling input data in flask](https://scotch.io/bar-talk/processing-incoming-request-data-in-flask#form-data)
