@@ -30,7 +30,11 @@
   <section class="section">
     <div class="container">
 
-      <br><br>
+      <br>
+
+      <p>
+        We found a few jobs that might be a good fit for you! Skills in red below are skills associated with this jobs which you don't have yet.
+      </p>
 
       <div class="card-deck">
         <div class="card" v-if="jobs.length > 0" v-for="job in jobs" v-bind:key="job.id" style="width: 24rem;">
@@ -82,7 +86,7 @@ export default {
     },
     send_skills: function(){
       console.log("Sending skills to Flask");
-      this.$http.post("/api/predict", this.parsed_skills)
+      this.$http.post("/api/predict", this.skills_to_send)
       .then(function(data) {
         var skills_response  = JSON.parse(data.bodyText).content;
         this.jobs = skills_response;
