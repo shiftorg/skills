@@ -26,6 +26,28 @@
       </div>
     </div>
   </section>
+
+  <section class="section">
+    <div class="container">
+
+      <br><br>
+
+      <div class="card-deck">
+        <div class="card" v-if="jobs.length > 0" v-for="job in jobs" v-bind:key="job.id" style="width: 24rem;">
+
+          <div class="card-block">
+            <h4 class="card-title">{{ job.job_name }}</h4>
+            <p class="card-text">Common skills for this job:</p>
+            <ul>
+               <li v-for="(skill, i) in job.skills.has" v-bind:key="i" style="color: green">{{ skill }}</li>
+               <li v-for="(skill, i) in job.skills.missing" v-bind:key="i" style="color: red">{{ skill }}</li>
+            </ul>
+          </div>
+
+        </div>
+      </div>
+    </div>
+  </section>
 </div>
 </template>
 
@@ -43,7 +65,8 @@ export default {
     return {
       resume_text: "",
       parsed_skills: "",
-      skills_to_send: []
+      skills_to_send: [],
+      jobs: []
     }
   },
   methods: {
@@ -73,4 +96,13 @@ export default {
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
+h1, h2 {
+  font-weight: normal;
+}
+ul {
+  list-style-type: none;
+  padding-left: 0;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
 </style>

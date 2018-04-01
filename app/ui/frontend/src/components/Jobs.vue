@@ -16,7 +16,6 @@
                <li v-for="(skill, i) in job.skills.has" v-bind:key="i" class="skill_has">{{ skill }}</li>
                <li v-for="(skill, i) in job.skills.missing" v-bind:key="i" class="skill_missing">{{ skill }}</li>
             </ul>
-            <a href="#" class="btn btn-primary">Learn More</a>
           </div>
 
         </div>
@@ -27,34 +26,17 @@
 </template>
 
 <script>
-import { fetchJobDescriptions } from '@/api'
 
 // [data]
 //  - jobs: an array of jobs and skills to be shown in KPI cards.
 //          One "job" is of the form 
 //          {"job_name": str, "skills": {"has": [], "missing": []}}
-// [methods]
-//  - get_data: hit the server and ask for relevant jobs. Will
-//              be deprecated soon in favor of response to a resume
 export default {
   data() {
     return {
       jobs: []
     }
   },
-  //beforeMount() {
-  //  fetchJobDescriptions(3).then(response => {
-  //    this.jobs = response
-  //  })
-  //},
-  methods: {
-    get_data: function(){
-      this.$http.get("/api/data")
-      .then(function(data) {
-        this.jobs = JSON.parse(data.bodyText).job_data;
-      })
-    }
-  }
 }
 </script>
 

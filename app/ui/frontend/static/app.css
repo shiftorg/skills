@@ -41,3 +41,13 @@ section {
     padding-top: 10px;
     padding-bottom: 10px;
 }
+
+/****************/
+/* skills items */
+/****************/
+li .skill_has {
+  color: green;
+}
+li .skill_missing {
+  color: red;
+}
