@@ -33,3 +33,11 @@ footer {
     padding-bottom: 0px;
     background-color: #f7f7f9;
 }
+
+/*****************/
+/* section stuff */
+/*****************/
+section {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}

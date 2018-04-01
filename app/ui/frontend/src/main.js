@@ -4,6 +4,9 @@ import Vue from 'vue'
 import App from './App'
 import router from './router'
 import VueResource from 'vue-resource'
+import InputTag from 'vue-input-tag'
+
+Vue.component('input-tag', InputTag);
 
 Vue.config.productionTip = false
 Vue.use(VueResource);
