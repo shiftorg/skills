@@ -1,5 +1,0 @@
-FROM python:3
-MAINTAINER James Lamb <jaylamb20@gmail.com>
-
-# TODO (jaylamb20@gmail.com):
-# Implement modeling playground (could later be replaced by Sagemaker)
