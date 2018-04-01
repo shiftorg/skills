@@ -4,6 +4,8 @@ services:
     build: 
       context: ./ui
       dockerfile: Dockerfile-ui
+    environment:
+      - "ES_HOST=ec2-54-245-133-223.us-west-2.compute.amazonaws.com"
     ports:
       - "5090:5090"
     networks:
@@ -18,16 +20,19 @@ services:
       - web_nw
     depends_on: 
       - flaskapp
-  elasticsearch:
-    image: "docker.elastic.co/elasticsearch/elasticsearch:5.4.3"
-    environment:
-      - "discovery.type=single-node"
-      - "xpack.security.enabled=false"
-      - "ES_JAVA_OPTS=-Xms512m -Xmx512m"
-    ports:
-      - "9200:9200"
-    networks:
-      - web_nw
+  
+  # NOTE: uncomment this block if you want to run a local
+  #       version of Elasticsearch
+  #elasticsearch:
+  #  image: "docker.elastic.co/elasticsearch/elasticsearch:5.4.3"
+  #  environment:
+  #    - "discovery.type=single-node"
+  #    - "xpack.security.enabled=false"
+  #    - "ES_JAVA_OPTS=-Xms512m -Xmx512m"
+  #  ports:
+  #    - "9200:9200"
+  #  networks:
+  #    - web_nw
 networks:
   web_nw:
     driver: bridge

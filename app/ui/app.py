@@ -4,12 +4,18 @@ from flask import jsonify
 from flask_cors import CORS
 from flask import request
 import random
+import os
+import requests
+import json
 
 app = Flask(__name__,
             static_folder="./frontend/dist/static",
             template_folder="./frontend/dist")
 
 cors = CORS(app, resources={r"/api/*": {"origins": "*"}})
+
+# Get global env vars
+ES_HOST = os.environ.get('ES_HOST')
 
 
 @app.route('/api/resume', methods=['POST'])
@@ -78,6 +84,19 @@ def get_data():
     return(jsonify(rand_jobs))
 
 
+@app.route('/about', defaults={'path': ''})
+def get_about(path):
+    return render_template("about.html")
+
+
+# Just testing that we can hit Elasticsearch
+@app.route('/es_health')
+def get_es_home():
+    response = requests.get("http://{}:9200".format(ES_HOST))
+    return(jsonify(json.loads(response.text)))
+
+
+@app.route('/home', defaults={'path': ''})
 @app.route('/', defaults={'path': ''}, methods=['GET', 'POST'])
 @app.route('/<path:path>')
 def catch_all(path):
