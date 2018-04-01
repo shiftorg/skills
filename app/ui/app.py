@@ -51,7 +51,7 @@ def match_to_jobs():
         "job_name": "data scientist",
         "skills": {
             "has": input_skills,
-            "missing": []
+            "missing": ["x-ray vision"]
         }
     }]}
 
