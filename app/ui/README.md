@@ -38,3 +38,4 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 - [handling forms](https://012.vuejs.org/guide/forms.html)
 - [text input forms](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/text)
 - [handling input data in flask](https://scotch.io/bar-talk/processing-incoming-request-data-in-flask#form-data)
+- [using bootstrap-vue](https://bootstrap-vue.js.org/docs/)
