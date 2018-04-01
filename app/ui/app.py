@@ -4,6 +4,7 @@ from flask import jsonify
 from flask_cors import CORS
 from flask import request
 import random
+import json
 
 app = Flask(__name__,
             static_folder="./frontend/dist/static",
@@ -21,8 +22,35 @@ def handle_resume():
 
     # Convert to string
     resume_txt = request.data.decode('utf-8').rstrip().replace('\n', ' ')
+
+    # Clean up extraneous spaces
     tokens = resume_txt.replace('  ', ' ').split(' ')
-    return(jsonify({"tokenized_resume": tokens}))
+
+    # Return a comma-delimited list of tokens
+    return(jsonify({"parsed_skills": tokens}))
+
+
+@app.route('/api/predict', methods=['POST'])
+def match_to_jobs():
+    """
+    Given an array of skills, return a set of "Career Objects".
+    Each career object is of the form {"name": str, "skills": []}.
+    """
+
+    # Convert to string
+    input_skills = json.loads(request.data.decode('utf-8').rstrip())
+
+    # Return career objects
+    out = {"content": [{
+        "id": 1,
+        "job_name": "data scientist",
+        "skills": {
+            "has": input_skills,
+            "missing": []
+        }
+    }]}
+
+    return(jsonify(out))
 
 
 # TODO (jaylamb20@gmail.com):
