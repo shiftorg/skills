@@ -3,7 +3,7 @@
 set -e
 
 # globals
-export ES_HOST="localhost:9200"
+export ES_HOST="ec2-54-245-133-223.us-west-2.compute.amazonaws.com:9200"
 
 # Upload mappings
 echo "Setting up mappings"
