@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <router-view/>
+    <router-view name="resume_form"></router-view>
   </div>
 </template>
 
