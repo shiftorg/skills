@@ -1,7 +1,0 @@
-FROM python:3
-MAINTAINER James Lamb <jaylamb20@gmail.com>
-
-# TODO (jaylamb20@gmail.com):
-# Implement service that takes in a description
-# of a person's credentials and returns a set of recommendations
-# to be presented in the UI
