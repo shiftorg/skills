@@ -3,7 +3,6 @@ from flask import render_template
 from flask import jsonify
 from flask_cors import CORS
 from flask import request
-import random
 import os
 import requests
 import json
@@ -18,6 +17,30 @@ cors = CORS(app, resources={r"/api/*": {"origins": "*"}})
 ES_HOST = os.environ.get('ES_HOST')
 
 
+# TODO (jaylamb20@gmail.com):
+# turn this into a package
+def text_to_skills(txt):
+    """
+    Given a text string representing a resume or
+    job description, return an array of "skills"
+    """
+
+    assert isinstance(txt, str)
+
+    ###################
+    # MODEL GOES HERE #
+    ###################
+
+    # TODO (jaylamb20@gmail.com):
+    # replace this code with the skills-parsing model
+    resume_txt = txt.rstrip().replace('\n', ' ')
+
+    # Clean up extraneous spaces
+    tokens = resume_txt.replace('  ', ' ').split(' ')
+
+    return(tokens)
+
+
 @app.route('/api/resume', methods=['POST'])
 def handle_resume():
     """
@@ -25,63 +48,56 @@ def handle_resume():
     the appropriate location.
     """
 
-    # Convert to string
-    resume_txt = request.data.decode('utf-8').rstrip().replace('\n', ' ')
-    tokens = resume_txt.replace('  ', ' ').split(' ')
-    return(jsonify({"tokenized_resume": tokens}))
+    skills = text_to_skills(request.data.decode('utf-8'))
+    assert isinstance(skills, list)
+
+    # Return a comma-delimited list of tokens
+    return(jsonify({"parsed_skills": skills}))
 
 
-# TODO (jaylamb20@gmail.com):
-# swap out this static data with calls to ES
-@app.route('/api/data')
-def get_data():
+def match_to_jobs(skills):
     """
-    This function serves job descriptions and skills to
-    the front-end of the application.
+    Given a list of skills, return one or more matching
+    jobs.
+    Each job is of the form
+    {"name": str, "skills": {"has": [], "missing": []}}.
     """
-    # response = requests.get("http://elasticsearch:9200")
-    # return jsonify(response.text)
 
-    # Temporary: hard-code data to return
-    job_dict = {
-        "job_data": [
-      {
+    assert isinstance(skills, list)
+
+    # TODO (jaylamb20@gmail.com):
+    # Replace with model
+    # Return career objects
+
+    ###################
+    # MODEL GOES HERE #
+    ###################
+    out = {"content": [{
         "id": 1,
-        "job_title": 'Super Sr. Software Engineer',
-        "skills": ['Angular', 'Git', 'Jenkins CI'],
-        "match": "91.5%"
-      },
-      {  
-        "id": 2,
-        "job_title": 'Data Scientist',
-        "skills": ['R', 'Pandas', 'Git'],
-        "match": "89.0%"
-      }, 
-      {
-        "id": 3,
-        "job_title": 'QA Engineer',
-        "skills": ['Jenkins CI', 'Groovy', 'Go'],
-        "match": "82.5%"
-      },
-      {
-        "id": 4,
-        "job_title": 'QA Engineer II',
-        "skills": ['Jenkins CI', 'Groovy', 'Go'],
-        "match": "82.4%"
-      },
-      {
-        "id": 5,
-        "job_title": 'QA Engineer III',
-        "skills": ['Jenkins CI', 'Groovy', 'Go'],
-        "match": "81.5%"
-      }
-    ]}
+        "job_name": "data scientist",
+        "skills": {
+            "has": skills,
+            "missing": ["x-ray vision"]
+        }
+    }]}
+    return(out)
 
-    # Randomly return data. Important so we can test that
-    # the front-end is making new calls to the this api route
-    rand_jobs = {"job_data": [job_dict["job_data"][random.randint(0, 4)] for i in [1, 2, 3]]}
 
-    return(jsonify(rand_jobs))
+@app.route('/api/predict', methods=['POST'])
+def get_best_matches():
+    """
+    Given an array of skills, return a set of "Career Objects".
+    Each career object is of the form {"name": str, "skills": []}.
+    """
+
+    # Convert posted string back to JSON
+    input_skills = json.loads(request.data.decode('utf-8').rstrip())
+
+    # Get matched jobs
+    matched_jobs = match_to_jobs(skills=input_skills)
+    assert isinstance(matched_jobs, dict)
+
+    return(jsonify(matched_jobs))
 
 
 @app.route('/about', defaults={'path': ''})

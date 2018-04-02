@@ -39,3 +39,6 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 - [text input forms](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/text)
 - [handling input data in flask](https://scotch.io/bar-talk/processing-incoming-request-data-in-flask#form-data)
 - [using bootstrap-vue](https://bootstrap-vue.js.org/docs/)
+- [bootstrap tags](https://bootstrap-tagsinput.github.io/bootstrap-tagsinput/examples/)
+- [using v-model with forms](https://012.vuejs.org/guide/forms.html)
+- [Vue input tags](https://github.com/matiastucci/vue-input-tag)
