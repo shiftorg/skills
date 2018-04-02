@@ -1,0 +1,62 @@
+
+
+
+LEADERSHIP AND EXPERIENCE
+
+Head of Data Science, Shift | Berkeley, CA| 2017 – August 2017 - Present
+•	Building a machine learning system to match transitioning military service members to tech jobs
+•	Additional focus on growth, BI, data communication and evangelism; serving as PM for data products
+Data Science Advisor, CommonLit | Washington, D.C. | September 2017 - Present
+•	Advising a literacy nonprofit growing at 500k users/month to be data-driven. Creating business intelligence workflows and teaching CommonLit employees SQL, A/B testing, and data visualization; implementing ML & psychometric models
+•	Designed and implemented a complex randomized controlled trial that successfully tested the effectiveness of one of CommonLit’s features; balanced the need for statistical power with CommonLit’s high standards for user experience
+Data Architect, GoldenKey | San Francisco | September 2016- May 2017
+•	 Hybrid data architect, A/B testing lead, product manager, business intelligence analyst, and data product builder
+
+U.S. Army Infantry Officer, 101st Airborne Division (Rakkasans) & The Old Guard| U.S., Afghanistan | 2011-16
+•	Planned and led 55 combat missions in eastern Afghanistan
+•	Second-in-command and chief of staff for 99 soldiers and $30M of equipment
+•	Engineered data collection system & statistical model that accurately predicted 800-soldier organization's top KPI six months into the future
+•	Innovated method to airlift 100 soldiers & 22 vehicles into combat with 95% fewer resources
+•	Consolidated $57M of equipment spread across Afghanistan with 100% accountability
+
+SKILLS	& CERTIFICATIONS
+
+
+Languages
+Python & SQL (primary)
+R (for statistics and psychometric modeling)
+	Big data: MapReduce using Spark, PySpark, SparkSQL, MrJob, and Hadoop Streaming; proficient with Hive; familiar with Storm and Google BigQuery
+
+Experimentation: experience designing & implementing hypothesis tests for causal inference – spanning from simple UI optimization to complex designs with blocking, clustering, attrition, and spillover	Web development and DevOps: proficient with HTML, CSS, and basic JavaScript; proficient with AWS (EC2, EMR, S3), Heroku, and GCC; familiar with Rails, Django, and Docker
+
+
+Additional favorite libraries & tools:
+scikit-learn, NLTK, Tensorflow, Pandas, data.table, MlLib, Gensim, PostgreSQL, Google Analytics, Hotjar, Optimizely
+	Visualization: highly proficient in Tableau; proficient with Plotly, matplotlib and Bokeh; proficient with network visualization using Gephi and NetworkX; familiar with D3.js
+
+U.S. Army Airborne Ranger; Certified Scrum Master
+	Large-scale scraping: capable using Selenium and BeautifulSoup for large-scale headless browser web-scraping
+
+
+EDUCATION
+
+UC Berkeley School of Information, 2017-2018
+•	Master of Information and Data Science
+
+United States Military Academy at West Point, 2007-2011
+•	B.S. in international relations with track in mechanical engineering; graduated top 7% in class; honors thesis
+
+HBX | Harvard Business School, pass with honors. Spring 2015
+•	Ten-week online Credential of Readiness with courses in business analytics, economics, and financial accounting
+
+Georgetown University Certificate in Data Science, January - May 2016
+•	Eight-course, on-campus, 108-hour program focused on data science pipelines and machine learning
+
+WRITING AND PROJECTS
+
+•	Skill recommendation engine; predicting crime in San Francisco; political language classifier for news articles
+•	Inc. Magazine, The Deep Pool of Top Talent You May Be Missing, 2016; Washington Post On Leadership columnist, 2010
+
+PERSONAL
+
+•	Avid traveler, photographer, reader, writer, cook, tinkerer, and beer brewer; lifelong learner
