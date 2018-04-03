@@ -1,11 +1,8 @@
 from gensim.models import LsiModel
-import pyLDAvis
-import pyLDAvis.gensim
 import warnings
 import pickle
 import itertools as it
 import sys
-
 from pprint import pprint
 
 from gensim.corpora import Dictionary, MmCorpus
@@ -24,6 +21,7 @@ nlp = spacy.load('en')
 from nltk.corpus import stopwords
 stopwords = stopwords.words('english')
 
+import argparse
 # Silence all warnings
 warnings.filterwarnings("ignore", '.*The binary mode.*')
 
@@ -31,21 +29,29 @@ warnings.filterwarnings("ignore", '.*The binary mode.*')
 ###################### Handle command line args ######################
 ######################################################################
 
-input_doc_name = sys.argv[1]
-with open(input_doc_name, 'r') as infile:
+parser = argparse.ArgumentParser(description = 'Get number of requested output skills and user input text.')
+parser.add_argument('--num_skills',
+                    type = int,
+                    default = 20,
+                    help='Number of skills to request. ')
+parser.add_argument('--filename',
+                    type = str,
+                    default = '',
+                    help='User input .txt file to analyze for skills.')
+args = parser.parse_args()
+
+with open(args.filename) as infile:
     user_input_text = infile.read()
 
-num_skills_output = int(sys.argv[2])
+if len(user_input_text) < 50:
+    parser.error('Input text must be more than 50 words.')
 
 ######################################################################
 ############################ Set up model ############################
 ######################################################################
 
-# load the finished bag-of-words corpus from disk
-trigram_bow_corpus_POS = MmCorpus('models/spacy_trigram_bow_corpus_all_POS.mm') # With POS preprocessing
-
 # load the finished dictionary from disk
-trigram_dictionary_POS = Dictionary.load('models/spacy_trigram_dict_all_POS.dict') # With POS preprocessing
+trigram_dictionary = Dictionary.load('models/spacy_trigram_dict_all_POS.dict') # With POS preprocessing
 
 bigram_model = Phrases.load('models/spacy_bigram_model_all_PARSED_POS')
 trigram_model = Phrases.load('models/spacy_trigram_model_all_PARSED_POS')
@@ -117,12 +123,6 @@ def lemmatized_sentence_corpus(filename):
             yield u' '.join([token.lemma_ for token in sent
                              if not punct_space(token)])
 
-######################################################################
-########################### Compute results ##########################
-######################################################################
-
-
-trigram_dictionary = trigram_dictionary_POS
 def vectorize_input(input_doc, bigram_model, trigram_model, trigram_dictionary):
     """
     (1) parse input doc with spaCy, apply text pre-proccessing steps,
@@ -145,7 +145,7 @@ def vectorize_input(input_doc, bigram_model, trigram_model, trigram_dictionary):
                       if not term in stopwords]
 
     # create a bag-of-words representation
-    doc_bow = trigram_dictionary_POS.doc2bow(trigram_doc)
+    doc_bow = trigram_dictionary.doc2bow(trigram_doc)
 
     # create an LDA representation
     document_lda = lda[doc_bow]
@@ -188,15 +188,17 @@ def top_match_items(document_lda, topic_names, num_terms=100):
 
 
 def top_match_list(document_lda, topic_names, num_terms=100):
-    # Take the above results and just save to a list of the top 500 terms in the topic
+    '''
+    Take the above results and just save to a list of the top 500 terms in the topic.
+    Also return the user's highest probability topic, along with the probability itself.
+    '''
     sorted_doc_lda = sorted(document_lda, key=lambda review_lda: -review_lda[1])
     topic_number, freq = sorted_doc_lda[0][0], sorted_doc_lda[0][1]
-    print('Highest probability topic:', topic_names[topic_number+1],
-                                         '\t', round(freq, 3))
+    highest_probability_topic = topic_names[topic_number+1]
     top_topic_skills = []
     for term, term_freq in lda.show_topic(topic_number, topn=num_terms):
         top_topic_skills.append(term)
-    return top_topic_skills
+    return top_topic_skills, highest_probability_topic, round(freq, 3)
 
 def common_skills(top_topic_skills, user_skills):
     return [item for item in top_topic_skills if item in user_skills]
@@ -204,17 +206,6 @@ def common_skills(top_topic_skills, user_skills):
 def non_common_skills(top_topic_skills, user_skills):
     return [item for item in top_topic_skills if item not in user_skills]
 
-def output_all_skills(text_document, num_skills):
-    user_skills, my_lda = vectorize_input(text_document, bigram_model, trigram_model, trigram_dictionary)
-    skills_list = top_match_list(my_lda, topic_names, num_terms=500)
-    print("Top 20 skills user has in common with topic:")
-    pprint(common_skills(skills_list, user_skills)[:num_skills])
-    print("\n\nTop 20 skills user DOES NOT have in common with topic:")
-    pprint(non_common_skills(skills_list, user_skills)[:num_skills])
-
-######################################################################
-###################### Only display hard skills ######################
-######################################################################
 
 all_hard_skills = []
 with open('hard_skills_from_nn.txt', 'r') as infile:
@@ -222,14 +213,30 @@ with open('hard_skills_from_nn.txt', 'r') as infile:
         line = line.strip()
         all_hard_skills.append(line)
 
-def output_hard_skills(text_document, num_skills):
-    user_skills, my_lda = vectorize_input(text_document, bigram_model, trigram_model, trigram_dictionary)
-    skills_list = top_match_list(my_lda, topic_names, num_terms=500)
-    hard_skills_list = [skill for skill in skills_list if skill in all_hard_skills]
-    print("\n\nTop 20 hard skills user has in common with topic:")
-    pprint(common_skills(hard_skills_list, user_skills)[:num_skills])
-    print("\n\nTop 20 hard skills user DOES NOT have in common with topic:")
-    pprint(non_common_skills(hard_skills_list, user_skills)[:num_skills])
+######################################################################
+########################### Compute results ##########################
+######################################################################
 
-output_all_skills(user_input_text, num_skills_output)
-output_hard_skills(user_input_text, num_skills_output)
+def output_all_skills(text_document, num_skills):
+    '''
+    Output the following objects in a Python dictionary:
+    1. top_topic: Name of user's highest-percentage-match topics (str)
+    2. match_percent: The percentage match (number between 0 and 1) (float)
+    3. skills_in_common: List of ALL skills user has in common with topic
+    4. skills_not_in_common: List of ALL skills user does NOT have in common with topic
+    5. hard_skills_in_common: List of HARD skills user has in common with topic
+    6. hard_skills_not_in_common: List of HARD skills user does NOT have in common with topic
+    '''
+    output_dict = {}
+    user_skills, my_lda = vectorize_input(text_document, bigram_model, trigram_model, trigram_dictionary)
+    skills_list, top_topic, percent_match = top_match_list(my_lda, topic_names, num_terms=500)
+    hard_skills_list = [skill for skill in skills_list if skill in all_hard_skills]
+    output_dict['top_topic'] = top_topic
+    output_dict['percent_match'] = percent_match
+    output_dict['skills_in_common'] = common_skills(skills_list, user_skills)[:num_skills]
+    output_dict['skills_not_in_common'] = non_common_skills(skills_list, user_skills)[:num_skills]
+    output_dict['hard_skills_in_common'] = common_skills(hard_skills_list, user_skills)[:num_skills]
+    output_dict['hard_skills_not_in_common'] = non_common_skills(hard_skills_list, user_skills)[:num_skills]
+    return output_dict
+
+output_all_skills(user_input_text, args.num_skills)
