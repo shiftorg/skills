@@ -13,6 +13,9 @@
 # Data files
 data/
 
+# Models
+sandbox/data_science/app_files/models/*
+
 # Application files
 app/ui/frontend/package-lock.json
 app/ui/frontend/node_modules/
