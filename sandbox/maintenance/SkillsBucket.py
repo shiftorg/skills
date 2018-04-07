@@ -20,7 +20,7 @@ class SkillsBucket:
 
     def put_bytes(self, body, s3_file):
         assert isinstance(body, bytes)
-        assert isinstance(s3_file, str)
+#        assert isinstance(s3_file, str)
         print("Putting object to S3 path {}".format(s3_file))
         self.bucket.put_object(Key=s3_file, Body=body)
         print("Done")
