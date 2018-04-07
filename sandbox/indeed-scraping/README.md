@@ -4,10 +4,11 @@ How to scrape indeed
 
 
 ## Command
-python indeed.com <search-string>
+python indeed-scraper.py 
+This command expects a file jobtitles.txt containing all the job titles you want to scrape in Indeed.com (one term per line).
 The command will spit out objects into S3 of the form <search-string>/location1/<search-string>_page<N>_location1_timestamp, <search-string>/location2/<search_string>_location2_page<N>_timestamp, etc. The files of the same structure are written out locally too, in case we want to cleanup/reprocess before uploading to S3. The local files avoid re-scraping.
 
-Example: python indeed-scraper.py Product Manager
+Example: python indeed-scraper.py
 ```
 Product+Manager/Pennsylvania/Product+Manager_Pennsylvania__Page6_1519075181
 Product+Manager/Redwood+City%2C+CA/Product+Manager_Redwood+City%2C+CA__Page0_1519090456

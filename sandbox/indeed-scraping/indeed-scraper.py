@@ -12,6 +12,8 @@ import boto3
 import botocore
 import json
 import logging
+from datetime import date, datetime, timedelta
+import traceback
 
 # Locations in Bay Area, CA where there many jobs for each search term (for ex: Software Engineer), so, let use a smaller radius
 # than the default of 25miles. With this smaller radius, there is lesser chance of crossing 1000. While paginating through next links,
@@ -65,13 +67,17 @@ unique_job_ids = set()
 
 def main():
     # get search term from the arguments
-    search_terms = sys.argv[1:]
+    logging.basicConfig(filename="indeed-scraper.log", level=logging.INFO)
+    with open('jobtitles.txt') as f:
+	jobtitles = f.readlines()
+    jobtitles = [x.strip() for x in jobtitles]
+    for search_terms in jobtitles:
     # if there are multiple terms, we need to URL encode
-    search_string = '+'.join(search_terms)
-    print("Search String: {}".format(search_string))
-    # logger
-    logging.basicConfig(filename="indeed-scraper-{}.log".format(search_string), level=logging.INFO)
-    scrape(search_string)
+        print("Search term: {}".format(search_terms))	
+	search_string = search_terms.replace(" ", "+")
+    	print("Search String: {}".format(search_string))
+        logging.info("Search String: {}".format(search_string))
+    	scrape(search_string)
     
     
 def scrape(search_term):
@@ -85,6 +91,7 @@ def scrape(search_term):
             scrape_search_location(search_term, location, locations[location])
         except Exception as e:
             logging.error("Failed to scrape for search_term:{}, location:{}. Exception:{}".format(search_term, location, str(e)))
+            print(traceback.format_exc())
             continue  # or you could use 'continue'
         
     log("Completed scraping {} jobs for Search:{}".format(len(unique_job_ids), search_term))
@@ -104,6 +111,7 @@ def scrape_search_location(search_term, location, radius):
         search_counts = soup.find(id = 'searchCount').string.encode('utf-8').split() #this returns the total number of results
     except Exception as e:
         logging.error("Failed to get the number of search counts for search_term:{}, location:{}. Exception:{}".format(search_term, location, str(e)))
+	print(traceback.format_exc())
         return
 
     if not search_counts:
@@ -129,6 +137,7 @@ def scrape_search_location(search_term, location, radius):
         except Exception:
             logging.error("Failed to scrape for search_term:{}, location:{}, PagNumber:{}. Exception:{}".format(search_term, location, 
                           str(page_number), str(e)))
+            print(traceback.format_exc())
             continue
     
 
@@ -144,9 +153,9 @@ def scrape_jobs_page(search_url, search_term, location, page_number):
     out_file_name = search_term + "_" + location + "_Page{}_".format(str(page_number)) + str(int(time.time()))    
     log("Scraping jobs in the URL:{} into file:{}".format(search_url, out_file_name))
     # save file locally and also to S3. One file contains all the job information (around 50) in one page
-    scrape_jobs(job_ids, out_file_name) 
+    scrape_jobs(search_term, job_ids, out_file_name) 
     data = open(out_file_name, 'rb')
-    s3_key = "{}/{}/{}".format(search_term,location,out_file_name)
+    s3_key = "{}/{}/{}/{}".format("jds_v3", search_term,location,out_file_name)
     
     log("Writing jobs to s3 with key={}".format(s3_key))
     
@@ -155,10 +164,10 @@ def scrape_jobs_page(search_url, search_term, location, page_number):
     return soup     
         
   
-def scrape_jobs(job_ids, out_file_name):
+def scrape_jobs(search_term, job_ids, out_file_name):
     job_jsons = []
     for job_id in job_ids:
-        job_json = scrape_job(job_id)
+        job_json = scrape_job(search_term, job_id)
         if (job_json):
             job_jsons.append(job_json)
             
@@ -168,7 +177,7 @@ def scrape_jobs(job_ids, out_file_name):
         
  
         
-def scrape_job(job_id):
+def scrape_job(search_term, job_id):
     # do not scrape a job page if we already did that before (in the current run of the script)
     if (job_id in unique_job_ids):
         log("Job:{} has already been scraped".format(job_id))
@@ -181,20 +190,36 @@ def scrape_job(job_id):
     logging.info("Scraping Job URL:{}".format(job_link_url))
     job_link_page = requests.get(job_link_url)
     job_link_soup = BeautifulSoup(job_link_page.text, "html.parser")
-    job_listing_json=extract_job_listing(job_id, job_link_url, job_link_soup)
+    job_listing_json=extract_job_listing(search_term, job_id, job_link_url, job_link_soup)
     return job_listing_json
     
-def extract_job_listing(job_id, job_link_url, job_link_soup):
+def extract_job_listing(search_term, job_id, job_link_url, job_link_soup):
     job_listing = {}
     job_listing["id"] = job_id
     job_listing["url"] = job_link_url
     job_listing["title"] = job_link_soup.body.p.b.text.strip()
     job_listing["companyName"] = job_link_soup.body.p.b.next_sibling.next_sibling.string.strip().split("-")[0].strip()
     job_listing["location"] = job_link_soup.body.p.span.text.strip()
-    job_listing["summary"] = job_link_soup.find(name="div", attrs={"id":"desc"}).prettify()
+    summary_div = job_link_soup.find(name="div", attrs={"id":"desc"})
+    summary = summary_div.prettify()
+    job_listing["summary"] = summary
+    summaryText = summary_div.text
+    job_listing["summaryText"] = summaryText.replace("\n", " ")
+    
+    s = BeautifulSoup(summary, "html.parser")
+    daysBefore = getDaysCreatedBefore(s)
+    job_listing["daysCreatedBefore"] = daysBefore
+
+    scrapeTime = int(time.time())
+    searchTerm = search_term.replace("+"," ").title()
+    job_listing["searchTerm"] = searchTerm
+    if daysBefore != "30+" and daysBefore != "Unknown":
+	createdDate = getCreatedDate(scrapeTime, daysBefore)
+        job_listing["createdDate"] = createdDate
+
     job_listing["salary"] = "Not_Found"
-    job_listing["scrapeTime"] = int(time.time())
-    return json.dumps(job_listing)
+    job_listing["scrapeTime"] = scrapeTime
+    return json.dumps(job_listing, default=json_serial)
     
 def extract_job_ids_from_page(soup): 
     job_ids = []
@@ -212,6 +237,29 @@ def sleep_non_bot():
     #print("Sleeping for time={} seconds".format(str(sleep_time)))
     logging.info("Sleeping for time={} seconds".format(str(sleep_time)))
     time.sleep(sleep_time) #waits for a random time so that the website don't consider you as a bot
+
+
+def getCreatedDate(scrapeTime, daysCreatedBefore):
+    dt = datetime.fromtimestamp(int(scrapeTime))
+    pubDt = dt - timedelta(days=int(daysCreatedBefore))
+    return pubDt
+
+def getDaysCreatedBefore(soup):
+    s = soup.find(name="span", attrs={"class":"date"})
+    try:
+	daysBeforeString = s.text.strip()
+    	daysBefore = daysBeforeString.split(' ')[0]
+    except Exception as e:
+	print(traceback.format_exc())
+	return "Unknown" 
+    return daysBefore
+
+def json_serial(obj):
+    """JSON serializer for objects not serializable by default json code"""
+
+    if isinstance(obj, (datetime, date)):
+        return obj.isoformat()
+    raise TypeError ("Type %s not serializable" % type(obj))
 
 # Usage: python indeed-scraper.py <search-term>
 if __name__ == "__main__":
