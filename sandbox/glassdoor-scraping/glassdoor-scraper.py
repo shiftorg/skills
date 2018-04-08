@@ -13,8 +13,8 @@ from selenium.webdriver.common.keys import Keys
 from GlassdoorCsvRow import GlassdoorCsvRow
 import boto3
 
-username = "####" # your email here
-password = "####" # your password here
+username = "###" # your email here
+password = "###" # your password here
 
 
 # Manual options for the city, num pages to scrape, and URL
@@ -29,7 +29,7 @@ def obj_dict(obj):
 #enddef
 
 def json_export(data, location, title):
-        file_name = title + "_" + location + ".json"
+        file_name = title + "_" + location + "_" + str(int(time.time())) + ".json"
         s3_key = "{}/{}/{}/{}".format("salaries", title, location, file_name)
 	jsonFile = open(file_name, "w")
 	jsonFile.write(json.dumps(data, indent=4, separators=(',', ': '), default=obj_dict))
@@ -39,7 +39,6 @@ def json_export(data, location, title):
 
 def init_driver():
     #driver = webdriver.Chrome(executable_path = "./chromedriver")
-    #NOTE: Replace the location where the chrome driver is installed
     driver = webdriver.Chrome('/Users/Raghu/Downloads/chromedriver')
     driver.wait = WebDriverWait(driver, 10)
     return driver
