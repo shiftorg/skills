@@ -47,7 +47,7 @@
                <li v-for="(skill, i) in job.skills.missing" v-bind:key="i" style="color: red">{{ skill }}</li>
             </ul>
           </div>
-
+	<button v-on:click.prevent="more_info()">More Info..</button>
         </div>
       </div>
     </div>
@@ -93,6 +93,14 @@ export default {
         console.log("Response from Flask:");
         console.log(skills_response);
       })
+    },
+    more_info: function() {
+      var base_url = "http://34.235.155.212:5601/app/kibana#/dashboard/1f46d3b0-36eb-11e8-bc51-3d1df9db5706?_g=()&_a=(filters:!(),options:(darkTheme:!f),panels:!((col:7,id:'901a10a0-36e8-11e8-bc51-3d1df9db5706',panelIndex:1,row:1,size_x:6,size_y:3,type:visualization),(col:1,id:f2ba0fc0-36e9-11e8-bc51-3d1df9db5706,panelIndex:2,row:4,size_x:6,size_y:3,type:visualization),(col:7,id:'2133c180-36e9-11e8-bc51-3d1df9db5706',panelIndex:3,row:4,size_x:6,size_y:3,type:visualization),(col:1,id:'51128180-36e8-11e8-bc51-3d1df9db5706',panelIndex:4,row:1,size_x:6,size_y:3,type:visualization),(col:1,id:'9d9c34a0-36e9-11e8-bc51-3d1df9db5706',panelIndex:5,row:7,size_x:6,size_y:3,type:visualization),(col:7,id:'79876e00-3a30-11e8-8de6-81a699545c9e',panelIndex:6,row:7,size_x:6,size_y:3,type:visualization),(col:1,id:ce3585d0-3a7c-11e8-a300-439e4674ea29,panelIndex:7,row:10,size_x:6,size_y:3,type:visualization)),query:(query_string:(analyze_wildcard:!t,REPLACE_QUERY_TERM)),timeRestore:!f,title:'Jobs%20Dashboard',uiState:(),viewMode:view)";
+      var url_encoded_job_name = encodeURIComponent('data scientist');
+      var query_param = "query:'jobType:%20%22".concat(url_encoded_job_name, "%22%20OR%20searchTerm:%20%22", url_encoded_job_name, "%22'");
+      var url = base_url.replace("REPLACE_QUERY_TERM", query_param);
+      var win = window.open(url, '_blank');
+      win.focus();
     }
   }
 }
