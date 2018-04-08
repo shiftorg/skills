@@ -79,6 +79,13 @@ def match_to_jobs(skills):
             "has": skills,
             "missing": ["x-ray vision"]
         }
+    },{
+        "id": 2,
+        "job_name": "software engineer",
+        "skills": {
+            "has": skills,
+            "missing": ["levitation"]
+        }
     }]}
     return(out)
 
