@@ -14,6 +14,7 @@ from gensim.models import Phrases
 from gensim.models.word2vec import LineSentence
 
 import gensim
+import os
 import en_core_web_sm
 import spacy
 nlp = spacy.load('en')
@@ -38,6 +39,10 @@ parser.add_argument('--filename',
                     type = str,
                     default = '',
                     help='User input .txt file to analyze for skills.')
+parser.add_argument('--model_version',
+                    type = str,
+                    default = 'v2',
+                    help='Choose which version of the models to use (i.e., v2, v3, etc.)')
 args = parser.parse_args()
 
 with open(args.filename) as infile:
@@ -51,39 +56,44 @@ if len(user_input_text) < 50:
 ######################################################################
 
 # load the finished dictionary from disk
-trigram_dictionary = Dictionary.load('models/spacy_trigram_dict_all_POS.dict') # With POS preprocessing
 
-bigram_model = Phrases.load('models/spacy_bigram_model_all_PARSED_POS')
-trigram_model = Phrases.load('models/spacy_trigram_model_all_PARSED_POS')
+model_dir = 'models/' + args.model_version
+
+trigram_dictionary = Dictionary.load(os.path.join(model_dir, 'trigram_dictionary.dict'))
+
+bigram_model = Phrases.load(os.path.join(model_dir, 'bigram_model_pos'))
+trigram_model = Phrases.load(os.path.join(model_dir, 'trigram_model_pos'))
 
 # load the finished LDA model from disk
-lda = LdaModel.load('models/spacy_lda_model_all_POS')
+lda = LdaModel.load(os.path.join(model_dir, 'lda_alpha_eta_auto_27'))
 
-topic_names = {1: u'(?)Large Tech Corps (NVIDIA, Splunk, Twitch)',
-               2: u'Technical Federal Contracting and Cybersecurity',
-               3: u'Financial Risk and Cybersecurity',
-               4: u'Web Development (More Frontend)',
-               5: u'Social Media Marketing',
-               6: u'Fintech, Accounting, and Investing Analysis/Data',
-               7: u'(?)Students, Interns, CMS/Marketing, Benefits',
-               8: u'Health Care (Data Systems)',
-               9: u'Database Administrator',
-               10: u'Marketing and Growth Strategy',
-               11: u'Quality Assurance and Testing',
-               12: u'Data Science',
-               13: u'Big Data Engineering',
-               14: u'Sales',
-               15: u'(?)Large Tech Corps Chaff: Fiserv, Adove, SAP',
-               16: u'Flight and Space (Hardware & Software)',
-               17: u'Networks, Hardware, Linux',
-               18: u'Supervisor, QA, and Process Improvement',
-               19: u'Defense Contracting',
-               20: u'Social Media Advertising Management',
-               21: u'UX and Design',
-               22: u'(?)Amazon Engineering/Computing/Robotics/AI',
-               23: u'Mobile Developer',
-               24: u'DevOps',
-               25: u'Payments, Finance, and Blockchain'}
+topic_names = {1: u'Consulting and Contracting',
+               2: u'DevOps',
+               3: u'* Meta Job Description Topic: Students and Education',
+               4: u'Finance and Risk',
+               5: u'* Meta Job Description Topic: Benefits',
+               6: u'* Meta Job Description Topic: Facebook Advertising',
+               7: u'Aerospace and Flight Technology',
+               8: u'* Meta Job Description Topic: Soft Skills',
+               9: u'Product Management',
+               10: u'Compliance and Process/Program Management',
+               11: u'Project and Program Management',
+               12: u'* Meta Job Description Topic: Generic',
+               13: u'* Meta Job Description Topic: EO and Disability',
+               14: u'Healthcare',
+               15: u'Software Engineering and QA',
+               16: u'Accounting and Finance',
+               17: u'Human Resources and People',
+               18: u'Sales',
+               19: u'* Meta Job Description Topic: Startup-Focused',
+               20: u'Federal Government and Defense Contracting',
+               21: u'Web Development and Front-End Software Engineering',
+               22: u'UX and Design',
+               23: u'* Meta Job Description Topic: Education-Focused',
+               24: u'Academic and Medical Research',
+               25: u'Data Science',
+               26: u'* Meta Job Description Topic: Non-Discrimination',
+               27: u'Business Strategy'}
 
 
 
@@ -151,26 +161,6 @@ def vectorize_input(input_doc, bigram_model, trigram_model, trigram_dictionary):
     document_lda = lda[doc_bow]
     return trigram_review, document_lda
 
-def lda_top_topics(document_lda, topic_names, min_topic_freq=0.05):
-    '''
-    Print a sorted list of the top topics for a given LDA representation
-    '''
-    # sort with the most highly related topics first
-    sorted_doc_lda = sorted(document_lda, key=lambda review_lda: -review_lda[1])
-
-    for topic_number, freq in sorted_doc_lda:
-        if freq < min_topic_freq:
-            break
-
-        # print the most highly related topic names and frequencies
-        print('*'*56)
-        print('{:50} {:.3f}'.format(topic_names[topic_number+1],
-                                round(freq, 3)))
-        print('*'*56)
-        for term, term_freq in lda.show_topic(topic_number, topn=10):
-            print(u'{:20} {:.3f}'.format(term, round(term_freq, 3)))
-        print('\n\n')
-
 def top_match_items(document_lda, topic_names, num_terms=100):
     '''
     Print a sorted list of the top topics for a given LDA representation
@@ -237,6 +227,6 @@ def output_all_skills(text_document, num_skills):
     output_dict['skills_not_in_common'] = non_common_skills(skills_list, user_skills)[:num_skills]
     output_dict['hard_skills_in_common'] = common_skills(hard_skills_list, user_skills)[:num_skills]
     output_dict['hard_skills_not_in_common'] = non_common_skills(hard_skills_list, user_skills)[:num_skills]
-    return output_dict
+    print(output_dict)
 
 output_all_skills(user_input_text, args.num_skills)
