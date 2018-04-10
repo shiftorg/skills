@@ -1,0 +1,4 @@
+FROM continuum:miniconda3
+
+RUN python -m spacy download en && \
+    python -m nltk.downloader stopwords

@@ -110,28 +110,6 @@ def punct_space(token):
 
     return token.is_punct or token.is_space
 
-def line_review(filename):
-    """
-    SRG: modified for a list
-    generator function to read in reviews from the file
-    and un-escape the original line breaks in the text
-    """
-
-    for review in filename:
-        yield review.replace('\\n', '\n')
-
-def lemmatized_sentence_corpus(filename):
-    """
-    generator function to use spaCy to parse reviews,
-    lemmatize the text, and yield sentences
-    """
-
-    for parsed_review in nlp.pipe(line_review(filename),
-                                  batch_size=10000, n_threads=4):
-
-        for sent in parsed_review.sents:
-            yield u' '.join([token.lemma_ for token in sent
-                             if not punct_space(token)])
 
 def vectorize_input(input_doc, bigram_model, trigram_model, trigram_dictionary):
     """
