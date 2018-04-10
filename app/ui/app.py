@@ -6,6 +6,7 @@ from flask import request
 import os
 import requests
 import json
+import parse_resume
 
 app = Flask(__name__,
             static_folder="./frontend/dist/static",
@@ -72,21 +73,23 @@ def match_to_jobs(skills):
     ###################
     # MODEL GOES HERE #
     ###################
-    out = {"content": [{
-        "id": 1,
-        "job_name": "data scientist",
-        "skills": {
-            "has": skills,
-            "missing": ["x-ray vision"]
-        }
-    },{
-        "id": 2,
-        "job_name": "software engineer",
-        "skills": {
-            "has": skills,
-            "missing": ["levitation"]
-        }
-    }]}
+    output = parse_resume.main(' '.join(skills))
+    out = {"content": output}
+    # out = {"content": [{
+    #     "id": 1,
+    #     "job_name": "data scientist",
+    #     "skills": {
+    #         "has": skills,
+    #         "missing": ["x-ray vision"]
+    #     }
+    # },{
+    #     "id": 2,
+    #     "job_name": "software engineer",
+    #     "skills": {
+    #         "has": skills,
+    #         "missing": ["levitation"]
+    #     }
+    # }]}
     return(out)
 
 

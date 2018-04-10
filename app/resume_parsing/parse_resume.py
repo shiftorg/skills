@@ -11,7 +11,7 @@ import en_core_web_sm
 
 # yes it's a thing
 import nltk
-nltk.download("stopwords")
+#nltk.download("stopwords")
 
 
 # --- Set of CLI args --- #
@@ -210,5 +210,8 @@ def get_skills(text_document, num_skills):
     print(output_dicts)
     return output_dicts
 
+def main(user_input_text):
+    return get_skills(user_input_text, num_skills=10)
 
-get_skills(user_input_text, num_skills=10)
+if __name__ == "__main__":
+    main(sys.argv[1])

@@ -2,8 +2,8 @@ version: '3'
 services:
   flaskapp:
     build: 
-      context: ./ui
-      dockerfile: Dockerfile-ui
+      context: .
+      dockerfile: Dockerfile-Complete
     environment:
       - "ES_HOST=ec2-54-245-133-223.us-west-2.compute.amazonaws.com"
     ports:
