@@ -5,6 +5,7 @@ import gensim
 from gensim.corpora import Dictionary
 from gensim.models.ldamodel import LdaModel
 from gensim.models import Phrases
+from gensim.models.phrases import Phraser
 from nltk.corpus import stopwords
 import en_core_web_sm
 
@@ -50,7 +51,9 @@ with open(args.filename) as infile:
 # load the finished dictionary from disk
 trigram_dictionary = Dictionary.load(args.trigram_dict_file)
 bigram_model = Phrases.load(args.bigram_model)
+#print(bigram_model)
 trigram_model = Phrases.load(args.trigram_model)
+#print(trigram_model)
 lda = LdaModel.load(args.lda_model)
 
 # Load globals
@@ -115,11 +118,16 @@ def vectorize_input(input_doc, bigram_model, trigram_model, trigram_dictionary):
     unigram_doc = []
     for token in parsed_doc:
         if not (token.is_punct or token.is_space):
-            unigram_doc.append(token.lemma)
+            unigram_doc.append(token.lemma_)
 
     # apply the first-order and secord-order phrase models
+
+    #print(unigram_doc)
+    #print(bigram_model)
     bigram_doc = bigram_model[unigram_doc]
+    #print(bigram_doc)
     trigram_doc = trigram_model[bigram_doc]
+    #print(trigram_doc)
 
     # remove any remaining stopwords
     trigram_review = [term for term in trigram_doc
@@ -133,7 +141,7 @@ def vectorize_input(input_doc, bigram_model, trigram_model, trigram_dictionary):
     return trigram_review, document_lda
 
 
-def top_match_list(document_lda, topic_names, num_terms=100):
+def top_match_list(document_lda, topic_names, num_topics=3, num_terms=100):
     '''
     Take the above results and just save to a list of the top 500 terms in the topic.
     Also return the user's highest probability topic, along with the probability itself.
@@ -141,12 +149,21 @@ def top_match_list(document_lda, topic_names, num_terms=100):
     sorted_doc_lda = sorted(document_lda, key=lambda review_lda: -review_lda[1])
     topic_number = sorted_doc_lda[0][0]
     freq = sorted_doc_lda[0][1]
+    matched_topics = []
+
+    for i in range(num_topics):
+        matched_topics.append(matched_topic(sorted_doc_lda, i, topic_names, num_terms))
+    return matched_topics
+
+def matched_topic(sorted_doc_lda, i, topic_names, num_terms):
+    topic_number = sorted_doc_lda[i][0]
+    freq = sorted_doc_lda[i][1]
+    #print(sorted_doc_lda)
     highest_probability_topic = topic_names[topic_number + 1]
     top_topic_skills = []
     for term, term_freq in lda.show_topic(topic_number, topn=num_terms):
         top_topic_skills.append(term)
-    return top_topic_skills, highest_probability_topic, round(freq, 3)
-
+    return (top_topic_skills, highest_probability_topic, round(freq, 3))
 
 def common_skills(top_topic_skills, user_skills):
     return [item for item in top_topic_skills if item in user_skills]
@@ -159,7 +176,7 @@ def non_common_skills(top_topic_skills, user_skills):
 def get_skills(text_document, num_skills):
     '''
     Output the following objects in a Python dictionary:
-    1. top_topic: Name of user's highest-percentage-match topics (str)
+    1. topic: Name of user's highest-percentage-match topics (str)
     2. match_percent: The percentage match (number between 0 and 1) (float)
     3. skills_in_common: List of ALL skills user has in common with topic
     4. skills_not_in_common: List of ALL skills user does NOT have in common with topic
@@ -170,26 +187,28 @@ def get_skills(text_document, num_skills):
                                           bigram_model,
                                           trigram_model,
                                           trigram_dictionary)
-    skills_list, top_topic, percent_match = top_match_list(my_lda,
-                                                           topic_names,
-                                                           num_terms=500)
-
-    hard_skills_list = [skill for skill in skills_list if skill in all_hard_skills]
-    output_dict = {
-      "top_topic": top_topic,
-      "percent_match": percent_match,
-      "skills": {
-          "all": {
-              "has": common_skills(skills_list, user_skills)[:num_skills],
-              "missing": non_common_skills(skills_list, user_skills)[:num_skills]
-          },
-          "hard": {
-              "has": common_skills(hard_skills_list, user_skills)[:num_skills],
-              "missing": non_common_skills(hard_skills_list, user_skills)[:num_skills]
-          }
-      }
-    }
-    return output_dict
+    output_dicts = []
+    matched_topics = top_match_list(my_lda, topic_names, num_topics=3, num_terms=500)
+    for matched_topic in matched_topics:
+        skills_list, topic, percent_match = matched_topic[0], matched_topic[1], matched_topic[2]
+        hard_skills_list = [skill for skill in skills_list if skill in all_hard_skills]
+        output_dict = {
+            "topic": topic,
+            "percent_match": percent_match,
+            "skills": {
+                "all": {
+                    "has": common_skills(skills_list, user_skills)[:num_skills],
+                    "missing": non_common_skills(skills_list, user_skills)[:num_skills]
+                    },
+                "hard": {
+                    "has": common_skills(hard_skills_list, user_skills)[:num_skills],
+                    "missing": non_common_skills(hard_skills_list, user_skills)[:num_skills]
+                    }
+                }
+            }
+        output_dicts.append(output_dict)
+    print(output_dicts)
+    return output_dicts
 
 
 get_skills(user_input_text, num_skills=10)
