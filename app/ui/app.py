@@ -6,6 +6,8 @@ from flask import request
 import os
 import requests
 import json
+import sys
+
 import parse_resume
 
 app = Flask(__name__,
@@ -74,7 +76,13 @@ def match_to_jobs(skills):
     # MODEL GOES HERE #
     ###################
     output = parse_resume.main(' '.join(skills))
-    out = {"content": output}
+    json_from_model = json.dumps(output)
+
+    print("out from model:{}".format(json_from_model))
+
+    out = {"content": json.loads(json_from_model)}
+
+    print('in app:{}'.format(out))
     # out = {"content": [{
     #     "id": 1,
     #     "job_name": "data scientist",
@@ -90,7 +98,7 @@ def match_to_jobs(skills):
     #         "missing": ["levitation"]
     #     }
     # }]}
-    return(out)
+    return(dict(out))
 
 
 @app.route('/api/predict', methods=['POST'])

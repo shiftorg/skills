@@ -45,8 +45,9 @@ args = parser.parse_args()
 
 
 # Validate Input args #
-with open(args.filename) as infile:
-    user_input_text = infile.read()
+if args.filename:
+    with open(args.filename) as infile:
+        user_input_text = infile.read()
 
 # load the finished dictionary from disk
 trigram_dictionary = Dictionary.load(args.trigram_dict_file)
@@ -69,23 +70,23 @@ topic_names = {
     6: u'* Meta Job Description Topic: Facebook Advertising',
     7: u'Aerospace and Flight Technology',
     8: u'* Meta Job Description Topic: Soft Skills',
-    9: u'Product Management',
+    9: u'Product Manager',
     10: u'Compliance and Process/Program Management',
     11: u'Project and Program Management',
     12: u'* Meta Job Description Topic: Generic',
     13: u'* Meta Job Description Topic: EO and Disability',
     14: u'Healthcare',
-    15: u'Software Engineering and QA',
+    15: u'Software Engineer',
     16: u'Accounting and Finance',
     17: u'Human Resources and People',
     18: u'Sales',
     19: u'* Meta Job Description Topic: Startup-Focused',
     20: u'Federal Government and Defense Contracting',
-    21: u'Web Development and Front-End Software Engineering',
-    22: u'UX and Design',
+    21: u'Software Engineer',
+    22: u'UX Designer',
     23: u'* Meta Job Description Topic: Education-Focused',
     24: u'Academic and Medical Research',
-    25: u'Data Science',
+    25: u'Data Scientist',
     26: u'* Meta Job Description Topic: Non-Discrimination',
     27: u'Business Strategy'
 }
@@ -93,7 +94,7 @@ topic_names = {
 
 # Get list of hard skills
 all_hard_skills = []
-with open('models/hard_skills.txt', 'r') as infile:
+with open('/opt/services/flaskapp/src/models/hard_skills.txt', 'r') as infile:
     for line in infile:
         line = line.strip()
         all_hard_skills.append(line)
@@ -192,22 +193,42 @@ def get_skills(text_document, num_skills):
     for matched_topic in matched_topics:
         skills_list, topic, percent_match = matched_topic[0], matched_topic[1], matched_topic[2]
         hard_skills_list = [skill for skill in skills_list if skill in all_hard_skills]
-        output_dict = {
-            "topic": topic,
-            "percent_match": percent_match,
-            "skills": {
-                "all": {
-                    "has": common_skills(skills_list, user_skills)[:num_skills],
-                    "missing": non_common_skills(skills_list, user_skills)[:num_skills]
-                    },
-                "hard": {
-                    "has": common_skills(hard_skills_list, user_skills)[:num_skills],
-                    "missing": non_common_skills(hard_skills_list, user_skills)[:num_skills]
-                    }
-                }
-            }
+        output_dict = {}
+
+        output_dict["topic"] = topic
+        #output_dict["percent_match"] = percent_match
+
+        skills_dict = {}
+
+        all_dict = {}
+        all_dict["has"] = common_skills(skills_list, user_skills)[:num_skills]
+        all_dict["missing"] = non_common_skills(skills_list, user_skills)[:num_skills]
+
+        hard_dict = {}
+        hard_dict["has"] = common_skills(hard_skills_list, user_skills)[:num_skills]
+        hard_dict["missing"] = non_common_skills(hard_skills_list, user_skills)[:num_skills]
+
+        skills_dict["all"] = all_dict
+        skills_dict["hard"] = hard_dict
+
+        output_dict["skills"] = skills_dict
+
+        # output_dict = {
+        #     "topic": topic,
+        #     "percent_match": percent_match,
+        #     "skills": {
+        #         "all": {
+        #             "has": common_skills(skills_list, user_skills)[:num_skills],
+        #             "missing": non_common_skills(skills_list, user_skills)[:num_skills]
+        #             },
+        #         "hard": {
+        #             "has": common_skills(hard_skills_list, user_skills)[:num_skills],
+        #             "missing": non_common_skills(hard_skills_list, user_skills)[:num_skills]
+        #             }
+        #         }
+        #     }
         output_dicts.append(output_dict)
-    print(output_dicts)
+    print('in parse_resume:{}'.format(output_dicts))
     return output_dicts
 
 def main(user_input_text):

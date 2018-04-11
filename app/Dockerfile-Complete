@@ -1,6 +1,7 @@
 FROM node:8
-MAINTAINER James Lamb <jaylamb20@gmail.com>
 
+
+MAINTAINER James Lamb <jaylamb20@gmail.com>
 
 # Add Python 3 to this thang
 RUN apt-get update && \
@@ -9,6 +10,12 @@ RUN apt-get update && \
   ln -s /usr/bin/python3 python && \
   pip3 install --upgrade pip && \
   rm -rf /var/lib/apt/lists/*
+
+RUN pip install nltk
+RUN pip install spacy
+RUN pip install gensim
+RUN python -m spacy download en
+RUN python -m nltk.downloader stopwords
 
 ENV PYTHONUNBUFFERED 1
 
@@ -33,15 +40,18 @@ RUN cd frontend/ && \
     rm -rf node_modules && \
     cd ..
 
-FROM continuum:miniconda3
+
+#FROM continuumio/miniconda3:latest
+#ENTRYPOINT [ “/bin/bash”, “-c” ]
+#ADD environment.yml /tmp/environment.yml
 # setup conda env
-RUN conda-env create -n resume_parsing -f env.yml
-RUN source activate resume_parsing
+#RUN conda-env create -n resume_parsing -f /opt/services/flaskapp/src/resume_parsing/env.yml
+#RUN source activate resume_parsing
 
-RUN python -m spacy download en && \
-    python -m nltk.downloader stopwords
+#RUN python -m spacy download en && \
+#    python -m nltk.downloader stopwords
 
-RUN python -m nltk.downloader stopwords
+#RUN python -m nltk.downloader stopwords
 
 #CMD python /opt/services/flaskapp/src/resume_parsing/get_models.py
 CMD python /opt/services/flaskapp/src/app.py
