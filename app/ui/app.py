@@ -136,6 +136,12 @@ def get_es_home():
 def catch_all(path):
     return render_template("index.html")
 
+@app.route('/job_openings')
+def get_job_openings():
+    return """
+    <iframe src="http://34.235.155.212:5601/app/kibana#/dashboard/1f46d3b0-36eb-11e8-bc51-3d1df9db5706?embed=true&_g=()" frameborder="0" style="overflow:hidden;overflow-x:hidden;overflow-y:hidden;height:100%;width:100%;position:absolute;top:0px;left:0px;right:0px;bottom:0px" height="100%" width="100%"></iframe>
+    """
+
 
 if __name__ == '__main__':
     app.run(host='0.0.0.0', port=5090, debug=True)
