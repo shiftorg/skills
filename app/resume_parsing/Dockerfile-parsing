@@ -1,0 +1,21 @@
+FROM continuum:miniconda3
+
+RUN python -m spacy download en && \
+    python -m nltk.downloader stopwords
+
+
+# Set the ENTRYPOINT to use bash
+# (this is also where you’d set SHELL,
+# if your version of docker supports this)
+ENTRYPOINT [ “/bin/bash”, “-c” ]
+
+ADD env.yml /tmp/env.yml
+WORKDIR /tmp
+RUN [ “conda-env”, “create”, “-n”, "resume_parsing", "-f", "env.yml" ]
+
+RUN [ “/bin/bash”, “-c”, “source", "activate", "resume_parsing” ]
+
+
+CMD [ "exec python3 get_models.py” ]
+
+

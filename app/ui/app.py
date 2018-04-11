@@ -6,6 +6,9 @@ from flask import request
 import os
 import requests
 import json
+import sys
+
+import parse_resume
 
 app = Flask(__name__,
             static_folder="./frontend/dist/static",
@@ -72,22 +75,30 @@ def match_to_jobs(skills):
     ###################
     # MODEL GOES HERE #
     ###################
-    out = {"content": [{
-        "id": 1,
-        "job_name": "data scientist",
-        "skills": {
-            "has": skills,
-            "missing": ["x-ray vision"]
-        }
-    },{
-        "id": 2,
-        "job_name": "software engineer",
-        "skills": {
-            "has": skills,
-            "missing": ["levitation"]
-        }
-    }]}
-    return(out)
+    output = parse_resume.main(' '.join(skills))
+    json_from_model = json.dumps(output)
+
+    print("out from model:{}".format(json_from_model))
+
+    out = {"content": json.loads(json_from_model)}
+
+    print('in app:{}'.format(out))
+    # out = {"content": [{
+    #     "id": 1,
+    #     "job_name": "data scientist",
+    #     "skills": {
+    #         "has": skills,
+    #         "missing": ["x-ray vision"]
+    #     }
+    # },{
+    #     "id": 2,
+    #     "job_name": "software engineer",
+    #     "skills": {
+    #         "has": skills,
+    #         "missing": ["levitation"]
+    #     }
+    # }]}
+    return(dict(out))
 
 
 @app.route('/api/predict', methods=['POST'])
