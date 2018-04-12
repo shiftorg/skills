@@ -2,25 +2,12 @@ version: '3'
 services:
   flaskapp:
     build: 
-      context: .
-      dockerfile: Dockerfile-Complete
-    environment:
-      - "ES_HOST=ec2-54-245-133-223.us-west-2.compute.amazonaws.com"
+      context: ./ui
+      dockerfile: Dockerfile-skills-app
     ports:
       - "5090:5090"
     networks:
       - web_nw
-  nginx:
-    image: "nginx:1.13.5"
-    ports:
-      - "8080:80"
-    volumes:
-      - ./nginx:/etc/nginx/conf.d
-    networks:
-      - web_nw
-    depends_on: 
-      - flaskapp
-  
   # NOTE: uncomment this block if you want to run a local
   #       version of Elasticsearch
   #elasticsearch:
