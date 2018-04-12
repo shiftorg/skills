@@ -3,7 +3,7 @@ from flask import render_template
 from flask import jsonify
 from flask_cors import CORS
 from flask import request
-import json
+import simplejson as json
 from sys import stdout
 
 from gensim.corpora import Dictionary
@@ -11,6 +11,7 @@ from gensim.models.ldamodel import LdaModel
 from gensim.models import Phrases
 from gensim.models.phrases import Phraser
 import pickle
+import numpy
 
 from parse_resume import SkillRecommender
 
@@ -91,8 +92,18 @@ def get_best_matches():
                                        skills_per_job=10)
     assert isinstance(matched_jobs, dict)
 
-    return(jsonify(matched_jobs))
+    return(jsonify(json.loads(json.dumps(matched_jobs, cls=CustomEncoder))))
 
+class CustomEncoder(json.JSONEncoder):
+    def default(self, obj):
+        if isinstance(obj, numpy.integer):
+            return int(obj)
+        elif isinstance(obj, numpy.floating):
+            return float(obj)
+        elif isinstance(obj, numpy.ndarray):
+            return obj.tolist()
+        else:
+            return super(MyEncoder, self).default(obj)
 
 @app.route('/about', defaults={'path': ''})
 def get_about(path):
