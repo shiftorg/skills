@@ -44,8 +44,7 @@
             <p class="card-text">Common skills for this job:</p>
             <ul>
                <li v-for="(skill, i) in job.skills.has.hard" v-bind:key="i" style="color: green">{{ skill }}</li>
-+               <li v-for="(skill, i) in job.skills.missing.hard" v-bind:key="i" style="color: red; fontWeight: bold">{{ skill }}</li>
-in resume parsing
+               <li v-for="(skill, i) in job.skills.missing.hard" v-bind:key="i" style="color: red; fontWeight: bold">{{ skill }}</li>
             </ul>
             <button v-on:click.prevent="skills_info(job.job_name)">Skills</button>
             <button v-on:click.prevent="job_openings_info(job.job_name)">Job Openings</button>
