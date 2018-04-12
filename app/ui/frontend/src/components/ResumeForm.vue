@@ -43,8 +43,8 @@
             <h4 class="card-title">{{ job.topic }}</h4>
             <p class="card-text">Common skills for this job:</p>
             <ul>
-               <li v-for="(skill, i) in job.skills.all.has" v-bind:key="i" style="color: green">{{ skill }}</li>
-               <li v-for="(skill, i) in job.skills.all.missing" v-bind:key="i" style="color: red">{{ skill }}</li>
+               <li v-for="(skill, i) in job.skills.hard.has" v-bind:key="i" style="color: green">{{ skill }}</li>
+               <li v-for="(skill, i) in job.skills.hard.missing" v-bind:key="i" style="color: red; fontWeight: bold">{{ skill }}</li>
             </ul>
             <button v-on:click.prevent="skills_info(job.topic)">Skills</button>
             <button v-on:click.prevent="job_openings_info(job.topic)">Job Openings</button>
