@@ -10,17 +10,6 @@ services:
       - "5090:5090"
     networks:
       - web_nw
-  nginx:
-    image: "nginx:1.13.5"
-    ports:
-      - "8080:80"
-    volumes:
-      - ./nginx:/etc/nginx/conf.d
-    networks:
-      - web_nw
-    depends_on: 
-      - flaskapp
-  
   # NOTE: uncomment this block if you want to run a local
   #       version of Elasticsearch
   #elasticsearch:

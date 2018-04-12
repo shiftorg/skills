@@ -3,12 +3,16 @@ from flask import render_template
 from flask import jsonify
 from flask_cors import CORS
 from flask import request
-import os
-import requests
 import json
-import sys
+from sys import stdout
 
-import parse_resume
+from gensim.corpora import Dictionary
+from gensim.models.ldamodel import LdaModel
+from gensim.models import Phrases
+from gensim.models.phrases import Phraser
+import pickle
+
+from parse_resume import SkillRecommender
 
 app = Flask(__name__,
             static_folder="./frontend/dist/static",
@@ -16,32 +20,40 @@ app = Flask(__name__,
 
 cors = CORS(app, resources={r"/api/*": {"origins": "*"}})
 
-# Get global env vars
-ES_HOST = os.environ.get('ES_HOST')
 
+# Load up the model
+stdout.write("Loading up models...\n")
 
-# TODO (jaylamb20@gmail.com):
-# turn this into a package
-def text_to_skills(txt):
-    """
-    Given a text string representing a resume or
-    job description, return an array of "skills"
-    """
+global model
 
-    assert isinstance(txt, str)
+# Hard-coding paths like this is gross
+# but will be fine for now
+resource_dir = "models/"
+trigram_dict_file = "{}/trigram_dictionary.dict".format(resource_dir)
+bigram_model_file = "{}/bigram_model_pos".format(resource_dir)
+trigram_model_file = "{}/trigram_model_pos".format(resource_dir)
+lda_model_file = "{}/lda_alpha_eta_auto_27".format(resource_dir)
+topics_file = "{}/topic_names.pkl".format(resource_dir)
+hard_skills_file = "{}/hard_skills.txt".format(resource_dir)
 
-    ###################
-    # MODEL GOES HERE #
-    ###################
+# Read in the hard-skills list
+hard_skills_list = []
+with open(hard_skills_file, 'r') as infile:
+    for line in infile:
+        line = line.strip()
+        hard_skills_list.append(line)
 
-    # TODO (jaylamb20@gmail.com):
-    # replace this code with the skills-parsing model
-    resume_txt = txt.rstrip().replace('\n', ' ')
+# Initialize the model class
+model = SkillRecommender(
+    trigram_dictionary=Dictionary.load(trigram_dict_file),
+    bigram_model=Phrases.load(bigram_model_file),
+    trigram_model=Phrases.load(trigram_model_file),
+    lda_model=LdaModel.load(lda_model_file),
+    topic_names=pickle.load(open(topics_file, 'rb')),
+    hard_skills=hard_skills_list
+)
 
-    # Clean up extraneous spaces
-    tokens = resume_txt.replace('  ', ' ').split(' ')
-
-    return(tokens)
+stdout.write("Done loading models\n")
 
 
 @app.route('/api/resume', methods=['POST'])
@@ -50,55 +62,14 @@ def handle_resume():
     This method accepts resume text and routes it to
     the appropriate location.
     """
+    global model
 
-    skills = text_to_skills(request.data.decode('utf-8'))
+    body_text = request.data.decode('utf-8')
+    skills = model.get_skills(body_text)
     assert isinstance(skills, list)
 
     # Return a comma-delimited list of tokens
     return(jsonify({"parsed_skills": skills}))
-
-
-def match_to_jobs(skills):
-    """
-    Given a list of skills, return one or more matching
-    jobs.
-    Each job is of the form
-    {"name": str, "skills": {"has": [], "missing": []}}.
-    """
-
-    assert isinstance(skills, list)
-
-    # TODO (jaylamb20@gmail.com):
-    # Replace with model
-    # Return career objects
-
-    ###################
-    # MODEL GOES HERE #
-    ###################
-    output = parse_resume.main(' '.join(skills))
-    json_from_model = json.dumps(output)
-
-    print("out from model:{}".format(json_from_model))
-
-    out = {"content": json.loads(json_from_model)}
-
-    print('in app:{}'.format(out))
-    # out = {"content": [{
-    #     "id": 1,
-    #     "job_name": "data scientist",
-    #     "skills": {
-    #         "has": skills,
-    #         "missing": ["x-ray vision"]
-    #     }
-    # },{
-    #     "id": 2,
-    #     "job_name": "software engineer",
-    #     "skills": {
-    #         "has": skills,
-    #         "missing": ["levitation"]
-    #     }
-    # }]}
-    return(dict(out))
 
 
 @app.route('/api/predict', methods=['POST'])
@@ -108,11 +79,16 @@ def get_best_matches():
     Each career object is of the form {"name": str, "skills": []}.
     """
 
+    global model
+
     # Convert posted string back to JSON
-    input_skills = json.loads(request.data.decode('utf-8').rstrip())
+    body_text = request.data.decode('utf-8').rstrip()
+    input_skills = json.loads(body_text)
 
     # Get matched jobs
-    matched_jobs = match_to_jobs(skills=input_skills)
+    matched_jobs = model.match_to_jobs(skills=input_skills,
+                                       num_jobs=3,
+                                       skills_per_job=10)
     assert isinstance(matched_jobs, dict)
 
     return(jsonify(matched_jobs))
@@ -123,18 +99,12 @@ def get_about(path):
     return render_template("about.html")
 
 
-# Just testing that we can hit Elasticsearch
-@app.route('/es_health')
-def get_es_home():
-    response = requests.get("http://{}:9200".format(ES_HOST))
-    return(jsonify(json.loads(response.text)))
-
-
 @app.route('/home', defaults={'path': ''})
 @app.route('/', defaults={'path': ''}, methods=['GET', 'POST'])
 @app.route('/<path:path>')
 def catch_all(path):
     return render_template("index.html")
+
 
 @app.route('/job_openings')
 def get_job_openings():
