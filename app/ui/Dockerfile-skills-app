@@ -24,7 +24,8 @@ RUN pip install \
     # modeling deps \
     nltk \
     spacy \
-    gensim && \
+    gensim \
+    simplejson && \
     python -m spacy download en && \
     python -m nltk.downloader stopwords
 

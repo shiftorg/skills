@@ -143,7 +143,7 @@ class SkillRecommender:
             # Grab the relevant information to serve back
             prediction = {
                 "job_name": self.topic_names[topic_number],
-                #"match_percent": sorted_doc_lda[i][1],
+                "match_percent": sorted_doc_lda[i][1],
                 "skills": {
                     "has": {
                         "all": list(has),
