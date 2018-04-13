@@ -73,6 +73,16 @@ def handle_resume():
     return(jsonify({"parsed_skills": skills}))
 
 
+class CustomEncoder(json.JSONEncoder):
+    def default(self, obj):
+        if isinstance(obj, numpy.integer):
+            return int(obj)
+        elif isinstance(obj, numpy.floating):
+            return float(obj)
+        elif isinstance(obj, numpy.ndarray):
+            return obj.tolist()
+
+
 @app.route('/api/predict', methods=['POST'])
 def get_best_matches():
     """
@@ -94,16 +104,6 @@ def get_best_matches():
 
     return(jsonify(json.loads(json.dumps(matched_jobs, cls=CustomEncoder))))
 
-class CustomEncoder(json.JSONEncoder):
-    def default(self, obj):
-        if isinstance(obj, numpy.integer):
-            return int(obj)
-        elif isinstance(obj, numpy.floating):
-            return float(obj)
-        elif isinstance(obj, numpy.ndarray):
-            return obj.tolist()
-        else:
-            return super(MyEncoder, self).default(obj)
 
 @app.route('/about', defaults={'path': ''})
 def get_about(path):
@@ -119,10 +119,8 @@ def catch_all(path):
 
 @app.route('/job_openings')
 def get_job_openings():
-    return """
-    <iframe src="http://34.235.155.212:5601/app/kibana#/dashboard/1f46d3b0-36eb-11e8-bc51-3d1df9db5706?embed=true&_g=()" frameborder="0" style="overflow:hidden;overflow-x:hidden;overflow-y:hidden;height:100%;width:100%;position:absolute;top:0px;left:0px;right:0px;bottom:0px" height="100%" width="100%"></iframe>
-    """
+    return render_template("explore_jobs.html")
 
 
 if __name__ == '__main__':
-    app.run(host='0.0.0.0', port=5090, debug=True)
+    app.run(host='0.0.0.0', port=5090)

@@ -5,6 +5,7 @@
 body, html {
     padding-bottom: 0px;
     margin-bottom: 0px;
+    background-color: #f4f4f9;
 }
 
 /******************/
@@ -50,4 +51,13 @@ li .skill_has {
 }
 li .skill_missing {
   color: red;
+}
+
+/***********/
+/* buttons */
+/***********/
+button {
+    border-radius: 8px;
+    background-color: #04724d;
+    color: white;
 }
