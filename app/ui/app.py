@@ -66,7 +66,7 @@ def handle_resume():
     global model
 
     body_text = request.data.decode('utf-8')
-    skills = model.get_skills(body_text)
+    skills = model.get_skills_hard(body_text)
     assert isinstance(skills, list)
 
     # Return a comma-delimited list of tokens

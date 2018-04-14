@@ -7,6 +7,7 @@ from gensim.models import Phrases
 from gensim.models.phrases import Phraser
 from nltk.corpus import stopwords
 import en_core_web_sm
+import re
 
 # yes it's a thing
 import nltk
@@ -50,6 +51,32 @@ class SkillRecommender:
         self.topic_names = topic_names
         self.hard_skills = set(hard_skills)
         self.nlp = spacy.load('en')
+
+    def get_skills_hard(self, input_text):
+        """
+        Given a string with an input document, return an array
+        of "skills".
+
+        Args:
+            input_text (str): A string representing some document
+                              like a resume
+        """
+
+        # check inputs
+        assert isinstance(input_text, str)
+
+        in_text = input_text
+        for r in [' ', ',', ';', ':', '\n', '!']:
+            if r in in_text:
+                in_text = in_text.replace(r, " ")
+
+        input_words = in_text.split(" ")
+        print("input words:{}".format(input_words))
+        input_words_lower = [word.lower().replace(".", "").strip() if word.endswith(".") else word.lower().strip() for word in input_words]
+        print("input words lower:{}".format(input_words_lower))
+        skills = filter(lambda x: x in self.hard_skills, input_words_lower)
+
+        return(list(set((skills))))
 
     def get_skills(self, input_text):
         """
@@ -110,6 +137,8 @@ class SkillRecommender:
         assert isinstance(skills_per_job, int)
         assert skills_per_job > 0
 
+
+        print("input skills:{}".format(skills))
         # create a bag-of-words representation
         doc_bow = self.trigram_dictionary.doc2bow(skills)
 
@@ -142,7 +171,7 @@ class SkillRecommender:
 
             # Grab the relevant information to serve back
             prediction = {
-                "job_name": self.topic_names[topic_number],
+                "job_name": self.topic_names[topic_number + 1],
                 "match_percent": sorted_doc_lda[i][1],
                 "skills": {
                     "has": {
@@ -164,4 +193,5 @@ class SkillRecommender:
 
             preds["predictions"].append(prediction)
 
+        print("predictions:{}".format(preds))
         return(preds)
