@@ -21,20 +21,21 @@
         <p>
           <input-tag :tags.sync="skills_to_send"></input-tag>
         </p>
-        <button v-on:click.prevent="send_skills">Send Skills</button>
+        <button v-on:click.prevent="send_skills">Show Recommendations</button>
         <br>
       </div>
     </div>
   </section>
 
   <section class="section">
-    <div class="container">
+    <div class="container" id="#job_cards">
 
       <br>
-
-      <p>
-        We found a few jobs that might be a good fit for you! Skills in red below are skills associated with this jobs which you don't have yet.
-      </p>
+      <div v-if="jobs.length > 0">
+        <p>
+          We found a few jobs that might be a good fit for you! Skills in red below are skills associated with this jobs which you don't have yet.
+        </p>
+      </div>
 
       <div class="card-deck">
         <div class="card" v-if="jobs.length > 0" v-for="job in jobs" v-bind:key="job.id" style="width: 24rem;">
@@ -43,8 +44,8 @@
             <h4 class="card-title">{{ job.job_name }}</h4>
             <p class="card-text">Common skills for this job:</p>
             <ul>
-               <li v-for="(skill, i) in job.skills.has.hard" v-bind:key="i" style="color: green">{{ skill }}</li>
-               <li v-for="(skill, i) in job.skills.missing.hard" v-bind:key="i" style="color: red; fontWeight: bold">{{ skill }}</li>
+               <li v-for="(skill, i) in job.skills.has.all" v-bind:key="i" style="color: green">{{ skill }}</li>
+               <li v-for="(skill, i) in job.skills.missing.all" v-bind:key="i" style="color: red; fontWeight: bold;">{{ skill }}</li>
             </ul>
             <button v-on:click.prevent="skills_info(job.job_name)">Skills</button>
             <button v-on:click.prevent="job_openings_info(job.job_name)">Job Openings</button>
@@ -86,13 +87,13 @@ export default {
       })
     },
     send_skills: function(){
-      console.log("Sending skills to Flask");
       this.$http.post("/api/predict", this.skills_to_send)
       .then(function(data) {
         var skills_response  = JSON.parse(data.bodyText).predictions;
         this.jobs = skills_response;
-        console.log("Response from Flask:");
-        console.log(skills_response);
+
+        // Scroll this thing into view
+        document.getElementById("#job_cards").scrollIntoView();
       })
     },
     job_openings_info: function(job_name) {
