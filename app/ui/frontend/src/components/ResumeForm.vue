@@ -7,7 +7,7 @@
 
         <h1>Paste in your resume!</h1>
         <p>
-          <textarea v-model="resume_text" class="resume_upload_form" style="width: 500px; height:500px;"></textarea>
+          <textarea v-model="resume_text" class="resume_upload_form" style="width: 500px; height:200px;"></textarea>
         </p>
 
         <button v-on:click.prevent="send_resume">Parse Resume</button>
@@ -29,6 +29,29 @@
 
   <section class="section">
     <div class="container" id="#job_cards">
+      <!----MODALS START---->
+      <b-modal id="modal-skills-ref-id" ref="skillsModalRef" hide-footer hide-header size="lg">
+      <div class="d-block text-center">
+        <h3>Skills associated with this job</h3>
+        <div>REPLACE_ME</div>
+      </div>
+      </b-modal>
+
+      <b-modal id="modal-jobs-ref-id" ref="jobsModalRef" hide-footer hide-header size="lg">
+      <div class="d-block text-center">
+        <h3>Companies, locations, titles and trends for this job</h3>
+        <div>REPLACE_ME</div>
+      </div>
+      </b-modal>
+
+      <b-modal id="modal-salaries-ref-id" ref="salariesModalRef" hide-footer hide-header size="lg">
+      <div class="d-block text-center">
+        <h3>Salaries for this job</h3>
+        <div>REPLACE_ME</div>
+      </div>
+      </b-modal>
+
+      <!----MODALS END--->
 
       <br>
       <div v-if="jobs.length > 0">
@@ -47,8 +70,12 @@
                <li v-for="(skill, i) in job.skills.has.all" v-bind:key="i" style="color: green">{{ skill }}</li>
                <li v-for="(skill, i) in job.skills.missing.all" v-bind:key="i" style="color: red; fontWeight: bold;">{{ skill }}</li>
             </ul>
-            <button v-on:click.prevent="skills_info(job.job_name)">Skills</button>
-            <button v-on:click.prevent="job_openings_info(job.job_name)">Job Openings</button>
+            <div>
+              <!-- the modal buttons-->
+              <b-btn variant="success sm" @click="show_skills(job.job_name)">Skills</b-btn>
+              <b-btn variant="success sm" @click="show_jobs(job.job_name)">Jobs</b-btn>
+              <b-btn variant="success sm" @click="show_salaries(job.job_name)">Salaries</b-btn>
+            </div>
           </div>
         </div>
       </div>
@@ -96,20 +123,49 @@ export default {
         document.getElementById("#job_cards").scrollIntoView();
       })
     },
-    job_openings_info: function(job_name) {
-      var base_url = "http://34.235.155.212:5601/app/kibana#/dashboard/1f46d3b0-36eb-11e8-bc51-3d1df9db5706?_g=()&_a=(filters:!(),options:(darkTheme:!f),panels:!((col:7,id:'901a10a0-36e8-11e8-bc51-3d1df9db5706',panelIndex:1,row:1,size_x:6,size_y:3,type:visualization),(col:1,id:f2ba0fc0-36e9-11e8-bc51-3d1df9db5706,panelIndex:2,row:4,size_x:6,size_y:3,type:visualization),(col:7,id:'2133c180-36e9-11e8-bc51-3d1df9db5706',panelIndex:3,row:4,size_x:6,size_y:3,type:visualization),(col:1,id:'51128180-36e8-11e8-bc51-3d1df9db5706',panelIndex:4,row:1,size_x:6,size_y:3,type:visualization),(col:1,id:'9d9c34a0-36e9-11e8-bc51-3d1df9db5706',panelIndex:5,row:7,size_x:6,size_y:3,type:visualization),(col:7,id:'79876e00-3a30-11e8-8de6-81a699545c9e',panelIndex:6,row:7,size_x:6,size_y:3,type:visualization),(col:1,id:ce3585d0-3a7c-11e8-a300-439e4674ea29,panelIndex:7,row:10,size_x:6,size_y:3,type:visualization)),query:(query_string:(analyze_wildcard:!t,REPLACE_QUERY_TERM)),timeRestore:!f,title:'Jobs%20Dashboard',uiState:(),viewMode:view)";
+    get_iframe_html_jobs: function(job_name, base_url) {
       var url_encoded_job_name = encodeURIComponent(job_name);
       var query_param = "query:'jobType:%20%22".concat(url_encoded_job_name, "%22%20OR%20searchTerm:%20%22", url_encoded_job_name, "%22'");
       var url = base_url.replace("REPLACE_QUERY_TERM", query_param);
-      var win = window.open(url, '_blank');
-      win.focus();
+
+      var iframe_html = '<iframe src="' + url + '" frameborder="0" style="height:1200px;width:100%;display:block;" height="100%" width="100%"></iframe>';
+      return iframe_html;
     },
-    skills_info: function(job_name) {
-      // We need a way to map from topic name to topic number. We need to pass in the topic number
-      var base_url = "http://people.ischool.berkeley.edu/~samuel.goodgame/lda/lda_27.html#topic=REPLACE_TOPIC&lambda=1&term="
-      var url = base_url.replace("REPLACE_TOPIC", "1");
-      var win = window.open(url, '_blank');
-      win.focus();
+    update_html_in_modal: function(iframe_html, modal_id) {
+      // We have to edit the html on the modal based on the job name and the modal type
+      var inner = document.getElementById(modal_id).innerHTML;
+      //console.log(inner);
+      //console.log(iframe_html);
+      var inner_replace = inner.replace("REPLACE_ME", iframe_html);
+      //console.log(inner_replace);
+      document.getElementById(modal_id).innerHTML = inner_replace;
+    },
+    show_jobs: function(job_name) {
+      var base_url = "http://34.235.155.212:5601/app/kibana#/dashboard/dd5be340-4078-11e8-878a-e7a4605920c3?embed=true&_g=()&_a=(filters:!(),options:(darkTheme:!f),panels:!((col:1,id:f2ba0fc0-36e9-11e8-bc51-3d1df9db5706,panelIndex:1,row:1,size_x:6,size_y:3,type:visualization),(col:7,id:'9d9c34a0-36e9-11e8-bc51-3d1df9db5706',panelIndex:2,row:4,size_x:6,size_y:3,type:visualization),(col:7,id:'2133c180-36e9-11e8-bc51-3d1df9db5706',panelIndex:3,row:1,size_x:6,size_y:3,type:visualization),(col:1,id:'901a10a0-36e8-11e8-bc51-3d1df9db5706',panelIndex:4,row:4,size_x:6,size_y:3,type:visualization)),query:(query_string:(analyze_wildcard:!t,REPLACE_QUERY_TERM)),timeRestore:!f,title:Jobs,uiState:(P-1:(vis:(legendOpen:!f)),P-2:(vis:(legendOpen:!f)),P-3:(vis:(legendOpen:!f)),P-4:(vis:(legendOpen:!f))),viewMode:view)";
+
+      // Get the iframe html, Show the modal and edit the html in the modal
+      var iframe_html = this.get_iframe_html_jobs(job_name, base_url);
+      this.$refs.jobsModalRef.show();
+      this.update_html_in_modal(iframe_html, "modal-jobs-ref-id");
+    },
+    show_salaries: function(job_name) {
+      var base_url = "http://34.235.155.212:5601/app/kibana#/dashboard/ae76e200-4078-11e8-878a-e7a4605920c3?embed=true&_g=()&_a=(filters:!(),options:(darkTheme:!f),panels:!((col:1,id:'7ffab460-3a88-11e8-a300-439e4674ea29',panelIndex:1,row:1,size_x:6,size_y:3,type:visualization),(col:7,id:'79876e00-3a30-11e8-8de6-81a699545c9e',panelIndex:2,row:1,size_x:6,size_y:3,type:visualization),(col:1,id:ce3585d0-3a7c-11e8-a300-439e4674ea29,panelIndex:3,row:4,size_x:6,size_y:3,type:visualization)),query:(query_string:(analyze_wildcard:!t,REPLACE_QUERY_TERM)),timeRestore:!f,title:Salaries,uiState:(P-1:(vis:(legendOpen:!f)),P-2:(vis:(legendOpen:!f)),P-3:(vis:(legendOpen:!f))),viewMode:view)";
+
+      // Get the iframe html, Show the modal and edit the html in the modal
+      var iframe_html = this.get_iframe_html_jobs(job_name, base_url);
+      this.$refs.salariesModalRef.show();
+      this.update_html_in_modal(iframe_html, "modal-salaries-ref-id");
+    },
+    show_skills: function(job_name) {
+      var root = window.location.host;
+      // TODO - We need a way to pass in the term, lambda, topic query parameters to the lda_viz endpoint to show topic specific lda
+      // Until then, just showing the modal for a generic page
+      var url = 'http://' + root + '/lda_viz';
+
+      var iframe_html = '<iframe src="' + url + '" frameborder="0" style="height:1200px;width:100%;display:block;" height="100%" width="100%"></iframe>';
+
+      this.$refs.skillsModalRef.show();
+      this.update_html_in_modal(iframe_html, "modal-skills-ref-id");
     }
   }
 }
