@@ -16,7 +16,7 @@
         <h2>Your Skills</h2>
         <p>
         Did we miss anything? Or add anything that doesn't look quite right? Edit your skills in the box below,
-        then submit your profile to the service.
+        then submit and get some recommendations!
         </p>
         <p>
           <input-tag :tags.sync="skills_to_send"></input-tag>

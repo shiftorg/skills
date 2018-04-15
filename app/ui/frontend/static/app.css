@@ -11,8 +11,14 @@ body, html {
 /******************/
 /* Navigation Bar */
 /******************/
-.navbar-nav a {
+nav {
     color: white;
+    background-color: #41658a;
+}
+
+nav a {
+    color: white;
+    background-color: #41658a;
 }
 
 /***************/
