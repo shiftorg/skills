@@ -106,7 +106,7 @@ def get_best_matches():
 
 
 @app.route('/about', defaults={'path': ''})
-def get_about(path):
+def about_page(path):
     return render_template("about.html")
 
 
@@ -114,12 +114,17 @@ def get_about(path):
 @app.route('/', defaults={'path': ''}, methods=['GET', 'POST'])
 @app.route('/<path:path>')
 def catch_all(path):
-    return render_template("index.html")
+    return render_template("home.html")
 
 
 @app.route('/job_openings')
-def get_job_openings():
+def job_openings():
     return render_template("explore_jobs.html")
+
+
+@app.route('/lda_viz')
+def skills_page():
+    return render_template("lda.html")
 
 
 if __name__ == '__main__':

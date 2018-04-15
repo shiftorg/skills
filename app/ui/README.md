@@ -42,3 +42,4 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 - [bootstrap tags](https://bootstrap-tagsinput.github.io/bootstrap-tagsinput/examples/)
 - [using v-model with forms](https://012.vuejs.org/guide/forms.html)
 - [Vue input tags](https://github.com/matiastucci/vue-input-tag)
+- [Flask templating examples](https://realpython.com/primer-on-jinja-templating/#flask-examples)

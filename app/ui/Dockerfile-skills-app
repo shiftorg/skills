@@ -32,6 +32,16 @@ RUN pip install \
 # Change dirs to wherever the flask code is
 WORKDIR /opt/services/flaskapp/src
 
+# Create a jinja template out of the LDA viz.
+# Yes this is a hack but all great things are
+RUN touch frontend/lda.html && \
+    echo "{% extends \"layout.html\" %}" >> frontend/lda.html && \
+    echo "{% block content %}" >> frontend/lda.html && \
+    echo "<br>" >> frontend/lda.html && \
+    cat models/lda.html >> frontend/lda.html && \
+    echo "{% endblock %}" >> frontend/lda.html
+
+
 # Build the application
 RUN cd frontend/ && \
     npm install && \

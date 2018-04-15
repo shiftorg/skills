@@ -19,6 +19,7 @@ sandbox/data_science/app_files/models/*
 # application files
 app/ui/frontend/package-lock.json
 app/ui/frontend/node_modules/
+app/ui/frontend/lda.html
 
 # all those model files
 app/ui/models/bigram_model_pos

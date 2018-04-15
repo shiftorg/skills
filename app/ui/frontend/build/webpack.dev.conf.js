@@ -51,12 +51,38 @@ const devWebpackConfig = merge(baseWebpackConfig, {
     new webpack.HotModuleReplacementPlugin(),
     new webpack.NamedModulesPlugin(), // HMR shows correct file names in console on update.
     new webpack.NoEmitOnErrorsPlugin(),
-    // https://github.com/ampedandwired/html-webpack-plugin
+    //
+    //**********************************//
+    // Put other static HTML stuff here //
+    //**********************************//
+    //
     new HtmlWebpackPlugin({
-      filename: 'index.html',
-      template: 'index.html',
+      filename: 'layout.html',
+      template: 'layout.html',
       inject: true
     }),
+    new HtmlWebpackPlugin({
+      filename: 'home.html',
+      template: 'home.html',
+      inject: true
+    }),
+    new HtmlWebpackPlugin({
+      filename: 'explore_jobs.html',
+      template: 'explore_jobs.html',
+      inject: true
+    }),
+    new HtmlWebpackPlugin({
+      filename: 'about.html',
+      template: 'about.html',
+      inject: true
+    }),
+    new HtmlWebpackPlugin({
+      filename: 'lda.html',
+      template: 'lda.html',
+      inject: true
+    }),
+    //**********************************//
+    //**********************************//
     // copy custom static assets
     new CopyWebpackPlugin([
       {
