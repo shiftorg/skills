@@ -33,6 +33,7 @@ footer {
 }
 
 .footer-text {
+    font-size: 8px;
     text-align: left;
     color: black;
     padding-top: 10px;
