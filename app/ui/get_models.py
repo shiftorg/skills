@@ -9,7 +9,7 @@ bucket = s3.Bucket(bucket_name)
 
 MODEL_VERSION = 2
 LOCAL_MODEL_DIR = 'models/'
-S3_MODEL_DIR = "models/v{}/".format(MODEL_VERSION)
+S3_MODEL_DIR = "models/final/"
 
 # Download those files
 for obj in bucket.objects.filter(Prefix=S3_MODEL_DIR):
