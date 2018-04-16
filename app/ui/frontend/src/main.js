@@ -6,12 +6,14 @@ import App from './App'
 import router from './router'
 import VueResource from 'vue-resource'
 import InputTag from 'vue-input-tag'
+import feather from 'vue-icon'
 
 Vue.component('input-tag', InputTag);
 
 Vue.config.productionTip = false
 Vue.use(VueResource);
 Vue.use(BootstrapVue);
+Vue.use(feather, 'v-icon');
 
 /* eslint-disable no-new */
 new Vue({
