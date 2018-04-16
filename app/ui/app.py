@@ -99,7 +99,7 @@ def get_best_matches():
     # Get matched jobs
     matched_jobs = model.match_to_jobs(skills=input_skills,
                                        num_jobs=3,
-                                       skills_per_job=10)
+                                       skills_per_job=5)
     assert isinstance(matched_jobs, dict)
 
     return(jsonify(json.loads(json.dumps(matched_jobs, cls=CustomEncoder))))

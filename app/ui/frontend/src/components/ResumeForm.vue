@@ -5,18 +5,17 @@
     <div class="row">
       <div class="col-lg">
 
-        <h1>Paste in your resume!</h1>
+        <h3>Paste your resume</h3>
         <p>
-          <textarea v-model="resume_text" class="resume_upload_form" style="width: 500px; height:200px;"></textarea>
+          <textarea v-model="resume_text" class="resume_upload_form" style="width: 500px; height:150px;"></textarea>
         </p>
 
-        <button v-on:click.prevent="send_resume">Parse Resume</button>
+        <button v-on:click.prevent="send_resume">Submit</button>
       </div>
       <div class="col-lg">
-        <h2>Your Skills</h2>
+        <h3>Your Skills</h3>
         <p>
-        Did we miss anything? Or add anything that doesn't look quite right? Edit your skills in the box below,
-        then submit and get some recommendations!
+        Did we miss anything? Add/Edit/Delete your skills.
         </p>
         <p>
           <input-tag :tags.sync="skills_to_send"></input-tag>
@@ -54,31 +53,32 @@
       <!----MODALS END--->
 
       <br>
-      <div v-if="jobs.length > 0">
-        <p>
-          We found a few jobs that might be a good fit for you! Skills in red below are skills associated with this jobs which you don't have yet.
-        </p>
-      </div>
+      <br>
 
-      <div class="card-deck">
-        <div class="card" v-if="jobs.length > 0" v-for="job in jobs" v-bind:key="job.id" style="width: 24rem;">
-
-          <div class="card-block">
-            <h4 class="card-title">{{ job.job_name }}</h4>
-            <p class="card-text">Common skills for this job:</p>
-            <ul>
-               <li v-for="(skill, i) in job.skills.has.all" v-bind:key="i" style="color: green">{{ skill }}</li>
-               <li v-for="(skill, i) in job.skills.missing.all" v-bind:key="i" style="color: red; fontWeight: bold;">{{ skill }}</li>
-            </ul>
+      <b-card-group deck class="mb-3">
+        <b-card no-body v-if="jobs.length > 0" v-for="(job, index) in jobs" v-bind:key="job.id" border-variant="primary" header-bg-variant="primary" header-text-variant="white" align="center">
+            <h5 slot="header"> {{ job.job_name }} </h5>
+            <h4 slot="footer"> {{getRank(index)}} </h4>
+            <b-list-group>
+              <b-list-group-item disabled v-for="(skill, i) in job.skills.has.all" v-bind:key="i">
+                <strike>{{ skill }}</strike>
+                <!--v-icon name="check"></v-icon-->
+              </b-list-group-item>
+            </b-list-group>
+            <b-list-group>
+              <b-list-group-item v-for="(skill, i) in job.skills.missing.all" v-bind:key="i">
+                <b>{{ skill }}</b>
+                <!--v-icon name="uncheck"></v-icon-->
+              </b-list-group-item>
+            </b-list-group>
             <div>
               <!-- the modal buttons-->
-              <b-btn variant="success sm" @click="show_skills(job.job_name)">Skills</b-btn>
-              <b-btn variant="success sm" @click="show_jobs(job.job_name)">Jobs</b-btn>
-              <b-btn variant="success sm" @click="show_salaries(job.job_name)">Salaries</b-btn>
+              <button v-on:click.prevent="show_skills(job.job_name)">Skills</button>
+              <button v-on:click.prevent="show_jobs(job.job_name)">Jobs</button>
+              <button v-on:click.prevent="show_salaries(job.job_name)">Salaries</button>
             </div>
-          </div>
-        </div>
-      </div>
+        </b-card>
+      </b-card-group>
     </div>
   </section>
 </div>
@@ -166,6 +166,9 @@ export default {
 
       this.$refs.skillsModalRef.show();
       this.update_html_in_modal(iframe_html, "modal-skills-ref-id");
+    },
+    getRank: function(index) {
+      return index + 1;
     }
   }
 }
