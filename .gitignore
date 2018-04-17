@@ -22,13 +22,5 @@ app/ui/frontend/node_modules/
 app/ui/frontend/lda.html
 
 # all those model files
-app/ui/models/bigram_model_pos
-app/ui/models/hard_skills.txt
-app/ui/models/lda_alpha_eta_auto_27
-app/ui/models/lda_alpha_eta_auto_27.expElogbeta.npy
-app/ui/models/lda_alpha_eta_auto_27.id2word
-app/ui/models/lda_alpha_eta_auto_27.state
-app/ui/models/topic_names.pkl
-app/ui/models/trigram_bow_corpus.mm
-app/ui/models/trigram_dictionary.dict
-app/ui/models/trigram_model_pos
+app/ui/models/*
+!app/ui/models/.gitkeep

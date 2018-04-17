@@ -7,7 +7,6 @@ bucket_name = "tech-salary-project"
 s3 = boto3.resource('s3')
 bucket = s3.Bucket(bucket_name)
 
-MODEL_VERSION = 2
 LOCAL_MODEL_DIR = 'models/'
 S3_MODEL_DIR = "models/final/"
 

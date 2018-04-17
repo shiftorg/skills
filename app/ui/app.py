@@ -6,7 +6,8 @@ from flask import request
 import simplejson as json
 from sys import stdout
 
-from gensim.corpora import Dictionary, MmCorpus
+from gensim.corpora import Dictionary
+from gensim.corpora import MmCorpus
 from gensim.models.ldamodel import LdaModel
 from gensim.models import Phrases
 from gensim.models.phrases import Phraser
@@ -30,17 +31,9 @@ global model
 # Hard-coding paths like this is gross
 # but will be fine for now
 resource_dir = "models/"
-hard_skills_file = "{}/hard_skills.txt".format(resource_dir)
 skills_dict_file = "{}/skill_dict.pkl".format(resource_dir)
 gensim_skills_dict_file = "{}/gensim_skills.dict".format(resource_dir)
-lda_model_final_file = "{}/skills_lda".format(resource_dir)
-
-# Read in the hard-skills list
-hard_skills_list = []
-with open(hard_skills_file, 'r') as infile:
-    for line in infile:
-        line = line.strip()
-        hard_skills_list.append(line)
+lda_model_file = "{}/skills_lda".format(resource_dir)
 
 skills_dict = {}
 with open(skills_dict_file, 'rb') as f:
@@ -48,10 +41,9 @@ with open(skills_dict_file, 'rb') as f:
 
 # Initialize the model class
 model = SkillRecommender(
-    hard_skills=hard_skills_list,
     skills_dict=skills_dict,
     gensim_skills_dict=Dictionary.load(gensim_skills_dict_file),
-    lda_model_final=LdaModel.load(lda_model_final_file)
+    lda_model=LdaModel.load(lda_model_file)
 )
 
 stdout.write("Done loading models\n")
