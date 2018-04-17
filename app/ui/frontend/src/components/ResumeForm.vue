@@ -58,7 +58,8 @@
       <b-card-group deck class="mb-3">
         <b-card no-body v-if="jobs.length > 0" v-for="(job, index) in jobs" v-bind:key="job.id" border-variant="primary" header-bg-variant="primary" header-text-variant="white" align="center">
             <h5 slot="header"> {{ job.job_name }} </h5>
-            <h4 slot="footer"> {{getRank(index)}} </h4>
+            <h7 slot="footer"> {{getRank(index)}} </h7>
+            <p class="card-text" align="center"> {{job.job_name_specific}} </p>
             <b-list-group>
               <b-list-group-item disabled v-for="(skill, i) in job.skills.has.all" v-bind:key="i">
                 <strike>{{ skill }}</strike>
@@ -168,7 +169,17 @@ export default {
       this.update_html_in_modal(iframe_html, "modal-skills-ref-id");
     },
     getRank: function(index) {
-      return index + 1;
+      if (index == 0) {
+        return "1st Match";
+      }
+      
+      if (index == 1) {
+        return "2nd Match";
+      }
+
+      if (index == 2) {
+        return "3rd Match";
+      }
     }
   }
 }

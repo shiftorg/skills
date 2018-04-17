@@ -6,7 +6,7 @@ from flask import request
 import simplejson as json
 from sys import stdout
 
-from gensim.corpora import Dictionary
+from gensim.corpora import Dictionary, MmCorpus
 from gensim.models.ldamodel import LdaModel
 from gensim.models import Phrases
 from gensim.models.phrases import Phraser
@@ -30,12 +30,10 @@ global model
 # Hard-coding paths like this is gross
 # but will be fine for now
 resource_dir = "models/"
-trigram_dict_file = "{}/trigram_dictionary.dict".format(resource_dir)
-bigram_model_file = "{}/bigram_model_pos".format(resource_dir)
-trigram_model_file = "{}/trigram_model_pos".format(resource_dir)
-lda_model_file = "{}/lda_alpha_eta_auto_27".format(resource_dir)
-topics_file = "{}/topic_names.pkl".format(resource_dir)
 hard_skills_file = "{}/hard_skills.txt".format(resource_dir)
+skills_dict_file = "{}/skill_dict.pkl".format(resource_dir)
+gensim_skills_dict_file = "{}/gensim_skills.dict".format(resource_dir)
+lda_model_final_file = "{}/skills_lda".format(resource_dir)
 
 # Read in the hard-skills list
 hard_skills_list = []
@@ -44,14 +42,16 @@ with open(hard_skills_file, 'r') as infile:
         line = line.strip()
         hard_skills_list.append(line)
 
+skills_dict = {}
+with open(skills_dict_file, 'rb') as f:
+    skills_dict = pickle.load(f)
+
 # Initialize the model class
 model = SkillRecommender(
-    trigram_dictionary=Dictionary.load(trigram_dict_file),
-    bigram_model=Phrases.load(bigram_model_file),
-    trigram_model=Phrases.load(trigram_model_file),
-    lda_model=LdaModel.load(lda_model_file),
-    topic_names=pickle.load(open(topics_file, 'rb')),
-    hard_skills=hard_skills_list
+    hard_skills=hard_skills_list,
+    skills_dict=skills_dict,
+    gensim_skills_dict=Dictionary.load(gensim_skills_dict_file),
+    lda_model_final=LdaModel.load(lda_model_final_file)
 )
 
 stdout.write("Done loading models\n")
@@ -66,7 +66,7 @@ def handle_resume():
     global model
 
     body_text = request.data.decode('utf-8')
-    skills = model.get_skills_hard(body_text)
+    skills = model.get_skills(body_text)
     assert isinstance(skills, list)
 
     # Return a comma-delimited list of tokens
@@ -99,7 +99,7 @@ def get_best_matches():
     # Get matched jobs
     matched_jobs = model.match_to_jobs(skills=input_skills,
                                        num_jobs=3,
-                                       skills_per_job=5)
+                                       skills_per_job=10)
     assert isinstance(matched_jobs, dict)
 
     return(jsonify(json.loads(json.dumps(matched_jobs, cls=CustomEncoder))))
