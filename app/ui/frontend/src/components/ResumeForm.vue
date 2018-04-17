@@ -29,24 +29,24 @@
   <section class="section">
     <div class="container" id="#job_cards">
       <!----MODALS START---->
-      <b-modal id="modal-skills-ref-id" ref="skillsModalRef" hide-footer hide-header size="lg">
+      <b-modal id="modal-skills-ref-id" ref="skillsModalRef" hide-footer size="lg">
       <div class="d-block text-center">
         <h3>Skills associated with this job</h3>
-        <div>REPLACE_ME</div>
+        <div><iframe id="modal-skills-ref-id-iframe" src="" frameborder="0" style="height:1200px;width:100%;display:block;" height="100%" width="100%"></iframe></div>
       </div>
       </b-modal>
 
-      <b-modal id="modal-jobs-ref-id" ref="jobsModalRef" hide-footer hide-header size="lg">
+      <b-modal id="modal-jobs-ref-id" ref="jobsModalRef" hide-footer size="lg">
       <div class="d-block text-center">
         <h3>Companies, locations, titles and trends for this job</h3>
-        <div>REPLACE_ME</div>
+        <div><iframe id="modal-jobs-ref-id-iframe" src="" frameborder="0" style="height:1200px;width:100%;display:block;" height="100%" width="100%"></iframe></div>
       </div>
       </b-modal>
 
-      <b-modal id="modal-salaries-ref-id" ref="salariesModalRef" hide-footer hide-header size="lg">
+      <b-modal id="modal-salaries-ref-id" ref="salariesModalRef" hide-footer size="lg">
       <div class="d-block text-center">
         <h3>Salaries for this job</h3>
-        <div>REPLACE_ME</div>
+        <div><iframe id="modal-salaries-ref-id-iframe" src="" frameborder="0" style="height:1200px;width:100%;display:block;" height="100%" width="100%"></iframe></div>
       </div>
       </b-modal>
 
@@ -74,9 +74,9 @@
             </b-list-group>
             <div>
               <!-- the modal buttons-->
-              <button v-on:click.prevent="show_skills(job.job_name)">Skills</button>
-              <button v-on:click.prevent="show_jobs(job.job_name)">Jobs</button>
-              <button v-on:click.prevent="show_salaries(job.job_name)">Salaries</button>
+              <button v-on:click="show_skills(job.job_name)">Skills</button>
+              <button v-on:click="show_jobs(job.job_name)">Jobs</button>
+              <button v-on:click="show_salaries(job.job_name)">Salaries</button>
             </div>
         </b-card>
       </b-card-group>
@@ -124,38 +124,45 @@ export default {
         document.getElementById("#job_cards").scrollIntoView();
       })
     },
-    get_iframe_html_jobs: function(job_name, base_url) {
+    get_iframe_src: function(job_name, base_url) {
       var url_encoded_job_name = encodeURIComponent(job_name);
       var query_param = "query:'jobType:%20%22".concat(url_encoded_job_name, "%22%20OR%20searchTerm:%20%22", url_encoded_job_name, "%22'");
       var url = base_url.replace("REPLACE_QUERY_TERM", query_param);
 
-      var iframe_html = '<iframe src="' + url + '" frameborder="0" style="height:1200px;width:100%;display:block;" height="100%" width="100%"></iframe>';
-      return iframe_html;
+      return url;
     },
-    update_html_in_modal: function(iframe_html, modal_id) {
+    update_html_in_modal: function(src_url, modal_iframe_id) {
       // We have to edit the html on the modal based on the job name and the modal type
-      var inner = document.getElementById(modal_id).innerHTML;
+      //var inner = document.getElementById(modal_id).innerHTML;
       //console.log(inner);
       //console.log(iframe_html);
-      var inner_replace = inner.replace("REPLACE_ME", iframe_html);
+      //var inner_replace = inner.replace("REPLACE_ME", iframe_html);
       //console.log(inner_replace);
-      document.getElementById(modal_id).innerHTML = inner_replace;
+      document.getElementById(modal_iframe_id).src = src_url;
+      document.getElementById(modal_iframe_id).name = Date.now();
     },
     show_jobs: function(job_name) {
-      var base_url = "http://34.235.155.212:5601/app/kibana#/dashboard/dd5be340-4078-11e8-878a-e7a4605920c3?embed=true&_g=()&_a=(filters:!(),options:(darkTheme:!f),panels:!((col:1,id:f2ba0fc0-36e9-11e8-bc51-3d1df9db5706,panelIndex:1,row:1,size_x:6,size_y:3,type:visualization),(col:7,id:'9d9c34a0-36e9-11e8-bc51-3d1df9db5706',panelIndex:2,row:4,size_x:6,size_y:3,type:visualization),(col:7,id:'2133c180-36e9-11e8-bc51-3d1df9db5706',panelIndex:3,row:1,size_x:6,size_y:3,type:visualization),(col:1,id:'901a10a0-36e8-11e8-bc51-3d1df9db5706',panelIndex:4,row:4,size_x:6,size_y:3,type:visualization)),query:(query_string:(analyze_wildcard:!t,REPLACE_QUERY_TERM)),timeRestore:!f,title:Jobs,uiState:(P-1:(vis:(legendOpen:!f)),P-2:(vis:(legendOpen:!f)),P-3:(vis:(legendOpen:!f)),P-4:(vis:(legendOpen:!f))),viewMode:view)";
+      console.log("SHOW JOBS.. JOB NAME: " + job_name);
+      var base_url = "http://34.235.155.212:5601/app/kibana#/dashboard/dd5be340-4078-11e8-878a-e7a4605920c3?random=REPLACE_RANDOM&embed=true&_g=()&_a=(filters:!(),options:(darkTheme:!f),panels:!((col:1,id:f2ba0fc0-36e9-11e8-bc51-3d1df9db5706,panelIndex:1,row:1,size_x:6,size_y:3,type:visualization),(col:7,id:'9d9c34a0-36e9-11e8-bc51-3d1df9db5706',panelIndex:2,row:4,size_x:6,size_y:3,type:visualization),(col:7,id:'2133c180-36e9-11e8-bc51-3d1df9db5706',panelIndex:3,row:1,size_x:6,size_y:3,type:visualization),(col:1,id:'901a10a0-36e8-11e8-bc51-3d1df9db5706',panelIndex:4,row:4,size_x:6,size_y:3,type:visualization)),query:(query_string:(analyze_wildcard:!t,REPLACE_QUERY_TERM)),timeRestore:!f,title:Jobs,uiState:(P-1:(vis:(legendOpen:!f)),P-2:(vis:(legendOpen:!f)),P-3:(vis:(legendOpen:!f)),P-4:(vis:(legendOpen:!f))),viewMode:view)";
 
+      var base_url = base_url.replace("REPLACE_RANDOM", Date.now());
       // Get the iframe html, Show the modal and edit the html in the modal
-      var iframe_html = this.get_iframe_html_jobs(job_name, base_url);
+      var src_url = this.get_iframe_src(job_name, base_url);
+      console.log("SHOW JOBS.. src_url: " + src_url);
       this.$refs.jobsModalRef.show();
-      this.update_html_in_modal(iframe_html, "modal-jobs-ref-id");
+      this.update_html_in_modal(src_url, "modal-jobs-ref-id-iframe");
     },
     show_salaries: function(job_name) {
-      var base_url = "http://34.235.155.212:5601/app/kibana#/dashboard/ae76e200-4078-11e8-878a-e7a4605920c3?embed=true&_g=()&_a=(filters:!(),options:(darkTheme:!f),panels:!((col:1,id:'7ffab460-3a88-11e8-a300-439e4674ea29',panelIndex:1,row:1,size_x:6,size_y:3,type:visualization),(col:7,id:'79876e00-3a30-11e8-8de6-81a699545c9e',panelIndex:2,row:1,size_x:6,size_y:3,type:visualization),(col:1,id:ce3585d0-3a7c-11e8-a300-439e4674ea29,panelIndex:3,row:4,size_x:6,size_y:3,type:visualization)),query:(query_string:(analyze_wildcard:!t,REPLACE_QUERY_TERM)),timeRestore:!f,title:Salaries,uiState:(P-1:(vis:(legendOpen:!f)),P-2:(vis:(legendOpen:!f)),P-3:(vis:(legendOpen:!f))),viewMode:view)";
+      console.log("SHOW SALARIES.. JOB NAME: " + job_name);
+      var base_url = "http://34.235.155.212:5601/app/kibana#/dashboard/ae76e200-4078-11e8-878a-e7a4605920c3?random=REPLACE_RANDOM&embed=true&_g=()&_a=(filters:!(),options:(darkTheme:!f),panels:!((col:1,id:'7ffab460-3a88-11e8-a300-439e4674ea29',panelIndex:1,row:1,size_x:6,size_y:3,type:visualization),(col:7,id:'79876e00-3a30-11e8-8de6-81a699545c9e',panelIndex:2,row:1,size_x:6,size_y:3,type:visualization),(col:1,id:ce3585d0-3a7c-11e8-a300-439e4674ea29,panelIndex:3,row:4,size_x:6,size_y:3,type:visualization)),query:(query_string:(analyze_wildcard:!t,REPLACE_QUERY_TERM)),timeRestore:!f,title:Salaries,uiState:(P-1:(vis:(legendOpen:!f)),P-2:(vis:(legendOpen:!f)),P-3:(vis:(legendOpen:!f))),viewMode:view)";
+
+      var base_url = base_url.replace("REPLACE_RANDOM", Date.now());
 
       // Get the iframe html, Show the modal and edit the html in the modal
-      var iframe_html = this.get_iframe_html_jobs(job_name, base_url);
+      var src_url = this.get_iframe_src(job_name, base_url);
+      console.log("SHOW SALARIES.. src_url: " + src_url);
       this.$refs.salariesModalRef.show();
-      this.update_html_in_modal(iframe_html, "modal-salaries-ref-id");
+      this.update_html_in_modal(src_url, "modal-salaries-ref-id-iframe");
     },
     show_skills: function(job_name) {
       var root = window.location.host;
@@ -163,10 +170,8 @@ export default {
       // Until then, just showing the modal for a generic page
       var url = 'http://' + root + '/lda_viz';
 
-      var iframe_html = '<iframe src="' + url + '" frameborder="0" style="height:1200px;width:100%;display:block;" height="100%" width="100%"></iframe>';
-
       this.$refs.skillsModalRef.show();
-      this.update_html_in_modal(iframe_html, "modal-skills-ref-id");
+      this.update_html_in_modal(url, "modal-skills-ref-id-iframe");
     },
     getRank: function(index) {
       if (index == 0) {
