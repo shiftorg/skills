@@ -1,11 +1,5 @@
-/*
-This files was adopted from 
-https://cdn.rawgit.com/bmabey/pyLDAvis/files/ldavis.v1.0.0.js
 
-It is similar to that code, but swaps out topic numbers in favor
-of topic names.
-*/
-
+/* modified version of ldaviz */
 
 /* Original code taken from https://github.com/cpsievert/LDAvis */
 /* Copyright 2013, AT&T Intellectual Property */
@@ -13,7 +7,7 @@ of topic names.
 
 'use strict';
 
-var LDAvis = function(to_select, data_or_file_name) {
+var LDAvis = function(to_select, data_or_file_name, topic_number) {
 
     // This section sets up the logic for event handling
     var current_clicked = {
@@ -30,7 +24,7 @@ var LDAvis = function(to_select, data_or_file_name) {
         },
         vis_state = {
             lambda: 1,
-            topic: 0,
+            topic: topic_number,
             term: ""
         };
 

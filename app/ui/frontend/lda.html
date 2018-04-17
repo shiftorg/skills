@@ -3,7 +3,6 @@
 <br>
 
 <link rel="stylesheet" type="text/css" href="https://cdn.rawgit.com/bmabey/pyLDAvis/files/ldavis.v1.0.0.css">
-<script type=text/javascript src=/static/ldavis.v1.0.0.js></script>
 
 <div id="ldavis_el318147142205442589973276"></div>
 <script type="text/javascript">
@@ -14,33 +13,39 @@ var ldavis_el318147142205442589973276_data = {"mdsDat": {"Freq": [9.238779067993
 // Adding this extra hard-coded data so we  //
 // can display topic names                  //
 //******************************************//
+//
+// NOTE: Reshuffled to be in the order used by the model. So topic 1 here
+// corresponds to topic 1 from the model
+//
+// so e.g. topic #1 here corresponds to topic 18 from the model
+//
 ldavis_el318147142205442589973276_data.mdsDat.topic_names = [
-    'Data Engineering (Big Data Focus)',
-    'Software Engineer (Microsoft Tech)',
-    'Software Engineer (Web Development)',
-    'Linux/Unix and Scripting',
-    'Database Administration',
-    'Project Management (Agile Focus)',
-    'Project Management (General Software)',
-    'Product Management',
-    'General Management & Productivity',
-    'Software Program Management',
-    'Project and Program Management',
-    'Infrastructure',
-    'Frontend Software Engineering & Design',
-    'Business Intelligence',
-    'Analytics',
-    'Version Control & Build',
-    'Hardware & Scientific Computing',
     'Software Engineering',
     'Machine Learning, and AI',
+    'Infrastructure',
+    'Data Engineering (Big Data Focus)',
+    'Linux/Unix and Scripting',
+    'Frontend Software Engineering & Design',
+    'Analytics',
+    'Project Management (Agile Focus)',
+    'Software Engineer (Microsoft Tech)',
+    'Database Administration',
+    'Version Control & Build',
+    'Software Engineer (Web Development)',
+    'Project Management (General Software)',
+    'Project and Program Management',
+    'Product Management',
+    'General Management & Productivity',
+    'Business Intelligence',
+    'Hardware & Scientific Computing',
+    'Software Program Management',
     'Design'
 ];
 
 function LDAvis_load_lib(url, callback){
   var s = document.createElement('script');
   s.src = url;
-  //s.async = true;
+  s.async = true;
   s.onreadystatechange = s.onload = callback;
   s.onerror = function(){console.warn("failed to load library " + url);};
   document.getElementsByTagName("head")[0].appendChild(s);
@@ -49,7 +54,10 @@ function LDAvis_load_lib(url, callback){
 if(typeof(LDAvis) !== "undefined"){
    // already loaded: just create the visualization
    !function(LDAvis){
-       new LDAvis("#" + "ldavis_el318147142205442589973276", ldavis_el318147142205442589973276_data);
+       new LDAvis("#" + "ldavis_el318147142205442589973276",
+                  ldavis_el318147142205442589973276_data,
+                  0
+       );
    }(LDAvis);
 }else if(typeof define === "function" && define.amd){
    // require.js is available: use it to load d3/LDAvis
@@ -57,14 +65,20 @@ if(typeof(LDAvis) !== "undefined"){
    require(["d3"], function(d3){
       window.d3 = d3;
       LDAvis_load_lib("static/ldaviz.v1.0.0.js", function(){
-        new LDAvis("#" + "ldavis_el318147142205442589973276", ldavis_el318147142205442589973276_data);
+        new LDAvis("#" + "ldavis_el318147142205442589973276",
+                   ldavis_el318147142205442589973276_data,
+                   0
+                   );
       });
     });
 }else{
     // require.js not available: dynamically load d3 & LDAvis
     LDAvis_load_lib("https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.5/d3.min.js", function(){
          LDAvis_load_lib("static/ldaviz.v1.0.0.js", function(){
-                 new LDAvis("#" + "ldavis_el318147142205442589973276", ldavis_el318147142205442589973276_data);
+                 new LDAvis("#" + "ldavis_el318147142205442589973276",
+                    ldavis_el318147142205442589973276_data,
+                    0
+                 );
             })
          });
 }

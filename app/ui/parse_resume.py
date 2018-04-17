@@ -141,6 +141,9 @@ class SkillRecommender:
             20: u'UX Designer'
         }
 
+        # model expects only lowercase words
+        skills = [x.lower() for x in skills]
+
         # create a bag-of-words representation
         doc_bow = self.gensim_skills_dict.doc2bow(skills)
 
