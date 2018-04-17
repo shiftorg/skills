@@ -10,7 +10,6 @@
     "build": "node build/build.js"
   },
   "dependencies": {
-    "@sindresorhus/is": "github:sindresorhus/is",
     "bootstrap-vue": "^2.0.0-rc.6",
     "bulma": "^0.6.2",
     "vue": "^2.5.2",

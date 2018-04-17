@@ -28,7 +28,7 @@
 
   <section class="section">
     <div class="container" id="#job_cards">
-      <!----MODALS START---->
+      <!-- MODALS START -->
       <b-modal id="modal-skills-ref-id" ref="skillsModalRef" hide-footer size="lg">
       <div class="d-block text-center">
         <h3>Skills associated with this job</h3>
@@ -50,7 +50,7 @@
       </div>
       </b-modal>
 
-      <!----MODALS END--->
+      <!-- MODALS END -->
 
       <br>
       <br>
@@ -61,15 +61,13 @@
             <h7 slot="footer"> {{getRank(index)}} </h7>
             <p class="card-text" align="center"> {{job.job_name_specific}} </p>
             <b-list-group>
-              <b-list-group-item disabled v-for="(skill, i) in job.skills.has.all" v-bind:key="i">
+              <b-list-group-item disabled v-for="(skill, i) in job.skills.has" v-bind:key="i">
                 <strike>{{ skill }}</strike>
-                <!--v-icon name="check"></v-icon-->
               </b-list-group-item>
             </b-list-group>
             <b-list-group>
-              <b-list-group-item v-for="(skill, i) in job.skills.missing.all" v-bind:key="i">
+              <b-list-group-item v-for="(skill, i) in job.skills.missing" v-bind:key="i">
                 <b>{{ skill }}</b>
-                <!--v-icon name="uncheck"></v-icon-->
               </b-list-group-item>
             </b-list-group>
             <div>
@@ -174,10 +172,11 @@ export default {
       this.update_html_in_modal(url, "modal-skills-ref-id-iframe");
     },
     getRank: function(index) {
+
       if (index == 0) {
         return "1st Match";
       }
-      
+
       if (index == 1) {
         return "2nd Match";
       }

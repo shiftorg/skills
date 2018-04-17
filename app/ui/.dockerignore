@@ -1,2 +1,5 @@
 frontend/node_modules
 get_models.py
+frontend/package-lock.json
+__pycache__/
+__pycache__/*
